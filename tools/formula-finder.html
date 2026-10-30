@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Physics & Maths Formula Finder - SmartEduHub</title>
+  <meta name="description" content="Instant formula cheat-sheet and search for Class 10, 11, and 12 Physics and Mathematics.">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-6 font-sans">
+  <div class="max-w-4xl mx-auto py-4">
+    <a href="../index.html" class="text-emerald-400 text-sm hover:underline font-medium">← Back to EduHub Tools</a>
+    <h1 class="text-3xl font-extrabold my-4 text-white">📐 Physics & Maths Formula Finder</h1>
+    <p class="text-xs text-slate-400 mb-6">Instant formula search for CBSE, ICSE, JEE & NEET syllabus.</p>
+
+    <div class="mb-6">
+      <input type="text" id="search" placeholder="Search topic (e.g. Ohm, Motion, Quadratic, Integration)..." class="w-full bg-slate-950 border border-slate-700 rounded-xl p-4 text-emerald-400 font-medium focus:outline-none focus:border-emerald-500 text-sm">
+    </div>
+
+    <div id="formula-list" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+  </div>
+
+  <script>
+    const formulas = [
+      { subject: "Physics", topic: "Kinematics", title: "Equations of Motion", eq: "v = u + at | s = ut + ½at² | v² = u² + 2as" },
+      { subject: "Physics", topic: "Electricity", title: "Ohm's Law & Resistance", eq: "V = IR | R = ρ(L / A) | P = VI = I²R" },
+      { subject: "Physics", topic: "Work & Energy", title: "Kinetic & Potential Energy", eq: "KE = ½mv² | PE = mgh | Work = F·d·cos(θ)" },
+      { subject: "Physics", topic: "Gravitation", title: "Universal Gravitation Law", eq: "F = G(m₁m₂ / r²) | g = GM / R²" },
+      { subject: "Physics", topic: "Optics", title: "Mirror & Lens Formula", eq: "1/f = 1/v + 1/u (Mirror) | 1/f = 1/v - 1/u (Lens)" },
+      { subject: "Maths", topic: "Algebra", title: "Quadratic Formula", eq: "x = (-b ± √(b² - 4ac)) / (2a)" },
+      { subject: "Maths", topic: "Calculus", title: "Derivative Power Rule", eq: "d/dx(xⁿ) = n·xⁿ⁻¹ | d/dx(sin x) = cos x" },
+      { subject: "Maths", topic: "Calculus", title: "Basic Integration", eq: "∫ xⁿ dx = (xⁿ⁺¹)/(n + 1) + C" },
+      { subject: "Maths", topic: "Trigonometry", title: "Pythagorean Identities", eq: "sin²θ + cos²θ = 1 | 1 + tan²θ = sec²θ" },
+      { subject: "Maths", topic: "Coordinate Geometry", title: "Distance Formula", eq: "d = √((x₂ - x₁)² + (y₂ - y₁)²)" }
+    ];
+
+    function render(filter = "") {
+      const container = document.getElementById("formula-list");
+      const q = filter.toLowerCase();
+      const filtered = formulas.filter(f => f.title.toLowerCase().includes(q) || f.topic.toLowerCase().includes(q) || f.subject.toLowerCase().includes(q) || f.eq.toLowerCase().includes(q));
+      
+      if (filtered.length === 0) {
+        container.innerHTML = '<div class="col-span-2 text-center text-slate-500 py-10">No formulas found matching your search.</div>';
+        return;
+      }
+
+      container.innerHTML = filtered.map(f => `
+        <div class="bg-slate-800/80 border border-slate-700/80 rounded-xl p-5 hover:border-emerald-500/70 transition">
+          <div class="flex justify-between items-center mb-2">
+            <span class="text-xs font-bold ${f.subject === 'Physics' ? 'text-cyan-400' : 'text-amber-400'} uppercase tracking-wider">${f.subject} • ${f.topic}</span>
+          </div>
+          <h3 class="text-base font-semibold text-white mb-2">${f.title}</h3>
+          <div class="bg-slate-950 rounded-lg p-3 font-mono text-emerald-400 text-sm overflow-x-auto">${f.eq}</div>
+        </div>
+      `).join("");
+    }
+
+    document.getElementById("search").addEventListener("input", e => render(e.target.value));
+    render();
+  </script>
+</body>
+</html>
