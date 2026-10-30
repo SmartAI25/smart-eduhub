@@ -3,59 +3,129 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmartEduHub - Free Academic Calculators & Exam Prep</title>
-  <meta name="description" content="Free academic utilities for Indian students: CGPA to Percentage, Formula Sheets, and Exam Tools.">
+  <title>SmartEduHub - Free Academic Calculators, CBT Exams & Mock Tests</title>
   <meta name="google-adsense-account" content="ca-pub-1891031290159418">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @keyframes yellowGlow {
+      0%, 100% { box-shadow: 0 0 15px rgba(251, 191, 36, 0.7), 0 0 30px rgba(245, 158, 11, 0.4); transform: scale(1); }
+      50% { box-shadow: 0 0 30px rgba(251, 191, 36, 1), 0 0 50px rgba(245, 158, 11, 0.8); transform: scale(1.04); }
+    }
+    .pulse-yellow { animation: yellowGlow 1.5s infinite ease-in-out; }
+  </style>
 </head>
 <body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
-  <header class="border-b border-slate-800 bg-slate-950/80 backdrop-blur py-4 px-6 sticky top-0 z-50">
+  <header class="border-b border-slate-800 bg-slate-950/90 backdrop-blur py-3 px-4 sm:px-6 sticky top-0 z-50">
     <div class="max-w-6xl mx-auto flex justify-between items-center">
-      <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-500 bg-clip-text text-transparent">🎓 SmartEduHub</h1>
-      <span class="text-xs bg-slate-800 text-emerald-400 px-3 py-1 rounded-full border border-slate-700">100% Free Academic Tools</span>
+      <div class="flex items-center space-x-2">
+        <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-500 bg-clip-text text-transparent">🎓 SmartEduHub</h1>
+      </div>
+      <div class="flex items-center space-x-3">
+        <!-- Language Switcher -->
+        <div class="flex items-center space-x-1 bg-slate-900 border border-slate-700 px-2 py-1 rounded-lg text-xs">
+          <span class="text-slate-400">🌐</span>
+          <select id="home-lang" class="bg-transparent text-emerald-400 font-bold focus:outline-none cursor-pointer">
+            <option value="en" class="bg-slate-900 text-white">English</option>
+            <option value="hi" class="bg-slate-900 text-white">हिन्दी</option>
+          </select>
+        </div>
+        <span class="hidden sm:inline-block text-xs bg-slate-800 text-emerald-400 px-2.5 py-1 rounded-full border border-slate-700">100% Free</span>
+      </div>
     </div>
   </header>
-  <main class="max-w-6xl mx-auto px-6 py-10 flex-1 w-full">
-    <!-- CBT Exam Banner -->
-    <div class="mb-8 bg-gradient-to-r from-emerald-950/60 to-cyan-950/60 border border-emerald-500/40 rounded-2xl p-6 flex flex-col md:flex-row items-center justify-between gap-4 shadow-xl">
-      <div>
-        <span class="text-[10px] font-bold px-2.5 py-0.5 bg-emerald-500/20 text-emerald-400 rounded-full border border-emerald-500/30">🔥 CBT Simulator</span>
-        <h2 class="text-xl sm:text-2xl font-black text-white mt-1">Online CBT Exam Hall Simulator</h2>
-        <p class="text-slate-400 text-xs mt-1">Real TCS iON/NTA exam interface with timer, English & हिन्दी switch, and negative marking.</p>
+
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex-1 w-full">
+    <!-- Blinking Exam Hall Banner -->
+    <div class="mb-10 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border-2 border-amber-500/50 rounded-2xl p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-2xl">
+      <div class="space-y-2 text-center md:text-left">
+        <span class="text-[10px] font-black uppercase tracking-wider px-3 py-1 bg-amber-500/20 text-amber-400 border border-amber-500/40 rounded-full inline-block">⚡ REAL CBT EXAM SIMULATOR</span>
+        <h2 id="banner-title" class="text-2xl sm:text-3xl font-black text-white">Online CBT Exam Hall Simulator</h2>
+        <p id="banner-desc" class="text-slate-300 text-xs sm:text-sm max-w-xl leading-relaxed">Experience real TCS iON / NTA exam interface with countdown timer, negative marking, and bilingual English & हिन्दी mode.</p>
       </div>
-      <a href="tools/online-exam.html" class="px-5 py-3 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-black rounded-xl text-xs transition shrink-0">Enter Exam Hall →</a>
+      <a href="tools/online-exam.html" class="pulse-yellow px-7 py-4 bg-amber-400 hover:bg-amber-300 text-slate-950 font-black rounded-2xl text-sm sm:text-base transition tracking-wide shrink-0 border-2 border-yellow-200">
+        👉 <span id="enter-btn-txt">Enter Exam Hall →</span>
+      </a>
     </div>
 
-    <div class="text-center mb-10">
-      <h2 class="text-3xl sm:text-4xl font-extrabold text-white mb-3">Academic Calculators & Exam Utilities</h2>
-      <p class="text-slate-400 text-sm sm:text-base">Instant calculators for CBSE, Universities, and Competitive Exams.</p>
+    <!-- Section Heading -->
+    <div class="text-center mb-8">
+      <h3 id="sec-title" class="text-2xl font-black text-white mb-2">Academic Calculators & Exam Utilities</h3>
+      <p id="sec-subtitle" class="text-slate-400 text-xs sm:text-sm">Instant tools designed for CBSE, Universities, and Competitive Exams.</p>
     </div>
+
+    <!-- 3 Core Tools Grid -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      <a href="tools/cgpa-calculator.html" class="p-6 bg-slate-800/60 border border-slate-700/80 rounded-xl hover:border-emerald-500 hover:bg-slate-800 transition block group">
-        <div class="text-3xl mb-3">📊</div>
-        <h3 class="text-lg font-semibold text-white group-hover:text-emerald-400">CGPA to Percentage Calculator</h3>
-        <p class="text-xs text-slate-400 mt-2">Instant conversion formulas for CBSE (9.5x), Mumbai University, VTU, KTU, and 10-point scale.</p>
-      </a>
-      <a href="tools/formula-finder.html" class="p-6 bg-slate-800/60 border border-slate-700/80 rounded-xl hover:border-emerald-500 hover:bg-slate-800 transition block group">
-        <div class="text-3xl mb-3">📐</div>
-        <h3 class="text-lg font-semibold text-white group-hover:text-emerald-400">Class 10-12 Formula Finder</h3>
-        <p class="text-xs text-slate-400 mt-2">Instant formula cheat-sheet with live search for Physics and Mathematics.</p>
-      </a>
-      <a href="tools/gk-quiz.html" class="p-6 bg-slate-800/60 border border-slate-700/80 rounded-xl hover:border-emerald-500 hover:bg-slate-800 transition block group">
+      <a href="tools/gk-quiz.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
         <div class="text-3xl mb-3">🎯</div>
-        <h3 class="text-lg font-semibold text-white group-hover:text-emerald-400">Daily GK & Exam Mock Quiz</h3>
-        <p class="text-xs text-slate-400 mt-2">Daily high-yield questions for SSC CGL, UPSC & State exams with instant answer explanations.</p>
+        <h4 id="card1-title" class="text-lg font-bold text-white group-hover:text-emerald-400">Daily GK & Exam Mock Quiz</h4>
+        <p id="card1-desc" class="text-xs text-slate-400 mt-2">Topic-wise daily randomized high-yield questions with a 30s ticking timer and explanations.</p>
       </a>
-        <h3 class="text-lg font-semibold text-white">Exam Study Target Planner</h3>
-        <p class="text-xs text-slate-400 mt-2">Smart countdown and daily revision hour allocator for entrance exams (Coming Soon).</p>
-      </div>
+
+      <a href="tools/cgpa-calculator.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
+        <div class="text-3xl mb-3">📊</div>
+        <h4 id="card2-title" class="text-lg font-bold text-white group-hover:text-emerald-400">CGPA to Percentage Calculator</h4>
+        <p id="card2-desc" class="text-xs text-slate-400 mt-2">Instant formulas for CBSE (9.5x), Mumbai University, VTU, KTU, and standard 10-point scales.</p>
+      </a>
+
+      <a href="tools/formula-finder.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
+        <div class="text-3xl mb-3">📐</div>
+        <h4 id="card3-title" class="text-lg font-bold text-white group-hover:text-emerald-400">Class 10-12 Formula Finder</h4>
+        <p id="card3-desc" class="text-xs text-slate-400 mt-2">Instant formula cheat-sheet with instant search for Physics and Mathematics.</p>
+      </a>
     </div>
   </main>
+
   <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500 space-x-4">
     <span>© 2026 SmartEduHub</span>
     <a href="privacy.html" class="text-emerald-400 hover:underline">Privacy Policy</a>
     <a href="terms.html" class="text-emerald-400 hover:underline">Terms of Service</a>
   </footer>
+
+  <script>
+    const trans = {
+      en: {
+        bTitle: "Online CBT Exam Hall Simulator",
+        bDesc: "Experience real TCS iON / NTA exam interface with countdown timer, negative marking, and bilingual English & हिन्दी mode.",
+        enterBtn: "Enter Exam Hall →",
+        sTitle: "Academic Calculators & Exam Utilities",
+        sSub: "Instant tools designed for CBSE, Universities, and Competitive Exams.",
+        c1T: "Daily GK & Exam Mock Quiz",
+        c1D: "Topic-wise daily randomized high-yield questions with a 30s ticking timer and explanations.",
+        c2T: "CGPA to Percentage Calculator",
+        c2D: "Instant formulas for CBSE (9.5x), Mumbai University, VTU, KTU, and standard 10-point scales.",
+        c3T: "Class 10-12 Formula Finder",
+        c3D: "Instant formula cheat-sheet with instant search for Physics and Mathematics."
+      },
+      hi: {
+        bTitle: "ऑनलाइन CBT परीक्षा हॉल सिम्युलेटर",
+        bDesc: "TCS iON / NTA आधारित परीक्षा हॉल का वास्तविक अनुभव: लाइव टाइमर, नेगेटिव मार्किंग और हिन्दी/English मोड।",
+        enterBtn: "परीक्षा हॉल में प्रवेश करें →",
+        sTitle: "शैक्षणिक कैलकुलेटर और परीक्षा टूल्स",
+        sSub: "CBSE, विश्वविद्यालयों और प्रतियोगी परीक्षाओं के लिए मुफ़्त उपयोगी टूल्स।",
+        c1T: "दैनिक GK और मॉक क्विज़",
+        c1D: "हर बार नए सवाल, 30-सेकंड टाइमर और विस्तृत व्याख्या के साथ परीक्षा अभ्यास।",
+        c2T: "CGPA से प्रतिशत कैलकुलेटर",
+        c2D: "CBSE (9.5x), मुंबई यूनिवर्सिटी, VTU और 10-पॉइंट स्केल के लिए तुरंत प्रतिशत निकालें।",
+        c3T: "कक्षा 10-12 फॉर्मूला फाइंडर",
+        c3D: "भौतिकी (Physics) और गणित (Maths) के महत्वपूर्ण सूत्रों की तुरंत लाइव खोज।"
+      }
+    };
+
+    document.getElementById("home-lang").addEventListener("change", (e) => {
+      const l = trans[e.target.value];
+      document.getElementById("banner-title").innerText = l.bTitle;
+      document.getElementById("banner-desc").innerText = l.bDesc;
+      document.getElementById("enter-btn-txt").innerText = l.enterBtn;
+      document.getElementById("sec-title").innerText = l.sTitle;
+      document.getElementById("sec-subtitle").innerText = l.sSub;
+      document.getElementById("card1-title").innerText = l.c1T;
+      document.getElementById("card1-desc").innerText = l.c1D;
+      document.getElementById("card2-title").innerText = l.c2T;
+      document.getElementById("card2-desc").innerText = l.c2D;
+      document.getElementById("card3-title").innerText = l.c3T;
+      document.getElementById("card3-desc").innerText = l.c3D;
+    });
+  </script>
 </body>
 </html>
