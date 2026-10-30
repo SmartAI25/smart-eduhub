@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily GK & Current Affairs Quiz - SmartEduHub</title>
+  <meta name="description" content="Free interactive daily mock quiz for SSC, UPSC, Railways, and State PSC examinations with instant explanations.">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 sm:p-6 font-sans">
+  <div class="max-w-3xl mx-auto py-4">
+    <a href="../index.html" class="text-emerald-400 text-sm hover:underline font-medium">← Back to EduHub Tools</a>
+    
+    <div class="flex flex-col sm:flex-row sm:items-center justify-between my-4 gap-2 border-b border-slate-800 pb-4">
+      <div>
+        <h1 class="text-2xl sm:text-3xl font-extrabold text-white">🎯 Daily GK & Exam Mock Quiz</h1>
+        <p class="text-xs text-slate-400 mt-1">High-yield MCQs for SSC CGL, CHSL, UPSC & State PSC</p>
+      </div>
+      <div class="flex items-center space-x-3 text-xs bg-slate-800/90 px-3 py-2 rounded-lg border border-slate-700">
+        <div>Score: <span id="score" class="font-bold text-emerald-400">0</span>/<span id="total">0</span></div>
+        <div class="text-slate-600">|</div>
+        <div>Accuracy: <span id="acc" class="font-bold text-cyan-400">0%</span></div>
+      </div>
+    </div>
+
+    <!-- Question Card -->
+    <div id="quiz-box" class="bg-slate-800/80 border border-slate-700 rounded-2xl p-6 shadow-xl">
+      <div class="flex justify-between items-center mb-4">
+        <span id="badge" class="text-xs font-bold uppercase tracking-wider px-3 py-1 bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full">Polity</span>
+        <span id="q-counter" class="text-xs text-slate-400 font-mono">Question 1 of 6</span>
+      </div>
+
+      <h2 id="question" class="text-lg sm:text-xl font-bold text-white mb-6 leading-relaxed">Loading question...</h2>
+
+      <div id="options" class="space-y-3 mb-6"></div>
+
+      <!-- Explanation Box -->
+      <div id="explanation-box" class="hidden p-4 rounded-xl text-xs sm:text-sm border transition-all"></div>
+
+      <div class="flex justify-between items-center mt-6 pt-4 border-t border-slate-700/60">
+        <button id="restart-btn" class="text-xs text-slate-400 hover:text-white transition">↺ Restart Quiz</button>
+        <button id="next-btn" class="px-5 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold rounded-xl text-xs sm:text-sm transition disabled:opacity-40 disabled:cursor-not-allowed">Next Question →</button>
+      </div>
+    </div>
+
+    <!-- Banner Slot for AdSense -->
+    <div class="my-6 text-center">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1891031290159418" data-ad-slot="auto" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </div>
+
+  <script>
+    const questions = [
+      {
+        subject: "Indian Polity",
+        q: "Under which Article of the Indian Constitution can Fundamental Rights be enforced via Writ Jurisdiction in the Supreme Court?",
+        options: ["Article 21", "Article 32", "Article 226", "Article 368"],
+        answer: 1,
+        exp: "Article 32 grants the Right to Constitutional Remedies, allowing citizens to approach the Supreme Court directly for writ enforcement (Habeas Corpus, Mandamus, etc.). Dr. B.R. Ambedkar called it the heart and soul of the Constitution."
+      },
+      {
+        subject: "Modern History",
+        q: "Who was the Viceroy of India when the Indian National Congress was founded in 1885?",
+        options: ["Lord Ripon", "Lord Curzon", "Lord Dufferin", "Lord Dalhousie"],
+        answer: 2,
+        exp: "The Indian National Congress (INC) was formed in December 1885 at Bombay under the viceroyalty of Lord Dufferin (1884–1888)."
+      },
+      {
+        subject: "General Science",
+        q: "Which hormone is commonly known as the 'Emergency Hormone' or Fight-or-Flight hormone?",
+        options: ["Insulin", "Adrenaline", "Thyroxine", "Glucagon"],
+        answer: 1,
+        exp: "Adrenaline (Epinephrine), secreted by the adrenal medulla, prepares the body for sudden stress, increasing heart rate and energy supply."
+      },
+      {
+        subject: "Geography",
+        q: "Which strait connects the Bay of Bengal with the Gulf of Mannar?",
+        options: ["Malacca Strait", "Palk Strait", "Sunda Strait", "Hormuz Strait"],
+        answer: 1,
+        exp: "The Palk Strait lies between Tamil Nadu (India) and the Jaffna District of Sri Lanka, connecting the Bay of Bengal with the Gulf of Mannar."
+      },
+      {
+        subject: "Economy",
+        q: "Which institution publishes the 'Financial Stability Report' (FSR) in India biennially?",
+        options: ["NITI Aayog", "Ministry of Finance", "Reserve Bank of India (RBI)", "SEBI"],
+        answer: 2,
+        exp: "The Financial Stability Report (FSR) is published biannually by the Reserve Bank of India, reflecting the collective assessment of the Sub-Committee of the Financial Stability and Development Council (FSDC)."
+      },
+      {
+        subject: "Environment & Ecology",
+        q: "The Ramsar Convention, signed in 1971 in Ramsar, Iran, is an international treaty for the conservation of:",
+        options: ["Coral Reefs", "Wetlands", "Tropical Rainforests", "Endangered Mammals"],
+        answer: 1,
+        exp: "The Ramsar Convention on Wetlands is an intergovernmental environmental treaty established in 1971 by UNESCO for wetland protection."
+      }
+    ];
+
+    let currentIdx = 0;
+    let score = 0;
+    let answered = false;
+
+    function loadQuestion() {
+      answered = false;
+      const q = questions[currentIdx];
+      document.getElementById("badge").innerText = q.subject;
+      document.getElementById("q-counter").innerText = `Question ${currentIdx + 1} of ${questions.length}`;
+      document.getElementById("question").innerText = q.q;
+      
+      const expBox = document.getElementById("explanation-box");
+      expBox.className = "hidden";
+      expBox.innerHTML = "";
+      
+      const opts = document.getElementById("options");
+      opts.innerHTML = q.options.map((opt, i) => `
+        <button onclick="handleOption(${i})" class="opt-btn w-full text-left p-4 rounded-xl border border-slate-700/80 bg-slate-900/60 hover:border-emerald-500/70 hover:bg-slate-800 transition text-sm flex items-center justify-between">
+          <span><span class="font-mono text-slate-500 mr-3">${String.fromCharCode(65 + i)}.</span> ${opt}</span>
+          <span class="indicator font-bold text-sm"></span>
+        </button>
+      `).join("");
+
+      document.getElementById("next-btn").disabled = true;
+    }
+
+    window.handleOption = function(selected) {
+      if (answered) return;
+      answered = true;
+      const q = questions[currentIdx];
+      const buttons = document.querySelectorAll(".opt-btn");
+
+      buttons.forEach((btn, idx) => {
+        btn.disabled = true;
+        if (idx === q.answer) {
+          btn.classList.remove("border-slate-700/80", "bg-slate-900/60");
+          btn.classList.add("border-emerald-500", "bg-emerald-950/40", "text-emerald-300");
+          btn.querySelector(".indicator").innerText = "✓";
+        } else if (idx === selected) {
+          btn.classList.remove("border-slate-700/80", "bg-slate-900/60");
+          btn.classList.add("border-rose-500", "bg-rose-950/40", "text-rose-300");
+          btn.querySelector(".indicator").innerText = "✕";
+        }
+      });
+
+      if (selected === q.answer) {
+        score++;
+      }
+
+      // Update Header stats
+      const totalAttempted = currentIdx + 1;
+      document.getElementById("score").innerText = score;
+      document.getElementById("total").innerText = totalAttempted;
+      document.getElementById("acc").innerText = Math.round((score / totalAttempted) * 100) + "%";
+
+      // Show Explanation
+      const expBox = document.getElementById("explanation-box");
+      expBox.className = "p-4 rounded-xl text-xs sm:text-sm border block bg-slate-950/80 border-slate-700/80 text-slate-300 mt-4 leading-relaxed";
+      expBox.innerHTML = `<span class="font-bold text-emerald-400 block mb-1">💡 Explanation:</span> ${q.exp}`;
+
+      document.getElementById("next-btn").disabled = false;
+    };
+
+    document.getElementById("next-btn").addEventListener("click", () => {
+      if (currentIdx < questions.length - 1) {
+        currentIdx++;
+        loadQuestion();
+      } else {
+        // Quiz Complete Screen
+        document.getElementById("quiz-box").innerHTML = `
+          <div class="text-center py-8 space-y-4">
+            <div class="text-5xl">🏆</div>
+            <h2 class="text-2xl font-bold text-white">Quiz Completed!</h2>
+            <p class="text-slate-400 text-sm">Your Final Score: <span class="font-bold text-emerald-400">${score}</span> out of ${questions.length}</p>
+            <div class="text-xs text-cyan-400 font-mono">Accuracy: ${Math.round((score / questions.length) * 100)}%</div>
+            <div class="pt-4">
+              <button onclick="location.reload()" class="px-6 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold rounded-xl text-sm transition">Try Again</button>
+            </div>
+          </div>
+        `;
+      }
+    });
+
+    document.getElementById("restart-btn").addEventListener("click", () => {
+      currentIdx = 0;
+      score = 0;
+      document.getElementById("score").innerText = 0;
+      document.getElementById("total").innerText = 0;
+      document.getElementById("acc").innerText = "0%";
+      loadQuestion();
+    });
+
+    loadQuestion();
+  </script>
+</body>
+</html>
