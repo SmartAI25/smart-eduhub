@@ -7,7 +7,7 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen p-4 font-sans select-none">
+<body class="bg-slate-950 text-slate-100 min-h-screen p-3 sm:p-4 font-sans select-none">
   <header class="flex justify-between items-center pb-3 border-b border-slate-800">
     <div class="flex items-center space-x-2">
       <a href="index.html" class="text-rose-400 text-xs font-bold hover:underline">✕ Exit</a>
@@ -15,7 +15,7 @@
       <span class="text-xs font-bold text-white">SSC CGL 2024 Tier-1 Official Paper</span>
     </div>
     <div class="flex items-center space-x-3">
-      <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold">
+      <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none">
         <option value="hi" selected>हिन्दी</option>
         <option value="en">English</option>
       </select>
@@ -33,10 +33,10 @@
     <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl">
       <div>
         <div class="flex justify-between items-center mb-2">
-          <span id="sec-tag" class="text-xs px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full font-bold">Section</span>
+          <span id="sec-tag" class="text-xs px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full font-bold">Loading...</span>
           <span class="text-xs text-emerald-400 font-mono">+2.00 / -0.50</span>
         </div>
-        <h2 id="qtxt" class="text-sm sm:text-base font-bold text-white mb-4 leading-relaxed">Loading...</h2>
+        <h2 id="qtxt" class="text-sm sm:text-base font-bold text-white mb-4 leading-relaxed">Loading questions from server...</h2>
         <div id="opts" class="space-y-2 mb-3"></div>
         <div id="exp" class="hidden p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 leading-relaxed"></div>
       </div>
@@ -53,18 +53,22 @@
     </div>
 
     <div class="bg-slate-900 border border-slate-800 p-4 rounded-2xl h-fit shadow-xl">
-      <h3 class="text-xs font-bold uppercase text-slate-400 mb-2">Question Palette</h3>
-      <div id="grid" class="grid grid-cols-5 gap-1.5 mb-4"></div>
+      <div class="flex justify-between items-center mb-2">
+        <h3 class="text-xs font-bold uppercase text-slate-400">Question Palette</h3>
+        <span id="q-total-badge" class="text-[10px] text-emerald-400 font-mono font-bold">25 Qs</span>
+      </div>
+      <div id="grid" class="grid grid-cols-5 gap-1.5 mb-4 max-h-72 overflow-y-auto pr-1"></div>
       <button onclick="submitExam()" class="w-full py-2 bg-gradient-to-r from-amber-400 to-emerald-400 text-slate-950 font-bold rounded-xl text-xs uppercase">Submit Test</button>
     </div>
   </main>
 
+  <!-- Diagnostic Scorecard Modal -->
   <div id="modal" class="fixed inset-0 bg-black/85 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-md w-full p-6 space-y-4 text-xs shadow-2xl">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-lg w-full p-6 space-y-4 text-xs shadow-2xl max-h-[90vh] overflow-y-auto">
       <div class="text-center">
         <div class="text-3xl mb-1">🎯</div>
         <h2 class="text-base font-bold text-white">Smart Diagnostic Report</h2>
-        <p class="text-[11px] text-slate-400">SSC CGL Tier-1 Solved Paper</p>
+        <p class="text-[11px] text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
       </div>
 
       <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2.5 rounded-xl text-center border border-slate-800">
@@ -93,19 +97,35 @@
   </div>
 
   <script>
-    const qs = [{"sec":"General Awareness","q":{"en":"Which Amendment reduced voting age from 21 to 18 in India?","hi":"भारत में किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?"},"o":["61st Amendment (1988)","42nd Amendment (1976)","44th Amendment (1978)","73rd Amendment (1992)"],"a":0,"e":"61वें संविधान संशोधन अधिनियम 1988 द्वारा मतदान की आयु 21 से घटाकर 18 वर्ष की गई।"},{"sec":"General Awareness","q":{"en":"Which Emperor embraced Buddhism after Kalinga War (261 BCE)?","hi":"261 ईसा पूर्व कलिंग युद्ध के बाद किस सम्राट ने बौद्ध धर्म अपनाया?"},"o":["Chandragupta Maurya","Bindusara","Ashoka the Great","Brihadratha"],"a":2,"e":"कलिंग युद्ध के भीषण नरसंहार के बाद सम्राट अशोक ने बौद्ध धर्म स्वीकार किया।"},{"sec":"General Awareness","q":{"en":"Under which Article can Supreme Court issue writs for Fundamental Rights?","hi":"सुप्रीम कोर्ट किस अनुच्छेद के तहत मौलिक अधिकारों की रक्षा हेतु रिट जारी करता है?"},"o":["Article 21","Article 32","Article 226","Article 356"],"a":1,"e":"अनुच्छेद 32 के तहत सुप्रीम कोर्ट 5 प्रकार की संवैधानिक उपचारों की रिट जारी करता है।"},{"sec":"General Awareness","q":{"en":"Which hormone is commonly called the 'Emergency Hormone'?","hi":"किस हार्मोन को 'आपातकालीन हार्मोन' (Fight-or-Flight) कहा जाता है?"},"o":["Insulin","Adrenaline","Thyroxine","Glucagon"],"a":1,"e":"एड्रेनालाईन तनाव की स्थिति में ऊर्जा और हृदय गति को तुरंत नियंत्रित करता है।"},{"sec":"Quantitative Aptitude","q":{"en":"Goods marked 40% above CP, 25% discount given. Find profit %:","hi":"वस्तु क्रय मूल्य से 40% अधिक अंकित की गई और 25% छूट दी गई। लाभ प्रतिशत क्या है?"},"o":["5%","10%","15%","12%"],"a":0,"e":"CP=100, MP=140. छूट = 35, SP = 105. अतः शुद्ध लाभ = 5%."},{"sec":"Quantitative Aptitude","q":{"en":"A sum doubles itself in 5 yrs at SI. In how many years will it become 4 times?","hi":"साधारण ब्याज से कोई धन 5 वर्ष में दोगुना होता है। यह 4 गुना कितने वर्षों में होगा?"},"o":["10 Years","12 Years","15 Years","20 Years"],"a":2,"e":"5 वर्ष में ब्याज = P. 4 गुना हेतु 3P ब्याज चाहिए, अतः 3 × 5 = 15 वर्ष।"},{"sec":"Reasoning","q":{"en":"Find the odd pair: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320","hi":"विषम युग्म ज्ञात कीजिए: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320"},"o":["12 : 144","14 : 196","16 : 256","18 : 320"],"a":3,"e":"सभी संख्याएं वर्ग हैं, लेकिन 18 का वर्ग 324 होता है (320 नहीं)।"},{"sec":"Reasoning","q":{"en":"Find the missing number: 2, 6, 12, 20, 30, ?","hi":"श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"},"o":["40","42","44","46"],"a":1,"e":"अंतर: +4, +6, +8, +10, +12 -> 30 + 12 = 42."},{"sec":"English","q":{"en":"Select the synonym of 'CANDID':","hi":"'CANDID' शब्द का सही पर्यायवाची चुनें:"},"o":["Frank / Honest","Deceitful","Arrogant","Timid"],"a":0,"e":"Candid का अर्थ स्पष्टवादी और सच्चा होता है (Frank/Honest)."},{"sec":"English","q":{"en":"Select the correctly spelled word:","hi":"सही वर्तनी (Correct Spelling) वाला शब्द चुनें:"},"o":["Accomodation","Accommodation","Acommodation","Accommadation"],"a":1,"e":"शुद्ध वर्तनी 'Accommodation' है (double c, double m)."}];
-    let cur = 0, lang = "hi", rev = false, sel = Array(qs.length).fill(null), time = 3600;
+    let qs = [], cur = 0, lang = "hi", rev = false, sel = [], time = 3600;
 
-    setInterval(function() {
-      if (time > 0 && !rev) {
-        time--;
-        const m = Math.floor(time / 60), s = time % 60;
-        document.getElementById("clock").innerText = String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
-        if (time === 0) finish();
-      }
-    }, 1000);
+    // Dynamic JSON Loader
+    fetch('./data/tier1_2024_shift1.json')
+      .then(res => res.json())
+      .then(data => {
+        qs = data;
+        sel = Array(qs.length).fill(null);
+        document.getElementById("q-total-badge").innerText = qs.length + " Qs";
+        draw();
+        startTimer();
+      })
+      .catch(err => {
+        document.getElementById("qtxt").innerText = "Error loading question bank. Please reload.";
+      });
+
+    function startTimer() {
+      setInterval(function() {
+        if (time > 0 && !rev) {
+          time--;
+          const m = Math.floor(time / 60), s = time % 60;
+          document.getElementById("clock").innerText = String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
+          if (time === 0) finish();
+        }
+      }, 1000);
+    }
 
     function draw() {
+      if (!qs.length) return;
       const q = qs[cur];
       document.getElementById("sec-tag").innerText = q.sec + " • Q" + (cur + 1) + " of " + qs.length;
       document.getElementById("qtxt").innerText = q.q[lang] || q.q["en"];
@@ -195,7 +215,6 @@
     };
 
     document.getElementById("lang").addEventListener("change", function(e) { lang = e.target.value; draw(); });
-    draw();
   </script>
 </body>
 </html>
