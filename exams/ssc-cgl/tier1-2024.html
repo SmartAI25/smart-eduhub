@@ -140,7 +140,9 @@
 
     let qs = [], cur = 0, lang = "hi", rev = false, sel = [], time = 3600;
 
-    fetch('./data/tier1_2024_shift1.json')
+    const urlParams = new URLSearchParams(window.location.search);
+    const activeShift = urlParams.get("shift") || "shift1";
+    fetch("./data/tier1_2024_" + activeShift + ".json")
       .then(res => res.json())
       .then(data => {
         qs = data; sel = Array(qs.length).fill(null);
