@@ -83,6 +83,17 @@
         <div id="m-sec" class="space-y-1.5"></div>
       </div>
 
+            <!-- Growth & Attempt History -->
+      <div class="bg-slate-950 p-3 rounded-xl border border-slate-800 space-y-2">
+        <div class="flex justify-between items-center cursor-pointer" onclick="toggleHistory()">
+          <span class="font-bold text-white flex items-center space-x-1.5">
+            <span>📈</span>
+            <span>Your Progress & Attempt History</span>
+          </span>
+          <span id="hist-toggle-btn" class="text-[11px] text-cyan-400 font-bold">Show Past Scores ▼</span>
+        </div>
+        <div id="hist-box" class="hidden space-y-1.5 pt-2 border-t border-slate-800/80 max-h-40 overflow-y-auto"></div>
+      </div>
       <div id="m-rec" class="bg-amber-950/40 border border-amber-500/30 p-2.5 rounded-xl space-y-1.5">
         <div class="text-amber-400 font-bold">⚠️ Focus Areas & 2-Minute Quick Revision:</div>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 text-[11px]">
@@ -221,6 +232,59 @@
     };
     window.submitExam = function() { if (confirm("Submit SSC CGL Test?")) finish(); };
 
+    
+    function saveAndRenderHistory(currentScore, maxScore, accuracy, cor, inc) {
+      const record = {
+        date: new Date().toLocaleDateString("en-IN", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }),
+        score: currentScore,
+        maxScore: maxScore,
+        acc: accuracy,
+        cor: cor,
+        inc: inc
+      };
+      let hist = [];
+      try { hist = JSON.parse(localStorage.getItem("smart_cgl_history") || "[]"); } catch (e) { hist = []; }
+      hist.push(record);
+      localStorage.setItem("smart_cgl_history", JSON.stringify(hist));
+      renderHistoryUI(hist);
+    }
+
+    function renderHistoryUI(hist) {
+      const box = document.getElementById("hist-box");
+      if (!hist || hist.length === 0) {
+        box.innerHTML = '<div class="text-slate-500 text-center py-1">Pehla test attempt record hua hai!</div>';
+        return;
+      }
+      let badge = "";
+      if (hist.length > 1) {
+        const first = parseFloat(hist[0].score);
+        const latest = parseFloat(hist[hist.length - 1].score);
+        const diff = (latest - first).toFixed(2);
+        if (diff > 0) badge = '<div class="text-emerald-400 text-[11px] font-bold pb-1 text-center bg-emerald-950/40 rounded p-1 mb-2 border border-emerald-500/30">🚀 Shandar! Pehle attempt se score <b>+' + diff + ' Marks</b> badha hai!</div>';
+        else if (diff < 0) badge = '<div class="text-amber-400 text-[11px] font-bold pb-1 text-center bg-amber-950/40 rounded p-1 mb-2 border border-amber-500/30">⚠️ Score pichhle attempt se thoda kam hua hai. Solutions dhyan se padhein.</div>';
+        else badge = '<div class="text-cyan-400 text-[11px] font-bold pb-1 text-center bg-cyan-950/40 rounded p-1 mb-2 border border-cyan-500/30">🎯 Score consistent hai. Accuracy par focus karein.</div>';
+      }
+      box.innerHTML = badge + hist.slice().reverse().map(function(h, i) {
+        const num = hist.length - i;
+        return '<div class="flex justify-between items-center p-2 rounded bg-slate-900 border border-slate-800 text-[11px]">' +
+          '<div><b class="text-white">Attempt #' + num + '</b> <span class="text-slate-500 text-[10px] ml-1">(' + h.date + ')</span></div>' +
+          '<div class="flex items-center space-x-2 font-mono"><span class="text-emerald-400 font-bold">' + h.score + ' / ' + h.maxScore + '</span><span class="text-cyan-400 font-bold">(' + h.acc + '%)</span></div>' +
+        '</div>';
+      }).join("");
+    }
+
+    window.toggleHistory = function() {
+      const box = document.getElementById("hist-box");
+      const btn = document.getElementById("hist-toggle-btn");
+      if (box.classList.contains("hidden")) {
+        box.classList.remove("hidden");
+        btn.innerText = "Hide History ▲";
+      } else {
+        box.classList.add("hidden");
+        btn.innerText = "Show Past Scores ▼";
+      }
+    };
+
     function finish() {
       let c = 0, inc = 0, st = {};
       qs.forEach(function(q, i) {
@@ -238,6 +302,9 @@
         const a = Math.round(d.cor / d.tot * 100);
         return '<div class="flex justify-between bg-slate-950 p-2 rounded border border-slate-800"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
       }).join("");
+      const fScore = ((c * 2) - (inc * 0.5)).toFixed(2);
+      const fAcc = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0);
+      saveAndRenderHistory(fScore, (qs.length * 2), fAcc, c, inc);
       document.getElementById("modal").classList.remove("hidden");
     }
 
