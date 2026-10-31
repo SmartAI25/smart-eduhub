@@ -7,230 +7,205 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-sans select-none">
-  <header class="bg-slate-900 border-b border-slate-800 px-4 py-3 sticky top-0 z-50 flex justify-between items-center">
+<body class="bg-slate-950 text-slate-100 min-h-screen p-4 font-sans select-none">
+  <header class="flex justify-between items-center pb-3 border-b border-slate-800">
     <div class="flex items-center space-x-2">
-      <a href="index.html" class="text-rose-400 font-bold text-xs">✕ Exit Exam</a>
+      <a href="index.html" class="text-rose-400 text-xs font-bold hover:underline">✕ Exit</a>
       <span class="text-slate-600">|</span>
       <span class="text-xs font-bold text-white">SSC CGL 2024 Tier-1 Official Paper</span>
     </div>
-    <div class="flex items-center space-x-2">
-      <select id="p-lang" class="bg-slate-950 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none">
+    <div class="flex items-center space-x-3">
+      <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold">
+        <option value="hi">हिन्दी</option>
         <option value="en">English</option>
-        <option value="hi" selected>हिन्दी</option>
-        <option value="mr">मराठी</option>
       </select>
-      <div class="bg-emerald-950/70 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">
-        ⏱️ <span id="p-clock">60:00</span>
+      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">
+        ⏱️ <span id="clock">60:00</span>
       </div>
     </div>
   </header>
 
-  <main class="max-w-7xl mx-auto p-4 flex-1 w-full grid grid-cols-1 lg:grid-cols-4 gap-4">
-    <div class="lg:col-span-3 bg-slate-900 border border-slate-800 rounded-2xl p-5 flex flex-col justify-between shadow-xl">
+  <div id="rev-banner" class="hidden bg-amber-500/20 text-amber-400 text-xs font-bold p-2 text-center my-2 rounded">
+    📖 Review Mode Active: सही उत्तर (हरा) और विस्तृत हल नीचे दिया गया है।
+  </div>
+
+  <main class="max-w-6xl mx-auto py-4 grid grid-cols-1 lg:grid-cols-4 gap-4">
+    <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl">
       <div>
-        <div class="flex justify-between items-center pb-2 mb-3 border-b border-slate-800">
-          <span id="p-sec" class="text-xs font-bold px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full">Section</span>
+        <div class="flex justify-between items-center mb-2">
+          <span id="sec-tag" class="text-xs px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full font-bold">Section</span>
           <span class="text-xs text-emerald-400 font-mono">+2.00 / -0.50</span>
         </div>
-        <h2 id="p-qtxt" class="text-sm sm:text-base font-bold text-white mb-4 leading-relaxed">Loading...</h2>
-        <div id="p-opts" class="space-y-2.5"></div>
+        <h2 id="qtxt" class="text-sm sm:text-base font-bold text-white mb-4 leading-relaxed">Loading...</h2>
+        <div id="opts" class="space-y-2 mb-3"></div>
+        <div id="exp" class="hidden p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 leading-relaxed"></div>
       </div>
-      <div class="border-t border-slate-800 pt-4 mt-4 flex justify-between">
-        <button onclick="pMarkReview()" class="px-3 py-1.5 bg-purple-900/40 border border-purple-500/40 text-purple-300 rounded-xl text-xs font-bold">🔖 Review</button>
+      <div class="flex justify-between items-center pt-3 border-t border-slate-800">
+        <div id="action-btns" class="flex space-x-2">
+          <button onclick="markRev()" class="px-3 py-1.5 bg-purple-900/40 border border-purple-500/40 text-purple-300 rounded-lg text-xs font-bold">🔖 Review</button>
+          <button onclick="clearOpt()" class="px-3 py-1.5 bg-slate-800 rounded-lg text-xs">Clear</button>
+        </div>
         <div class="flex space-x-2">
-          <button id="p-prev" onclick="pPrevQ()" class="px-3 py-1.5 bg-slate-800 rounded-xl text-xs">Prev</button>
-          <button onclick="pSaveNext()" class="px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-xl text-xs">Save & Next →</button>
+          <button id="pbtn" onclick="prev()" class="px-3 py-1.5 bg-slate-800 rounded-lg text-xs">Prev</button>
+          <button id="nbtn" onclick="next()" class="px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-lg text-xs">Save & Next →</button>
         </div>
       </div>
     </div>
 
-    <div class="lg:col-span-1 bg-slate-900 border border-slate-800 rounded-2xl p-4 h-fit shadow-xl">
+    <div class="bg-slate-900 border border-slate-800 p-4 rounded-2xl h-fit shadow-xl">
       <h3 class="text-xs font-bold uppercase text-slate-400 mb-2">Question Palette</h3>
-      <div id="p-grid" class="grid grid-cols-4 gap-1.5 mb-4"></div>
-      <button onclick="pFinishPrompt()" class="w-full py-2 bg-gradient-to-r from-amber-400 to-emerald-400 text-slate-950 font-black rounded-xl text-xs uppercase">Submit Test</button>
+      <div id="grid" class="grid grid-cols-5 gap-1.5 mb-4"></div>
+      <button onclick="submitExam()" class="w-full py-2 bg-gradient-to-r from-amber-400 to-emerald-400 text-slate-950 font-bold rounded-xl text-xs uppercase">Submit Test</button>
     </div>
   </main>
 
-  <div id="p-modal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-        <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-lg w-full p-6 text-center space-y-4 shadow-2xl max-h-[90vh] overflow-y-auto text-left">
+  <div id="modal" class="fixed inset-0 bg-black/85 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-md w-full p-6 space-y-4 text-xs shadow-2xl">
       <div class="text-center">
-        <div class="text-4xl mb-1">🎯</div>
-        <h2 class="text-xl font-black text-white">Smart Diagnostic Performance Report</h2>
-        <p class="text-xs text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
+        <div class="text-3xl mb-1">🎯</div>
+        <h2 class="text-base font-bold text-white">Smart Diagnostic Report</h2>
+        <p class="text-[11px] text-slate-400">SSC CGL Tier-1 Solved Paper</p>
       </div>
 
-      <!-- Overall Score Summary -->
-      <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 bg-slate-950 p-3 rounded-xl text-xs text-center border border-slate-800">
-        <div><div class="text-slate-400">Total Marks</div><div id="res-score" class="text-lg font-bold text-emerald-400">0</div></div>
-        <div><div class="text-slate-400">Accuracy</div><div id="res-acc" class="text-lg font-bold text-cyan-400">0%</div></div>
-        <div><div class="text-slate-400">Correct</div><div id="res-cor" class="text-sm font-bold text-emerald-400">0</div></div>
-        <div><div class="text-slate-400">Incorrect</div><div id="res-inc" class="text-sm font-bold text-rose-400">0</div></div>
+      <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2.5 rounded-xl text-center border border-slate-800">
+        <div><div class="text-slate-400">Score</div><div id="m-score" class="text-emerald-400 font-bold text-sm">0</div></div>
+        <div><div class="text-slate-400">Accuracy</div><div id="m-acc" class="text-cyan-400 font-bold text-sm">0%</div></div>
+        <div><div class="text-slate-400">Correct</div><div id="m-cor" class="text-emerald-400 font-bold">0</div></div>
+        <div><div class="text-slate-400">Wrong</div><div id="m-inc" class="text-rose-400 font-bold">0</div></div>
       </div>
 
-      <!-- Section-wise Breakdown -->
       <div>
-        <h3 class="text-xs font-bold uppercase tracking-wider text-slate-300 mb-2">📊 Section-wise Analysis</h3>
-        <div id="sec-breakdown" class="space-y-2 text-xs"></div>
+        <h4 class="font-bold text-slate-300 uppercase mb-1.5">Section Breakdown</h4>
+        <div id="m-sec" class="space-y-1.5"></div>
       </div>
 
-      <!-- Weak Area & Personalized Study Recommendations -->
-      <div id="weak-recommendation-box" class="bg-amber-950/30 border border-amber-500/40 rounded-xl p-3.5 space-y-2">
-        <div class="flex items-center space-x-2 text-amber-400 text-xs font-bold">
-          <span>⚠️ Focus Areas & Study Recommendations:</span>
-        </div>
-        <div id="rec-links" class="space-y-2 text-xs"></div>
+      <div id="m-rec" class="bg-amber-950/40 border border-amber-500/30 p-2.5 rounded-xl space-y-1.5">
+        <div class="text-amber-400 font-bold">⚠️ Focus Areas & Direct Study Links:</div>
+        <a href="../../tools/formula-finder.html" target="_blank" class="block text-emerald-400 hover:underline">📐 Revise Maths Formulas & Shortcuts →</a>
+        <a href="../../tools/gk-quiz.html" target="_blank" class="block text-cyan-400 hover:underline">🎯 Practice Daily GK & Polity Quiz →</a>
       </div>
 
-      <div class="space-y-2 pt-1">
-        <button onclick="startReviewMode()" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-black rounded-xl text-xs transition">
-          📖 View Detailed Solutions (हल देखें)
-        </button>
-        <button onclick="location.reload()" class="w-full py-2 bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold rounded-xl text-xs transition">
-          ↺ Retest (फिर से दें)
-        </button>
-      </div>
-    </div>
-        <div><div class="text-slate-400">Accuracy</div><div id="res-acc" class="text-base font-bold text-cyan-400">0%</div></div>
-      </div>
       <div class="flex space-x-2 pt-2">
-        <button onclick="location.reload()" class="flex-1 py-2 bg-emerald-500 text-slate-950 font-bold rounded-xl text-xs">Retest</button>
-        <a href="index.html" class="flex-1 py-2 bg-slate-800 text-white font-bold rounded-xl text-xs flex items-center justify-center">Exit</a>
+        <button onclick="startRev()" class="flex-1 py-2.5 bg-emerald-500 text-slate-950 font-black rounded-xl">View Solutions (हल देखें)</button>
+        <button onclick="location.reload()" class="flex-1 py-2.5 bg-slate-800 text-slate-300 font-bold rounded-xl">Retest</button>
       </div>
     </div>
   </div>
 
   <script>
-    const qs = [{"sec":"General Awareness","en":{"q":"Which Constitutional Amendment Act reduced the voting age from 21 years to 18 years in India?","o":["61st Amendment Act, 1988","42nd Amendment Act, 1976","44th Amendment Act, 1978","73rd Amendment Act, 1992"],"exp":"The 61st Constitutional Amendment Act, 1988 lowered the voting age for Lok Sabha and Legislative Assemblies from 21 to 18."},"hi":{"q":"किस संविधान संशोधन अधिनियम द्वारा भारत में मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?","o":["61वां संशोधन अधिनियम, 1988","42वां संशोधन अधिनियम, 1976","44वां संशोधन अधिनियम, 1978","73वां संशोधन अधिनियम, 1992"],"exp":"61वें संविधान संशोधन 1988 द्वारा अनुच्छेद 326 में संशोधन कर मतदान की न्यूनतम आयु 18 वर्ष की गई।"},"mr":{"q":"कोणत्या घटनादुरुस्ती कायद्याद्वारे भारतात मतदानाचे वय २१ वरून १८ वर्षे करण्यात आले?","o":["६१ वी घटनादुरुस्ती, १९८८","४२ वी घटनादुरुस्ती, १९७६","४४ वी घटनादुरुस्ती, १९७८","७३ वी घटनादुरुस्ती, १९९२"],"exp":"६१ व्या घटनादुरुस्तीने मतदानाचे वय २१ वरून १८ वर्षे केले."},"ans":0},{"sec":"General Awareness","en":{"q":"Which Mauryan Emperor renounced warfare and embraced Buddhism after the Kalinga War in 261 BCE?","o":["Chandragupta Maurya","Bindusara","Ashoka the Great","Brihadratha"],"exp":"Ashoka embraced Buddhism and Dhamma policy after the immense bloodshed of the Kalinga War."},"hi":{"q":"261 ईसा पूर्व में कलिंग युद्ध के बाद किस मौर्य सम्राट ने युद्ध त्यागकर बौद्ध धर्म अपनाया था?","o":["चंद्रगुप्त मौर्य","बिंदुसार","सम्राट अशोक","बृहद्रथ"],"exp":"कलिंग युद्ध के नरसंहार से व्यथित होकर सम्राट अशोक ने उपगुप्त के प्रभाव में बौद्ध धर्म अपनाया।"},"mr":{"q":"२६१ ई.पू. मधील कलिंगच्या युद्धानंतर कोणत्या मौर्य सम्राटाने युद्धाचा त्याग करून बौद्ध धर्म स्वीकारला?","o":["चंद्रगुप्त मौर्य","बिंदुसार","सम्राट अशोक","बृहद्रथ"],"exp":"सम्राट अशोकाने कलिंग युद्धानंतर बौद्ध धर्माचा स्वीकार केला."},"ans":2},{"sec":"Quantitative Aptitude","en":{"q":"A shopkeeper marks his goods 40% above the cost price and allows a discount of 25%. What is his profit percentage?","o":["5%","10%","15%","12%"],"exp":"Let CP = 100. MP = 140. Discount = 25% of 140 = 35. SP = 140 - 35 = 105. Profit = 5%."},"hi":{"q":"एक दुकानदार अपने सामान पर क्रय मूल्य से 40% अधिक अंकित करता है और 25% की छूट देता है। उसका लाभ प्रतिशत क्या है?","o":["5%","10%","15%","12%"],"exp":"माना CP = 100, MP = 140. छूट = 140 का 25% = 35. विक्रय मूल्य (SP) = 105. लाभ = 5%."},"mr":{"q":"एक दुकानदार खरेदी किमतीवर ४०% अधिक किंमत छापील करतो आणि २५% सूट देतो. त्याचा नफा किती टक्के आहे?","o":["५%","१०%","१५%","१२%"],"exp":"CP = १००, MP = १४०, २५% सूट = ३५, SP = १०५, नफा = ५%."},"ans":0},{"sec":"Reasoning","en":{"q":"Find the odd one out from the given pairs: (A) 12 : 144, (B) 14 : 196, (C) 16 : 256, (D) 18 : 320","o":["12 : 144","14 : 196","16 : 256","18 : 320"],"exp":"In all pairs, second number is the square of first (12²=144, 14²=196, 16²=256), but 18² = 324, not 320."},"hi":{"q":"दिए गए युग्मों में से विषम (Odd) ज्ञात कीजिए: (A) 12 : 144, (B) 14 : 196, (C) 16 : 256, (D) 18 : 320","o":["12 : 144","14 : 196","16 : 256","18 : 320"],"exp":"बाकी सभी में पहली संख्या का वर्ग दूसरी संख्या है, लेकिन 18 का वर्ग 324 होता है (320 नहीं)।"},"mr":{"q":"विसंगत घटक ओळखा: (A) 12 : 144, (B) 14 : 196, (C) 16 : 256, (D) 18 : 320","o":["12 : 144","14 : 196","16 : 256","18 : 320"],"exp":"१८ चा वर्ग ३२४ असतो, ३२० नाही."},"ans":3}];
-    let cur = 0, lang = "hi", time = 3600;
-    const states = qs.map(() => ({ sel: null, st: 'unvisited' }));
-    states[0].st = 'not-answered';
+    const qs = [
+      {sec:"General Awareness",q:{en:"Which Amendment reduced voting age from 21 to 18 in India?",hi:"भारत में किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?"},o:["61st Amendment (1988)","42nd Amendment (1976)","44th Amendment (1978)","73rd Amendment (1992)"],a:0,e:"61वें संविधान संशोधन 1988 द्वारा अनुच्छेद 326 में संशोधन कर मतदान आयु 18 वर्ष की गई।"},
+      {sec:"General Awareness",q:{en:"Which Emperor embraced Buddhism after Kalinga War (261 BCE)?",hi:"261 ईसा पूर्व कलिंग युद्ध के बाद किस सम्राट ने बौद्ध धर्म अपनाया?"},o:["Chandragupta Maurya","Bindusara","Ashoka the Great","Brihadratha"],a:2,e:"कलिंग युद्ध के भीषण नरसंहार के बाद सम्राट अशोक ने बौद्ध धर्म स्वीकार किया।"},
+      {sec:"General Awareness",q:{en:"Under which Article can Supreme Court issue writs for Fundamental Rights?",hi:"सुप्रीम कोर्ट किस अनुच्छेद के तहत मौलिक अधिकारों की रक्षा हेतु रिट जारी करता है?"},o:["Article 21","Article 32","Article 226","Article 356"],a:1,e:"अनुच्छेद 32 के तहत सुप्रीम कोर्ट 5 प्रकार की संवैधानिक उपचारों की रिट जारी करता है।"},
+      {sec:"General Awareness",q:{en:"Which hormone is commonly called the 'Emergency Hormone'?",hi:"किस हार्मोन को 'आपातकालीन हार्मोन' (Fight-or-Flight) कहा जाता है?"},o:["Insulin","Adrenaline","Thyroxine","Glucagon"],a:1,e:"एड्रेनालाईन तनाव की स्थिति में ऊर्जा और हृदय गति को तुरंत नियंत्रित करता है।"},
+      {sec:"Quantitative Aptitude",q:{en:"Goods marked 40% above CP, 25% discount given. Find profit %:",hi:"वस्तु क्रय मूल्य से 40% अधिक अंकित की गई और 25% छूट दी गई। लाभ प्रतिशत क्या है?"},o:["5%","10%","15%","12%"],a:0,e:"CP=100, MP=140. छूट = 35, SP = 105. अतः शुद्ध लाभ = 5%."},
+      {sec:"Quantitative Aptitude",q:{en:"A sum doubles itself in 5 yrs at SI. In how many years will it become 4 times?",hi:"साधारण ब्याज से कोई धन 5 वर्ष में दोगुना होता है। यह 4 गुना कितने वर्षों में होगा?"},o:["10 Years","12 Years","15 Years","20 Years"],a:2,e:"5 वर्ष में ब्याज = P. 4 गुना हेतु 3P ब्याज चाहिए, अतः 3 × 5 = 15 वर्ष।"},
+      {sec:"Reasoning",q:{en:"Find the odd pair: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",hi:"विषम युग्म ज्ञात कीजिए: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320"},o:["12 : 144","14 : 196","16 : 256","18 : 320"],a:3,e:"सभी संख्याएं वर्ग हैं, लेकिन 18 का वर्ग 324 होता है (320 नहीं)।"},
+      {sec:"Reasoning",q:{en:"Find the missing number: 2, 6, 12, 20, 30, ?",hi:"श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"},o:["40","42","44","46"],a:1,e:"अंतर: +4, +6, +8, +10, +12 -> 30 + 12 = 42."},
+      {sec:"English",q:{en:"Select the synonym of 'CANDID':",hi:"'CANDID' शब्द का सही पर्यायवाची चुनें:"},o:["Frank / Honest","Deceitful","Arrogant","Timid"],a:0,e:"Candid का अर्थ स्पष्टवादी और सच्चा होता है (Frank/Honest)."},
+      {sec:"English",q:{en:"Select the correctly spelled word:",hi:"सही वर्तनी (Correct Spelling) वाला शब्द चुनें:"},o:["Accomodation","Accommodation","Acommodation","Accommadation"],a:1,e:"शुद्ध वर्तनी 'Accommodation' है (double c, double m)."}
+    ];
 
+    let cur = 0, lang = "hi", rev = false, sel = Array(qs.length).fill(null), time = 3600;
     setInterval(() => {
-      if (time > 0) time--;
-      const m = Math.floor(time / 60), s = time % 60;
-      document.getElementById("p-clock").innerText = String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
-      if (time === 0) pFinish();
+      if (time > 0 && !rev) {
+        time--;
+        const m = Math.floor(time / 60), s = time % 60;
+        document.getElementById("clock").innerText = String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
+        if (time === 0) finish();
+      }
     }, 1000);
 
-    function pDraw() {
-      const q = qs[cur][lang] || qs[cur]["en"], st = states[cur];
-      if (st.st === 'unvisited') st.st = 'not-answered';
-      document.getElementById("p-sec").innerText = qs[cur].sec + " • Q" + (cur+1);
-      document.getElementById("p-qtxt").innerText = q.q;
-      document.getElementById("p-opts").innerHTML = q.o.map((o, i) => `
-        <div onclick="pPick(${i})" class="p-3 rounded-xl border cursor-pointer text-xs sm:text-sm ${st.sel === i ? 'border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold' : 'border-slate-800 bg-slate-950/60 hover:border-slate-700'}">
-          <span class="font-mono text-slate-500 mr-2">${String.fromCharCode(65+i)}.</span> ${o}
-        </div>
-      `).join("");
-      document.getElementById("p-prev").disabled = cur === 0;
-      pDrawGrid();
+    function draw() {
+      const q = qs[cur];
+      document.getElementById("sec-tag").innerText = q.sec + " • Q" + (cur + 1) + " of " + qs.length;
+      document.getElementById("qtxt").innerText = q.q[lang] || q.q["en"];
+      document.getElementById("opts").innerHTML = q.o.map((opt, i) => {
+        let s = "border-slate-800 bg-slate-950/60 hover:border-slate-700";
+        let mark = "";
+        if (rev) {
+          if (i === q.a) { s = "border-emerald-500 bg-emerald-950/50 text-emerald-300 font-bold"; mark = " ✓ Correct"; }
+          else if (sel[cur] === i) { s = "border-rose-500 bg-rose-950/50 text-rose-300 font-bold"; mark = " ✕ Wrong"; }
+        } else if (sel[cur] === i) {
+          s = "border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold";
+        }
+        return '<div onclick="pick(' + i + ')" class="p-3 rounded-xl border text-xs cursor-pointer ' + s + ' flex justify-between"><span>' + String.fromCharCode(65 + i) + '. ' + opt + '</span><span class="font-bold">' + mark + '</span></div>';
+      }).join("");
+
+      const ex = document.getElementById("exp");
+      if (rev) {
+        ex.className = "p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 block";
+        ex.innerHTML = "<b>💡 Solution:</b> " + q.e;
+      } else {
+        ex.className = "hidden";
+      }
+
+      document.getElementById("pbtn").disabled = cur === 0;
+      const nbtn = document.getElementById("nbtn");
+      if (cur === qs.length - 1 && !rev) {
+        nbtn.innerText = "Submit Test ✓";
+        nbtn.className = "px-4 py-1.5 bg-amber-400 text-slate-950 font-black rounded-lg text-xs";
+      } else {
+        nbtn.innerText = rev ? "Next →" : "Save & Next →";
+        nbtn.className = "px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-lg text-xs";
+      }
+      drawGrid();
     }
 
-    function pDrawGrid() {
-      document.getElementById("p-grid").innerHTML = states.map((s, i) => {
+    function drawGrid() {
+      document.getElementById("grid").innerHTML = qs.map((q, i) => {
         let cls = "bg-slate-800 text-slate-400 border border-slate-700";
-        if (s.st === 'answered') cls = "bg-emerald-500 text-slate-950 font-bold";
-        else if (s.st === 'not-answered') cls = "bg-rose-500 text-white font-bold";
-        else if (s.st === 'review') cls = "bg-purple-600 text-white font-bold";
-        const ring = cur === i ? "ring-2 ring-cyan-400" : "";
-        return `<button onclick="pJump(${i})" class="h-7 rounded text-xs font-mono ${cls} ${ring}">${i+1}</button>`;
+        if (rev) {
+          cls = sel[i] === q.a ? "bg-emerald-500 text-slate-950 font-bold" : (sel[i] !== null ? "bg-rose-500 text-white font-bold" : cls);
+        } else if (sel[i] !== null) {
+          cls = "bg-emerald-500 text-slate-950 font-bold";
+        }
+        return '<button onclick="jump(' + i + ')" class="h-7 rounded text-xs font-mono ' + cls + ' ' + (cur === i ? 'ring-2 ring-cyan-400' : '') + '">' + (i + 1) + '</button>';
       }).join("");
     }
 
-    window.pPick = (i) => { states[cur].sel = i; pDraw(); };
-    window.pMarkReview = () => { states[cur].st = 'review'; if (cur < qs.length - 1) cur++; pDraw(); };
-    window.pSaveNext = () => { states[cur].st = states[cur].sel !== null ? 'answered' : 'not-answered'; if (cur < qs.length - 1) cur++; pDraw(); };
-    window.pPrevQ = () => { if (cur > 0) cur--; pDraw(); };
-    window.pJump = (i) => { cur = i; pDraw(); };
-    window.pFinishPrompt = () => { if (confirm("Submit SSC CGL Paper?")) pFinish(); };
+    window.pick = (i) => { if (!rev) { sel[cur] = i; draw(); } };
+    window.clearOpt = () => { if (!rev) { sel[cur] = null; draw(); } };
+    window.markRev = () => { if (!rev && cur < qs.length - 1) { cur++; draw(); } };
+    window.jump = (i) => { cur = i; draw(); };
+    window.prev = () => { if (cur > 0) { cur--; draw(); } };
+    window.next = () => {
+      if (cur === qs.length - 1 && !rev) { submitExam(); return; }
+      if (cur < qs.length - 1) cur++;
+      draw();
+    };
+    window.submitExam = () => { if (confirm("Submit SSC CGL Test?")) finish(); };
 
-        function pFinish() {
-      clearInterval(tTimer);
-      let cor = 0, inc = 0;
-      const secStats = {};
-
+    function finish() {
+      let c = 0, inc = 0, st = {};
       qs.forEach((q, i) => {
-        if (!secStats[q.sec]) secStats[q.sec] = { tot: 0, cor: 0, inc: 0 };
-        secStats[q.sec].tot++;
-        if (states[i].sel === q.ans) {
-          cor++;
-          secStats[q.sec].cor++;
-        } else if (states[i].sel !== null) {
-          inc++;
-          secStats[q.sec].inc++;
-        }
+        if (!st[q.sec]) st[q.sec] = { tot: 0, cor: 0 };
+        st[q.sec].tot++;
+        if (sel[i] === q.a) { c++; st[q.sec].cor++; }
+        else if (sel[i] !== null) inc++;
       });
-
-      const score = (cor * 2) - (inc * 0.5);
-      const acc = (cor + inc) > 0 ? Math.round((cor / (cor + inc)) * 100) : 0;
-      document.getElementById("res-score").innerText = score.toFixed(2) + " / " + (qs.length * 2);
-      document.getElementById("res-acc").innerText = acc + "%";
-      document.getElementById("res-cor").innerText = cor;
-      document.getElementById("res-inc").innerText = inc;
-
-      // Section-wise UI rendering
-      const secBox = document.getElementById("sec-breakdown");
-      const recBox = document.getElementById("rec-links");
-      secBox.innerHTML = "";
-      recBox.innerHTML = "";
-
-      let hasWeak = false;
-
-      for (const [secName, data] of Object.entries(secStats)) {
-        const secAcc = (data.cor + data.inc) > 0 ? Math.round((data.cor / (data.cor + data.inc)) * 100) : 0;
-        const isWeak = secAcc < 60 || data.cor === 0;
-
-        secBox.innerHTML += `
-          <div class="flex items-center justify-between p-2.5 bg-slate-950 rounded-lg border border-slate-800">
-            <div>
-              <span class="font-bold text-white">${secName}</span>
-              <span class="text-slate-400 ml-2">(${data.cor}/${data.tot} Correct)</span>
-            </div>
-            <div class="flex items-center space-x-2">
-              <span class="font-mono font-bold ${secAcc >= 60 ? 'text-emerald-400' : 'text-rose-400'}">${secAcc}%</span>
-              <span class="px-2 py-0.5 rounded text-[10px] font-bold ${isWeak ? 'bg-rose-500/20 text-rose-300' : 'bg-emerald-500/20 text-emerald-300'}">${isWeak ? 'Needs Work' : 'Strong'}</span>
-            </div>
-          </div>
-        `;
-
-        // Direct Study Material Recommendations based on Weak Areas
-        if (isWeak) {
-          hasWeak = true;
-          if (secName.includes("Quantitative") || secName.includes("Maths")) {
-            recBox.innerHTML += `
-              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
-                <span class="text-slate-300 text-[11px]">📐 Maths Formulas & Speed Tricks me accuracy kam hai:</span>
-                <a href="../../tools/formula-finder.html" target="_blank" class="px-2.5 py-1 bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Open Formula Finder →</a>
-              </div>
-            `;
-          } else if (secName.includes("Awareness") || secName.includes("Science")) {
-            recBox.innerHTML += `
-              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
-                <span class="text-slate-300 text-[11px]">🎯 General Awareness / Polity me revision ki zarurat hai:</span>
-                <a href="../../tools/gk-quiz.html" target="_blank" class="px-2.5 py-1 bg-emerald-400 hover:bg-emerald-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Practice Daily GK →</a>
-              </div>
-            `;
-          } else {
-            recBox.innerHTML += `
-              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
-                <span class="text-slate-300 text-[11px]">📖 ${secName}: Solution Review se sabhi galat prashnon ki vyakhya padhein.</span>
-                <button onclick="startReviewMode()" class="px-2.5 py-1 bg-cyan-400 hover:bg-cyan-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Review Now →</button>
-              </div>
-            `;
-          }
-        }
-      }
-
-      if (!hasWeak) {
-        recBox.innerHTML = '<div class="text-emerald-400 text-xs">🎉 Shandar Performance! Sabhi vishayon me aapka score 60% se upar hai. Agla test attempt karein.</div>';
-      }
-
-      document.getElementById("p-modal").classList.remove("hidden");
+      document.getElementById("m-score").innerText = ((c * 2) - (inc * 0.5)).toFixed(2) + " / " + (qs.length * 2);
+      document.getElementById("m-acc").innerText = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0) + "%";
+      document.getElementById("m-cor").innerText = c;
+      document.getElementById("m-inc").innerText = inc;
+      document.getElementById("m-sec").innerHTML = Object.entries(st).map(([name, d]) => {
+        const a = Math.round(d.cor / d.tot * 100);
+        return '<div class="flex justify-between bg-slate-950 p-2 rounded border border-slate-800"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
+      }).join("");
+      document.getElementById("modal").classList.remove("hidden");
     }
 
-    document.getElementById("p-lang").addEventListener("change", (e) => { lang = e.target.value; pDraw(); });
-    pDraw();
+    window.startRev = () => {
+      rev = true;
+      document.getElementById("modal").classList.add("hidden");
+      document.getElementById("rev-banner").classList.remove("hidden");
+      document.getElementById("action-btns").classList.add("hidden");
+      cur = 0;
+      draw();
+    };
+
+    document.getElementById("lang").addEventListener("change", (e) => { lang = e.target.value; draw(); });
+    draw();
   </script>
 </body>
 </html>
