@@ -53,11 +53,44 @@
   </main>
 
   <div id="p-modal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-sm w-full p-6 text-center space-y-3">
-      <div class="text-4xl">🏆</div>
-      <h2 class="text-lg font-black text-white">Scorecard & Review</h2>
-      <div class="grid grid-cols-2 gap-2 bg-slate-950 p-3 rounded-xl text-xs">
-        <div><div class="text-slate-400">Total Marks</div><div id="res-score" class="text-base font-bold text-emerald-400">0</div></div>
+        <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-lg w-full p-6 text-center space-y-4 shadow-2xl max-h-[90vh] overflow-y-auto text-left">
+      <div class="text-center">
+        <div class="text-4xl mb-1">🎯</div>
+        <h2 class="text-xl font-black text-white">Smart Diagnostic Performance Report</h2>
+        <p class="text-xs text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
+      </div>
+
+      <!-- Overall Score Summary -->
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 bg-slate-950 p-3 rounded-xl text-xs text-center border border-slate-800">
+        <div><div class="text-slate-400">Total Marks</div><div id="res-score" class="text-lg font-bold text-emerald-400">0</div></div>
+        <div><div class="text-slate-400">Accuracy</div><div id="res-acc" class="text-lg font-bold text-cyan-400">0%</div></div>
+        <div><div class="text-slate-400">Correct</div><div id="res-cor" class="text-sm font-bold text-emerald-400">0</div></div>
+        <div><div class="text-slate-400">Incorrect</div><div id="res-inc" class="text-sm font-bold text-rose-400">0</div></div>
+      </div>
+
+      <!-- Section-wise Breakdown -->
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-wider text-slate-300 mb-2">📊 Section-wise Analysis</h3>
+        <div id="sec-breakdown" class="space-y-2 text-xs"></div>
+      </div>
+
+      <!-- Weak Area & Personalized Study Recommendations -->
+      <div id="weak-recommendation-box" class="bg-amber-950/30 border border-amber-500/40 rounded-xl p-3.5 space-y-2">
+        <div class="flex items-center space-x-2 text-amber-400 text-xs font-bold">
+          <span>⚠️ Focus Areas & Study Recommendations:</span>
+        </div>
+        <div id="rec-links" class="space-y-2 text-xs"></div>
+      </div>
+
+      <div class="space-y-2 pt-1">
+        <button onclick="startReviewMode()" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-black rounded-xl text-xs transition">
+          📖 View Detailed Solutions (हल देखें)
+        </button>
+        <button onclick="location.reload()" class="w-full py-2 bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold rounded-xl text-xs transition">
+          ↺ Retest (फिर से दें)
+        </button>
+      </div>
+    </div>
         <div><div class="text-slate-400">Accuracy</div><div id="res-acc" class="text-base font-bold text-cyan-400">0%</div></div>
       </div>
       <div class="flex space-x-2 pt-2">
@@ -112,13 +145,87 @@
     window.pJump = (i) => { cur = i; pDraw(); };
     window.pFinishPrompt = () => { if (confirm("Submit SSC CGL Paper?")) pFinish(); };
 
-    function pFinish() {
-      let c = 0, inc = 0;
-      qs.forEach((q, i) => { if (states[i].sel === q.ans) c++; else if (states[i].sel !== null) inc++; });
-      const score = (c * 2) - (inc * 0.5);
-      const acc = (c + inc) > 0 ? Math.round((c / (c + inc)) * 100) : 0;
+        function pFinish() {
+      clearInterval(tTimer);
+      let cor = 0, inc = 0;
+      const secStats = {};
+
+      qs.forEach((q, i) => {
+        if (!secStats[q.sec]) secStats[q.sec] = { tot: 0, cor: 0, inc: 0 };
+        secStats[q.sec].tot++;
+        if (states[i].sel === q.ans) {
+          cor++;
+          secStats[q.sec].cor++;
+        } else if (states[i].sel !== null) {
+          inc++;
+          secStats[q.sec].inc++;
+        }
+      });
+
+      const score = (cor * 2) - (inc * 0.5);
+      const acc = (cor + inc) > 0 ? Math.round((cor / (cor + inc)) * 100) : 0;
       document.getElementById("res-score").innerText = score.toFixed(2) + " / " + (qs.length * 2);
       document.getElementById("res-acc").innerText = acc + "%";
+      document.getElementById("res-cor").innerText = cor;
+      document.getElementById("res-inc").innerText = inc;
+
+      // Section-wise UI rendering
+      const secBox = document.getElementById("sec-breakdown");
+      const recBox = document.getElementById("rec-links");
+      secBox.innerHTML = "";
+      recBox.innerHTML = "";
+
+      let hasWeak = false;
+
+      for (const [secName, data] of Object.entries(secStats)) {
+        const secAcc = (data.cor + data.inc) > 0 ? Math.round((data.cor / (data.cor + data.inc)) * 100) : 0;
+        const isWeak = secAcc < 60 || data.cor === 0;
+
+        secBox.innerHTML += `
+          <div class="flex items-center justify-between p-2.5 bg-slate-950 rounded-lg border border-slate-800">
+            <div>
+              <span class="font-bold text-white">${secName}</span>
+              <span class="text-slate-400 ml-2">(${data.cor}/${data.tot} Correct)</span>
+            </div>
+            <div class="flex items-center space-x-2">
+              <span class="font-mono font-bold ${secAcc >= 60 ? 'text-emerald-400' : 'text-rose-400'}">${secAcc}%</span>
+              <span class="px-2 py-0.5 rounded text-[10px] font-bold ${isWeak ? 'bg-rose-500/20 text-rose-300' : 'bg-emerald-500/20 text-emerald-300'}">${isWeak ? 'Needs Work' : 'Strong'}</span>
+            </div>
+          </div>
+        `;
+
+        // Direct Study Material Recommendations based on Weak Areas
+        if (isWeak) {
+          hasWeak = true;
+          if (secName.includes("Quantitative") || secName.includes("Maths")) {
+            recBox.innerHTML += `
+              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
+                <span class="text-slate-300 text-[11px]">📐 Maths Formulas & Speed Tricks me accuracy kam hai:</span>
+                <a href="../../tools/formula-finder.html" target="_blank" class="px-2.5 py-1 bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Open Formula Finder →</a>
+              </div>
+            `;
+          } else if (secName.includes("Awareness") || secName.includes("Science")) {
+            recBox.innerHTML += `
+              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
+                <span class="text-slate-300 text-[11px]">🎯 General Awareness / Polity me revision ki zarurat hai:</span>
+                <a href="../../tools/gk-quiz.html" target="_blank" class="px-2.5 py-1 bg-emerald-400 hover:bg-emerald-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Practice Daily GK →</a>
+              </div>
+            `;
+          } else {
+            recBox.innerHTML += `
+              <div class="flex items-center justify-between bg-slate-900/90 p-2.5 rounded-lg border border-amber-500/30">
+                <span class="text-slate-300 text-[11px]">📖 ${secName}: Solution Review se sabhi galat prashnon ki vyakhya padhein.</span>
+                <button onclick="startReviewMode()" class="px-2.5 py-1 bg-cyan-400 hover:bg-cyan-300 text-slate-950 font-bold rounded text-[10px] shrink-0">Review Now →</button>
+              </div>
+            `;
+          }
+        }
+      }
+
+      if (!hasWeak) {
+        recBox.innerHTML = '<div class="text-emerald-400 text-xs">🎉 Shandar Performance! Sabhi vishayon me aapka score 60% se upar hai. Agla test attempt karein.</div>';
+      }
+
       document.getElementById("p-modal").classList.remove("hidden");
     }
 
