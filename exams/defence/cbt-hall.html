@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSC CGL 2024 Tier-1 CBT Mock Test - SmartEduHub</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen p-3 sm:p-4 font-sans select-none flex flex-col justify-between">
+    <!-- TCS iON Official CBT Header -->
+  <header class="bg-slate-900/90 border-b border-slate-800 px-3 py-2 flex justify-between items-center text-xs">
+    <div class="flex items-center space-x-3">
+      <div class="bg-emerald-500/20 text-emerald-400 font-mono font-bold px-2 py-0.5 rounded border border-emerald-500/30">
+        🖥️ LAB-04 | NODE: C-108
+      </div>
+      <span class="text-slate-600">|</span>
+      <span class="font-bold text-white hidden sm:inline">SSC CGL 2024 Tier-1 Official Simulator</span>
+    </div>
+    <div class="flex items-center space-x-3">
+      <button onclick="toggleFullScreen()" class="px-2 py-1 bg-slate-800 hover:bg-slate-700 text-cyan-400 font-bold rounded text-[11px] border border-slate-700 hidden sm:block">
+        ⛶ Fullscreen Hall Mode
+      </button>
+      <div class="flex items-center space-x-2 bg-slate-950 px-2.5 py-1 rounded-lg border border-slate-800">
+        <div class="w-6 h-6 rounded-full bg-cyan-600 flex items-center justify-center font-bold text-[10px] text-white">SA</div>
+        <div class="text-[10px] text-left leading-tight">
+          <div class="text-white font-bold">SSC Aspirant</div>
+          <div class="text-slate-400 font-mono">Roll: 22010892</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sub-Header: Language, Timer & Exit -->
+  <div class="bg-slate-950 px-3 py-2 border-b border-slate-800 flex justify-between items-center text-xs">
+    <div class="flex items-center space-x-2">
+      <a href="index.html" class="text-rose-400 font-bold hover:underline">✕ Exit Exam</a>
+      <span class="text-slate-700">•</span>
+      <span class="text-slate-400 text-[11px]">Marking: <b class="text-emerald-400">+2.00</b> / <b class="text-rose-400">-0.50</b></span>
+    </div>
+    <div class="flex items-center space-x-3">
+      <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none">
+        <option value="hi" selected>View in: हिन्दी</option>
+        <option value="en">View in: English</option>
+        <option value="mr">View in: मराठी</option>
+        <option value="bn">View in: বাংলা</option>
+        <option value="ta">View in: தமிழ்</option>
+        <option value="te">View in: తెలుగు</option>
+      </select>
+      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-3 py-1 rounded text-emerald-300 font-mono text-xs font-bold shadow">
+        ⏱️ Time Left: <span id="clock">90:00</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4 Section Switcher Tabs -->
+  <div class="bg-slate-900 border-b border-slate-800 px-3 py-1 flex space-x-1.5 overflow-x-auto" id="sec-tabs"></div>
+  <div id="rev-banner" class="hidden bg-amber-500/20 text-amber-400 text-xs font-bold p-2 text-center my-2 rounded">📖 Review Mode Active: सही उत्तर (हरा) और विस्तृत हल नीचे दिया गया है।</div>
+  <main class="max-w-6xl mx-auto py-3 w-full grid grid-cols-1 lg:grid-cols-4 gap-4 flex-1">
+    <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl min-h-[460px]">
+      <div>
+        <div class="flex justify-between items-center mb-2">
+          <span id="sec-tag" class="text-xs px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full font-bold">Loading...</span>
+          <span class="text-xs text-emerald-400 font-mono">+1.00 / -0.33</span>
+        </div>
+        <h2 id="qtxt" class="text-sm sm:text-base font-bold text-white mb-4 leading-relaxed">Loading questions from server...</h2>
+        <div id="opts" class="space-y-2 mb-3"></div>
+        <div id="exp" class="hidden p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 leading-relaxed"></div>
+      </div>
+      <div class="flex justify-between items-center pt-3 border-t border-slate-800">
+        <div id="action-btns" class="flex space-x-2">
+          <button onclick="markRev()" class="px-3 py-1.5 bg-purple-900/40 border border-purple-500/40 text-purple-300 rounded-lg text-xs font-bold">🔖 Review</button>
+          <button onclick="clearOpt()" class="px-3 py-1.5 bg-slate-800 rounded-lg text-xs">Clear</button>
+        </div>
+        <div class="flex space-x-2">
+          <button id="pbtn" onclick="prev()" class="px-3 py-1.5 bg-slate-800 rounded-lg text-xs">Prev</button>
+          <button id="nbtn" onclick="next()" class="px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-lg text-xs">Save & Next →</button>
+        </div>
+      </div>
+    </div>
+    <div class="bg-slate-900 border border-slate-800 p-4 rounded-2xl h-fit shadow-xl">
+      <div class="flex justify-between items-center mb-2">
+        <h3 class="text-xs font-bold uppercase text-slate-400">Question Palette</h3>
+        <span id="q-total-badge" class="text-[10px] text-emerald-400 font-mono font-bold">...</span>
+      </div>
+      <div id="grid" class="grid grid-cols-5 gap-1.5 mb-4 max-h-72 overflow-y-auto pr-1"></div>
+      <button onclick="submitExam()" class="w-full py-2.5 bg-gradient-to-r from-amber-400 to-emerald-400 hover:from-amber-300 hover:to-emerald-300 text-slate-950 font-black rounded-xl text-xs uppercase tracking-wider transition">Submit Test</button>
+    </div>
+  </main>
+  <div id="modal" class="fixed inset-0 bg-black/85 backdrop-blur-sm z-50 hidden flex items-center justify-center p-2 sm:p-4">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-xl w-full p-4 sm:p-5 space-y-3 shadow-2xl text-xs">
+      <div class="text-center">
+        <div class="text-2xl mb-0.5">🎯</div>
+        <h2 class="text-base font-black text-white">Smart Diagnostic Report</h2>
+        <p class="text-[10px] text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
+      </div>
+      <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2 rounded-xl text-center border border-slate-800">
+        <div><div class="text-[10px] text-slate-400">Score</div><div id="m-score" class="text-emerald-400 font-bold text-xs sm:text-sm">0</div></div>
+        <div><div class="text-[10px] text-slate-400">Accuracy</div><div id="m-acc" class="text-cyan-400 font-bold text-xs sm:text-sm">0%</div></div>
+        <div><div class="text-[10px] text-slate-400">Correct</div><div id="m-cor" class="text-emerald-400 font-bold text-xs sm:text-sm">0</div></div>
+        <div><div class="text-[10px] text-slate-400">Wrong</div><div id="m-inc" class="text-rose-400 font-bold text-xs sm:text-sm">0</div></div>
+      </div>
+      <div>
+        <div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Section Breakdown</div>
+        <div id="m-sec" class="grid grid-cols-2 gap-1.5"></div>
+      </div>
+      <div class="bg-slate-950 p-2 rounded-xl border border-slate-800">
+        <div class="flex justify-between items-center cursor-pointer" onclick="toggleHistory()">
+          <span class="font-bold text-white text-[11px] flex items-center space-x-1"><span>📈</span><span>Your Progress & Past Scores</span></span>
+          <span id="hist-toggle-btn" class="text-[10px] text-cyan-400 font-bold">Show ▼</span>
+        </div>
+        <div id="hist-box" class="hidden space-y-1 pt-1.5 mt-1 border-t border-slate-800/80 max-h-28 overflow-y-auto"></div>
+      </div>
+      <div id="m-rec" class="bg-amber-950/30 border border-amber-500/30 p-2.5 rounded-xl space-y-1">
+        <div class="text-amber-400 font-bold text-[10px]">⚠️ Focus Areas & 2-Minute Quick Revision:</div>
+        <div class="grid grid-cols-2 gap-x-2 gap-y-1 text-[11px]">
+          <a href="notes/maths-shortcuts.html" target="_blank" class="text-emerald-400 hover:underline truncate">📐 Maths Shortcuts Sheet →</a>
+          <a href="notes/polity-articles.html" target="_blank" class="text-cyan-400 hover:underline truncate">🏛️ Polity Articles & Writs →</a>
+          <a href="notes/reasoning-tricks.html" target="_blank" class="text-purple-400 hover:underline truncate">🧩 Reasoning Tricks →</a>
+          <a href="notes/english-rules.html" target="_blank" class="text-rose-400 hover:underline truncate">📖 English 50 Rules →</a>
+        </div>
+      </div>
+      <div class="grid grid-cols-4 gap-1.5 pt-2 border-t border-slate-800">
+        <button onclick="startRev()" class="py-2 px-1 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold rounded-lg text-[11px] text-center transition">📖 Solutions</button>
+        <button onclick="location.reload()" class="py-2 px-1 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold rounded-lg text-[11px] text-center border border-slate-700 transition">↺ Retest</button>
+        <a href="index.html" class="py-2 px-1 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-lg text-[11px] text-center transition flex items-center justify-center">🎯 Exam Hub</a>
+        <a href="../../index.html" class="py-2 px-1 bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold rounded-lg text-[11px] text-center border border-slate-700 transition flex items-center justify-center">🏠 EduHub Home</a>
+      </div>
+    </div>
+  </div>
+  <script>
+    
+    window.toggleFullScreen = function() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(() => {});
+      } else {
+        document.exitFullscreen().catch(() => {});
+      }
+    };
+
+    let qs = [], cur = 0, lang = "hi", rev = false, sel = [], time = 5400;
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const activeShift = urlParams.get("shift") || "shift1";
+    fetch("./data/defence_" + activeShift + ".json")
+      .then(res => res.json())
+      .then(data => {
+        qs = data; sel = Array(qs.length).fill(null);
+        document.getElementById("q-total-badge").innerText = qs.length + " Qs";
+        draw(); startTimer();
+      }).catch(err => { document.getElementById("qtxt").innerText = "Error loading questions. Please reload."; });
+
+    function startTimer() {
+      setInterval(function() {
+        if (time > 0 && !rev) {
+          time--;
+          const m = Math.floor(time / 60), s = time % 60;
+          document.getElementById("clock").innerText = String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
+          if (time === 0) finish();
+        }
+      }, 1000);
+    }
+
+    
+    function renderSectionTabs() {
+      const secs = ["General Awareness", "Quantitative Aptitude", "Reasoning", "English"];
+      const box = document.getElementById("sec-tabs");
+      if (!box) return;
+      box.innerHTML = secs.map(s => {
+        const isActive = qs[cur] && qs[cur].sec === s;
+        const cls = isActive ? "bg-emerald-500 text-slate-950 font-black" : "bg-slate-950 text-slate-300 hover:bg-slate-800 font-semibold";
+        return '<button onclick="jumpSection(\'' + s + '\')" class="px-3 py-1 rounded-lg text-[11px] whitespace-nowrap transition ' + cls + '">' + s + '</button>';
+      }).join("");
+    }
+
+    window.jumpSection = function(secName) {
+      const idx = qs.findIndex(q => q.sec === secName);
+      if (idx !== -1) { cur = idx; draw(); }
+    };
+
+    function draw() {
+      if (!qs.length) return;
+      const q = qs[cur];
+      document.getElementById("sec-tag").innerText = q.sec + " • Q" + (cur + 1) + " of " + qs.length;
+      const isEng = (q.sec === "English" || q.sec === "English Comprehension");
+      const activeLang = isEng ? "en" : lang;
+      document.getElementById("qtxt").innerText = (q.q && q.q[activeLang]) ? q.q[activeLang] : (q.q["en"] || q.q);
+      const lSel = document.getElementById("lang");
+      if (lSel) {
+        lSel.disabled = isEng;
+        lSel.className = isEng 
+          ? "bg-slate-900/50 border border-slate-800 px-2 py-1 rounded text-xs text-slate-500 font-bold cursor-not-allowed opacity-60" 
+          : "bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none";
+      }
+      document.getElementById("opts").innerHTML = q.o.map(function(opt, i) {
+        let s = "border-slate-800 bg-slate-950/60 hover:border-slate-700";
+        let mark = "";
+        if (rev) {
+          if (i === q.a) { s = "border-emerald-500 bg-emerald-950/50 text-emerald-300 font-bold"; mark = " ✓ Correct"; }
+          else if (sel[cur] === i) { s = "border-rose-500 bg-rose-950/50 text-rose-300 font-bold"; mark = " ✕ Wrong"; }
+        } else if (sel[cur] === i) { s = "border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold"; }
+        return '<div onclick="pick(' + i + ')" class="p-3 rounded-xl border text-xs cursor-pointer ' + s + ' flex justify-between"><span>' + String.fromCharCode(65 + i) + '. ' + opt + '</span><span class="font-bold">' + mark + '</span></div>';
+      }).join("");
+
+      const ex = document.getElementById("exp");
+      if (rev) {
+        ex.className = "p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 block";
+        ex.innerHTML = "<b>💡 Solution:</b> " + q.e;
+      } else { ex.className = "hidden"; }
+
+      document.getElementById("pbtn").disabled = cur === 0;
+      const nbtn = document.getElementById("nbtn");
+      if (cur === qs.length - 1 && !rev) {
+        nbtn.innerText = "Submit Test ✓";
+        nbtn.className = "px-4 py-1.5 bg-amber-400 text-slate-950 font-black rounded-lg text-xs";
+      } else {
+        nbtn.innerText = rev ? "Next →" : "Save & Next →";
+        nbtn.className = "px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-lg text-xs";
+      }
+      drawGrid();
+      renderSectionTabs();
+    }
+
+    function drawGrid() {
+      document.getElementById("grid").innerHTML = qs.map(function(q, i) {
+        let cls = "bg-slate-800 text-slate-400 border border-slate-700";
+        if (rev) {
+          cls = sel[i] === q.a ? "bg-emerald-500 text-slate-950 font-bold" : (sel[i] !== null ? "bg-rose-500 text-white font-bold" : cls);
+        } else if (sel[i] !== null) { cls = "bg-emerald-500 text-slate-950 font-bold"; }
+        return '<button onclick="jump(' + i + ')" class="h-7 rounded text-xs font-mono ' + cls + ' ' + (cur === i ? 'ring-2 ring-cyan-400' : '') + '">' + (i + 1) + '</button>';
+      }).join("");
+    }
+
+    window.pick = function(i) { if (!rev) { sel[cur] = i; draw(); } };
+    window.clearOpt = function() { if (!rev) { sel[cur] = null; draw(); } };
+    window.markRev = function() { if (!rev && cur < qs.length - 1) { cur++; draw(); } };
+    window.jump = function(i) { cur = i; draw(); };
+    window.prev = function() { if (cur > 0) { cur--; draw(); } };
+    window.next = function() {
+      if (cur === qs.length - 1 && !rev) { submitExam(); return; }
+      if (cur < qs.length - 1) cur++;
+      draw();
+    };
+    window.submitExam = function() { if (confirm("Submit SSC CGL Test?")) finish(); };
+
+    function saveAndRenderHistory(currentScore, maxScore, accuracy, cor, inc) {
+      const record = {
+        date: new Date().toLocaleDateString("en-IN", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }),
+        score: currentScore, maxScore: maxScore, acc: accuracy, cor: cor, inc: inc
+      };
+      let hist = [];
+      try { hist = JSON.parse(localStorage.getItem("smart_defence_history") || "[]"); } catch (e) { hist = []; }
+      hist.push(record);
+      localStorage.setItem("smart_defence_history", JSON.stringify(hist));
+      renderHistoryUI(hist);
+    }
+
+    function renderHistoryUI(hist) {
+      const box = document.getElementById("hist-box");
+      if (!hist || hist.length === 0) {
+        box.innerHTML = '<div class="text-slate-500 text-center py-1">Pehla test attempt record hua!</div>';
+        return;
+      }
+      let badge = "";
+      if (hist.length > 1) {
+        const first = parseFloat(hist[0].score), latest = parseFloat(hist[hist.length - 1].score);
+        const diff = (latest - first).toFixed(2);
+        if (diff > 0) badge = '<div class="text-emerald-400 text-[10px] font-bold p-1 bg-emerald-950/50 rounded text-center border border-emerald-500/30">🚀 Pehle attempt se score +' + diff + ' Marks badha hai!</div>';
+        else if (diff < 0) badge = '<div class="text-amber-400 text-[10px] font-bold p-1 bg-amber-950/50 rounded text-center border border-amber-500/30">⚠️ Score thoda kam hua. Solutions dhyan se padhein.</div>';
+        else badge = '<div class="text-cyan-400 text-[10px] font-bold p-1 bg-cyan-950/50 rounded text-center border border-cyan-500/30">🎯 Score consistent hai. Accuracy banaye rakhein.</div>';
+      }
+      box.innerHTML = badge + hist.slice().reverse().map(function(h, i) {
+        const num = hist.length - i;
+        return '<div class="flex justify-between items-center p-1.5 rounded bg-slate-900 border border-slate-800 text-[10px]">' +
+          '<div><b class="text-white">#' + num + '</b> <span class="text-slate-500 text-[9px]">(' + h.date + ')</span></div>' +
+          '<div class="font-mono"><span class="text-emerald-400 font-bold">' + h.score + '/' + h.maxScore + '</span> <span class="text-cyan-400 font-bold">(' + h.acc + '%)</span></div>' +
+        '</div>';
+      }).join("");
+    }
+
+    window.toggleHistory = function() {
+      const box = document.getElementById("hist-box");
+      const btn = document.getElementById("hist-toggle-btn");
+      if (box.classList.contains("hidden")) { box.classList.remove("hidden"); btn.innerText = "Hide ▲"; }
+      else { box.classList.add("hidden"); btn.innerText = "Show ▼"; }
+    };
+
+    function finish() {
+      let c = 0, inc = 0, st = {};
+      qs.forEach(function(q, i) {
+        if (!st[q.sec]) st[q.sec] = { tot: 0, cor: 0 };
+        st[q.sec].tot++;
+        if (sel[i] === q.a) { c++; st[q.sec].cor++; }
+        else if (sel[i] !== null) inc++;
+      });
+      const finalScore = ((c * 2) - (inc * 0.5)).toFixed(2);
+      const finalAcc = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0);
+
+      document.getElementById("m-score").innerText = finalScore + " / " + (qs.length * 2);
+      document.getElementById("m-acc").innerText = finalAcc + "%";
+      document.getElementById("m-cor").innerText = c;
+      document.getElementById("m-inc").innerText = inc;
+
+      document.getElementById("m-sec").innerHTML = Object.entries(st).map(function(entry) {
+        const name = entry[0], d = entry[1];
+        const a = Math.round(d.cor / d.tot * 100);
+        return '<div class="flex justify-between bg-slate-950 p-1.5 rounded border border-slate-800 text-[10px]"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
+      }).join("");
+
+      saveAndRenderHistory(finalScore, (qs.length * 2), finalAcc, c, inc);
+      document.getElementById("modal").classList.remove("hidden");
+    }
+
+    window.startRev = function() {
+      rev = true;
+      document.getElementById("modal").classList.add("hidden");
+      document.getElementById("rev-banner").classList.remove("hidden");
+      document.getElementById("action-btns").classList.add("hidden");
+      cur = 0; draw();
+    };
+
+    document.getElementById("lang").addEventListener("change", function(e) { lang = e.target.value; draw(); });
+  </script>
+</body>
+</html>
