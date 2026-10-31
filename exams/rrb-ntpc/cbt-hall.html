@@ -249,9 +249,9 @@
         score: currentScore, maxScore: maxScore, acc: accuracy, cor: cor, inc: inc
       };
       let hist = [];
-      try { hist = JSON.parse(localStorage.getItem("smart_rrb-ntpc_history") || "[]"); } catch (e) { hist = []; }
+      try { hist = JSON.parse(localStorage.getItem("smart_rrb_ntpc_history") || "[]"); } catch (e) { hist = []; }
       hist.push(record);
-      localStorage.setItem("smart_rrb-ntpc_history", JSON.stringify(hist));
+      localStorage.setItem("smart_rrb_ntpc_history", JSON.stringify(hist));
       renderHistoryUI(hist);
     }
 
