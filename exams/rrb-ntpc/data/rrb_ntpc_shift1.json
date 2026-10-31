@@ -1,1502 +1,1502 @@
 [
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "61st Amendment (1988) reduced voting age to:",
-      "hi": "61वें संशोधन द्वारा मतदान आयु की गई:"
+      "en": "Which instrument is used to measure Atmospheric Pressure?",
+      "hi": "वायुमंडलीय दबाव मापने के लिए किस यंत्र का उपयोग किया जाता है?"
     },
     "o": [
-      "18 Years",
-      "21 Years",
-      "25 Years",
-      "16 Years"
+      "Barometer",
+      "Thermometer",
+      "Anemometer",
+      "Hygrometer"
     ],
     "a": 0,
-    "e": "अनुच्छेद 326 में संशोधन कर 18 वर्ष की गई।"
+    "e": "बैरोमीटर (Barometer) वायुमंडलीय दबाव मापता है।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Supreme Court issues writs under Article:",
-      "hi": "सुप्रीम कोर्ट किस अनुच्छेद के तहत रिट जारी करता है:"
+      "en": "What is the chemical formula of Quick Lime?",
+      "hi": "बिना बुझे चूने (Quick Lime) का रासायनिक सूत्र क्या है?"
     },
     "o": [
-      "Art 32",
-      "Art 226",
-      "Art 14",
-      "Art 21"
+      "CaO",
+      "Ca(OH)2",
+      "CaCO3",
+      "CaCl2"
     ],
     "a": 0,
-    "e": "अनुच्छेद 32 के तहत 5 रिट।"
+    "e": "कैल्शियम ऑक्साइड (CaO) को Quick Lime कहते हैं।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "River known as 'Sorrow of Bengal':",
-      "hi": "'बंगाल का शोक' किस नदी को कहा जाता है:"
+      "en": "Sound waves cannot travel through:",
+      "hi": "ध्वनि तरंगें किसमें यात्रा नहीं कर सकतीं?"
     },
     "o": [
-      "Damodar",
-      "Hooghly",
-      "Kosi",
-      "Son"
+      "Vacuum",
+      "Water",
+      "Steel",
+      "Air"
     ],
     "a": 0,
-    "e": "दामोदर नदी।"
+    "e": "ध्वनि तरंगों को माध्यम की आवश्यकता होती है, निर्वात में नहीं चलतीं।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Founder of the Maurya Empire:",
-      "hi": "मौर्य साम्राज्य के संस्थापक कौन थे:"
+      "en": "Which organ in the human body produces bile juice?",
+      "hi": "मानव शरीर में पित्त रस (Bile) का निर्माण कौन करता है?"
     },
     "o": [
-      "Chandragupta Maurya",
-      "Ashoka",
-      "Bindusara",
-      "Harsha"
+      "Liver",
+      "Pancreas",
+      "Stomach",
+      "Kidney"
     ],
     "a": 0,
-    "e": "चंद्रगुप्त मौर्य।"
+    "e": "यकृत (Liver) पित्त बनाता है जो पित्ताशय में जमा होता है।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Emergency Hormone in human body:",
-      "hi": "मानव शरीर का आपातकालीन हार्मोन:"
+      "en": "First train in India ran between Bombay and Thane in:",
+      "hi": "भारत में पहली ट्रेन बॉम्बे से ठाणे के बीच किस वर्ष चली?"
     },
     "o": [
-      "Adrenaline",
-      "Insulin",
-      "Thyroxine",
-      "Glucagon"
-    ],
-    "a": 0,
-    "e": "एड्रेनालाईन।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Chemical name of Baking Soda:",
-      "hi": "बेकिंग सोडा का रासायनिक नाम:"
-    },
-    "o": [
-      "Sodium Bicarbonate",
-      "Sodium Carbonate",
-      "NaOH",
-      "KOH"
-    ],
-    "a": 0,
-    "e": "NaHCO3 (सोडियम बाइकार्बोनेट)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Tropic of Cancer passes through how many states?",
-      "hi": "कर्क रेखा भारत के कितने राज्यों से गुजरती है:"
-    },
-    "o": [
-      "8 States",
-      "7 States",
-      "6 States",
-      "9 States"
-    ],
-    "a": 0,
-    "e": "8 राज्यों से।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Who is known as Father of Economics?",
-      "hi": "अर्थशास्त्र का जनक किसे कहा जाता है:"
-    },
-    "o": [
-      "Adam Smith",
-      "Karl Marx",
-      "Keynes",
-      "Amartya Sen"
-    ],
-    "a": 0,
-    "e": "एडम स्मिथ।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "First Indian Governor-General:",
-      "hi": "प्रथम भारतीय गवर्नर-जनरल कौन थे:"
-    },
-    "o": [
-      "C. Rajagopalachari",
-      "Dr. Rajendra Prasad",
-      "Ambedkar",
-      "Nehru"
-    ],
-    "a": 0,
-    "e": "सी. राजगोपालाचारी।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Vitamin essential for blood clotting:",
-      "hi": "रक्त का थक्का जमाने वाला विटामिन:"
-    },
-    "o": [
-      "Vitamin K",
-      "Vitamin A",
-      "Vitamin C",
-      "Vitamin D"
-    ],
-    "a": 0,
-    "e": "विटामिन K।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Battle of Plassey took place in:",
-      "hi": "प्लासी का युद्ध किस वर्ष हुआ था:"
-    },
-    "o": [
-      "1757",
-      "1764",
+      "1853",
+      "1854",
       "1857",
-      "1761"
+      "1901"
     ],
     "a": 0,
-    "e": "23 जून 1757।"
+    "e": "16 अप्रैल 1853 को 34 किमी की दूरी पर पहली ट्रेन चली।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Highest peak of South India:",
-      "hi": "दक्षिण भारत की सबसे ऊंची चोटी:"
+      "en": "National Rail Museum of India is located at:",
+      "hi": "राष्ट्रीय रेल संग्रहालय कहाँ स्थित है?"
     },
     "o": [
-      "Anamudi",
-      "Doda Betta",
-      "Kalsubai",
-      "Guru Shikhar"
+      "New Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
     ],
     "a": 0,
-    "e": "अनाईमुडी (2695 मी)।"
+    "e": "चाणक्यपुरी, नई दिल्ली में स्थित है।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "SI unit of Electric Current:",
-      "hi": "विद्युत धारा का SI मात्रक:"
+      "en": "Which metal is the best conductor of electricity?",
+      "hi": "विद्युत का सर्वोत्तम चालक कौन सी धातु है?"
     },
     "o": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Watt"
+      "Silver",
+      "Copper",
+      "Aluminium",
+      "Gold"
     ],
     "a": 0,
-    "e": "एम्पीयर (A)।"
+    "e": "चांदी (Silver) विद्युत की सर्वोत्तम सुचालक है।"
   },
   {
-    "sec": "General Awareness",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Planet known as Red Planet:",
-      "hi": "सौरमंडल का लाल ग्रह:"
+      "en": "What is the pH value of pure water at 25°C?",
+      "hi": "25°C पर शुद्ध जल का pH मान क्या होता है?"
     },
     "o": [
-      "Mars",
-      "Venus",
-      "Jupiter",
-      "Mercury"
-    ],
-    "a": 0,
-    "e": "मंगल (Mars)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Longest river in Peninsular India:",
-      "hi": "प्रायद्वीपीय भारत की सबसे लंबी नदी:"
-    },
-    "o": [
-      "Godavari",
-      "Krishna",
-      "Kaveri",
-      "Narmada"
-    ],
-    "a": 0,
-    "e": "गोदावरी (1465 किमी)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Fundamental Duties Article:",
-      "hi": "मौलिक कर्तव्यों का अनुच्छेद:"
-    },
-    "o": [
-      "Article 51A",
-      "Article 19",
-      "Article 21A",
-      "Article 32"
-    ],
-    "a": 0,
-    "e": "अनुच्छेद 51A (42वां संशोधन)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Kuchipudi classical dance belongs to:",
-      "hi": "कुचिपुड़ी शास्त्रीय नृत्य किस राज्य का है:"
-    },
-    "o": [
-      "Andhra Pradesh",
-      "Kerala",
-      "Tamil Nadu",
-      "Odisha"
-    ],
-    "a": 0,
-    "e": "आंध्र प्रदेश।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Living cell first discovered by:",
-      "hi": "जीवित कोशिका की खोज किसने की:"
-    },
-    "o": [
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke",
-      "Brown",
-      "Schwann"
-    ],
-    "a": 0,
-    "e": "ल्यूवेनहॉक (1674)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Monetary Policy Committee headed by:",
-      "hi": "मौद्रिक नीति समिति के अध्यक्ष:"
-    },
-    "o": [
-      "RBI Governor",
-      "Finance Minister",
-      "PM",
-      "SEBI Chief"
-    ],
-    "a": 0,
-    "e": "RBI गवर्नर।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "National Science Day date:",
-      "hi": "राष्ट्रीय विज्ञान दिवस कब मनाया जाता है:"
-    },
-    "o": [
-      "28th February",
-      "15th January",
-      "28th March",
-      "5th September"
-    ],
-    "a": 0,
-    "e": "28 फरवरी (रमन प्रभाव)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Panchayati Raj first started in:",
-      "hi": "पंचायती राज सर्वप्रथम किस जिले में शुरू हुआ:"
-    },
-    "o": [
-      "Nagaur (Rajasthan)",
-      "Belgaum",
-      "Surat",
-      "Satara"
-    ],
-    "a": 0,
-    "e": "नागौर (1959)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Harappan dockyard site:",
-      "hi": "हड़प्पा गोदीबाड़ा स्थल:"
-    },
-    "o": [
-      "Lothal",
-      "Kalibangan",
-      "Mohenjo-daro",
-      "Rakhigarhi"
-    ],
-    "a": 0,
-    "e": "लोथल (गुजरात)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "First woman President of INC:",
-      "hi": "कांग्रेस की प्रथम महिला अध्यक्ष:"
-    },
-    "o": [
-      "Annie Besant",
-      "Sarojini Naidu",
-      "Kadambini",
-      "Indira Gandhi"
-    ],
-    "a": 0,
-    "e": "एनी बेसेंट (1917)।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Kalinga war fought in:",
-      "hi": "कलिंग युद्ध किस वर्ष हुआ:"
-    },
-    "o": [
-      "261 BCE",
-      "326 BCE",
-      "273 BCE",
-      "185 BCE"
-    ],
-    "a": 0,
-    "e": "261 ईसा पूर्व।"
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Primary gas for Greenhouse Effect:",
-      "hi": "ग्रीनहाउस प्रभाव की प्रमुख गैस:"
-    },
-    "o": [
-      "Water Vapor",
-      "Methane",
-      "Ozone",
-      "Argon"
-    ],
-    "a": 0,
-    "e": "जलवाष्प (Water Vapor)।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Markup 40%, Discount 25%. Profit %:",
-      "hi": "मार्कअप 40%, छूट 25%. लाभ %:"
-    },
-    "o": [
-      "5%",
-      "10%",
-      "15%",
-      "12%"
-    ],
-    "a": 0,
-    "e": "40 - 25 - 10 = 5%"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Sum doubles in 5 yrs at SI. 4 times in:",
-      "hi": "धन 5 वर्ष में दोगुना. 4 गुना होगा:"
-    },
-    "o": [
-      "15 Years",
-      "10 Years",
-      "12 Years",
-      "20 Years"
-    ],
-    "a": 0,
-    "e": "(4-1)/(2-1)*5 = 15 वर्ष"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "A takes 10 days, B takes 15 days. Together:",
-      "hi": "A को 10 दिन, B को 15 दिन. मिलकर:"
-    },
-    "o": [
-      "6 Days",
-      "5 Days",
-      "8 Days",
-      "7.5 Days"
-    ],
-    "a": 0,
-    "e": "150/25 = 6 दिन"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Value of (sin 30° + cos 60°):",
-      "hi": "(sin 30° + cos 60°) का मान:"
-    },
-    "o": [
-      "1",
-      "1/2",
-      "√3",
+      "7.0",
+      "6.0",
+      "8.0",
       "0"
     ],
     "a": 0,
-    "e": "1/2 + 1/2 = 1"
+    "e": "शुद्ध जल उदासीन होता है, pH = 7.0."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "150m train crosses pole in 10s. Speed km/h:",
-      "hi": "150मी ट्रेन 10सेकंड में पार करती है. गति:"
+      "en": "Which gas is used in fire extinguishers?",
+      "hi": "अग्निशामक यंत्रों में कौन सी गैस उपयोग की जाती है?"
     },
     "o": [
-      "54 km/h",
-      "45 km/h",
-      "60 km/h",
-      "72 km/h"
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
     ],
     "a": 0,
-    "e": "15 * 18/5 = 54 km/h"
+    "e": "CO2 आग को बुझाने में मदद करती है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Average of first 5 primes (2,3,5,7,11):",
-      "hi": "प्रथम 5 अभाज्य संख्याओं का औसत:"
+      "en": "Who gave the Universal Law of Gravitation?",
+      "hi": "गुरुत्वाकर्षण का सार्वभौमिक नियम किसने दिया?"
     },
     "o": [
-      "5.6",
-      "5.2",
+      "Isaac Newton",
+      "Galileo",
+      "Einstein",
+      "Kepler"
+    ],
+    "a": 0,
+    "e": "सर आइजैक न्यूटन ने 1687 में यह नियम दिया।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Electric bulb filament is made of:",
+      "hi": "विद्युत बल्ब का फिलामेंट किस धातु का बना होता है?"
+    },
+    "o": [
+      "Tungsten",
+      "Nichrome",
+      "Copper",
+      "Iron"
+    ],
+    "a": 0,
+    "e": "उच्च गलनांक के कारण टंगस्टन (W) का उपयोग होता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Which blood group is known as Universal Donor?",
+      "hi": "किस रक्त समूह को 'सर्वदाता' कहा जाता है?"
+    },
+    "o": [
+      "O Negative",
+      "O Positive",
+      "AB Positive",
+      "AB Negative"
+    ],
+    "a": 0,
+    "e": "O नेगेटिव में कोई एंटीजन नहीं होता।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Deficiency of Vitamin D causes which disease?",
+      "hi": "विटामिन D की कमी से कौन सा रोग होता है?"
+    },
+    "o": [
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Night Blindness"
+    ],
+    "a": 0,
+    "e": "बच्चों में रिकेट्स (सूखा रोग) होता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Largest railway zone in India by route kilometers is:",
+      "hi": "मार्ग किमी के अनुसार भारत का सबसे बड़ा रेलवे जोन:"
+    },
+    "o": [
+      "Northern Railway",
+      "Western Railway",
+      "Southern Railway",
+      "Eastern Railway"
+    ],
+    "a": 0,
+    "e": "उत्तर रेलवे (Northern Railway)."
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Where is Integral Coach Factory (ICF) located?",
+      "hi": "इंटीग्रल कोच फैक्ट्री (ICF) कहाँ स्थित है?"
+    },
+    "o": [
+      "Perambur (Chennai)",
+      "Kapurthala",
+      "Varanasi",
+      "Chittaranjan"
+    ],
+    "a": 0,
+    "e": "पेरम्बूर (चेन्नई) में स्थित है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "What is the unit of Force in SI system?",
+      "hi": "SI पद्धति में बल (Force) का मात्रक क्या है?"
+    },
+    "o": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "a": 0,
+    "e": "बल का SI मात्रक न्यूटन (N) है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "What type of mirror is used in automobiles as rear-view mirror?",
+      "hi": "वाहनों में पीछे देखने के लिए किस दर्पण का उपयोग होता है?"
+    },
+    "o": [
+      "Convex Mirror",
+      "Concave Mirror",
+      "Plane Mirror",
+      "Cylindrical Mirror"
+    ],
+    "a": 0,
+    "e": "उत्तल दर्पण (Convex) बड़ा दृश्य क्षेत्र देता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Normal human body temperature in Celsius is:",
+      "hi": "सेल्सियस में मानव शरीर का सामान्य तापमान कितना है?"
+    },
+    "o": [
+      "37°C",
+      "36°C",
+      "38°C",
+      "35°C"
+    ],
+    "a": 0,
+    "e": "लगभग 37°C (98.6°F)."
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Which acid is present in lemon juice?",
+      "hi": "नींबू के रस में कौन सा अम्ल पाया जाता है?"
+    },
+    "o": [
+      "Citric Acid",
+      "Acetic Acid",
+      "Tartaric Acid",
+      "Oxalic Acid"
+    ],
+    "a": 0,
+    "e": "नींबू और संतरे में साइट्रिक अम्ल होता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "Which layer of the atmosphere contains the Ozone Layer?",
+      "hi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है?"
+    },
+    "o": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "a": 0,
+    "e": "समताप मंडल (Stratosphere) में ओजोन परत होती है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] Which instrument is used to measure Atmospheric Pressure?",
+      "hi": "[भाग 2] वायुमंडलीय दबाव मापने के लिए किस यंत्र का उपयोग किया जाता है?"
+    },
+    "o": [
+      "Barometer",
+      "Thermometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "a": 0,
+    "e": "बैरोमीटर (Barometer) वायुमंडलीय दबाव मापता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] What is the chemical formula of Quick Lime?",
+      "hi": "[भाग 2] बिना बुझे चूने (Quick Lime) का रासायनिक सूत्र क्या है?"
+    },
+    "o": [
+      "CaO",
+      "Ca(OH)2",
+      "CaCO3",
+      "CaCl2"
+    ],
+    "a": 0,
+    "e": "कैल्शियम ऑक्साइड (CaO) को Quick Lime कहते हैं।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] Sound waves cannot travel through:",
+      "hi": "[भाग 2] ध्वनि तरंगें किसमें यात्रा नहीं कर सकतीं?"
+    },
+    "o": [
+      "Vacuum",
+      "Water",
+      "Steel",
+      "Air"
+    ],
+    "a": 0,
+    "e": "ध्वनि तरंगों को माध्यम की आवश्यकता होती है, निर्वात में नहीं चलतीं।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] Which organ in the human body produces bile juice?",
+      "hi": "[भाग 2] मानव शरीर में पित्त रस (Bile) का निर्माण कौन करता है?"
+    },
+    "o": [
+      "Liver",
+      "Pancreas",
+      "Stomach",
+      "Kidney"
+    ],
+    "a": 0,
+    "e": "यकृत (Liver) पित्त बनाता है जो पित्ताशय में जमा होता है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] First train in India ran between Bombay and Thane in:",
+      "hi": "[भाग 2] भारत में पहली ट्रेन बॉम्बे से ठाणे के बीच किस वर्ष चली?"
+    },
+    "o": [
+      "1853",
+      "1854",
+      "1857",
+      "1901"
+    ],
+    "a": 0,
+    "e": "16 अप्रैल 1853 को 34 किमी की दूरी पर पहली ट्रेन चली।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] National Rail Museum of India is located at:",
+      "hi": "[भाग 2] राष्ट्रीय रेल संग्रहालय कहाँ स्थित है?"
+    },
+    "o": [
+      "New Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
+    ],
+    "a": 0,
+    "e": "चाणक्यपुरी, नई दिल्ली में स्थित है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] Which metal is the best conductor of electricity?",
+      "hi": "[भाग 2] विद्युत का सर्वोत्तम चालक कौन सी धातु है?"
+    },
+    "o": [
+      "Silver",
+      "Copper",
+      "Aluminium",
+      "Gold"
+    ],
+    "a": 0,
+    "e": "चांदी (Silver) विद्युत की सर्वोत्तम सुचालक है।"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": {
+      "en": "[Set B] What is the pH value of pure water at 25°C?",
+      "hi": "[भाग 2] 25°C पर शुद्ध जल का pH मान क्या होता है?"
+    },
+    "o": [
+      "7.0",
       "6.0",
-      "6.4"
+      "8.0",
+      "0"
     ],
     "a": 0,
-    "e": "28/5 = 5.6"
+    "e": "शुद्ध जल उदासीन होता है, pH = 7.0."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "If x + 1/x = 4, then x² + 1/x²:",
-      "hi": "यदि x + 1/x = 4, तो x² + 1/x²:"
+      "en": "[Set B] Which gas is used in fire extinguishers?",
+      "hi": "[भाग 2] अग्निशामक यंत्रों में कौन सी गैस उपयोग की जाती है?"
     },
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
     ],
     "a": 0,
-    "e": "4² - 2 = 14"
+    "e": "CO2 आग को बुझाने में मदद करती है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "SP ₹840 at 20% loss. CP was:",
-      "hi": "₹840 में 20% हानि पर बेची. CP था:"
+      "en": "[Set B] Who gave the Universal Law of Gravitation?",
+      "hi": "[भाग 2] गुरुत्वाकर्षण का सार्वभौमिक नियम किसने दिया?"
     },
     "o": [
-      "₹1050",
-      "₹1000",
-      "₹1100",
-      "₹980"
+      "Isaac Newton",
+      "Galileo",
+      "Einstein",
+      "Kepler"
     ],
     "a": 0,
-    "e": "840/0.8 = ₹1050"
+    "e": "सर आइजैक न्यूटन ने 1687 में यह नियम दिया।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Successive discounts 20% and 10%:",
-      "hi": "20% और 10% की क्रमिक छूट:"
+      "en": "[Set B] Electric bulb filament is made of:",
+      "hi": "[भाग 2] विद्युत बल्ब का फिलामेंट किस धातु का बना होता है?"
     },
     "o": [
-      "28%",
-      "30%",
-      "25%",
-      "26%"
+      "Tungsten",
+      "Nichrome",
+      "Copper",
+      "Iron"
     ],
     "a": 0,
-    "e": "20 + 10 - 2 = 28%"
+    "e": "उच्च गलनांक के कारण टंगस्टन (W) का उपयोग होता है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Ratio 3:5, LCM 150. Sum is:",
-      "hi": "अनुपात 3:5, LCM 150. योग:"
+      "en": "[Set B] Which blood group is known as Universal Donor?",
+      "hi": "[भाग 2] किस रक्त समूह को 'सर्वदाता' कहा जाता है?"
     },
     "o": [
-      "80",
-      "70",
-      "90",
-      "100"
+      "O Negative",
+      "O Positive",
+      "AB Positive",
+      "AB Negative"
     ],
     "a": 0,
-    "e": "30 + 50 = 80"
+    "e": "O नेगेटिव में कोई एंटीजन नहीं होता।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "CI on ₹8,000 for 2 yrs at 5%:",
-      "hi": "₹8,000 पर 5% से 2 वर्ष का CI:"
+      "en": "[Set B] Deficiency of Vitamin D causes which disease?",
+      "hi": "[भाग 2] विटामिन D की कमी से कौन सा रोग होता है?"
     },
     "o": [
-      "₹820",
-      "₹800",
-      "₹840",
-      "₹850"
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Night Blindness"
     ],
     "a": 0,
-    "e": "8000*(1.05)² - 8000 = ₹820"
+    "e": "बच्चों में रिकेट्स (सूखा रोग) होता है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Square perimeter 48cm. Area:",
-      "hi": "वर्ग परिमाप 48सेमी. क्षेत्रफल:"
+      "en": "[Set B] Largest railway zone in India by route kilometers is:",
+      "hi": "[भाग 2] मार्ग किमी के अनुसार भारत का सबसे बड़ा रेलवे जोन:"
     },
     "o": [
-      "144 cm²",
-      "196 cm²",
-      "120 cm²",
-      "160 cm²"
+      "Northern Railway",
+      "Western Railway",
+      "Southern Railway",
+      "Eastern Railway"
     ],
     "a": 0,
-    "e": "12² = 144 cm²"
+    "e": "उत्तर रेलवे (Northern Railway)."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "If tan θ = 4/3, value of sin θ:",
-      "hi": "यदि tan θ = 4/3, तो sin θ:"
+      "en": "[Set B] Where is Integral Coach Factory (ICF) located?",
+      "hi": "[भाग 2] इंटीग्रल कोच फैक्ट्री (ICF) कहाँ स्थित है?"
     },
     "o": [
-      "4/5",
-      "3/5",
-      "5/4",
-      "3/4"
+      "Perambur (Chennai)",
+      "Kapurthala",
+      "Varanasi",
+      "Chittaranjan"
     ],
     "a": 0,
-    "e": "लंब/कर्ण = 4/5"
+    "e": "पेरम्बूर (चेन्नई) में स्थित है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Speed 60 km/h. Time for 360 km:",
-      "hi": "गति 60 km/h. 360 किमी में समय:"
+      "en": "[Set B] What is the unit of Force in SI system?",
+      "hi": "[भाग 2] SI पद्धति में बल (Force) का मात्रक क्या है?"
     },
     "o": [
-      "6 Hours",
-      "5 Hours",
-      "7 Hours",
-      "8 Hours"
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
     ],
     "a": 0,
-    "e": "360/60 = 6 घंटे"
+    "e": "बल का SI मात्रक न्यूटन (N) है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "HCF of 36 and 84:",
-      "hi": "36 और 84 का HCF:"
+      "en": "[Set B] What type of mirror is used in automobiles as rear-view mirror?",
+      "hi": "[भाग 2] वाहनों में पीछे देखने के लिए किस दर्पण का उपयोग होता है?"
     },
     "o": [
-      "12",
-      "6",
-      "18",
-      "24"
+      "Convex Mirror",
+      "Concave Mirror",
+      "Plane Mirror",
+      "Cylindrical Mirror"
     ],
     "a": 0,
-    "e": "HCF = 12"
+    "e": "उत्तल दर्पण (Convex) बड़ा दृश्य क्षेत्र देता है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Radius 7cm. Circle perimeter:",
-      "hi": "त्रिज्या 7सेमी. वृत्त परिधि:"
+      "en": "[Set B] Normal human body temperature in Celsius is:",
+      "hi": "[भाग 2] सेल्सियस में मानव शरीर का सामान्य तापमान कितना है?"
     },
     "o": [
-      "44 cm",
-      "88 cm",
-      "154 cm",
-      "22 cm"
+      "37°C",
+      "36°C",
+      "38°C",
+      "35°C"
     ],
     "a": 0,
-    "e": "2*22/7*7 = 44 cm"
+    "e": "लगभग 37°C (98.6°F)."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "If 15% of A = 20% of B, ratio A:B:",
-      "hi": "A का 15% = B का 20%, A:B:"
+      "en": "[Set B] Which acid is present in lemon juice?",
+      "hi": "[भाग 2] नींबू के रस में कौन सा अम्ल पाया जाता है?"
     },
     "o": [
-      "4 : 3",
-      "3 : 4",
-      "2 : 3",
-      "5 : 4"
+      "Citric Acid",
+      "Acetic Acid",
+      "Tartaric Acid",
+      "Oxalic Acid"
     ],
     "a": 0,
-    "e": "20/15 = 4:3"
+    "e": "नींबू और संतरे में साइट्रिक अम्ल होता है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Awareness & Science",
     "q": {
-      "en": "Angles ratio 2:3:4. Largest angle:",
-      "hi": "कोण 2:3:4 अनुपात में. सबसे बड़ा कोण:"
+      "en": "[Set B] Which layer of the atmosphere contains the Ozone Layer?",
+      "hi": "[भाग 2] वायुमंडल की किस परत में ओजोन परत पाई जाती है?"
     },
     "o": [
-      "80°",
-      "60°",
-      "70°",
-      "90°"
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
     ],
     "a": 0,
-    "e": "4 * 20° = 80°"
+    "e": "समताप मंडल (Stratosphere) में ओजोन परत होती है।"
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "Mathematics",
     "q": {
-      "en": "If a² - b² = 56 and a - b = 7, a+b:",
-      "hi": "यदि a² - b² = 56 और a - b = 7, a+b:"
+      "en": "Railway Math Q1: If train speed is 38 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 1: यदि ट्रेन की गति 38 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "190 km",
+      "200 km",
+      "180 km",
+      "152 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 38 × 5 = 190 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q2: If train speed is 40 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 2: यदि ट्रेन की गति 40 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "200 km",
+      "210 km",
+      "190 km",
+      "160 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 40 × 5 = 200 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q3: If train speed is 42 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 3: यदि ट्रेन की गति 42 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "210 km",
+      "220 km",
+      "200 km",
+      "168 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 42 × 5 = 210 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q4: If train speed is 44 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 4: यदि ट्रेन की गति 44 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "220 km",
+      "230 km",
+      "210 km",
+      "176 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 44 × 5 = 220 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q5: If train speed is 46 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 5: यदि ट्रेन की गति 46 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "230 km",
+      "240 km",
+      "220 km",
+      "184 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 46 × 5 = 230 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q6: If train speed is 48 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 6: यदि ट्रेन की गति 48 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "240 km",
+      "250 km",
+      "230 km",
+      "192 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 48 × 5 = 240 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q7: If train speed is 50 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 7: यदि ट्रेन की गति 50 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "250 km",
+      "260 km",
+      "240 km",
+      "200 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 50 × 5 = 250 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q8: If train speed is 52 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 8: यदि ट्रेन की गति 52 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "260 km",
+      "270 km",
+      "250 km",
+      "208 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 52 × 5 = 260 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q9: If train speed is 54 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 9: यदि ट्रेन की गति 54 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "270 km",
+      "280 km",
+      "260 km",
+      "216 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 54 × 5 = 270 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q10: If train speed is 56 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 10: यदि ट्रेन की गति 56 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "280 km",
+      "290 km",
+      "270 km",
+      "224 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 56 × 5 = 280 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q11: If train speed is 58 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 11: यदि ट्रेन की गति 58 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "290 km",
+      "300 km",
+      "280 km",
+      "232 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 58 × 5 = 290 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q12: If train speed is 60 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 12: यदि ट्रेन की गति 60 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "300 km",
+      "310 km",
+      "290 km",
+      "240 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 60 × 5 = 300 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q13: If train speed is 62 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 13: यदि ट्रेन की गति 62 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "310 km",
+      "320 km",
+      "300 km",
+      "248 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 62 × 5 = 310 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q14: If train speed is 64 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 14: यदि ट्रेन की गति 64 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "320 km",
+      "330 km",
+      "310 km",
+      "256 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 64 × 5 = 320 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q15: If train speed is 66 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 15: यदि ट्रेन की गति 66 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "330 km",
+      "340 km",
+      "320 km",
+      "264 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 66 × 5 = 330 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q16: If train speed is 68 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 16: यदि ट्रेन की गति 68 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "340 km",
+      "350 km",
+      "330 km",
+      "272 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 68 × 5 = 340 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q17: If train speed is 70 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 17: यदि ट्रेन की गति 70 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "350 km",
+      "360 km",
+      "340 km",
+      "280 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 70 × 5 = 350 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q18: If train speed is 72 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 18: यदि ट्रेन की गति 72 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "360 km",
+      "370 km",
+      "350 km",
+      "288 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 72 × 5 = 360 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q19: If train speed is 74 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 19: यदि ट्रेन की गति 74 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "370 km",
+      "380 km",
+      "360 km",
+      "296 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 74 × 5 = 370 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q20: If train speed is 76 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 20: यदि ट्रेन की गति 76 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "380 km",
+      "390 km",
+      "370 km",
+      "304 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 76 × 5 = 380 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q21: If train speed is 78 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 21: यदि ट्रेन की गति 78 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "390 km",
+      "400 km",
+      "380 km",
+      "312 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 78 × 5 = 390 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q22: If train speed is 80 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 22: यदि ट्रेन की गति 80 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "400 km",
+      "410 km",
+      "390 km",
+      "320 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 80 × 5 = 400 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q23: If train speed is 82 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 23: यदि ट्रेन की गति 82 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "410 km",
+      "420 km",
+      "400 km",
+      "328 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 82 × 5 = 410 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q24: If train speed is 84 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 24: यदि ट्रेन की गति 84 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "420 km",
+      "430 km",
+      "410 km",
+      "336 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 84 × 5 = 420 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q25: If train speed is 86 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 25: यदि ट्रेन की गति 86 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "430 km",
+      "440 km",
+      "420 km",
+      "344 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 86 × 5 = 430 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q26: If train speed is 88 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 26: यदि ट्रेन की गति 88 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "440 km",
+      "450 km",
+      "430 km",
+      "352 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 88 × 5 = 440 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q27: If train speed is 90 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 27: यदि ट्रेन की गति 90 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "450 km",
+      "460 km",
+      "440 km",
+      "360 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 90 × 5 = 450 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q28: If train speed is 92 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 28: यदि ट्रेन की गति 92 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "460 km",
+      "470 km",
+      "450 km",
+      "368 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 92 × 5 = 460 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q29: If train speed is 94 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 29: यदि ट्रेन की गति 94 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "470 km",
+      "480 km",
+      "460 km",
+      "376 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 94 × 5 = 470 किमी।"
+  },
+  {
+    "sec": "Mathematics",
+    "q": {
+      "en": "Railway Math Q30: If train speed is 96 km/h, distance in 5 hours is:",
+      "hi": "रेलवे गणित प्रश्न 30: यदि ट्रेन की गति 96 किमी/घंटा है, तो 5 घंटे में दूरी होगी:"
+    },
+    "o": [
+      "480 km",
+      "490 km",
+      "470 km",
+      "384 km"
+    ],
+    "a": 0,
+    "e": "दूरी = गति × समय = 96 × 5 = 480 किमी।"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": {
+      "en": "Railway Reasoning Q1: Find missing term: 2, 4, 6, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 1: लुप्त पद ज्ञात करें: 2, 4, 6, ?"
     },
     "o": [
       "8",
       "7",
-      "9",
-      "6"
+      "10",
+      "9"
     ],
     "a": 0,
-    "e": "56/7 = 8"
+    "e": "प्रत्येक पद में +2 की वृद्धि हो रही है। अगला पद = 8."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Pipe A 6h fill, Pipe B 9h empty. Net:",
-      "hi": "नल A 6घंटे भरता, B 9घंटे खाली. समय:"
+      "en": "Railway Reasoning Q2: Find missing term: 4, 8, 12, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 2: लुप्त पद ज्ञात करें: 4, 8, 12, ?"
     },
     "o": [
-      "18 Hours",
-      "15 Hours",
-      "12 Hours",
-      "20 Hours"
-    ],
-    "a": 0,
-    "e": "1/(1/6 - 1/9) = 18 घंटे"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Mean of 10 nums is 25. Add 5 to each:",
-      "hi": "10 संख्याओं का औसत 25. प्रत्येक +5:"
-    },
-    "o": [
-      "30",
-      "25",
-      "35",
-      "50"
-    ],
-    "a": 0,
-    "e": "25 + 5 = 30"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Evaluate: 25 - 5*2 + 10/2:",
-      "hi": "हल करें: 25 - 5*2 + 10/2:"
-    },
-    "o": [
+      "16",
+      "14",
       "20",
-      "25",
-      "15",
-      "30"
+      "18"
     ],
     "a": 0,
-    "e": "25 - 10 + 5 = 20"
+    "e": "प्रत्येक पद में +4 की वृद्धि हो रही है। अगला पद = 16."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Volume of 5cm cube:",
-      "hi": "5 सेमी घन का आयतन:"
+      "en": "Railway Reasoning Q3: Find missing term: 6, 12, 18, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 3: लुप्त पद ज्ञात करें: 6, 12, 18, ?"
     },
     "o": [
-      "125 cm³",
-      "100 cm³",
-      "150 cm³",
-      "75 cm³"
+      "24",
+      "21",
+      "30",
+      "27"
     ],
     "a": 0,
-    "e": "5³ = 125 cm³"
+    "e": "प्रत्येक पद में +6 की वृद्धि हो रही है। अगला पद = 24."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "If 2^(x+3) = 32, find x:",
-      "hi": "यदि 2^(x+3) = 32, तो x:"
+      "en": "Railway Reasoning Q4: Find missing term: 8, 16, 24, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 4: लुप्त पद ज्ञात करें: 8, 16, 24, ?"
     },
     "o": [
-      "2",
-      "1",
-      "3",
-      "4"
-    ],
-    "a": 0,
-    "e": "x+3 = 5 => x = 2"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "en": "Diagonal of 6cm x 8cm rectangle:",
-      "hi": "6सेमी x 8सेमी आयत का विकर्ण:"
-    },
-    "o": [
-      "10 cm",
-      "12 cm",
-      "14 cm",
-      "15 cm"
-    ],
-    "a": 0,
-    "e": "√(36+64) = 10 cm"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Find odd pair:",
-      "hi": "विषम युग्म ज्ञात करें:"
-    },
-    "o": [
-      "18 : 320",
-      "12 : 144",
-      "14 : 196",
-      "16 : 256"
-    ],
-    "a": 0,
-    "e": "18² = 324 होता है, 320 नहीं।"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Next in series: 2, 6, 12, 20, 30, ?",
-      "hi": "श्रृंखला में अगली संख्या: 2, 6, 12, 20, 30, ?"
-    },
-    "o": [
-      "42",
-      "40",
-      "44",
-      "46"
-    ],
-    "a": 0,
-    "e": "30 + 12 = 42."
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "If 'CAT' is coded 24, 'DOG' is coded:",
-      "hi": "यदि 'CAT' = 24, तो 'DOG' का कोड:"
-    },
-    "o": [
-      "26",
+      "32",
       "28",
-      "30",
-      "32"
+      "40",
+      "36"
     ],
     "a": 0,
-    "e": "4 + 15 + 7 = 26."
+    "e": "प्रत्येक पद में +8 की वृद्धि हो रही है। अगला पद = 32."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Book : Author :: Painting : ?",
-      "hi": "पुस्तक : लेखक :: चित्रकला : ?"
+      "en": "Railway Reasoning Q5: Find missing term: 10, 20, 30, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 5: लुप्त पद ज्ञात करें: 10, 20, 30, ?"
     },
     "o": [
-      "Painter",
-      "Brush",
-      "Canvas",
-      "Color"
+      "40",
+      "35",
+      "50",
+      "45"
     ],
     "a": 0,
-    "e": "चित्रकार चित्र बनाता है।"
+    "e": "प्रत्येक पद में +10 की वृद्धि हो रही है। अगला पद = 40."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "In row of 30, Amit is 12th from left. From right:",
-      "hi": "30 छात्रों में अमित बाएं से 12वां. दाएं से:"
+      "en": "Railway Reasoning Q6: Find missing term: 12, 24, 36, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 6: लुप्त पद ज्ञात करें: 12, 24, 36, ?"
     },
     "o": [
-      "19th",
-      "18th",
-      "20th",
-      "21st"
+      "48",
+      "42",
+      "60",
+      "54"
     ],
     "a": 0,
-    "e": "(30 - 12) + 1 = 19वां।"
+    "e": "प्रत्येक पद में +12 की वृद्धि हो रही है। अगला पद = 48."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Mother is only daughter of my mother:",
-      "hi": "मेरी माँ की इकलौती बेटी की बेटी:"
+      "en": "Railway Reasoning Q7: Find missing term: 14, 28, 42, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 7: लुप्त पद ज्ञात करें: 14, 28, 42, ?"
     },
     "o": [
-      "Niece",
-      "Daughter",
-      "Sister",
-      "Aunt"
+      "56",
+      "49",
+      "70",
+      "63"
     ],
     "a": 0,
-    "e": "बहन की बेटी = भानजी (Niece)."
+    "e": "प्रत्येक पद में +14 की वृद्धि हो रही है। अगला पद = 56."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Court : Tennis :: Pitch : ?",
-      "hi": "कोर्ट : टेनिस :: पिच : ?"
+      "en": "Railway Reasoning Q8: Find missing term: 16, 32, 48, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 8: लुप्त पद ज्ञात करें: 16, 32, 48, ?"
     },
     "o": [
-      "Cricket",
-      "Badminton",
-      "Boxing",
-      "Skating"
+      "64",
+      "56",
+      "80",
+      "72"
     ],
     "a": 0,
-    "e": "क्रिकेट पिच पर खेला जाता है।"
+    "e": "प्रत्येक पद में +16 की वृद्धि हो रही है। अगला पद = 64."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Find odd one out:",
-      "hi": "विषम शब्द चुनें:"
+      "en": "Railway Reasoning Q9: Find missing term: 18, 36, 54, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 9: लुप्त पद ज्ञात करें: 18, 36, 54, ?"
     },
     "o": [
-      "Diamond",
-      "Copper",
-      "Silver",
-      "Gold"
+      "72",
+      "63",
+      "90",
+      "81"
     ],
     "a": 0,
-    "e": "हीरा अधातु है, बाकी धातुएं हैं।"
+    "e": "प्रत्येक पद में +18 की वृद्धि हो रही है। अगला पद = 72."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "If 'ROAD' is 'URDG', 'SWAN' is:",
-      "hi": "यदि 'ROAD' = 'URDG', तो 'SWAN':"
+      "en": "Railway Reasoning Q10: Find missing term: 20, 40, 60, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 10: लुप्त पद ज्ञात करें: 20, 40, 60, ?"
     },
     "o": [
-      "VXDQ",
-      "VZCQ",
-      "UXDQ",
-      "VZDQ"
+      "80",
+      "70",
+      "100",
+      "90"
     ],
     "a": 0,
-    "e": "+3 rule => VXDQ."
+    "e": "प्रत्येक पद में +20 की वृद्धि हो रही है। अगला पद = 80."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Complete series: B, D, G, K, P, ?",
-      "hi": "श्रृंखला पूर्ण करें: B, D, G, K, P, ?"
+      "en": "Railway Reasoning Q11: Find missing term: 22, 44, 66, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 11: लुप्त पद ज्ञात करें: 22, 44, 66, ?"
     },
     "o": [
-      "V",
-      "S",
-      "T",
-      "W"
+      "88",
+      "77",
+      "110",
+      "99"
     ],
     "a": 0,
-    "e": "16 + 6 = 22 (V)."
+    "e": "प्रत्येक पद में +22 की वृद्धि हो रही है। अगला पद = 88."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Walks 5km N, turns right 3km, right 5km:",
-      "hi": "5 किमी उत्तर, दाएं 3 किमी, दाएं 5 किमी. दूरी:"
+      "en": "Railway Reasoning Q12: Find missing term: 24, 48, 72, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 12: लुप्त पद ज्ञात करें: 24, 48, 72, ?"
     },
     "o": [
-      "3 km",
-      "5 km",
-      "8 km",
-      "10 km"
+      "96",
+      "84",
+      "120",
+      "108"
     ],
     "a": 0,
-    "e": "विस्थापन = 3 किमी।"
+    "e": "प्रत्येक पद में +24 की वृद्धि हो रही है। अगला पद = 96."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Replace signs: 15 + 5 * 4 / 2 - 3:",
-      "hi": "संकेत बदलकर हल करें: 15 + 5 * 4 / 2 - 3:"
+      "en": "Railway Reasoning Q13: Find missing term: 26, 52, 78, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 13: लुप्त पद ज्ञात करें: 26, 52, 78, ?"
     },
     "o": [
-      "22",
-      "20",
-      "18",
-      "24"
+      "104",
+      "91",
+      "130",
+      "117"
     ],
     "a": 0,
-    "e": "15 + 10 - 3 = 22."
+    "e": "प्रत्येक पद में +26 की वृद्धि हो रही है। अगला पद = 104."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Venn: Reptiles, Lizards, Snakes:",
-      "hi": "वेन आरेख: सरीसृप, छिपकली, सांप:"
+      "en": "Railway Reasoning Q14: Find missing term: 28, 56, 84, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 14: लुप्त पद ज्ञात करें: 28, 56, 84, ?"
     },
     "o": [
-      "Two separate inside one",
-      "Three separate",
-      "Three crossed",
-      "Concentric"
+      "112",
+      "98",
+      "140",
+      "126"
     ],
     "a": 0,
-    "e": "छिपकली व सांप दोनों सरीसृप हैं।"
+    "e": "प्रत्येक पद में +28 की वृद्धि हो रही है। अगला पद = 112."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Grandfather's only son's son is:",
-      "hi": "दादाजी के इकलौते बेटे का बेटा:"
+      "en": "Railway Reasoning Q15: Find missing term: 30, 60, 90, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 15: लुप्त पद ज्ञात करें: 30, 60, 90, ?"
     },
     "o": [
-      "Brother / Self",
-      "Uncle",
-      "Cousin",
-      "Nephew"
+      "120",
+      "105",
+      "150",
+      "135"
     ],
     "a": 0,
-    "e": "भाई या स्वयं।"
+    "e": "प्रत्येक पद में +30 की वृद्धि हो रही है। अगला पद = 120."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "If Jan 1 2024 was Mon, Jan 1 2025 was:",
-      "hi": "यदि 1 जन 2024 सोमवार, तो 1 जन 2025:"
+      "en": "Railway Reasoning Q16: Find missing term: 32, 64, 96, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 16: लुप्त पद ज्ञात करें: 32, 64, 96, ?"
     },
     "o": [
-      "Wednesday",
-      "Tuesday",
-      "Thursday",
-      "Friday"
-    ],
-    "a": 0,
-    "e": "लीप वर्ष (+2) = बुधवार।"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Find odd: 121, 169, 225, 289:",
-      "hi": "विषम चुनें: 121, 169, 225, 289:"
-    },
-    "o": [
-      "225",
-      "121",
-      "169",
-      "289"
-    ],
-    "a": 0,
-    "e": "225 भाज्य (15²) है, बाकी अभाज्य के वर्ग हैं।"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Order: 1.Room 2.Door 3.Key 4.Lock 5.Switch",
-      "hi": "क्रम: 1.कमरा 2.दरवाजा 3.चाबी 4.ताला 5.स्विच:"
-    },
-    "o": [
-      "3, 4, 2, 1, 5",
-      "3, 2, 4, 1, 5",
-      "1, 2, 3, 4, 5",
-      "4, 3, 2, 1, 5"
-    ],
-    "a": 0,
-    "e": "चाबी -> ताला -> दरवाजा -> कमरा -> स्विच।"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Statement: All roses are flowers. Some flowers red:",
-      "hi": "कथन: सभी गुलाब फूल हैं. कुछ फूल लाल हैं:"
-    },
-    "o": [
-      "Does not follow",
-      "Follows",
-      "Either",
-      "Definite"
-    ],
-    "a": 0,
-    "e": "अनिवार्य रूप से अनुसरण नहीं करता।"
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "CLOCK is 3-12-15-3-11, WATCH is:",
-      "hi": "यदि CLOCK = 3-12-15-3-11, तो WATCH:"
-    },
-    "o": [
-      "23-1-20-3-8",
-      "22-1-20-3-8",
-      "23-2-20-3-8",
-      "23-1-19-3-8"
-    ],
-    "a": 0,
-    "e": "W(23)-A(1)-T(20)-C(3)-H(8)."
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "Mirror image of 'TIME':",
-      "hi": "'TIME' का दर्पण प्रतिबिंब:"
-    },
-    "o": [
-      "EMIT (lateral)",
-      "TIME",
-      "ITEM",
-      "EMTI"
-    ],
-    "a": 0,
-    "e": "पार्श्व परिवर्तन से EMIT."
-  },
-  {
-    "sec": "Reasoning",
-    "q": {
-      "en": "8 : 64 :: 11 : ?",
-      "hi": "8 : 64 :: 11 : ?"
-    },
-    "o": [
-      "121",
-      "111",
-      "131",
+      "128",
+      "112",
+      "160",
       "144"
     ],
     "a": 0,
-    "e": "11² = 121."
+    "e": "प्रत्येक पद में +32 की वृद्धि हो रही है। अगला पद = 128."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Opposite to 1 in dice with adjacent 2,3,4,5:",
-      "hi": "पासे में 1 के विपरीत कौन सा अंक होगा:"
+      "en": "Railway Reasoning Q17: Find missing term: 34, 68, 102, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 17: लुप्त पद ज्ञात करें: 34, 68, 102, ?"
     },
     "o": [
-      "6",
-      "2",
-      "3",
-      "5"
+      "136",
+      "119",
+      "170",
+      "153"
     ],
     "a": 0,
-    "e": "शेष फलक 6 होगा।"
+    "e": "प्रत्येक पद में +34 की वृद्धि हो रही है। अगला पद = 136."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Series: 1, 4, 9, 16, 25, 36, ?",
-      "hi": "श्रृंखला पूर्ण करें: 1, 4, 9, 16, 25, 36, ?"
+      "en": "Railway Reasoning Q18: Find missing term: 36, 72, 108, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 18: लुप्त पद ज्ञात करें: 36, 72, 108, ?"
     },
     "o": [
-      "49",
-      "45",
-      "48",
-      "50"
+      "144",
+      "126",
+      "180",
+      "162"
     ],
     "a": 0,
-    "e": "7² = 49."
+    "e": "प्रत्येक पद में +36 की वृद्धि हो रही है। अगला पद = 144."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Odd one: Eye, Nose, Ear, Kidney:",
-      "hi": "विषम अंग चुनें: आंख, नाक, कान, किडनी:"
+      "en": "Railway Reasoning Q19: Find missing term: 38, 76, 114, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 19: लुप्त पद ज्ञात करें: 38, 76, 114, ?"
     },
     "o": [
-      "Kidney",
-      "Eye",
-      "Nose",
-      "Ear"
+      "152",
+      "133",
+      "190",
+      "171"
     ],
     "a": 0,
-    "e": "किडनी आंतरिक अंग है।"
+    "e": "प्रत्येक पद में +38 की वृद्धि हो रही है। अगला पद = 152."
   },
   {
-    "sec": "Reasoning",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Doctor : Hospital :: Teacher : ?",
-      "hi": "डॉक्टर : अस्पताल :: शिक्षक : ?"
+      "en": "Railway Reasoning Q20: Find missing term: 40, 80, 120, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 20: लुप्त पद ज्ञात करें: 40, 80, 120, ?"
     },
     "o": [
-      "School",
-      "Office",
-      "Court",
-      "Lab"
+      "160",
+      "140",
+      "200",
+      "180"
     ],
     "a": 0,
-    "e": "शिक्षक विद्यालय में पढ़ाते हैं।"
+    "e": "प्रत्येक पद में +40 की वृद्धि हो रही है। अगला पद = 160."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Synonym of 'CANDID':",
-      "hi": "Synonym of 'CANDID':"
+      "en": "Railway Reasoning Q21: Find missing term: 42, 84, 126, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 21: लुप्त पद ज्ञात करें: 42, 84, 126, ?"
     },
     "o": [
-      "Frank / Honest",
-      "Deceitful",
-      "Arrogant",
-      "Timid"
+      "168",
+      "147",
+      "210",
+      "189"
     ],
     "a": 0,
-    "e": "Candid means straightforward."
+    "e": "प्रत्येक पद में +42 की वृद्धि हो रही है। अगला पद = 168."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Select correctly spelled word:",
-      "hi": "Select correctly spelled word:"
+      "en": "Railway Reasoning Q22: Find missing term: 44, 88, 132, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 22: लुप्त पद ज्ञात करें: 44, 88, 132, ?"
     },
     "o": [
-      "Accommodation",
-      "Accomodation",
-      "Acommodation",
-      "Accommadation"
+      "176",
+      "154",
+      "220",
+      "198"
     ],
     "a": 0,
-    "e": "Double c and double m."
+    "e": "प्रत्येक पद में +44 की वृद्धि हो रही है। अगला पद = 176."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Antonym of 'BENEVOLENT':",
-      "hi": "Antonym of 'BENEVOLENT':"
+      "en": "Railway Reasoning Q23: Find missing term: 46, 92, 138, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 23: लुप्त पद ज्ञात करें: 46, 92, 138, ?"
     },
     "o": [
-      "Malevolent / Cruel",
-      "Kind",
-      "Generous",
-      "Helpful"
+      "184",
+      "161",
+      "230",
+      "207"
     ],
     "a": 0,
-    "e": "Benevolent = kind, Malevolent = cruel."
+    "e": "प्रत्येक पद में +46 की वृद्धि हो रही है। अगला पद = 184."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "A person who loves books:",
-      "hi": "A person who loves books:"
+      "en": "Railway Reasoning Q24: Find missing term: 48, 96, 144, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 24: लुप्त पद ज्ञात करें: 48, 96, 144, ?"
     },
     "o": [
-      "Bibliophile",
-      "Philanthropist",
-      "Polyglot",
-      "Numismatist"
+      "192",
+      "168",
+      "240",
+      "216"
     ],
     "a": 0,
-    "e": "Bibliophile."
+    "e": "प्रत्येक पद में +48 की वृद्धि हो रही है। अगला पद = 192."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Identify error: 'She don't like chess.'",
-      "hi": "Identify error: 'She don't like chess.'"
+      "en": "Railway Reasoning Q25: Find missing term: 50, 100, 150, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 25: लुप्त पद ज्ञात करें: 50, 100, 150, ?"
     },
     "o": [
-      "don't like",
-      "She",
-      "playing",
-      "chess"
+      "200",
+      "175",
+      "250",
+      "225"
     ],
     "a": 0,
-    "e": "Use 'doesn't like' for singular."
+    "e": "प्रत्येक पद में +50 की वृद्धि हो रही है। अगला पद = 200."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Meaning of 'Break the ice':",
-      "hi": "Meaning of 'Break the ice':"
+      "en": "Railway Reasoning Q26: Find missing term: 52, 104, 156, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 26: लुप्त पद ज्ञात करें: 52, 104, 156, ?"
     },
     "o": [
-      "To start conversation",
-      "To quarrel",
-      "To freeze water",
-      "To feel cold"
+      "208",
+      "182",
+      "260",
+      "234"
     ],
     "a": 0,
-    "e": "Initiate conversation in awkward setting."
+    "e": "प्रत्येक पद में +52 की वृद्धि हो रही है। अगला पद = 208."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Passive: 'The chef cooked the meal.'",
-      "hi": "Passive: 'The chef cooked the meal.'"
+      "en": "Railway Reasoning Q27: Find missing term: 54, 108, 162, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 27: लुप्त पद ज्ञात करें: 54, 108, 162, ?"
     },
     "o": [
-      "The meal was cooked by the chef",
-      "Meal is cooked",
-      "Chef was cooking",
-      "Meal has been cooked"
+      "216",
+      "189",
+      "270",
+      "243"
     ],
     "a": 0,
-    "e": "was/were + V3."
+    "e": "प्रत्येक पद में +54 की वृद्धि हो रही है। अगला पद = 216."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Antonym of 'ARROGANT':",
-      "hi": "Antonym of 'ARROGANT':"
+      "en": "Railway Reasoning Q28: Find missing term: 56, 112, 168, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 28: लुप्त पद ज्ञात करें: 56, 112, 168, ?"
     },
     "o": [
-      "Humble / Modest",
-      "Proud",
-      "Selfish",
-      "Rude"
+      "224",
+      "196",
+      "280",
+      "252"
     ],
     "a": 0,
-    "e": "Humble means modest."
+    "e": "प्रत्येक पद में +56 की वृद्धि हो रही है। अगला पद = 224."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Worldwide disease outbreak is called:",
-      "hi": "Worldwide disease outbreak is called:"
+      "en": "Railway Reasoning Q29: Find missing term: 58, 116, 174, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 29: लुप्त पद ज्ञात करें: 58, 116, 174, ?"
     },
     "o": [
-      "Pandemic",
-      "Endemic",
-      "Epidemic",
-      "Infection"
+      "232",
+      "203",
+      "290",
+      "261"
     ],
     "a": 0,
-    "e": "Worldwide = Pandemic."
+    "e": "प्रत्येक पद में +58 की वृद्धि हो रही है। अगला पद = 232."
   },
   {
-    "sec": "English",
+    "sec": "General Intelligence & Reasoning",
     "q": {
-      "en": "Meaning of 'Spill the beans':",
-      "hi": "Meaning of 'Spill the beans':"
+      "en": "Railway Reasoning Q30: Find missing term: 60, 120, 180, ?",
+      "hi": "रेलवे रीजनिंग प्रश्न 30: लुप्त पद ज्ञात करें: 60, 120, 180, ?"
     },
     "o": [
-      "To reveal a secret",
-      "To waste food",
-      "To plant seeds",
-      "To cook food"
+      "240",
+      "210",
+      "300",
+      "270"
     ],
     "a": 0,
-    "e": "Reveal confidential info."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Select correctly spelled word:",
-      "hi": "Select correctly spelled word:"
-    },
-    "o": [
-      "Embarrassment",
-      "Embarasment",
-      "Embarassment",
-      "Embarassmant"
-    ],
-    "a": 0,
-    "e": "Double r and double s."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Fill blank: 'He is junior _______ me.'",
-      "hi": "Fill blank: 'He is junior _______ me.'"
-    },
-    "o": [
-      "to",
-      "than",
-      "from",
-      "by"
-    ],
-    "a": 0,
-    "e": "Words ending in -ior take 'to'."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Synonym of 'METICULOUS':",
-      "hi": "Synonym of 'METICULOUS':"
-    },
-    "o": [
-      "Careful / Precise",
-      "Careless",
-      "Lazy",
-      "Hurried"
-    ],
-    "a": 0,
-    "e": "Meticulous = very precise."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "One who speaks many languages:",
-      "hi": "One who speaks many languages:"
-    },
-    "o": [
-      "Polyglot",
-      "Linguist",
-      "Biographer",
-      "Novelist"
-    ],
-    "a": 0,
-    "e": "Polyglot."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Error: 'Neither teacher nor students was present.'",
-      "hi": "Error: 'Neither teacher nor students was present.'"
-    },
-    "o": [
-      "was present",
-      "Neither",
-      "teacher",
-      "students"
-    ],
-    "a": 0,
-    "e": "Verb agrees with nearer subject => were."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Meaning of 'A piece of cake':",
-      "hi": "Meaning of 'A piece of cake':"
-    },
-    "o": [
-      "Something very easy",
-      "A sweet",
-      "A party treat",
-      "A puzzle"
-    ],
-    "a": 0,
-    "e": "Very easy task."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Antonym of 'OPAQUE':",
-      "hi": "Antonym of 'OPAQUE':"
-    },
-    "o": [
-      "Transparent / Clear",
-      "Dark",
-      "Dense",
-      "Cloudy"
-    ],
-    "a": 0,
-    "e": "Transparent."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Preposition: 'Living here _______ 2018.'",
-      "hi": "Preposition: 'Living here _______ 2018.'"
-    },
-    "o": [
-      "since",
-      "for",
-      "from",
-      "in"
-    ],
-    "a": 0,
-    "e": "Point of time takes 'since'."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "A remedy for all diseases:",
-      "hi": "A remedy for all diseases:"
-    },
-    "o": [
-      "Panacea",
-      "Antibiotic",
-      "Vaccine",
-      "Antidote"
-    ],
-    "a": 0,
-    "e": "Panacea."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Meaning of 'Burn the midnight oil':",
-      "hi": "Meaning of 'Burn the midnight oil':"
-    },
-    "o": [
-      "Study late into night",
-      "Waste power",
-      "Set fire",
-      "Sleep early"
-    ],
-    "a": 0,
-    "e": "Work/study late at night."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Synonym of 'FEEBLE':",
-      "hi": "Synonym of 'FEEBLE':"
-    },
-    "o": [
-      "Weak / Frail",
-      "Strong",
-      "Brave",
-      "Clever"
-    ],
-    "a": 0,
-    "e": "Feeble = physically weak."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Indirect: He said, 'I am reading.'",
-      "hi": "Indirect: He said, 'I am reading.'"
-    },
-    "o": [
-      "He said that he was reading",
-      "He says he is reading",
-      "He reads",
-      "He had read"
-    ],
-    "a": 0,
-    "e": "Present continuous changes to past."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Select correctly spelled word:",
-      "hi": "Select correctly spelled word:"
-    },
-    "o": [
-      "Occurrence",
-      "Occurence",
-      "Occurance",
-      "Ocurrence"
-    ],
-    "a": 0,
-    "e": "Double c and double r."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "One who looks at bright side:",
-      "hi": "One who looks at bright side:"
-    },
-    "o": [
-      "Optimist",
-      "Pessimist",
-      "Pacifist",
-      "Realist"
-    ],
-    "a": 0,
-    "e": "Optimist."
-  },
-  {
-    "sec": "English",
-    "q": {
-      "en": "Meaning of 'Once in a blue moon':",
-      "hi": "Meaning of 'Once in a blue moon':"
-    },
-    "o": [
-      "Very rarely",
-      "Frequently",
-      "Every full moon",
-      "Never"
-    ],
-    "a": 0,
-    "e": "Very rarely."
+    "e": "प्रत्येक पद में +60 की वृद्धि हो रही है। अगला पद = 240."
   }
 ]
