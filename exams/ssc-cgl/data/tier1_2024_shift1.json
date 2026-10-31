@@ -2,126 +2,383 @@
   {
     "sec": "General Awareness",
     "q": {
-      "en": "Which Amendment reduced voting age from 21 to 18 years in India?",
-      "hi": "भारत में किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?",
-      "mr": "भारतात कोणत्या घटनादुरुस्तीद्वारे मतदानाचे वय २१ वरून १८ वर्षे करण्यात आले?",
-      "bn": "ভারতে কোন সংবিধান সংশোধনীর মাধ্যমে ভোটাধিকারের বয়স ২১ থেকে কমিয়ে ১৮ বছর করা হয়েছিল?",
-      "ta": "இந்தியாவில் எந்த அரசியலமைப்பு திருத்தத்தின் மூலம் வாக்குரிமை வயது 21 லிருந்து 18 ஆக குறைக்கப்பட்டது?",
-      "te": "భారతదేశంలో ఏ రాజ్యాంగ సవరణ ద్వారా ఓటింగ్ వయస్సు 21 నుండి 18 సంవత్సరాలకు తగ్గించబడింది?"
+      "en": "61st Amendment (1988) reduced voting age to:",
+      "hi": "61वें संशोधन द्वारा मतदान आयु की गई:"
     },
     "o": [
-      "61st Amendment (1988)",
-      "42nd Amendment (1976)",
-      "44th Amendment (1978)",
-      "73rd Amendment (1992)"
+      "18 Years",
+      "21 Years",
+      "25 Years",
+      "16 Years"
     ],
     "a": 0,
-    "e": "61st Amendment Act, 1988 amended Article 326 to reduce voting age to 18."
+    "e": "अनुच्छेद 326 में संशोधन कर 18 वर्ष की गई।"
   },
   {
     "sec": "General Awareness",
     "q": {
-      "en": "Which Emperor embraced Buddhism after Kalinga War (261 BCE)?",
-      "hi": "261 ईसा पूर्व कलिंग युद्ध के बाद किस सम्राट ने बौद्ध धर्म अपनाया?",
-      "mr": "२६१ ईसापूर्व कलिंग युद्धानंतर कोणत्या सम्राटाने बौद्ध धर्म स्वीकारला?",
-      "bn": "২৬১ খ্রিস্টপূর্বাব্দে কলিঙ্গ যুদ্ধের পর কোন সম্রাট বৌদ্ধ ধর্ম গ্রহণ করেছিলেন?",
-      "ta": "கி.மு 261 கலிங்கப் போருக்குப் பிறகு எந்தப் பேரரசர் பௌத்த மதத்தைத் தழுவினார்?",
-      "te": "క్రీ.పూ 261 కళింగ యుద్ధం తర్వాత ఏ చక్రవర్తి బౌద్ధమతాన్ని స్వీకరించారు?"
+      "en": "Supreme Court issues writs under Article:",
+      "hi": "सुप्रीम कोर्ट किस अनुच्छेद के तहत रिट जारी करता है:"
+    },
+    "o": [
+      "Art 32",
+      "Art 226",
+      "Art 14",
+      "Art 21"
+    ],
+    "a": 0,
+    "e": "अनुच्छेद 32 के तहत 5 रिट।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "River known as 'Sorrow of Bengal':",
+      "hi": "'बंगाल का शोक' किस नदी को कहा जाता है:"
+    },
+    "o": [
+      "Damodar",
+      "Hooghly",
+      "Kosi",
+      "Son"
+    ],
+    "a": 0,
+    "e": "दामोदर नदी।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Founder of the Maurya Empire:",
+      "hi": "मौर्य साम्राज्य के संस्थापक कौन थे:"
     },
     "o": [
       "Chandragupta Maurya",
+      "Ashoka",
       "Bindusara",
-      "Ashoka the Great",
-      "Brihadratha"
+      "Harsha"
     ],
-    "a": 2,
-    "e": "Emperor Ashoka embraced Buddhism under monk Upagupta after Kalinga War."
+    "a": 0,
+    "e": "चंद्रगुप्त मौर्य।"
   },
   {
     "sec": "General Awareness",
     "q": {
-      "en": "Under which Article can Supreme Court issue writs for Fundamental Rights?",
-      "hi": "सुप्रीम कोर्ट किस अनुच्छेद के तहत मौलिक अधिकारों की रक्षा हेतु रिट जारी करता है?",
-      "mr": "मूलभूत हक्कांच्या संरक्षणासाठी सर्वोच्च न्यायालय कोणत्या कलमांतर्गत रिट (Writs) जारी करू शकते?",
-      "bn": "মৌলিক অধিকার রক্ষার জন্য সুপ্রিম কোর্ট কোন ধারার অধীনে রিট জারি করতে পারে?",
-      "ta": "அடிப்படை உரிமைகளுக்காக உச்சநீதிமன்றம் எந்தப் பிரிவின் கீழ் ரிட்களை பிறப்பிக்க முடியும்?",
-      "te": "ప్రాథమిక హక్కుల కోసం సుప్రీంకోర్టు ఏ అధికరణ కింద రిట్లను జారీ చేయవచ్చు?"
+      "en": "Emergency Hormone in human body:",
+      "hi": "मानव शरीर का आपातकालीन हार्मोन:"
     },
     "o": [
-      "Article 21",
-      "Article 32",
-      "Article 226",
-      "Article 356"
-    ],
-    "a": 1,
-    "e": "Article 32 gives the Right to Constitutional Remedies via Supreme Court writs."
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "en": "Which hormone is commonly called the 'Emergency Hormone'?",
-      "hi": "किस हार्मोन को 'आपातकालीन हार्मोन' (Fight-or-Flight) कहा जाता है?",
-      "mr": "कोणत्या संप्रेरकाला (Hormone) 'आपत्कालीन संप्रेरक' (Fight-or-Flight) म्हटले जाते?",
-      "bn": "কোন হরমোনকে 'জরুরীকালীন হরমোন' (Emergency Hormone) বলা হয়?",
-      "ta": "எந்த ஹார்மோன் 'அவசரக்கால ஹார்மோன்' (Emergency Hormone) என்று அழைக்கப்படுகிறது?",
-      "te": "ఏ హార్మోన్‌ను 'ఎమర్జెన్సీ హార్మోన్' (పోరాడు లేదా పారిపో) అని పిలుస్తారు?"
-    },
-    "o": [
-      "Insulin",
       "Adrenaline",
+      "Insulin",
       "Thyroxine",
       "Glucagon"
     ],
-    "a": 1,
-    "e": "Adrenaline, secreted by adrenal glands, prepares the body for sudden stress."
+    "a": 0,
+    "e": "एड्रेनालाईन।"
   },
   {
     "sec": "General Awareness",
     "q": {
-      "en": "Which river is known as the 'Sorrow of Bengal'?",
-      "hi": "किस नदी को 'बंगाल का शोक' कहा जाता है?",
-      "mr": "कोणत्या नदीला 'बंगालचे अश्रू' (Sorrow of Bengal) म्हटले जाते?",
-      "bn": "কোন নদীকে 'বাংলার দুঃখ' (Sorrow of Bengal) বলা হয়?",
-      "ta": "எந்த நதி 'வங்காளத்தின் துயரம்' என்று அழைக்கப்படுகிறது?",
-      "te": "ఏ నదిని 'బెంగాల్ దుఃఖదాయని' అని పిలుస్తారు?"
+      "en": "Chemical name of Baking Soda:",
+      "hi": "बेकिंग सोडा का रासायनिक नाम:"
     },
     "o": [
-      "Hooghly",
-      "Damodar",
-      "Kosi",
-      "Brahmaputra"
+      "Sodium Bicarbonate",
+      "Sodium Carbonate",
+      "NaOH",
+      "KOH"
     ],
-    "a": 1,
-    "e": "Damodar River was historically notorious for devastating floods in Bengal."
+    "a": 0,
+    "e": "NaHCO3 (सोडियम बाइकार्बोनेट)।"
   },
   {
     "sec": "General Awareness",
     "q": {
-      "en": "Who was the founder of the Maurya Empire?",
-      "hi": "मौर्य साम्राज्य के संस्थापक कौन थे?",
-      "mr": "मौर्य साम्राज्याचे संस्थापक कोण होते?",
-      "bn": "মৌর্য সাম্রাজ্যের প্রতিষ্ঠাতা কে ছিলেন?",
-      "ta": "மௌரியப் பேரரசை நிறுவியவர் யார்?",
-      "te": "మౌర్య సామ్రాజ్య స్థాపకుడు ఎవరు?"
+      "en": "Tropic of Cancer passes through how many states?",
+      "hi": "कर्क रेखा भारत के कितने राज्यों से गुजरती है:"
     },
     "o": [
-      "Ashoka",
-      "Chandragupta Maurya",
-      "Samudragupta",
-      "Harsha"
+      "8 States",
+      "7 States",
+      "6 States",
+      "9 States"
     ],
-    "a": 1,
-    "e": "Chandragupta Maurya founded the Maurya Empire with help from Chanakya."
+    "a": 0,
+    "e": "8 राज्यों से।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Who is known as Father of Economics?",
+      "hi": "अर्थशास्त्र का जनक किसे कहा जाता है:"
+    },
+    "o": [
+      "Adam Smith",
+      "Karl Marx",
+      "Keynes",
+      "Amartya Sen"
+    ],
+    "a": 0,
+    "e": "एडम स्मिथ।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "First Indian Governor-General:",
+      "hi": "प्रथम भारतीय गवर्नर-जनरल कौन थे:"
+    },
+    "o": [
+      "C. Rajagopalachari",
+      "Dr. Rajendra Prasad",
+      "Ambedkar",
+      "Nehru"
+    ],
+    "a": 0,
+    "e": "सी. राजगोपालाचारी।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Vitamin essential for blood clotting:",
+      "hi": "रक्त का थक्का जमाने वाला विटामिन:"
+    },
+    "o": [
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "a": 0,
+    "e": "विटामिन K।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Battle of Plassey took place in:",
+      "hi": "प्लासी का युद्ध किस वर्ष हुआ था:"
+    },
+    "o": [
+      "1757",
+      "1764",
+      "1857",
+      "1761"
+    ],
+    "a": 0,
+    "e": "23 जून 1757।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Highest peak of South India:",
+      "hi": "दक्षिण भारत की सबसे ऊंची चोटी:"
+    },
+    "o": [
+      "Anamudi",
+      "Doda Betta",
+      "Kalsubai",
+      "Guru Shikhar"
+    ],
+    "a": 0,
+    "e": "अनाईमुडी (2695 मी)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "SI unit of Electric Current:",
+      "hi": "विद्युत धारा का SI मात्रक:"
+    },
+    "o": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "a": 0,
+    "e": "एम्पीयर (A)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Planet known as Red Planet:",
+      "hi": "सौरमंडल का लाल ग्रह:"
+    },
+    "o": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "a": 0,
+    "e": "मंगल (Mars)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Longest river in Peninsular India:",
+      "hi": "प्रायद्वीपीय भारत की सबसे लंबी नदी:"
+    },
+    "o": [
+      "Godavari",
+      "Krishna",
+      "Kaveri",
+      "Narmada"
+    ],
+    "a": 0,
+    "e": "गोदावरी (1465 किमी)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Fundamental Duties Article:",
+      "hi": "मौलिक कर्तव्यों का अनुच्छेद:"
+    },
+    "o": [
+      "Article 51A",
+      "Article 19",
+      "Article 21A",
+      "Article 32"
+    ],
+    "a": 0,
+    "e": "अनुच्छेद 51A (42वां संशोधन)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Kuchipudi classical dance belongs to:",
+      "hi": "कुचिपुड़ी शास्त्रीय नृत्य किस राज्य का है:"
+    },
+    "o": [
+      "Andhra Pradesh",
+      "Kerala",
+      "Tamil Nadu",
+      "Odisha"
+    ],
+    "a": 0,
+    "e": "आंध्र प्रदेश।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Living cell first discovered by:",
+      "hi": "जीवित कोशिका की खोज किसने की:"
+    },
+    "o": [
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Brown",
+      "Schwann"
+    ],
+    "a": 0,
+    "e": "ल्यूवेनहॉक (1674)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Monetary Policy Committee headed by:",
+      "hi": "मौद्रिक नीति समिति के अध्यक्ष:"
+    },
+    "o": [
+      "RBI Governor",
+      "Finance Minister",
+      "PM",
+      "SEBI Chief"
+    ],
+    "a": 0,
+    "e": "RBI गवर्नर।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "National Science Day date:",
+      "hi": "राष्ट्रीय विज्ञान दिवस कब मनाया जाता है:"
+    },
+    "o": [
+      "28th February",
+      "15th January",
+      "28th March",
+      "5th September"
+    ],
+    "a": 0,
+    "e": "28 फरवरी (रमन प्रभाव)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Panchayati Raj first started in:",
+      "hi": "पंचायती राज सर्वप्रथम किस जिले में शुरू हुआ:"
+    },
+    "o": [
+      "Nagaur (Rajasthan)",
+      "Belgaum",
+      "Surat",
+      "Satara"
+    ],
+    "a": 0,
+    "e": "नागौर (1959)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Harappan dockyard site:",
+      "hi": "हड़प्पा गोदीबाड़ा स्थल:"
+    },
+    "o": [
+      "Lothal",
+      "Kalibangan",
+      "Mohenjo-daro",
+      "Rakhigarhi"
+    ],
+    "a": 0,
+    "e": "लोथल (गुजरात)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "First woman President of INC:",
+      "hi": "कांग्रेस की प्रथम महिला अध्यक्ष:"
+    },
+    "o": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Kadambini",
+      "Indira Gandhi"
+    ],
+    "a": 0,
+    "e": "एनी बेसेंट (1917)।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Kalinga war fought in:",
+      "hi": "कलिंग युद्ध किस वर्ष हुआ:"
+    },
+    "o": [
+      "261 BCE",
+      "326 BCE",
+      "273 BCE",
+      "185 BCE"
+    ],
+    "a": 0,
+    "e": "261 ईसा पूर्व।"
+  },
+  {
+    "sec": "General Awareness",
+    "q": {
+      "en": "Primary gas for Greenhouse Effect:",
+      "hi": "ग्रीनहाउस प्रभाव की प्रमुख गैस:"
+    },
+    "o": [
+      "Water Vapor",
+      "Methane",
+      "Ozone",
+      "Argon"
+    ],
+    "a": 0,
+    "e": "जलवाष्प (Water Vapor)।"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Goods marked 40% above CP, 25% discount given. Find profit %:",
-      "hi": "वस्तु क्रय मूल्य से 40% अधिक अंकित की गई और 25% छूट दी गई। लाभ प्रतिशत क्या है?",
-      "mr": "वस्तूची किंमत मूळ किमतीपेक्षा ४०% जास्त ठेवून २५% सूट दिली. नफा % किती?",
-      "bn": "পণ্যের মূল্য ক্রয়মূল্যের চেয়ে ৪০% বেশি ধার্য করে ২৫% ছাড় দেওয়া হলো। লাভ % কত?",
-      "ta": "அடக்க விலையை விட 40% அதிகமாகக் குறித்து, 25% தள்ளுபடி வழங்கப்பட்டது. லாப % என்ன?",
-      "te": "వస్తువు ధర కొన్నధర కంటే 40% ఎక్కువగా గుర్తించబడి, 25% తగ్గింపు ఇవ్వబడింది. లాభ % ఎంత?"
+      "en": "Markup 40%, Discount 25%. Profit %:",
+      "hi": "मार्कअप 40%, छूट 25%. लाभ %:"
     },
     "o": [
       "5%",
@@ -130,150 +387,403 @@
       "12%"
     ],
     "a": 0,
-    "e": "CP=100, MP=140. Discount=35, SP=105. Net Profit = 5%."
+    "e": "40 - 25 - 10 = 5%"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "A sum doubles itself in 5 yrs at SI. In how many years will it become 4 times?",
-      "hi": "साधारण ब्याज से कोई धन 5 वर्ष में दोगुना होता है। यह 4 गुना कितने वर्षों में होगा?",
-      "mr": "सरळव्याजाने एक रक्कम ५ वर्षांत दुप्पट होते. ती ४ पट किती वर्षांत होईल?",
-      "bn": "সরল সুদে কোনো অর্থ ৫ বছরে দ্বিগুণ হয়। কত বছরে এটি ৪ গুণ হবে?",
-      "ta": "ஒரு தொகை தனி வட்டியில் 5 ஆண்டுகளில் இரட்டிப்பாகிறது. எத்தனை ஆண்டுகளில் அது 4 மடங்காகும்?",
-      "te": "సాధారణ వడ్డీతో ఒక మొత్తం 5 సంవత్సరాలలో రెట్టింపు అవుతుంది. ఎన్ని సంవత్సరాలలో 4 రెట్లు అవుతుంది?"
+      "en": "Sum doubles in 5 yrs at SI. 4 times in:",
+      "hi": "धन 5 वर्ष में दोगुना. 4 गुना होगा:"
     },
     "o": [
+      "15 Years",
       "10 Years",
       "12 Years",
-      "15 Years",
       "20 Years"
     ],
-    "a": 2,
-    "e": "SI = 3P. Since P interest takes 5 yrs, 3P takes 3 × 5 = 15 Years."
+    "a": 0,
+    "e": "(4-1)/(2-1)*5 = 15 वर्ष"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "If A can complete work in 10 days and B in 15 days, together they take:",
-      "hi": "यदि A किसी काम को 10 दिन और B 15 दिन में करता है, दोनों मिलकर कितने दिन लेंगे?",
-      "mr": "A एक काम १० दिवसांत आणि B १५ दिवसांत पूर्ण करतो. दोघे मिळून किती दिवस घेतील?",
-      "bn": "A একটি কাজ ১০ দিনে এবং B ১৫ দিনে সম্পন্ন করে। তারা একসঙ্গে কত দিন সময় নেবে?",
-      "ta": "A ஒரு வேலையை 10 நாட்களிலும், B 15 நாட்களிலும் முடிக்கிறார்கள். இருவரும் சேர்ந்து எத்தனை நாட்களில் முடிப்பார்கள்?",
-      "te": "A ఒక పనిని 10 రోజుల్లో, B 15 రోజుల్లో పూర్తి చేస్తారు. ఇద్దరూ కలిసి ఎన్ని రోజులు తీసుకుంటారు?"
+      "en": "A takes 10 days, B takes 15 days. Together:",
+      "hi": "A को 10 दिन, B को 15 दिन. मिलकर:"
     },
     "o": [
-      "5 Days",
       "6 Days",
+      "5 Days",
       "8 Days",
       "7.5 Days"
     ],
-    "a": 1,
-    "e": "Total work = 30 units. Rate = 3 + 2 = 5 units/day. Time = 30 / 5 = 6 Days."
+    "a": 0,
+    "e": "150/25 = 6 दिन"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Find the value of (sin 30° + cos 60°):",
-      "hi": "(sin 30° + cos 60°) का मान ज्ञात कीजिए:",
-      "mr": "(sin 30° + cos 60°) चे मूल्य शोधा:",
-      "bn": "(sin 30° + cos 60°) এর মান কত:",
-      "ta": "(sin 30° + cos 60°) இன் மதிப்பைக் காண்க:",
-      "te": "(sin 30° + cos 60°) విలువను కనుగొనండి:"
+      "en": "Value of (sin 30° + cos 60°):",
+      "hi": "(sin 30° + cos 60°) का मान:"
     },
     "o": [
-      "1/2",
       "1",
+      "1/2",
       "√3",
-      "1/√2"
+      "0"
     ],
-    "a": 1,
-    "e": "sin 30° = 1/2, cos 60° = 1/2. Sum = 1/2 + 1/2 = 1."
+    "a": 0,
+    "e": "1/2 + 1/2 = 1"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "A train 150m long crosses a pole in 10s. Speed in km/h is:",
-      "hi": "150 मीटर लंबी ट्रेन एक खंभे को 10 सेकंड में पार करती है। गति किमी/घंटा में क्या होगी?",
-      "mr": "१५० मीटर लांब गाडी एका खांबाला १० सेकंदात ओलांडते. तिचा ताशी वेग (km/h) किती?",
-      "bn": "১৫০ মিটার দীর্ঘ একটি ট্রেন ১০ সেকেন্ডে একটি খুঁটি অতিক্রম করে। গতিবেগ km/h-এ কত?",
-      "ta": "150 மீ நீளமுள்ள ரயில் ஒரு கம்பத்தை 10 வினாடிகளில் கடக்கிறது. km/h-ல் வேகம் என்ன?",
-      "te": "150 మీటర్ల పొడవున్న రైలు 10 సెకన్లలో ఒక స్తంభాన్ని దాటుతుంది. km/h లో వేగం ఎంత?"
+      "en": "150m train crosses pole in 10s. Speed km/h:",
+      "hi": "150मी ट्रेन 10सेकंड में पार करती है. गति:"
     },
     "o": [
-      "45 km/h",
       "54 km/h",
+      "45 km/h",
       "60 km/h",
       "72 km/h"
     ],
-    "a": 1,
-    "e": "Speed = 150/10 = 15 m/s. In km/h = 15 × (18/5) = 54 km/h."
+    "a": 0,
+    "e": "15 * 18/5 = 54 km/h"
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "en": "The average of first 5 prime numbers (2, 3, 5, 7, 11) is:",
-      "hi": "प्रथम 5 अभाज्य संख्याओं (2, 3, 5, 7, 11) का औसत क्या है?",
-      "mr": "पहिल्या ५ मूळ संख्यांची (2, 3, 5, 7, 11) सरासरी किती आहे?",
-      "bn": "প্রথম ৫টি মৌলিক সংখ্যার (2, 3, 5, 7, 11) গড় কত?",
-      "ta": "முதல் 5 பகா எண்களின் (2, 3, 5, 7, 11) சராசரி என்ன?",
-      "te": "మొదటి 5 ప్రధాన సంఖ్యల (2, 3, 5, 7, 11) సగటు ఎంత?"
+      "en": "Average of first 5 primes (2,3,5,7,11):",
+      "hi": "प्रथम 5 अभाज्य संख्याओं का औसत:"
     },
     "o": [
-      "5.2",
       "5.6",
+      "5.2",
       "6.0",
       "6.4"
     ],
-    "a": 1,
-    "e": "Sum = 2+3+5+7+11 = 28. Average = 28 / 5 = 5.6."
+    "a": 0,
+    "e": "28/5 = 5.6"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If x + 1/x = 4, then x² + 1/x²:",
+      "hi": "यदि x + 1/x = 4, तो x² + 1/x²:"
+    },
+    "o": [
+      "14",
+      "16",
+      "18",
+      "12"
+    ],
+    "a": 0,
+    "e": "4² - 2 = 14"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "SP ₹840 at 20% loss. CP was:",
+      "hi": "₹840 में 20% हानि पर बेची. CP था:"
+    },
+    "o": [
+      "₹1050",
+      "₹1000",
+      "₹1100",
+      "₹980"
+    ],
+    "a": 0,
+    "e": "840/0.8 = ₹1050"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Successive discounts 20% and 10%:",
+      "hi": "20% और 10% की क्रमिक छूट:"
+    },
+    "o": [
+      "28%",
+      "30%",
+      "25%",
+      "26%"
+    ],
+    "a": 0,
+    "e": "20 + 10 - 2 = 28%"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Ratio 3:5, LCM 150. Sum is:",
+      "hi": "अनुपात 3:5, LCM 150. योग:"
+    },
+    "o": [
+      "80",
+      "70",
+      "90",
+      "100"
+    ],
+    "a": 0,
+    "e": "30 + 50 = 80"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "CI on ₹8,000 for 2 yrs at 5%:",
+      "hi": "₹8,000 पर 5% से 2 वर्ष का CI:"
+    },
+    "o": [
+      "₹820",
+      "₹800",
+      "₹840",
+      "₹850"
+    ],
+    "a": 0,
+    "e": "8000*(1.05)² - 8000 = ₹820"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Square perimeter 48cm. Area:",
+      "hi": "वर्ग परिमाप 48सेमी. क्षेत्रफल:"
+    },
+    "o": [
+      "144 cm²",
+      "196 cm²",
+      "120 cm²",
+      "160 cm²"
+    ],
+    "a": 0,
+    "e": "12² = 144 cm²"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If tan θ = 4/3, value of sin θ:",
+      "hi": "यदि tan θ = 4/3, तो sin θ:"
+    },
+    "o": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "3/4"
+    ],
+    "a": 0,
+    "e": "लंब/कर्ण = 4/5"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Speed 60 km/h. Time for 360 km:",
+      "hi": "गति 60 km/h. 360 किमी में समय:"
+    },
+    "o": [
+      "6 Hours",
+      "5 Hours",
+      "7 Hours",
+      "8 Hours"
+    ],
+    "a": 0,
+    "e": "360/60 = 6 घंटे"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "HCF of 36 and 84:",
+      "hi": "36 और 84 का HCF:"
+    },
+    "o": [
+      "12",
+      "6",
+      "18",
+      "24"
+    ],
+    "a": 0,
+    "e": "HCF = 12"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Radius 7cm. Circle perimeter:",
+      "hi": "त्रिज्या 7सेमी. वृत्त परिधि:"
+    },
+    "o": [
+      "44 cm",
+      "88 cm",
+      "154 cm",
+      "22 cm"
+    ],
+    "a": 0,
+    "e": "2*22/7*7 = 44 cm"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If 15% of A = 20% of B, ratio A:B:",
+      "hi": "A का 15% = B का 20%, A:B:"
+    },
+    "o": [
+      "4 : 3",
+      "3 : 4",
+      "2 : 3",
+      "5 : 4"
+    ],
+    "a": 0,
+    "e": "20/15 = 4:3"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Angles ratio 2:3:4. Largest angle:",
+      "hi": "कोण 2:3:4 अनुपात में. सबसे बड़ा कोण:"
+    },
+    "o": [
+      "80°",
+      "60°",
+      "70°",
+      "90°"
+    ],
+    "a": 0,
+    "e": "4 * 20° = 80°"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If a² - b² = 56 and a - b = 7, a+b:",
+      "hi": "यदि a² - b² = 56 और a - b = 7, a+b:"
+    },
+    "o": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "a": 0,
+    "e": "56/7 = 8"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Pipe A 6h fill, Pipe B 9h empty. Net:",
+      "hi": "नल A 6घंटे भरता, B 9घंटे खाली. समय:"
+    },
+    "o": [
+      "18 Hours",
+      "15 Hours",
+      "12 Hours",
+      "20 Hours"
+    ],
+    "a": 0,
+    "e": "1/(1/6 - 1/9) = 18 घंटे"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Mean of 10 nums is 25. Add 5 to each:",
+      "hi": "10 संख्याओं का औसत 25. प्रत्येक +5:"
+    },
+    "o": [
+      "30",
+      "25",
+      "35",
+      "50"
+    ],
+    "a": 0,
+    "e": "25 + 5 = 30"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Evaluate: 25 - 5*2 + 10/2:",
+      "hi": "हल करें: 25 - 5*2 + 10/2:"
+    },
+    "o": [
+      "20",
+      "25",
+      "15",
+      "30"
+    ],
+    "a": 0,
+    "e": "25 - 10 + 5 = 20"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Volume of 5cm cube:",
+      "hi": "5 सेमी घन का आयतन:"
+    },
+    "o": [
+      "125 cm³",
+      "100 cm³",
+      "150 cm³",
+      "75 cm³"
+    ],
+    "a": 0,
+    "e": "5³ = 125 cm³"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If 2^(x+3) = 32, find x:",
+      "hi": "यदि 2^(x+3) = 32, तो x:"
+    },
+    "o": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "a": 0,
+    "e": "x+3 = 5 => x = 2"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Diagonal of 6cm x 8cm rectangle:",
+      "hi": "6सेमी x 8सेमी आयत का विकर्ण:"
+    },
+    "o": [
+      "10 cm",
+      "12 cm",
+      "14 cm",
+      "15 cm"
+    ],
+    "a": 0,
+    "e": "√(36+64) = 10 cm"
   },
   {
     "sec": "Reasoning",
     "q": {
-      "en": "Find the odd pair: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",
-      "hi": "विषम युग्म ज्ञात कीजिए: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",
-      "mr": "विसंगत जोडी ओळखा: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",
-      "bn": "বেমানান জোড়াটি নির্ণয় করুন: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",
-      "ta": "பொருந்தாத இணையைக் கண்டறியவும்: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",
-      "te": "భిన్నమైన జతను కనుగొనండి: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320"
+      "en": "Find odd pair:",
+      "hi": "विषम युग्म ज्ञात करें:"
     },
     "o": [
+      "18 : 320",
       "12 : 144",
       "14 : 196",
-      "16 : 256",
-      "18 : 320"
+      "16 : 256"
     ],
-    "a": 3,
-    "e": "All pairs are numbers and their squares except 18 (18² = 324, not 320)."
+    "a": 0,
+    "e": "18² = 324 होता है, 320 नहीं।"
   },
   {
     "sec": "Reasoning",
     "q": {
-      "en": "Find the missing number in series: 2, 6, 12, 20, 30, ?",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?",
-      "mr": "मालिकेतील गहाळ संख्या शोधा: 2, 6, 12, 20, 30, ?",
-      "bn": "ক্রমের অনুপস্থিত সংখ্যাটি খুঁজুন: 2, 6, 12, 20, 30, ?",
-      "ta": "விடுபட்ட எண்ணைக் கண்டறியவும்: 2, 6, 12, 20, 30, ?",
-      "te": "సిరీస్‌లో తప్పిపోయిన సంఖ్యను కనుగొనండి: 2, 6, 12, 20, 30, ?"
+      "en": "Next in series: 2, 6, 12, 20, 30, ?",
+      "hi": "श्रृंखला में अगली संख्या: 2, 6, 12, 20, 30, ?"
     },
     "o": [
-      "40",
       "42",
+      "40",
       "44",
       "46"
     ],
-    "a": 1,
-    "e": "Differences: +4, +6, +8, +10, +12 -> 30 + 12 = 42."
+    "a": 0,
+    "e": "30 + 12 = 42."
   },
   {
     "sec": "Reasoning",
     "q": {
-      "en": "If 'CAT' is coded as 24 (3+1+20), how will 'DOG' be coded?",
-      "hi": "यदि 'CAT' का कूट 24 (3+1+20) है, तो 'DOG' का कूट क्या होगा?",
-      "mr": "जर 'CAT' चा कोड 24 (3+1+20) असेल, तर 'DOG' चा कोड काय असेल?",
-      "bn": "যদি 'CAT' এর কোড 24 হয়, তাহলে 'DOG' এর কোড কত হবে?",
-      "ta": "'CAT' இன் குறியீடு 24 எனில், 'DOG' இன் குறியீடு என்ன?",
-      "te": "'CAT' కోడ్ 24 అయితే, 'DOG' కోడ్ ఎంత అవుతుంది?"
+      "en": "If 'CAT' is coded 24, 'DOG' is coded:",
+      "hi": "यदि 'CAT' = 24, तो 'DOG' का कोड:"
     },
     "o": [
       "26",
@@ -282,70 +792,343 @@
       "32"
     ],
     "a": 0,
-    "e": "D(4) + O(15) + G(7) = 26."
+    "e": "4 + 15 + 7 = 26."
   },
   {
     "sec": "Reasoning",
     "q": {
       "en": "Book : Author :: Painting : ?",
-      "hi": "पुस्तक : लेखक :: चित्रकला : ?",
-      "mr": "पुस्तक : लेखक :: चित्रकला : ?",
-      "bn": "বই : লেখক :: চিত্রকলা : ?",
-      "ta": "புத்தகம் : எழுத்தாளர் :: ஓவியம் : ?",
-      "te": "పుస్తకం : రచయిత :: పెయింటింగ్ : ?"
+      "hi": "पुस्तक : लेखक :: चित्रकला : ?"
     },
     "o": [
+      "Painter",
       "Brush",
       "Canvas",
-      "Painter",
       "Color"
     ],
-    "a": 2,
-    "e": "An author creates a book; a painter creates a painting."
+    "a": 0,
+    "e": "चित्रकार चित्र बनाता है।"
   },
   {
     "sec": "Reasoning",
     "q": {
-      "en": "In a row of 30 students, Amit is 12th from left. Position from right is:",
-      "hi": "30 छात्रों की पंक्ति में अमित बाएं से 12वें स्थान पर है। दाएं से उसका स्थान क्या है?",
-      "mr": "३० विद्यार्थ्यांच्या ओळीत अमित डावीकडून १२ व्या स्थानी आहे. उजवीकडून त्याचे स्थान काय असेल?",
-      "bn": "৩০ জন শিক্ষার্থীর একটি সারিতে অমিত বাঁদিক থেকে ১২তম। ডানদিক থেকে তার অবস্থান কত?",
-      "ta": "30 மாணவர்கள் கொண்ட வரிசையில் அமித் இடமிருந்து 12வது இடத்தில் உள்ளார். வலமிருந்து அவரது இடம் என்ன?",
-      "te": "30 మంది విద్యార్థుల వరుసలో అమిత్ ఎడమ నుండి 12వ స్థానంలో ఉన్నాడు. కుడి నుండి అతని స్థానం ఎంత?"
+      "en": "In row of 30, Amit is 12th from left. From right:",
+      "hi": "30 छात्रों में अमित बाएं से 12वां. दाएं से:"
     },
     "o": [
-      "18th",
       "19th",
+      "18th",
       "20th",
       "21st"
     ],
-    "a": 1,
-    "e": "Position from right = (30 - 12) + 1 = 19th."
+    "a": 0,
+    "e": "(30 - 12) + 1 = 19वां।"
   },
   {
     "sec": "Reasoning",
     "q": {
-      "en": "Point to a lady, a man said: 'Her mother is the only daughter of my mother.' Who is she?",
-      "hi": "एक महिला की ओर इशारा कर एक व्यक्ति ने कहा: 'उसकी माँ मेरी माँ की इकलौती बेटी है।' वह कौन है?",
-      "mr": "एका महिलेकडे बोट दाखवून एक माणूस म्हणाला: 'तिची आई माझ्या आईची एकुलती एक मुलगी आहे.' ती महिला कोण आहे?",
-      "bn": "একজন মহিলার দিকে ইঙ্গিত করে এক ব্যক্তি বললেন: 'তার মা আমার মায়ের একমাত্র মেয়ে।' তিনি কে?",
-      "ta": "ஒரு பெண்ணைச் சுட்டிக்காட்டி ஒருவர் கூறினார்: 'அவளது தாய் எனது தாயின் ஒரே மகள்.' அப்பெண் யார்?",
-      "te": "ఒక మహిళను చూపిస్తూ ఒక వ్యక్తి ఇలా అన్నాడు: 'ఆమె తల్లి నా తల్లికి ఏకైక కుమార్తె.' ఆమె ఎవరు?"
+      "en": "Mother is only daughter of my mother:",
+      "hi": "मेरी माँ की इकलौती बेटी की बेटी:"
     },
     "o": [
-      "Daughter",
       "Niece",
+      "Daughter",
       "Sister",
       "Aunt"
     ],
-    "a": 1,
-    "e": "The man's mother's only daughter is his sister. Sister's daughter is Niece."
+    "a": 0,
+    "e": "बहन की बेटी = भानजी (Niece)."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Court : Tennis :: Pitch : ?",
+      "hi": "कोर्ट : टेनिस :: पिच : ?"
+    },
+    "o": [
+      "Cricket",
+      "Badminton",
+      "Boxing",
+      "Skating"
+    ],
+    "a": 0,
+    "e": "क्रिकेट पिच पर खेला जाता है।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Find odd one out:",
+      "hi": "विषम शब्द चुनें:"
+    },
+    "o": [
+      "Diamond",
+      "Copper",
+      "Silver",
+      "Gold"
+    ],
+    "a": 0,
+    "e": "हीरा अधातु है, बाकी धातुएं हैं।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "If 'ROAD' is 'URDG', 'SWAN' is:",
+      "hi": "यदि 'ROAD' = 'URDG', तो 'SWAN':"
+    },
+    "o": [
+      "VXDQ",
+      "VZCQ",
+      "UXDQ",
+      "VZDQ"
+    ],
+    "a": 0,
+    "e": "+3 rule => VXDQ."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Complete series: B, D, G, K, P, ?",
+      "hi": "श्रृंखला पूर्ण करें: B, D, G, K, P, ?"
+    },
+    "o": [
+      "V",
+      "S",
+      "T",
+      "W"
+    ],
+    "a": 0,
+    "e": "16 + 6 = 22 (V)."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Walks 5km N, turns right 3km, right 5km:",
+      "hi": "5 किमी उत्तर, दाएं 3 किमी, दाएं 5 किमी. दूरी:"
+    },
+    "o": [
+      "3 km",
+      "5 km",
+      "8 km",
+      "10 km"
+    ],
+    "a": 0,
+    "e": "विस्थापन = 3 किमी।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Replace signs: 15 + 5 * 4 / 2 - 3:",
+      "hi": "संकेत बदलकर हल करें: 15 + 5 * 4 / 2 - 3:"
+    },
+    "o": [
+      "22",
+      "20",
+      "18",
+      "24"
+    ],
+    "a": 0,
+    "e": "15 + 10 - 3 = 22."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Venn: Reptiles, Lizards, Snakes:",
+      "hi": "वेन आरेख: सरीसृप, छिपकली, सांप:"
+    },
+    "o": [
+      "Two separate inside one",
+      "Three separate",
+      "Three crossed",
+      "Concentric"
+    ],
+    "a": 0,
+    "e": "छिपकली व सांप दोनों सरीसृप हैं।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Grandfather's only son's son is:",
+      "hi": "दादाजी के इकलौते बेटे का बेटा:"
+    },
+    "o": [
+      "Brother / Self",
+      "Uncle",
+      "Cousin",
+      "Nephew"
+    ],
+    "a": 0,
+    "e": "भाई या स्वयं।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "If Jan 1 2024 was Mon, Jan 1 2025 was:",
+      "hi": "यदि 1 जन 2024 सोमवार, तो 1 जन 2025:"
+    },
+    "o": [
+      "Wednesday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "a": 0,
+    "e": "लीप वर्ष (+2) = बुधवार।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Find odd: 121, 169, 225, 289:",
+      "hi": "विषम चुनें: 121, 169, 225, 289:"
+    },
+    "o": [
+      "225",
+      "121",
+      "169",
+      "289"
+    ],
+    "a": 0,
+    "e": "225 भाज्य (15²) है, बाकी अभाज्य के वर्ग हैं।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Order: 1.Room 2.Door 3.Key 4.Lock 5.Switch",
+      "hi": "क्रम: 1.कमरा 2.दरवाजा 3.चाबी 4.ताला 5.स्विच:"
+    },
+    "o": [
+      "3, 4, 2, 1, 5",
+      "3, 2, 4, 1, 5",
+      "1, 2, 3, 4, 5",
+      "4, 3, 2, 1, 5"
+    ],
+    "a": 0,
+    "e": "चाबी -> ताला -> दरवाजा -> कमरा -> स्विच।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Statement: All roses are flowers. Some flowers red:",
+      "hi": "कथन: सभी गुलाब फूल हैं. कुछ फूल लाल हैं:"
+    },
+    "o": [
+      "Does not follow",
+      "Follows",
+      "Either",
+      "Definite"
+    ],
+    "a": 0,
+    "e": "अनिवार्य रूप से अनुसरण नहीं करता।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "CLOCK is 3-12-15-3-11, WATCH is:",
+      "hi": "यदि CLOCK = 3-12-15-3-11, तो WATCH:"
+    },
+    "o": [
+      "23-1-20-3-8",
+      "22-1-20-3-8",
+      "23-2-20-3-8",
+      "23-1-19-3-8"
+    ],
+    "a": 0,
+    "e": "W(23)-A(1)-T(20)-C(3)-H(8)."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Mirror image of 'TIME':",
+      "hi": "'TIME' का दर्पण प्रतिबिंब:"
+    },
+    "o": [
+      "EMIT (lateral)",
+      "TIME",
+      "ITEM",
+      "EMTI"
+    ],
+    "a": 0,
+    "e": "पार्श्व परिवर्तन से EMIT."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "8 : 64 :: 11 : ?",
+      "hi": "8 : 64 :: 11 : ?"
+    },
+    "o": [
+      "121",
+      "111",
+      "131",
+      "144"
+    ],
+    "a": 0,
+    "e": "11² = 121."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Opposite to 1 in dice with adjacent 2,3,4,5:",
+      "hi": "पासे में 1 के विपरीत कौन सा अंक होगा:"
+    },
+    "o": [
+      "6",
+      "2",
+      "3",
+      "5"
+    ],
+    "a": 0,
+    "e": "शेष फलक 6 होगा।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Series: 1, 4, 9, 16, 25, 36, ?",
+      "hi": "श्रृंखला पूर्ण करें: 1, 4, 9, 16, 25, 36, ?"
+    },
+    "o": [
+      "49",
+      "45",
+      "48",
+      "50"
+    ],
+    "a": 0,
+    "e": "7² = 49."
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Odd one: Eye, Nose, Ear, Kidney:",
+      "hi": "विषम अंग चुनें: आंख, नाक, कान, किडनी:"
+    },
+    "o": [
+      "Kidney",
+      "Eye",
+      "Nose",
+      "Ear"
+    ],
+    "a": 0,
+    "e": "किडनी आंतरिक अंग है।"
+  },
+  {
+    "sec": "Reasoning",
+    "q": {
+      "en": "Doctor : Hospital :: Teacher : ?",
+      "hi": "डॉक्टर : अस्पताल :: शिक्षक : ?"
+    },
+    "o": [
+      "School",
+      "Office",
+      "Court",
+      "Lab"
+    ],
+    "a": 0,
+    "e": "शिक्षक विद्यालय में पढ़ाते हैं।"
   },
   {
     "sec": "English",
     "q": {
-      "en": "Select the synonym of 'CANDID':",
-      "hi": "'CANDID' शब्द का सही पर्यायवाची चुनें:"
+      "en": "Synonym of 'CANDID':",
+      "hi": "Synonym of 'CANDID':"
     },
     "o": [
       "Frank / Honest",
@@ -354,43 +1137,43 @@
       "Timid"
     ],
     "a": 0,
-    "e": "Candid means truthful, straightforward, and frank."
+    "e": "Candid means straightforward."
   },
   {
     "sec": "English",
     "q": {
-      "en": "Select the correctly spelled word:",
-      "hi": "सही वर्तनी (Correct Spelling) वाला शब्द चुनें:"
+      "en": "Select correctly spelled word:",
+      "hi": "Select correctly spelled word:"
     },
     "o": [
-      "Accomodation",
       "Accommodation",
+      "Accomodation",
       "Acommodation",
       "Accommadation"
     ],
-    "a": 1,
-    "e": "Correct spelling is Accommodation (double c, double m)."
+    "a": 0,
+    "e": "Double c and double m."
   },
   {
     "sec": "English",
     "q": {
-      "en": "Choose the antonym of 'BENEVOLENT':",
-      "hi": "'BENEVOLENT' (दयालु) का विलोम शब्द चुनें:"
+      "en": "Antonym of 'BENEVOLENT':",
+      "hi": "Antonym of 'BENEVOLENT':"
     },
     "o": [
-      "Kind",
       "Malevolent / Cruel",
+      "Kind",
       "Generous",
       "Helpful"
     ],
-    "a": 1,
-    "e": "Benevolent means kind; Malevolent means wishing evil or cruel."
+    "a": 0,
+    "e": "Benevolent = kind, Malevolent = cruel."
   },
   {
     "sec": "English",
     "q": {
-      "en": "A person who loves books is called a:",
-      "hi": "किताबों से प्रेम करने वाले व्यक्ति को क्या कहते हैं?"
+      "en": "A person who loves books:",
+      "hi": "A person who loves books:"
     },
     "o": [
       "Bibliophile",
@@ -399,51 +1182,321 @@
       "Numismatist"
     ],
     "a": 0,
-    "e": "A bibliophile is a person who collects or has a great love of books."
+    "e": "Bibliophile."
   },
   {
     "sec": "English",
     "q": {
-      "en": "Identify the error: 'She don't like playing chess.'",
-      "hi": "गलत भाग पहचानें: 'She don't like playing chess.'"
+      "en": "Identify error: 'She don't like chess.'",
+      "hi": "Identify error: 'She don't like chess.'"
     },
     "o": [
-      "She",
       "don't like",
+      "She",
       "playing",
       "chess"
     ],
-    "a": 1,
-    "e": "Third person singular (She) requires 'doesn't like', not 'don't like'."
+    "a": 0,
+    "e": "Use 'doesn't like' for singular."
   },
   {
     "sec": "English",
     "q": {
-      "en": "Meaning of idiom 'Break the ice':",
-      "hi": "'Break the ice' मुहावरे का सही अर्थ क्या है?"
+      "en": "Meaning of 'Break the ice':",
+      "hi": "Meaning of 'Break the ice':"
     },
     "o": [
-      "To start a quarrel",
-      "To relieve tension / start conversation",
+      "To start conversation",
+      "To quarrel",
       "To freeze water",
       "To feel cold"
     ],
-    "a": 1,
-    "e": "To break the ice means to initiate conversation in a social setting."
+    "a": 0,
+    "e": "Initiate conversation in awkward setting."
   },
   {
     "sec": "English",
     "q": {
-      "en": "Choose the passive voice: 'The chef cooked the meal.'",
-      "hi": "कर्मवाच्य (Passive Voice) चुनें: 'The chef cooked the meal.'"
+      "en": "Passive: 'The chef cooked the meal.'",
+      "hi": "Passive: 'The chef cooked the meal.'"
     },
     "o": [
-      "The meal is cooked by chef",
       "The meal was cooked by the chef",
-      "The chef was cooking meal",
-      "The meal has been cooked"
+      "Meal is cooked",
+      "Chef was cooking",
+      "Meal has been cooked"
     ],
-    "a": 1,
-    "e": "Past simple active converts to: object + was/were + past participle (cooked) + by subject."
+    "a": 0,
+    "e": "was/were + V3."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Antonym of 'ARROGANT':",
+      "hi": "Antonym of 'ARROGANT':"
+    },
+    "o": [
+      "Humble / Modest",
+      "Proud",
+      "Selfish",
+      "Rude"
+    ],
+    "a": 0,
+    "e": "Humble means modest."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Worldwide disease outbreak is called:",
+      "hi": "Worldwide disease outbreak is called:"
+    },
+    "o": [
+      "Pandemic",
+      "Endemic",
+      "Epidemic",
+      "Infection"
+    ],
+    "a": 0,
+    "e": "Worldwide = Pandemic."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Meaning of 'Spill the beans':",
+      "hi": "Meaning of 'Spill the beans':"
+    },
+    "o": [
+      "To reveal a secret",
+      "To waste food",
+      "To plant seeds",
+      "To cook food"
+    ],
+    "a": 0,
+    "e": "Reveal confidential info."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Select correctly spelled word:",
+      "hi": "Select correctly spelled word:"
+    },
+    "o": [
+      "Embarrassment",
+      "Embarasment",
+      "Embarassment",
+      "Embarassmant"
+    ],
+    "a": 0,
+    "e": "Double r and double s."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Fill blank: 'He is junior _______ me.'",
+      "hi": "Fill blank: 'He is junior _______ me.'"
+    },
+    "o": [
+      "to",
+      "than",
+      "from",
+      "by"
+    ],
+    "a": 0,
+    "e": "Words ending in -ior take 'to'."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Synonym of 'METICULOUS':",
+      "hi": "Synonym of 'METICULOUS':"
+    },
+    "o": [
+      "Careful / Precise",
+      "Careless",
+      "Lazy",
+      "Hurried"
+    ],
+    "a": 0,
+    "e": "Meticulous = very precise."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "One who speaks many languages:",
+      "hi": "One who speaks many languages:"
+    },
+    "o": [
+      "Polyglot",
+      "Linguist",
+      "Biographer",
+      "Novelist"
+    ],
+    "a": 0,
+    "e": "Polyglot."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Error: 'Neither teacher nor students was present.'",
+      "hi": "Error: 'Neither teacher nor students was present.'"
+    },
+    "o": [
+      "was present",
+      "Neither",
+      "teacher",
+      "students"
+    ],
+    "a": 0,
+    "e": "Verb agrees with nearer subject => were."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Meaning of 'A piece of cake':",
+      "hi": "Meaning of 'A piece of cake':"
+    },
+    "o": [
+      "Something very easy",
+      "A sweet",
+      "A party treat",
+      "A puzzle"
+    ],
+    "a": 0,
+    "e": "Very easy task."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Antonym of 'OPAQUE':",
+      "hi": "Antonym of 'OPAQUE':"
+    },
+    "o": [
+      "Transparent / Clear",
+      "Dark",
+      "Dense",
+      "Cloudy"
+    ],
+    "a": 0,
+    "e": "Transparent."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Preposition: 'Living here _______ 2018.'",
+      "hi": "Preposition: 'Living here _______ 2018.'"
+    },
+    "o": [
+      "since",
+      "for",
+      "from",
+      "in"
+    ],
+    "a": 0,
+    "e": "Point of time takes 'since'."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "A remedy for all diseases:",
+      "hi": "A remedy for all diseases:"
+    },
+    "o": [
+      "Panacea",
+      "Antibiotic",
+      "Vaccine",
+      "Antidote"
+    ],
+    "a": 0,
+    "e": "Panacea."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Meaning of 'Burn the midnight oil':",
+      "hi": "Meaning of 'Burn the midnight oil':"
+    },
+    "o": [
+      "Study late into night",
+      "Waste power",
+      "Set fire",
+      "Sleep early"
+    ],
+    "a": 0,
+    "e": "Work/study late at night."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Synonym of 'FEEBLE':",
+      "hi": "Synonym of 'FEEBLE':"
+    },
+    "o": [
+      "Weak / Frail",
+      "Strong",
+      "Brave",
+      "Clever"
+    ],
+    "a": 0,
+    "e": "Feeble = physically weak."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Indirect: He said, 'I am reading.'",
+      "hi": "Indirect: He said, 'I am reading.'"
+    },
+    "o": [
+      "He said that he was reading",
+      "He says he is reading",
+      "He reads",
+      "He had read"
+    ],
+    "a": 0,
+    "e": "Present continuous changes to past."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Select correctly spelled word:",
+      "hi": "Select correctly spelled word:"
+    },
+    "o": [
+      "Occurrence",
+      "Occurence",
+      "Occurance",
+      "Ocurrence"
+    ],
+    "a": 0,
+    "e": "Double c and double r."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "One who looks at bright side:",
+      "hi": "One who looks at bright side:"
+    },
+    "o": [
+      "Optimist",
+      "Pessimist",
+      "Pacifist",
+      "Realist"
+    ],
+    "a": 0,
+    "e": "Optimist."
+  },
+  {
+    "sec": "English",
+    "q": {
+      "en": "Meaning of 'Once in a blue moon':",
+      "hi": "Meaning of 'Once in a blue moon':"
+    },
+    "o": [
+      "Very rarely",
+      "Frequently",
+      "Every full moon",
+      "Never"
+    ],
+    "a": 0,
+    "e": "Very rarely."
   }
 ]
