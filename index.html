@@ -3,137 +3,264 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmartEduHub - Free Academic Calculators, CBT Exams & Mock Tests</title>
-  <meta name="google-adsense-account" content="ca-pub-1891031290159418">
+  <title>SmartEduHub - India's Premier CBT Exam Simulator & Daily Quizzes</title>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    @keyframes yellowGlow {
-      0%, 100% { box-shadow: 0 0 15px rgba(251, 191, 36, 0.7), 0 0 30px rgba(245, 158, 11, 0.4); transform: scale(1); }
-      50% { box-shadow: 0 0 30px rgba(251, 191, 36, 1), 0 0 50px rgba(245, 158, 11, 0.8); transform: scale(1.04); }
-    }
-    .pulse-yellow { animation: yellowGlow 1.5s infinite ease-in-out; }
-  </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col font-sans">
-  <header class="border-b border-slate-800 bg-slate-950/90 backdrop-blur py-3 px-4 sm:px-6 sticky top-0 z-50">
-    <div class="max-w-6xl mx-auto flex justify-between items-center">
-      <div class="flex items-center space-x-2">
-        <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-500 bg-clip-text text-transparent">🎓 SmartEduHub</h1>
-      </div>
-      <div class="flex items-center space-x-3">
-        <!-- Language Switcher -->
-        <div class="flex items-center space-x-1 bg-slate-900 border border-slate-700 px-2 py-1 rounded-lg text-xs">
-          <span class="text-slate-400">🌐</span>
-          <select id="home-lang" class="bg-transparent text-emerald-400 font-bold focus:outline-none cursor-pointer">
-            <option value="en" class="bg-slate-900 text-white">English</option>
-            <option value="hi" class="bg-slate-900 text-white">हिन्दी</option>
-          </select>
-        </div>
-        <span class="hidden sm:inline-block text-xs bg-slate-800 text-emerald-400 px-2.5 py-1 rounded-full border border-slate-700">100% Free</span>
-      </div>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans selection:bg-emerald-500 selection:text-slate-950">
+  <!-- Top Navigation Header -->
+  <header class="border-b border-slate-800/80 bg-slate-900/80 backdrop-blur sticky top-0 z-40 px-4 py-3 flex justify-between items-center">
+    <div class="flex items-center space-x-2">
+      <span class="text-xl">🎯</span>
+      <span class="font-black text-base tracking-tight text-white">SmartEdu<span class="text-emerald-400">Hub</span></span>
+      <span class="text-[10px] px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-bold ml-1">AI CBT Arena</span>
+    </div>
+    <div class="flex items-center space-x-3">
+      <a href="#daily-quiz" class="text-xs font-bold text-amber-400 hover:text-amber-300">⚡ Daily Booster</a>
+      <a href="#exam-hall" class="px-3.5 py-1.5 bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-400 hover:to-teal-400 text-slate-950 font-black rounded-xl text-xs transition shadow-lg shadow-emerald-950/50">
+        🎯 Enter CBT Exam Hall
+      </a>
     </div>
   </header>
 
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex-1 w-full">
-<div class="mb-10"><h3 class="text-xl font-black text-white mb-3">🏛️ Dedicated Exam Portals</h3><div class="grid grid-cols-1 sm:grid-cols-3 gap-4"><a href="exams/ssc-cgl/index.html" class="p-4 bg-slate-800/80 border border-amber-500/50 rounded-xl block"><div class="text-2xl mb-1">🦁</div><h4 class="text-sm font-bold text-white">SSC CGL Hub</h4><p class="text-[11px] text-slate-400">Tier-1 Solved CBT Papers</p></a><a href="exams/rrb-ntpc/index.html" class="p-4 bg-slate-800/80 border border-cyan-500/50 rounded-xl block"><div class="text-2xl mb-1">🚆</div><h4 class="text-sm font-bold text-white">Railways RRB NTPC</h4><p class="text-[11px] text-slate-400">Stage-1 & 2 CBT Mock Papers</p></a><a href="exams/upsc-prelims/index.html" class="p-4 bg-slate-800/80 border border-purple-500/50 rounded-xl block"><div class="text-2xl mb-1">🏛️</div><h4 class="text-sm font-bold text-white">UPSC Civil Services</h4><p class="text-[11px] text-slate-400">GS-1 Solved Papers & Analysis</p></a></div></div>
-    <!-- Blinking Exam Hall Banner -->
-    <div class="mb-10 bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 border-2 border-amber-500/50 rounded-2xl p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-2xl">
-      <div class="space-y-2 text-center md:text-left">
-        <span class="text-[10px] font-black uppercase tracking-wider px-3 py-1 bg-amber-500/20 text-amber-400 border border-amber-500/40 rounded-full inline-block">⚡ REAL CBT EXAM SIMULATOR</span>
-        <h2 id="banner-title" class="text-2xl sm:text-3xl font-black text-white">Online CBT Exam Hall Simulator</h2>
-        <p id="banner-desc" class="text-slate-300 text-xs sm:text-sm max-w-xl leading-relaxed">Experience real TCS iON / NTA exam interface with countdown timer, negative marking, and bilingual English & हिन्दी mode.</p>
+  <!-- Hero Section -->
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-8 text-center space-y-4">
+    <div class="inline-flex items-center space-x-2 bg-slate-900 border border-slate-800 px-3 py-1 rounded-full text-xs text-slate-300">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      <span>Authentic TCS iON CBT Hall Simulator & Smart Diagnostics</span>
+    </div>
+    <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight">
+      Crack Government Exams with <br class="hidden sm:block"/><span class="bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 bg-clip-text text-transparent">Official CBT Exam Precision</span>
+    </h1>
+    <p class="text-slate-400 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
+      Full 100-Question Official Shift Papers, 6 Regional Languages, Strict English Locks, Weak-Area Revision Sheets, and Daily 5-Minute Rapid Booster Quizzes.
+    </p>
+    <div class="pt-2 flex flex-wrap justify-center gap-3">
+      <a href="#exam-hall" class="px-5 py-2.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs sm:text-sm transition flex items-center space-x-2">
+        <span>🎯 Browse CBT Exam Hall</span>
+        <span>→</span>
+      </a>
+      <a href="#daily-quiz" class="px-5 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold rounded-xl text-xs sm:text-sm border border-slate-800 transition">
+        ⚡ Take Daily 5-Min Quiz
+      </a>
+    </div>
+  </section>
+
+  <!-- Section 1: CBT Exam Hall Category Cards -->
+  <section id="exam-hall" class="max-w-5xl mx-auto px-4 py-8 space-y-5">
+    <div class="flex justify-between items-end border-b border-slate-800 pb-3">
+      <div>
+        <h2 class="text-lg sm:text-xl font-black text-white flex items-center space-x-2">
+          <span>🏛️</span>
+          <span>Official CBT Exam Hall Arena</span>
+        </h2>
+        <p class="text-xs text-slate-400">Authentic TCS iON format with official timers, section tabs & marking schemes.</p>
       </div>
-      <a href="tools/online-exam.html" class="pulse-yellow px-7 py-4 bg-amber-400 hover:bg-amber-300 text-slate-950 font-black rounded-2xl text-sm sm:text-base transition tracking-wide shrink-0 border-2 border-yellow-200">
-        👉 <span id="enter-btn-txt">Enter Exam Hall →</span>
-      </a>
+      <span class="text-[11px] text-emerald-400 font-mono font-bold bg-emerald-950/60 px-2.5 py-1 rounded-lg border border-emerald-500/30">Free Open Access</span>
     </div>
 
-    <!-- Section Heading -->
-    <div class="text-center mb-8">
-      <h3 id="sec-title" class="text-2xl font-black text-white mb-2">Academic Calculators & Exam Utilities</h3>
-      <p id="sec-subtitle" class="text-slate-400 text-xs sm:text-sm">Instant tools designed for CBSE, Universities, and Competitive Exams.</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <!-- SSC Card -->
+      <div class="bg-slate-900/90 border border-slate-800 hover:border-emerald-500/50 p-4 rounded-2xl flex flex-col justify-between space-y-3 transition group">
+        <div class="space-y-1.5">
+          <div class="flex justify-between items-center">
+            <span class="text-xs font-black text-cyan-400">SSC Hub</span>
+            <span class="text-[10px] bg-emerald-500/20 text-emerald-300 font-bold px-2 py-0.5 rounded">Live Shifts</span>
+          </div>
+          <h3 class="font-bold text-white text-sm group-hover:text-emerald-400 transition">SSC CGL / CHSL / MTS</h3>
+          <p class="text-[11px] text-slate-400">100 Qs • 60 Mins • +2.00 / -0.50 marking • Strict English lock & regional languages.</p>
+        </div>
+        <a href="exams/ssc-cgl/tier1-2024.html" class="w-full py-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold rounded-xl text-xs text-center transition">
+          Enter SSC CBT Hall →
+        </a>
+      </div>
+
+      <!-- Railways Card -->
+      <div class="bg-slate-900/90 border border-slate-800 hover:border-amber-500/50 p-4 rounded-2xl flex flex-col justify-between space-y-3 transition group">
+        <div class="space-y-1.5">
+          <div class="flex justify-between items-center">
+            <span class="text-xs font-black text-amber-400">Railway Hub</span>
+            <span class="text-[10px] bg-amber-500/20 text-amber-300 font-bold px-2 py-0.5 rounded">RRB Engine</span>
+          </div>
+          <h3 class="font-bold text-white text-sm group-hover:text-amber-400 transition">RRB NTPC & Group D</h3>
+          <p class="text-[11px] text-slate-400">100 Qs • 90 Mins • 40 GA/Science, 30 Maths, 30 Reasoning • All Indian Languages.</p>
+        </div>
+        <a href="exams/ssc-cgl/tier1-2024.html" class="w-full py-2 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-xl text-xs text-center transition">
+          Enter RRB CBT Hall →
+        </a>
+      </div>
+
+      <!-- Banking Card -->
+      <div class="bg-slate-900/90 border border-slate-800 hover:border-purple-500/50 p-4 rounded-2xl flex flex-col justify-between space-y-3 transition group">
+        <div class="space-y-1.5">
+          <div class="flex justify-between items-center">
+            <span class="text-xs font-black text-purple-400">Banking Hub</span>
+            <span class="text-[10px] bg-purple-500/20 text-purple-300 font-bold px-2 py-0.5 rounded">20-Min Timers</span>
+          </div>
+          <h3 class="font-bold text-white text-sm group-hover:text-purple-400 transition">IBPS PO / Clerk & SBI</h3>
+          <p class="text-[11px] text-slate-400">Sectional 20-min auto-locks • High-yield Quant & Reasoning puzzles.</p>
+        </div>
+        <button onclick="alert('Banking Sectional Timer shifts activating in tomorrow morning schedule!')" class="w-full py-2 bg-slate-800 hover:bg-slate-700 text-purple-300 font-bold rounded-xl text-xs text-center border border-slate-700 transition">
+          Launch Banking Mock →
+        </button>
+      </div>
+
+      <!-- Defence & Police -->
+      <div class="bg-slate-900/90 border border-slate-800 hover:border-rose-500/50 p-4 rounded-2xl flex flex-col justify-between space-y-3 transition group">
+        <div class="space-y-1.5">
+          <div class="flex justify-between items-center">
+            <span class="text-xs font-black text-rose-400">Defence & State</span>
+            <span class="text-[10px] bg-rose-500/20 text-rose-300 font-bold px-2 py-0.5 rounded">GS Focus</span>
+          </div>
+          <h3 class="font-bold text-white text-sm group-hover:text-rose-400 transition">NDA, CDS & State Police</h3>
+          <p class="text-[11px] text-slate-400">Defence GS, Static GK & analytical tests with zero-scroll diagnostic reports.</p>
+        </div>
+        <button onclick="alert('Defence mocks loading for upcoming shift cycle!')" class="w-full py-2 bg-slate-800 hover:bg-slate-700 text-rose-300 font-bold rounded-xl text-xs text-center border border-slate-700 transition">
+          Launch Defence Mock →
+        </button>
+      </div>
     </div>
+  </section>
+  <!-- Section 2: Daily 5-Minute Booster Quiz Widget -->
+  <section id="daily-quiz" class="max-w-4xl mx-auto px-4 py-8">
+    <div class="bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 rounded-3xl p-5 sm:p-7 shadow-2xl space-y-4">
+      <div class="flex flex-wrap justify-between items-center gap-2 border-b border-slate-800 pb-3">
+        <div>
+          <span class="text-[10px] font-mono font-bold text-amber-400 uppercase tracking-wider">⚡ 5-Minute Daily Habit Booster</span>
+          <h3 class="text-base sm:text-lg font-black text-white">Daily Rapid Test (10 Mixed High-Yield Questions)</h3>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span id="q-timer" class="bg-amber-950 border border-amber-500/40 text-amber-300 px-3 py-1 rounded-xl text-xs font-mono font-bold">⏱️ 05:00</span>
+          <span id="q-score-badge" class="bg-slate-800 text-emerald-400 px-2.5 py-1 rounded-xl text-xs font-bold font-mono">Score: 0/10</span>
+        </div>
+      </div>
 
-    <!-- 3 Core Tools Grid -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      <a href="exams/ssc-cgl/index.html" class="p-6 bg-slate-800/80 border-2 border-amber-500/50 rounded-2xl hover:border-amber-400 hover:bg-slate-800 transition block group shadow-xl">
-        <div class="text-3xl mb-3">🦁</div>
-        <div class="text-[10px] font-bold text-amber-400 uppercase tracking-wider mb-1">Dedicated Exam Hub</div>
-        <h4 class="text-lg font-bold text-white group-hover:text-amber-300">SSC CGL Hub (PYQs & Mocks)</h4>
-        <p class="text-xs text-slate-400 mt-2">Official Tier-1 2024 & 2023 solved papers with real CBT timer and regional language support.</p>
-      </a>
+      <!-- Quiz Body -->
+      <div id="quiz-box" class="space-y-4 py-2">
+        <div class="flex justify-between text-xs text-slate-400">
+          <span id="q-num" class="font-bold text-cyan-400">Question 1 of 10</span>
+          <span id="q-topic" class="font-bold text-slate-400">Current Affairs & GK</span>
+        </div>
+        <h4 id="q-text" class="text-sm sm:text-base font-bold text-white leading-relaxed">Loading questions...</h4>
+        <div id="q-options" class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs"></div>
+        <div id="q-expl" class="hidden p-3 rounded-xl bg-slate-950 border border-slate-800 text-xs text-slate-300 leading-relaxed"></div>
+      </div>
 
-      <a href="tools/gk-quiz.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
-        <div class="text-3xl mb-3">🎯</div>
-        <h4 id="card1-title" class="text-lg font-bold text-white group-hover:text-emerald-400">Daily GK & Exam Mock Quiz</h4>
-        <p id="card1-desc" class="text-xs text-slate-400 mt-2">Topic-wise daily randomized high-yield questions with a 30s ticking timer and explanations.</p>
-      </a>
-
-      <a href="tools/cgpa-calculator.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
-        <div class="text-3xl mb-3">📊</div>
-        <h4 id="card2-title" class="text-lg font-bold text-white group-hover:text-emerald-400">CGPA to Percentage Calculator</h4>
-        <p id="card2-desc" class="text-xs text-slate-400 mt-2">Instant formulas for CBSE (9.5x), Mumbai University, VTU, KTU, and standard 10-point scales.</p>
-      </a>
-
-      <a href="tools/formula-finder.html" class="p-6 bg-slate-800/70 border border-slate-700 rounded-2xl hover:border-emerald-500 hover:bg-slate-800 transition block group shadow-lg">
-        <div class="text-3xl mb-3">📐</div>
-        <h4 id="card3-title" class="text-lg font-bold text-white group-hover:text-emerald-400">Class 10-12 Formula Finder</h4>
-        <p id="card3-desc" class="text-xs text-slate-400 mt-2">Instant formula cheat-sheet with instant search for Physics and Mathematics.</p>
-      </a>
+      <!-- Quiz Controls -->
+      <div class="flex justify-between items-center pt-3 border-t border-slate-800">
+        <span class="text-[11px] text-slate-500">Free daily practice • Refreshes every 24 hours</span>
+        <button id="q-next-btn" onclick="nextQuizQ()" class="px-5 py-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs transition">Next Question →</button>
+      </div>
     </div>
-  </main>
+  </section>
 
-  <footer class="border-t border-slate-800 py-6 text-center text-xs text-slate-500 space-x-4">
-    <span>© 2026 SmartEduHub</span>
-    <a href="privacy.html" class="text-emerald-400 hover:underline">Privacy Policy</a>
-    <a href="terms.html" class="text-emerald-400 hover:underline">Terms of Service</a>
+  <!-- Quick Revision Sheets -->
+  <section class="max-w-5xl mx-auto px-4 py-6">
+    <div class="bg-slate-900/50 border border-slate-800/80 rounded-2xl p-4 flex flex-wrap justify-between items-center gap-3">
+      <div>
+        <h4 class="text-xs font-bold text-white">🎯 Weak-Area 2-Minute Quick Revision Cheat-Sheets:</h4>
+        <p class="text-[11px] text-slate-400">Instant formulas and rules to review before attempting official CBT mocks.</p>
+      </div>
+      <div class="flex flex-wrap gap-2 text-xs">
+        <a href="exams/ssc-cgl/notes/maths-shortcuts.html" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-emerald-400 rounded-lg border border-slate-700 font-semibold transition">📐 Maths Shortcuts</a>
+        <a href="exams/ssc-cgl/notes/polity-articles.html" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-cyan-400 rounded-lg border border-slate-700 font-semibold transition">🏛️ Polity & Writs</a>
+        <a href="exams/ssc-cgl/notes/reasoning-tricks.html" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-purple-400 rounded-lg border border-slate-700 font-semibold transition">🧩 Reasoning Tricks</a>
+        <a href="exams/ssc-cgl/notes/english-rules.html" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-rose-400 rounded-lg border border-slate-700 font-semibold transition">📖 English 50 Rules</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800/80 py-6 text-center text-xs text-slate-500 max-w-5xl mx-auto px-4">
+    <p>© 2026 SmartEduHub • Autonomous CBT Examination Engine Powered by Smart Core</p>
   </footer>
 
   <script>
-    const trans = {
-      en: {
-        bTitle: "Online CBT Exam Hall Simulator",
-        bDesc: "Experience real TCS iON / NTA exam interface with countdown timer, negative marking, and bilingual English & हिन्दी mode.",
-        enterBtn: "Enter Exam Hall →",
-        sTitle: "Academic Calculators & Exam Utilities",
-        sSub: "Instant tools designed for CBSE, Universities, and Competitive Exams.",
-        c1T: "Daily GK & Exam Mock Quiz",
-        c1D: "Topic-wise daily randomized high-yield questions with a 30s ticking timer and explanations.",
-        c2T: "CGPA to Percentage Calculator",
-        c2D: "Instant formulas for CBSE (9.5x), Mumbai University, VTU, KTU, and standard 10-point scales.",
-        c3T: "Class 10-12 Formula Finder",
-        c3D: "Instant formula cheat-sheet with instant search for Physics and Mathematics."
-      },
-      hi: {
-        bTitle: "ऑनलाइन CBT परीक्षा हॉल सिम्युलेटर",
-        bDesc: "TCS iON / NTA आधारित परीक्षा हॉल का वास्तविक अनुभव: लाइव टाइमर, नेगेटिव मार्किंग और हिन्दी/English मोड।",
-        enterBtn: "परीक्षा हॉल में प्रवेश करें →",
-        sTitle: "शैक्षणिक कैलकुलेटर और परीक्षा टूल्स",
-        sSub: "CBSE, विश्वविद्यालयों और प्रतियोगी परीक्षाओं के लिए मुफ़्त उपयोगी टूल्स।",
-        c1T: "दैनिक GK और मॉक क्विज़",
-        c1D: "हर बार नए सवाल, 30-सेकंड टाइमर और विस्तृत व्याख्या के साथ परीक्षा अभ्यास।",
-        c2T: "CGPA से प्रतिशत कैलकुलेटर",
-        c2D: "CBSE (9.5x), मुंबई यूनिवर्सिटी, VTU और 10-पॉइंट स्केल के लिए तुरंत प्रतिशत निकालें।",
-        c3T: "कक्षा 10-12 फॉर्मूला फाइंडर",
-        c3D: "भौतिकी (Physics) और गणित (Maths) के महत्वपूर्ण सूत्रों की तुरंत लाइव खोज।"
+    // 10 Curated Rapid Mixed Questions for the Daily Booster
+    const bQs = [
+      { t: "Polity & Constitution", q: "Which Constitutional Amendment lowered the voting age from 21 to 18?", o: ["61st Amendment", "42nd Amendment", "44th Amendment", "73rd Amendment"], a: 0, e: "61st Amendment Act, 1988 amended Article 326." },
+      { t: "Fast Quantitative Trick", q: "If an item is marked 40% above CP and given 25% discount, the net profit is:", o: ["5%", "10%", "15%", "12%"], a: 0, e: "Net = 40 - 25 - (40*25/100) = 5% profit." },
+      { t: "General Science", q: "Which hormone is called the 'Emergency Hormone' (Fight or Flight)?", o: ["Adrenaline", "Insulin", "Thyroxine", "Glucagon"], a: 0, e: "Adrenaline regulates body stress response." },
+      { t: "Speed Reasoning", q: "Find next number in series: 2, 6, 12, 20, 30, ?", o: ["42", "40", "44", "46"], a: 0, e: "Difference increases by 2: +4, +6, +8, +10, +12 = 42." },
+      { t: "English Grammar", q: "Fill in the blank: 'He is junior _______ me in experience.'", o: ["to", "than", "from", "by"], a: 0, e: "Adjectives ending in -ior (junior, senior, prior) take 'to'." },
+      { t: "Indian Geography", q: "Which river is historically called the 'Sorrow of Bengal'?", o: ["Damodar", "Hooghly", "Kosi", "Mahanadi"], a: 0, e: "Damodar river was historically known as Sorrow of Bengal." },
+      { t: "Ancient History", q: "Who founded the Maurya Empire with Chanakya's guidance?", o: ["Chandragupta Maurya", "Ashoka", "Bindusara", "Samudragupta"], a: 0, e: "Chandragupta Maurya founded it in 322 BCE." },
+      { t: "Quantitative Aptitude", q: "A sum doubles in 5 years at simple interest. In how many years will it quadruple (4 times)?", o: ["15 Years", "10 Years", "12 Years", "20 Years"], a: 0, e: "Time = (4-1)/(2-1) * 5 = 15 years." },
+      { t: "English Vocabulary", q: "A person who loves and collects books is called a:", o: ["Bibliophile", "Philanthropist", "Polyglot", "Numismatist"], a: 0, e: "Bibliophile is a book collector." },
+      { t: "Logical Reasoning", q: "In a code, 'CAT' is written as 24. What is 'DOG'?", o: ["26", "28", "30", "32"], a: 0, e: "D(4) + O(15) + G(7) = 26." }
+    ];
+
+    let bCur = 0, bScore = 0, bAns = false, bTime = 300;
+
+    // Timer
+    const tInterval = setInterval(() => {
+      if (bTime > 0) {
+        bTime--;
+        const m = Math.floor(bTime / 60), s = bTime % 60;
+        document.getElementById("q-timer").innerText = "⏱️ " + String(m).padStart(2, '0') + ":" + String(s).padStart(2, '0');
+      } else {
+        clearInterval(tInterval);
+      }
+    }, 1000);
+
+    function renderQuiz() {
+      bAns = false;
+      const q = bQs[bCur];
+      document.getElementById("q-num").innerText = "Question " + (bCur + 1) + " of " + bQs.length;
+      document.getElementById("q-topic").innerText = q.t;
+      document.getElementById("q-text").innerText = q.q;
+      document.getElementById("q-expl").classList.add("hidden");
+      document.getElementById("q-next-btn").innerText = bCur === bQs.length - 1 ? "Finish Booster 🎯" : "Next Question →";
+
+      document.getElementById("q-options").innerHTML = q.o.map((opt, i) => {
+        return '<button onclick="chooseQuizOpt(' + i + ')" id="b-opt-' + i + '" class="p-3 rounded-xl border border-slate-800 bg-slate-950/70 hover:border-slate-700 text-left font-medium transition flex justify-between items-center text-xs">' +
+          '<span>' + String.fromCharCode(65 + i) + '. ' + opt + '</span>' +
+          '<span id="b-mark-' + i + '" class="font-bold"></span>' +
+        '</button>';
+      }).join("");
+    }
+
+    window.chooseQuizOpt = function(idx) {
+      if (bAns) return;
+      bAns = true;
+      const q = bQs[bCur];
+      const optEl = document.getElementById("b-opt-" + idx);
+      const markEl = document.getElementById("b-mark-" + idx);
+
+      if (idx === q.a) {
+        bScore++;
+        optEl.className = "p-3 rounded-xl border border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold text-left transition flex justify-between items-center text-xs";
+        markEl.innerText = "✓ Correct";
+      } else {
+        optEl.className = "p-3 rounded-xl border border-rose-500 bg-rose-950/40 text-rose-300 font-bold text-left transition flex justify-between items-center text-xs";
+        markEl.innerText = "✕ Wrong";
+        const corEl = document.getElementById("b-opt-" + q.a);
+        corEl.className = "p-3 rounded-xl border border-emerald-500/80 bg-emerald-950/30 text-emerald-400 font-bold text-left transition flex justify-between items-center text-xs";
+      }
+
+      document.getElementById("q-score-badge").innerText = "Score: " + bScore + "/" + bQs.length;
+      const expl = document.getElementById("q-expl");
+      expl.innerHTML = "<b>💡 Solution:</b> " + q.e;
+      expl.classList.remove("hidden");
+    };
+
+    window.nextQuizQ = function() {
+      if (bCur < bQs.length - 1) {
+        bCur++;
+        renderQuiz();
+      } else {
+        document.getElementById("quiz-box").innerHTML = '<div class="text-center py-6 space-y-3">' +
+          '<div class="text-3xl">🎉</div>' +
+          '<h3 class="text-base font-bold text-white">Daily 5-Min Booster Complete!</h3>' +
+          '<p class="text-sm font-mono text-emerald-400 font-bold">Your Score: ' + bScore + ' / ' + bQs.length + '</p>' +
+          '<p class="text-xs text-slate-400">Ready for full-length 100-question practice?</p>' +
+          '<a href="exams/ssc-cgl/tier1-2024.html" class="inline-block mt-2 px-5 py-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs transition">Enter Full CBT Mock Hall →</a>' +
+        '</div>';
+        document.getElementById("q-next-btn").classList.add("hidden");
       }
     };
 
-    document.getElementById("home-lang").addEventListener("change", (e) => {
-      const l = trans[e.target.value];
-      document.getElementById("banner-title").innerText = l.bTitle;
-      document.getElementById("banner-desc").innerText = l.bDesc;
-      document.getElementById("enter-btn-txt").innerText = l.enterBtn;
-      document.getElementById("sec-title").innerText = l.sTitle;
-      document.getElementById("sec-subtitle").innerText = l.sSub;
-      document.getElementById("card1-title").innerText = l.c1T;
-      document.getElementById("card1-desc").innerText = l.c1D;
-      document.getElementById("card2-title").innerText = l.c2T;
-      document.getElementById("card2-desc").innerText = l.c2D;
-      document.getElementById("card3-title").innerText = l.c3T;
-      document.getElementById("card3-desc").innerText = l.c3D;
-    });
+    renderQuiz();
   </script>
 </body>
 </html>
