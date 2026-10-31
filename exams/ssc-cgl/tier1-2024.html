@@ -42,6 +42,10 @@
       <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none">
         <option value="hi" selected>View in: हिन्दी</option>
         <option value="en">View in: English</option>
+        <option value="mr">View in: मराठी</option>
+        <option value="bn">View in: বাংলা</option>
+        <option value="ta">View in: தமிழ்</option>
+        <option value="te">View in: తెలుగు</option>
       </select>
       <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-3 py-1 rounded text-emerald-300 font-mono text-xs font-bold shadow">
         ⏱️ Time Left: <span id="clock">60:00</span>
@@ -176,7 +180,16 @@
       if (!qs.length) return;
       const q = qs[cur];
       document.getElementById("sec-tag").innerText = q.sec + " • Q" + (cur + 1) + " of " + qs.length;
-      document.getElementById("qtxt").innerText = q.q[lang] || q.q["en"];
+      const isEng = (q.sec === "English" || q.sec === "English Comprehension");
+      const activeLang = isEng ? "en" : lang;
+      document.getElementById("qtxt").innerText = (q.q && q.q[activeLang]) ? q.q[activeLang] : (q.q["en"] || q.q);
+      const lSel = document.getElementById("lang");
+      if (lSel) {
+        lSel.disabled = isEng;
+        lSel.className = isEng 
+          ? "bg-slate-900/50 border border-slate-800 px-2 py-1 rounded text-xs text-slate-500 font-bold cursor-not-allowed opacity-60" 
+          : "bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none";
+      }
       document.getElementById("opts").innerHTML = q.o.map(function(opt, i) {
         let s = "border-slate-800 bg-slate-950/60 hover:border-slate-700";
         let mark = "";
