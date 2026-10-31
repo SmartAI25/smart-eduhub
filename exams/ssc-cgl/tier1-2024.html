@@ -16,7 +16,7 @@
     </div>
     <div class="flex items-center space-x-3">
       <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold">
-        <option value="hi">हिन्दी</option>
+        <option value="hi" selected>हिन्दी</option>
         <option value="en">English</option>
       </select>
       <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">
@@ -93,21 +93,10 @@
   </div>
 
   <script>
-    const qs = [
-      {sec:"General Awareness",q:{en:"Which Amendment reduced voting age from 21 to 18 in India?",hi:"भारत में किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?"},o:["61st Amendment (1988)","42nd Amendment (1976)","44th Amendment (1978)","73rd Amendment (1992)"],a:0,e:"61वें संविधान संशोधन 1988 द्वारा अनुच्छेद 326 में संशोधन कर मतदान आयु 18 वर्ष की गई।"},
-      {sec:"General Awareness",q:{en:"Which Emperor embraced Buddhism after Kalinga War (261 BCE)?",hi:"261 ईसा पूर्व कलिंग युद्ध के बाद किस सम्राट ने बौद्ध धर्म अपनाया?"},o:["Chandragupta Maurya","Bindusara","Ashoka the Great","Brihadratha"],a:2,e:"कलिंग युद्ध के भीषण नरसंहार के बाद सम्राट अशोक ने बौद्ध धर्म स्वीकार किया।"},
-      {sec:"General Awareness",q:{en:"Under which Article can Supreme Court issue writs for Fundamental Rights?",hi:"सुप्रीम कोर्ट किस अनुच्छेद के तहत मौलिक अधिकारों की रक्षा हेतु रिट जारी करता है?"},o:["Article 21","Article 32","Article 226","Article 356"],a:1,e:"अनुच्छेद 32 के तहत सुप्रीम कोर्ट 5 प्रकार की संवैधानिक उपचारों की रिट जारी करता है।"},
-      {sec:"General Awareness",q:{en:"Which hormone is commonly called the 'Emergency Hormone'?",hi:"किस हार्मोन को 'आपातकालीन हार्मोन' (Fight-or-Flight) कहा जाता है?"},o:["Insulin","Adrenaline","Thyroxine","Glucagon"],a:1,e:"एड्रेनालाईन तनाव की स्थिति में ऊर्जा और हृदय गति को तुरंत नियंत्रित करता है।"},
-      {sec:"Quantitative Aptitude",q:{en:"Goods marked 40% above CP, 25% discount given. Find profit %:",hi:"वस्तु क्रय मूल्य से 40% अधिक अंकित की गई और 25% छूट दी गई। लाभ प्रतिशत क्या है?"},o:["5%","10%","15%","12%"],a:0,e:"CP=100, MP=140. छूट = 35, SP = 105. अतः शुद्ध लाभ = 5%."},
-      {sec:"Quantitative Aptitude",q:{en:"A sum doubles itself in 5 yrs at SI. In how many years will it become 4 times?",hi:"साधारण ब्याज से कोई धन 5 वर्ष में दोगुना होता है। यह 4 गुना कितने वर्षों में होगा?"},o:["10 Years","12 Years","15 Years","20 Years"],a:2,e:"5 वर्ष में ब्याज = P. 4 गुना हेतु 3P ब्याज चाहिए, अतः 3 × 5 = 15 वर्ष।"},
-      {sec:"Reasoning",q:{en:"Find the odd pair: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320",hi:"विषम युग्म ज्ञात कीजिए: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320"},o:["12 : 144","14 : 196","16 : 256","18 : 320"],a:3,e:"सभी संख्याएं वर्ग हैं, लेकिन 18 का वर्ग 324 होता है (320 नहीं)।"},
-      {sec:"Reasoning",q:{en:"Find the missing number: 2, 6, 12, 20, 30, ?",hi:"श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"},o:["40","42","44","46"],a:1,e:"अंतर: +4, +6, +8, +10, +12 -> 30 + 12 = 42."},
-      {sec:"English",q:{en:"Select the synonym of 'CANDID':",hi:"'CANDID' शब्द का सही पर्यायवाची चुनें:"},o:["Frank / Honest","Deceitful","Arrogant","Timid"],a:0,e:"Candid का अर्थ स्पष्टवादी और सच्चा होता है (Frank/Honest)."},
-      {sec:"English",q:{en:"Select the correctly spelled word:",hi:"सही वर्तनी (Correct Spelling) वाला शब्द चुनें:"},o:["Accomodation","Accommodation","Acommodation","Accommadation"],a:1,e:"शुद्ध वर्तनी 'Accommodation' है (double c, double m)."}
-    ];
-
+    const qs = [{"sec":"General Awareness","q":{"en":"Which Amendment reduced voting age from 21 to 18 in India?","hi":"भारत में किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?"},"o":["61st Amendment (1988)","42nd Amendment (1976)","44th Amendment (1978)","73rd Amendment (1992)"],"a":0,"e":"61वें संविधान संशोधन अधिनियम 1988 द्वारा मतदान की आयु 21 से घटाकर 18 वर्ष की गई।"},{"sec":"General Awareness","q":{"en":"Which Emperor embraced Buddhism after Kalinga War (261 BCE)?","hi":"261 ईसा पूर्व कलिंग युद्ध के बाद किस सम्राट ने बौद्ध धर्म अपनाया?"},"o":["Chandragupta Maurya","Bindusara","Ashoka the Great","Brihadratha"],"a":2,"e":"कलिंग युद्ध के भीषण नरसंहार के बाद सम्राट अशोक ने बौद्ध धर्म स्वीकार किया।"},{"sec":"General Awareness","q":{"en":"Under which Article can Supreme Court issue writs for Fundamental Rights?","hi":"सुप्रीम कोर्ट किस अनुच्छेद के तहत मौलिक अधिकारों की रक्षा हेतु रिट जारी करता है?"},"o":["Article 21","Article 32","Article 226","Article 356"],"a":1,"e":"अनुच्छेद 32 के तहत सुप्रीम कोर्ट 5 प्रकार की संवैधानिक उपचारों की रिट जारी करता है।"},{"sec":"General Awareness","q":{"en":"Which hormone is commonly called the 'Emergency Hormone'?","hi":"किस हार्मोन को 'आपातकालीन हार्मोन' (Fight-or-Flight) कहा जाता है?"},"o":["Insulin","Adrenaline","Thyroxine","Glucagon"],"a":1,"e":"एड्रेनालाईन तनाव की स्थिति में ऊर्जा और हृदय गति को तुरंत नियंत्रित करता है।"},{"sec":"Quantitative Aptitude","q":{"en":"Goods marked 40% above CP, 25% discount given. Find profit %:","hi":"वस्तु क्रय मूल्य से 40% अधिक अंकित की गई और 25% छूट दी गई। लाभ प्रतिशत क्या है?"},"o":["5%","10%","15%","12%"],"a":0,"e":"CP=100, MP=140. छूट = 35, SP = 105. अतः शुद्ध लाभ = 5%."},{"sec":"Quantitative Aptitude","q":{"en":"A sum doubles itself in 5 yrs at SI. In how many years will it become 4 times?","hi":"साधारण ब्याज से कोई धन 5 वर्ष में दोगुना होता है। यह 4 गुना कितने वर्षों में होगा?"},"o":["10 Years","12 Years","15 Years","20 Years"],"a":2,"e":"5 वर्ष में ब्याज = P. 4 गुना हेतु 3P ब्याज चाहिए, अतः 3 × 5 = 15 वर्ष।"},{"sec":"Reasoning","q":{"en":"Find the odd pair: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320","hi":"विषम युग्म ज्ञात कीजिए: (A) 12:144, (B) 14:196, (C) 16:256, (D) 18:320"},"o":["12 : 144","14 : 196","16 : 256","18 : 320"],"a":3,"e":"सभी संख्याएं वर्ग हैं, लेकिन 18 का वर्ग 324 होता है (320 नहीं)।"},{"sec":"Reasoning","q":{"en":"Find the missing number: 2, 6, 12, 20, 30, ?","hi":"श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"},"o":["40","42","44","46"],"a":1,"e":"अंतर: +4, +6, +8, +10, +12 -> 30 + 12 = 42."},{"sec":"English","q":{"en":"Select the synonym of 'CANDID':","hi":"'CANDID' शब्द का सही पर्यायवाची चुनें:"},"o":["Frank / Honest","Deceitful","Arrogant","Timid"],"a":0,"e":"Candid का अर्थ स्पष्टवादी और सच्चा होता है (Frank/Honest)."},{"sec":"English","q":{"en":"Select the correctly spelled word:","hi":"सही वर्तनी (Correct Spelling) वाला शब्द चुनें:"},"o":["Accomodation","Accommodation","Acommodation","Accommadation"],"a":1,"e":"शुद्ध वर्तनी 'Accommodation' है (double c, double m)."}];
     let cur = 0, lang = "hi", rev = false, sel = Array(qs.length).fill(null), time = 3600;
-    setInterval(() => {
+
+    setInterval(function() {
       if (time > 0 && !rev) {
         time--;
         const m = Math.floor(time / 60), s = time % 60;
@@ -120,7 +109,7 @@
       const q = qs[cur];
       document.getElementById("sec-tag").innerText = q.sec + " • Q" + (cur + 1) + " of " + qs.length;
       document.getElementById("qtxt").innerText = q.q[lang] || q.q["en"];
-      document.getElementById("opts").innerHTML = q.o.map((opt, i) => {
+      document.getElementById("opts").innerHTML = q.o.map(function(opt, i) {
         let s = "border-slate-800 bg-slate-950/60 hover:border-slate-700";
         let mark = "";
         if (rev) {
@@ -153,7 +142,7 @@
     }
 
     function drawGrid() {
-      document.getElementById("grid").innerHTML = qs.map((q, i) => {
+      document.getElementById("grid").innerHTML = qs.map(function(q, i) {
         let cls = "bg-slate-800 text-slate-400 border border-slate-700";
         if (rev) {
           cls = sel[i] === q.a ? "bg-emerald-500 text-slate-950 font-bold" : (sel[i] !== null ? "bg-rose-500 text-white font-bold" : cls);
@@ -164,21 +153,21 @@
       }).join("");
     }
 
-    window.pick = (i) => { if (!rev) { sel[cur] = i; draw(); } };
-    window.clearOpt = () => { if (!rev) { sel[cur] = null; draw(); } };
-    window.markRev = () => { if (!rev && cur < qs.length - 1) { cur++; draw(); } };
-    window.jump = (i) => { cur = i; draw(); };
-    window.prev = () => { if (cur > 0) { cur--; draw(); } };
-    window.next = () => {
+    window.pick = function(i) { if (!rev) { sel[cur] = i; draw(); } };
+    window.clearOpt = function() { if (!rev) { sel[cur] = null; draw(); } };
+    window.markRev = function() { if (!rev && cur < qs.length - 1) { cur++; draw(); } };
+    window.jump = function(i) { cur = i; draw(); };
+    window.prev = function() { if (cur > 0) { cur--; draw(); } };
+    window.next = function() {
       if (cur === qs.length - 1 && !rev) { submitExam(); return; }
       if (cur < qs.length - 1) cur++;
       draw();
     };
-    window.submitExam = () => { if (confirm("Submit SSC CGL Test?")) finish(); };
+    window.submitExam = function() { if (confirm("Submit SSC CGL Test?")) finish(); };
 
     function finish() {
       let c = 0, inc = 0, st = {};
-      qs.forEach((q, i) => {
+      qs.forEach(function(q, i) {
         if (!st[q.sec]) st[q.sec] = { tot: 0, cor: 0 };
         st[q.sec].tot++;
         if (sel[i] === q.a) { c++; st[q.sec].cor++; }
@@ -188,14 +177,15 @@
       document.getElementById("m-acc").innerText = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0) + "%";
       document.getElementById("m-cor").innerText = c;
       document.getElementById("m-inc").innerText = inc;
-      document.getElementById("m-sec").innerHTML = Object.entries(st).map(([name, d]) => {
+      document.getElementById("m-sec").innerHTML = Object.entries(st).map(function(entry) {
+        const name = entry[0], d = entry[1];
         const a = Math.round(d.cor / d.tot * 100);
         return '<div class="flex justify-between bg-slate-950 p-2 rounded border border-slate-800"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
       }).join("");
       document.getElementById("modal").classList.remove("hidden");
     }
 
-    window.startRev = () => {
+    window.startRev = function() {
       rev = true;
       document.getElementById("modal").classList.add("hidden");
       document.getElementById("rev-banner").classList.remove("hidden");
@@ -204,7 +194,7 @@
       draw();
     };
 
-    document.getElementById("lang").addEventListener("change", (e) => { lang = e.target.value; draw(); });
+    document.getElementById("lang").addEventListener("change", function(e) { lang = e.target.value; draw(); });
     draw();
   </script>
 </body>
