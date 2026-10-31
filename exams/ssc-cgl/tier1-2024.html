@@ -7,7 +7,7 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen p-3 sm:p-4 font-sans select-none">
+<body class="bg-slate-950 text-slate-100 min-h-screen p-3 sm:p-4 font-sans select-none flex flex-col justify-between">
   <header class="flex justify-between items-center pb-3 border-b border-slate-800">
     <div class="flex items-center space-x-2">
       <a href="index.html" class="text-rose-400 text-xs font-bold hover:underline">✕ Exit</a>
@@ -19,18 +19,12 @@
         <option value="hi" selected>हिन्दी</option>
         <option value="en">English</option>
       </select>
-      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">
-        ⏱️ <span id="clock">60:00</span>
-      </div>
+      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">⏱️ <span id="clock">60:00</span></div>
     </div>
   </header>
-
-  <div id="rev-banner" class="hidden bg-amber-500/20 text-amber-400 text-xs font-bold p-2 text-center my-2 rounded">
-    📖 Review Mode Active: सही उत्तर (हरा) और विस्तृत हल नीचे दिया गया है।
-  </div>
-
-  <main class="max-w-6xl mx-auto py-4 grid grid-cols-1 lg:grid-cols-4 gap-4">
-    <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl">
+  <div id="rev-banner" class="hidden bg-amber-500/20 text-amber-400 text-xs font-bold p-2 text-center my-2 rounded">📖 Review Mode Active: सही उत्तर (हरा) और विस्तृत हल नीचे दिया गया है।</div>
+  <main class="max-w-6xl mx-auto py-3 w-full grid grid-cols-1 lg:grid-cols-4 gap-4 flex-1">
+    <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl min-h-[460px]">
       <div>
         <div class="flex justify-between items-center mb-2">
           <span id="sec-tag" class="text-xs px-2.5 py-0.5 bg-cyan-500/20 text-cyan-400 rounded-full font-bold">Loading...</span>
@@ -51,114 +45,66 @@
         </div>
       </div>
     </div>
-
     <div class="bg-slate-900 border border-slate-800 p-4 rounded-2xl h-fit shadow-xl">
       <div class="flex justify-between items-center mb-2">
         <h3 class="text-xs font-bold uppercase text-slate-400">Question Palette</h3>
-        <span id="q-total-badge" class="text-[10px] text-emerald-400 font-mono font-bold">25 Qs</span>
+        <span id="q-total-badge" class="text-[10px] text-emerald-400 font-mono font-bold">...</span>
       </div>
       <div id="grid" class="grid grid-cols-5 gap-1.5 mb-4 max-h-72 overflow-y-auto pr-1"></div>
-      <button onclick="submitExam()" class="w-full py-2 bg-gradient-to-r from-amber-400 to-emerald-400 text-slate-950 font-bold rounded-xl text-xs uppercase">Submit Test</button>
+      <button onclick="submitExam()" class="w-full py-2.5 bg-gradient-to-r from-amber-400 to-emerald-400 hover:from-amber-300 hover:to-emerald-300 text-slate-950 font-black rounded-xl text-xs uppercase tracking-wider transition">Submit Test</button>
     </div>
   </main>
-
-    <!-- Diagnostic Scorecard Modal -->
-  <div id="modal" class="fixed inset-0 bg-black/85 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-lg w-full p-6 space-y-4 text-xs shadow-2xl max-h-[90vh] overflow-y-auto">
+  <div id="modal" class="fixed inset-0 bg-black/85 backdrop-blur-sm z-50 hidden flex items-center justify-center p-2 sm:p-4">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-xl w-full p-4 sm:p-5 space-y-3 shadow-2xl text-xs">
       <div class="text-center">
-        <div class="text-3xl mb-1">🎯</div>
-        <h2 class="text-base font-bold text-white">Smart Diagnostic Report</h2>
-        <p class="text-[11px] text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
+        <div class="text-2xl mb-0.5">🎯</div>
+        <h2 class="text-base font-black text-white">Smart Diagnostic Report</h2>
+        <p class="text-[10px] text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
       </div>
-
-      <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2.5 rounded-xl text-center border border-slate-800">
-        <div><div class="text-slate-400">Score</div><div id="m-score" class="text-emerald-400 font-bold text-sm">0</div></div>
-        <div><div class="text-slate-400">Accuracy</div><div id="m-acc" class="text-cyan-400 font-bold text-sm">0%</div></div>
-        <div><div class="text-slate-400">Correct</div><div id="m-cor" class="text-emerald-400 font-bold">0</div></div>
-        <div><div class="text-slate-400">Wrong</div><div id="m-inc" class="text-rose-400 font-bold">0</div></div>
+      <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2 rounded-xl text-center border border-slate-800">
+        <div><div class="text-[10px] text-slate-400">Score</div><div id="m-score" class="text-emerald-400 font-bold text-xs sm:text-sm">0</div></div>
+        <div><div class="text-[10px] text-slate-400">Accuracy</div><div id="m-acc" class="text-cyan-400 font-bold text-xs sm:text-sm">0%</div></div>
+        <div><div class="text-[10px] text-slate-400">Correct</div><div id="m-cor" class="text-emerald-400 font-bold text-xs sm:text-sm">0</div></div>
+        <div><div class="text-[10px] text-slate-400">Wrong</div><div id="m-inc" class="text-rose-400 font-bold text-xs sm:text-sm">0</div></div>
       </div>
-
       <div>
-        <h4 class="font-bold text-slate-300 uppercase mb-1.5">Section Breakdown</h4>
-        <div id="m-sec" class="space-y-1.5"></div>
+        <div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Section Breakdown</div>
+        <div id="m-sec" class="grid grid-cols-2 gap-1.5"></div>
       </div>
-
-            <!-- Growth & Attempt History -->
-      <div class="bg-slate-950 p-3 rounded-xl border border-slate-800 space-y-2">
+      <div class="bg-slate-950 p-2 rounded-xl border border-slate-800">
         <div class="flex justify-between items-center cursor-pointer" onclick="toggleHistory()">
-          <span class="font-bold text-white flex items-center space-x-1.5">
-            <span>📈</span>
-            <span>Your Progress & Attempt History</span>
-          </span>
-          <span id="hist-toggle-btn" class="text-[11px] text-cyan-400 font-bold">Show Past Scores ▼</span>
+          <span class="font-bold text-white text-[11px] flex items-center space-x-1"><span>📈</span><span>Your Progress & Past Scores</span></span>
+          <span id="hist-toggle-btn" class="text-[10px] text-cyan-400 font-bold">Show ▼</span>
         </div>
-        <div id="hist-box" class="hidden space-y-1.5 pt-2 border-t border-slate-800/80 max-h-40 overflow-y-auto"></div>
+        <div id="hist-box" class="hidden space-y-1 pt-1.5 mt-1 border-t border-slate-800/80 max-h-28 overflow-y-auto"></div>
       </div>
-      <div id="m-rec" class="bg-amber-950/40 border border-amber-500/30 p-2.5 rounded-xl space-y-1.5">
-        <div class="text-amber-400 font-bold">⚠️ Focus Areas & 2-Minute Quick Revision:</div>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 text-[11px]">
-          <a href="notes/maths-shortcuts.html" target="_blank" class="text-emerald-400 hover:underline">📐 Maths Formulas Sheet →</a>
-          <a href="notes/polity-articles.html" target="_blank" class="text-cyan-400 hover:underline">🏛️ Polity Articles & Writs →</a>
-          <a href="notes/reasoning-tricks.html" target="_blank" class="text-purple-400 hover:underline">🧩 Reasoning Speed Tricks →</a>
-          <a href="notes/english-rules.html" target="_blank" class="text-rose-400 hover:underline">📖 English Grammar Rules →</a>
+      <div id="m-rec" class="bg-amber-950/30 border border-amber-500/30 p-2.5 rounded-xl space-y-1">
+        <div class="text-amber-400 font-bold text-[10px]">⚠️ Focus Areas & 2-Minute Quick Revision:</div>
+        <div class="grid grid-cols-2 gap-x-2 gap-y-1 text-[11px]">
+          <a href="notes/maths-shortcuts.html" target="_blank" class="text-emerald-400 hover:underline truncate">📐 Maths Shortcuts Sheet →</a>
+          <a href="notes/polity-articles.html" target="_blank" class="text-cyan-400 hover:underline truncate">🏛️ Polity Articles & Writs →</a>
+          <a href="notes/reasoning-tricks.html" target="_blank" class="text-purple-400 hover:underline truncate">🧩 Reasoning Tricks →</a>
+          <a href="notes/english-rules.html" target="_blank" class="text-rose-400 hover:underline truncate">📖 English 50 Rules →</a>
         </div>
       </div>
-
-      <!-- Action & Navigation Buttons -->
-      <div class="space-y-2 pt-2 border-t border-slate-800">
-        <div class="flex space-x-2">
-          <button onclick="startRev()" class="flex-1 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-black rounded-xl text-xs transition">
-            📖 View Solutions (हल देखें)
-          </button>
-          <button onclick="location.reload()" class="flex-1 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold rounded-xl text-xs transition">
-            ↺ Retest (फिर से दें)
-          </button>
-        </div>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
-          <a href="index.html" class="py-2.5 px-3 bg-amber-500 hover:bg-amber-400 text-slate-950 font-black rounded-xl text-xs text-center transition flex items-center justify-center">
-            🎯 Back to Next Test / Exam Hub
-          </a>
-          <a href="../../index.html" class="py-2.5 px-3 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold rounded-xl text-xs text-center border border-slate-700 transition flex items-center justify-center">
-            🏠 EduHub Home Page
-          </a>
-        </div>
+      <div class="grid grid-cols-4 gap-1.5 pt-2 border-t border-slate-800">
+        <button onclick="startRev()" class="py-2 px-1 bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold rounded-lg text-[11px] text-center transition">📖 Solutions</button>
+        <button onclick="location.reload()" class="py-2 px-1 bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold rounded-lg text-[11px] text-center border border-slate-700 transition">↺ Retest</button>
+        <a href="index.html" class="py-2 px-1 bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold rounded-lg text-[11px] text-center transition flex items-center justify-center">🎯 Exam Hub</a>
+        <a href="../../index.html" class="py-2 px-1 bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold rounded-lg text-[11px] text-center border border-slate-700 transition flex items-center justify-center">🏠 EduHub Home</a>
       </div>
     </div>
   </div>
-
-      <div>
-        <h4 class="font-bold text-slate-300 uppercase mb-1.5">Section Breakdown</h4>
-        <div id="m-sec" class="space-y-1.5"></div>
-      </div>
-
-      <div id="m-rec" class="bg-amber-950/40 border border-amber-500/30 p-2.5 rounded-xl space-y-1.5">
-        <div class="text-amber-400 font-bold">⚠️ Focus Areas & 2-Minute Quick Revision:</div>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 text-[11px]">
-          <a href="notes/maths-shortcuts.html" target="_blank" class="text-emerald-400 hover:underline">📐 Maths Formulas Sheet →</a>
-          <a href="notes/polity-articles.html" target="_blank" class="text-cyan-400 hover:underline">🏛️ Polity Articles & Writs →</a>
-          <a href="notes/reasoning-tricks.html" target="_blank" class="text-purple-400 hover:underline">🧩 Reasoning Speed Tricks →</a>
-          <a href="notes/english-rules.html" target="_blank" class="text-rose-400 hover:underline">📖 English Grammar Rules →</a>
-        </div>
-      </div>
-      </div>
-  </div>
-
   <script>
     let qs = [], cur = 0, lang = "hi", rev = false, sel = [], time = 3600;
 
-    // Dynamic JSON Loader
     fetch('./data/tier1_2024_shift1.json')
       .then(res => res.json())
       .then(data => {
-        qs = data;
-        sel = Array(qs.length).fill(null);
+        qs = data; sel = Array(qs.length).fill(null);
         document.getElementById("q-total-badge").innerText = qs.length + " Qs";
-        draw();
-        startTimer();
-      })
-      .catch(err => {
-        document.getElementById("qtxt").innerText = "Error loading question bank. Please reload.";
-      });
+        draw(); startTimer();
+      }).catch(err => { document.getElementById("qtxt").innerText = "Error loading questions. Please reload."; });
 
     function startTimer() {
       setInterval(function() {
@@ -182,9 +128,7 @@
         if (rev) {
           if (i === q.a) { s = "border-emerald-500 bg-emerald-950/50 text-emerald-300 font-bold"; mark = " ✓ Correct"; }
           else if (sel[cur] === i) { s = "border-rose-500 bg-rose-950/50 text-rose-300 font-bold"; mark = " ✕ Wrong"; }
-        } else if (sel[cur] === i) {
-          s = "border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold";
-        }
+        } else if (sel[cur] === i) { s = "border-emerald-500 bg-emerald-950/40 text-emerald-300 font-bold"; }
         return '<div onclick="pick(' + i + ')" class="p-3 rounded-xl border text-xs cursor-pointer ' + s + ' flex justify-between"><span>' + String.fromCharCode(65 + i) + '. ' + opt + '</span><span class="font-bold">' + mark + '</span></div>';
       }).join("");
 
@@ -192,9 +136,7 @@
       if (rev) {
         ex.className = "p-3 rounded-xl text-xs bg-slate-950 border border-slate-800 text-slate-300 mb-2 block";
         ex.innerHTML = "<b>💡 Solution:</b> " + q.e;
-      } else {
-        ex.className = "hidden";
-      }
+      } else { ex.className = "hidden"; }
 
       document.getElementById("pbtn").disabled = cur === 0;
       const nbtn = document.getElementById("nbtn");
@@ -213,9 +155,7 @@
         let cls = "bg-slate-800 text-slate-400 border border-slate-700";
         if (rev) {
           cls = sel[i] === q.a ? "bg-emerald-500 text-slate-950 font-bold" : (sel[i] !== null ? "bg-rose-500 text-white font-bold" : cls);
-        } else if (sel[i] !== null) {
-          cls = "bg-emerald-500 text-slate-950 font-bold";
-        }
+        } else if (sel[i] !== null) { cls = "bg-emerald-500 text-slate-950 font-bold"; }
         return '<button onclick="jump(' + i + ')" class="h-7 rounded text-xs font-mono ' + cls + ' ' + (cur === i ? 'ring-2 ring-cyan-400' : '') + '">' + (i + 1) + '</button>';
       }).join("");
     }
@@ -232,15 +172,10 @@
     };
     window.submitExam = function() { if (confirm("Submit SSC CGL Test?")) finish(); };
 
-    
     function saveAndRenderHistory(currentScore, maxScore, accuracy, cor, inc) {
       const record = {
         date: new Date().toLocaleDateString("en-IN", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }),
-        score: currentScore,
-        maxScore: maxScore,
-        acc: accuracy,
-        cor: cor,
-        inc: inc
+        score: currentScore, maxScore: maxScore, acc: accuracy, cor: cor, inc: inc
       };
       let hist = [];
       try { hist = JSON.parse(localStorage.getItem("smart_cgl_history") || "[]"); } catch (e) { hist = []; }
@@ -252,23 +187,22 @@
     function renderHistoryUI(hist) {
       const box = document.getElementById("hist-box");
       if (!hist || hist.length === 0) {
-        box.innerHTML = '<div class="text-slate-500 text-center py-1">Pehla test attempt record hua hai!</div>';
+        box.innerHTML = '<div class="text-slate-500 text-center py-1">Pehla test attempt record hua!</div>';
         return;
       }
       let badge = "";
       if (hist.length > 1) {
-        const first = parseFloat(hist[0].score);
-        const latest = parseFloat(hist[hist.length - 1].score);
+        const first = parseFloat(hist[0].score), latest = parseFloat(hist[hist.length - 1].score);
         const diff = (latest - first).toFixed(2);
-        if (diff > 0) badge = '<div class="text-emerald-400 text-[11px] font-bold pb-1 text-center bg-emerald-950/40 rounded p-1 mb-2 border border-emerald-500/30">🚀 Shandar! Pehle attempt se score <b>+' + diff + ' Marks</b> badha hai!</div>';
-        else if (diff < 0) badge = '<div class="text-amber-400 text-[11px] font-bold pb-1 text-center bg-amber-950/40 rounded p-1 mb-2 border border-amber-500/30">⚠️ Score pichhle attempt se thoda kam hua hai. Solutions dhyan se padhein.</div>';
-        else badge = '<div class="text-cyan-400 text-[11px] font-bold pb-1 text-center bg-cyan-950/40 rounded p-1 mb-2 border border-cyan-500/30">🎯 Score consistent hai. Accuracy par focus karein.</div>';
+        if (diff > 0) badge = '<div class="text-emerald-400 text-[10px] font-bold p-1 bg-emerald-950/50 rounded text-center border border-emerald-500/30">🚀 Pehle attempt se score +' + diff + ' Marks badha hai!</div>';
+        else if (diff < 0) badge = '<div class="text-amber-400 text-[10px] font-bold p-1 bg-amber-950/50 rounded text-center border border-amber-500/30">⚠️ Score thoda kam hua. Solutions dhyan se padhein.</div>';
+        else badge = '<div class="text-cyan-400 text-[10px] font-bold p-1 bg-cyan-950/50 rounded text-center border border-cyan-500/30">🎯 Score consistent hai. Accuracy banaye rakhein.</div>';
       }
       box.innerHTML = badge + hist.slice().reverse().map(function(h, i) {
         const num = hist.length - i;
-        return '<div class="flex justify-between items-center p-2 rounded bg-slate-900 border border-slate-800 text-[11px]">' +
-          '<div><b class="text-white">Attempt #' + num + '</b> <span class="text-slate-500 text-[10px] ml-1">(' + h.date + ')</span></div>' +
-          '<div class="flex items-center space-x-2 font-mono"><span class="text-emerald-400 font-bold">' + h.score + ' / ' + h.maxScore + '</span><span class="text-cyan-400 font-bold">(' + h.acc + '%)</span></div>' +
+        return '<div class="flex justify-between items-center p-1.5 rounded bg-slate-900 border border-slate-800 text-[10px]">' +
+          '<div><b class="text-white">#' + num + '</b> <span class="text-slate-500 text-[9px]">(' + h.date + ')</span></div>' +
+          '<div class="font-mono"><span class="text-emerald-400 font-bold">' + h.score + '/' + h.maxScore + '</span> <span class="text-cyan-400 font-bold">(' + h.acc + '%)</span></div>' +
         '</div>';
       }).join("");
     }
@@ -276,13 +210,8 @@
     window.toggleHistory = function() {
       const box = document.getElementById("hist-box");
       const btn = document.getElementById("hist-toggle-btn");
-      if (box.classList.contains("hidden")) {
-        box.classList.remove("hidden");
-        btn.innerText = "Hide History ▲";
-      } else {
-        box.classList.add("hidden");
-        btn.innerText = "Show Past Scores ▼";
-      }
+      if (box.classList.contains("hidden")) { box.classList.remove("hidden"); btn.innerText = "Hide ▲"; }
+      else { box.classList.add("hidden"); btn.innerText = "Show ▼"; }
     };
 
     function finish() {
@@ -293,18 +222,21 @@
         if (sel[i] === q.a) { c++; st[q.sec].cor++; }
         else if (sel[i] !== null) inc++;
       });
-      document.getElementById("m-score").innerText = ((c * 2) - (inc * 0.5)).toFixed(2) + " / " + (qs.length * 2);
-      document.getElementById("m-acc").innerText = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0) + "%";
+      const finalScore = ((c * 2) - (inc * 0.5)).toFixed(2);
+      const finalAcc = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0);
+
+      document.getElementById("m-score").innerText = finalScore + " / " + (qs.length * 2);
+      document.getElementById("m-acc").innerText = finalAcc + "%";
       document.getElementById("m-cor").innerText = c;
       document.getElementById("m-inc").innerText = inc;
+
       document.getElementById("m-sec").innerHTML = Object.entries(st).map(function(entry) {
         const name = entry[0], d = entry[1];
         const a = Math.round(d.cor / d.tot * 100);
-        return '<div class="flex justify-between bg-slate-950 p-2 rounded border border-slate-800"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
+        return '<div class="flex justify-between bg-slate-950 p-1.5 rounded border border-slate-800 text-[10px]"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
       }).join("");
-      const fScore = ((c * 2) - (inc * 0.5)).toFixed(2);
-      const fAcc = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0);
-      saveAndRenderHistory(fScore, (qs.length * 2), fAcc, c, inc);
+
+      saveAndRenderHistory(finalScore, (qs.length * 2), finalAcc, c, inc);
       document.getElementById("modal").classList.remove("hidden");
     }
 
@@ -313,8 +245,7 @@
       document.getElementById("modal").classList.add("hidden");
       document.getElementById("rev-banner").classList.remove("hidden");
       document.getElementById("action-btns").classList.add("hidden");
-      cur = 0;
-      draw();
+      cur = 0; draw();
     };
 
     document.getElementById("lang").addEventListener("change", function(e) { lang = e.target.value; draw(); });
