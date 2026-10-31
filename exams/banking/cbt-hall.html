@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SSC CGL 2024 Tier-1 CBT Mock Test - SmartEduHub</title>
+  <title>IBPS PO / Clerk & SBI Official Mock Test - SmartEduHub</title>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1891031290159418" crossorigin="anonymous"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -15,7 +15,7 @@
         🖥️ LAB-04 | NODE: C-108
       </div>
       <span class="text-slate-600">|</span>
-      <span class="font-bold text-white hidden sm:inline">SSC CGL 2024 Tier-1 Official Simulator</span>
+      <span class="font-bold text-white hidden sm:inline">Banking Prelims Official Simulator</span>
     </div>
     <div class="flex items-center space-x-3">
       <button onclick="toggleFullScreen()" class="px-2 py-1 bg-slate-800 hover:bg-slate-700 text-cyan-400 font-bold rounded text-[11px] border border-slate-700 hidden sm:block">
@@ -24,8 +24,8 @@
       <div class="flex items-center space-x-2 bg-slate-950 px-2.5 py-1 rounded-lg border border-slate-800">
         <div class="w-6 h-6 rounded-full bg-cyan-600 flex items-center justify-center font-bold text-[10px] text-white">SA</div>
         <div class="text-[10px] text-left leading-tight">
-          <div class="text-white font-bold">SSC Aspirant</div>
-          <div class="text-slate-400 font-mono">Roll: 22010892</div>
+          <div class="text-white font-bold">Bank Aspirant</div>
+          <div class="text-slate-400 font-mono">Roll: 50192841</div>
         </div>
       </div>
     </div>
@@ -92,7 +92,7 @@
       <div class="text-center">
         <div class="text-2xl mb-0.5">🎯</div>
         <h2 class="text-base font-black text-white">Smart Diagnostic Report</h2>
-        <p class="text-[10px] text-slate-400">SSC CGL Tier-1 Official Mock Test</p>
+        <p class="text-[10px] text-slate-400">IBPS / SBI Prelims Diagnostic Report</p>
       </div>
       <div class="grid grid-cols-4 gap-2 bg-slate-950 p-2 rounded-xl text-center border border-slate-800">
         <div><div class="text-[10px] text-slate-400">Score</div><div id="m-score" class="text-emerald-400 font-bold text-xs sm:text-sm">0</div></div>
@@ -163,7 +163,7 @@
 
     
     function renderSectionTabs() {
-      const secs = ["General Awareness", "Quantitative Aptitude", "Reasoning", "English"];
+      const secs = ["English Language", "Quantitative Aptitude", "Reasoning Ability"];
       const box = document.getElementById("sec-tabs");
       if (!box) return;
       box.innerHTML = secs.map(s => {
@@ -293,10 +293,10 @@
         if (sel[i] === q.a) { c++; st[q.sec].cor++; }
         else if (sel[i] !== null) inc++;
       });
-      const finalScore = ((c * 2) - (inc * 0.5)).toFixed(2);
+      const finalScore = ((c * 1) - (inc * 0.25)).toFixed(2);
       const finalAcc = (c + inc > 0 ? Math.round(c / (c + inc) * 100) : 0);
 
-      document.getElementById("m-score").innerText = finalScore + " / " + (qs.length * 2);
+      document.getElementById("m-score").innerText = finalScore + " / " + qs.length;
       document.getElementById("m-acc").innerText = finalAcc + "%";
       document.getElementById("m-cor").innerText = c;
       document.getElementById("m-inc").innerText = inc;
@@ -307,7 +307,7 @@
         return '<div class="flex justify-between bg-slate-950 p-1.5 rounded border border-slate-800 text-[10px]"><span>' + name + ' (' + d.cor + '/' + d.tot + ')</span><span class="font-bold ' + (a >= 60 ? 'text-emerald-400' : 'text-rose-400') + '">' + a + '%</span></div>';
       }).join("");
 
-      saveAndRenderHistory(finalScore, (qs.length * 2), finalAcc, c, inc);
+      saveAndRenderHistory(finalScore, qs.length, finalAcc, c, inc);
       document.getElementById("modal").classList.remove("hidden");
     }
 
