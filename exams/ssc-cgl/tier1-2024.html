@@ -8,20 +8,49 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen p-3 sm:p-4 font-sans select-none flex flex-col justify-between">
-  <header class="flex justify-between items-center pb-3 border-b border-slate-800">
-    <div class="flex items-center space-x-2">
-      <a href="index.html" class="text-rose-400 text-xs font-bold hover:underline">✕ Exit</a>
+    <!-- TCS iON Official CBT Header -->
+  <header class="bg-slate-900/90 border-b border-slate-800 px-3 py-2 flex justify-between items-center text-xs">
+    <div class="flex items-center space-x-3">
+      <div class="bg-emerald-500/20 text-emerald-400 font-mono font-bold px-2 py-0.5 rounded border border-emerald-500/30">
+        🖥️ LAB-04 | NODE: C-108
+      </div>
       <span class="text-slate-600">|</span>
-      <span class="text-xs font-bold text-white">SSC CGL 2024 Tier-1 Official Paper</span>
+      <span class="font-bold text-white hidden sm:inline">SSC CGL 2024 Tier-1 Official Simulator</span>
+    </div>
+    <div class="flex items-center space-x-3">
+      <button onclick="toggleFullScreen()" class="px-2 py-1 bg-slate-800 hover:bg-slate-700 text-cyan-400 font-bold rounded text-[11px] border border-slate-700 hidden sm:block">
+        ⛶ Fullscreen Hall Mode
+      </button>
+      <div class="flex items-center space-x-2 bg-slate-950 px-2.5 py-1 rounded-lg border border-slate-800">
+        <div class="w-6 h-6 rounded-full bg-cyan-600 flex items-center justify-center font-bold text-[10px] text-white">SA</div>
+        <div class="text-[10px] text-left leading-tight">
+          <div class="text-white font-bold">SSC Aspirant</div>
+          <div class="text-slate-400 font-mono">Roll: 22010892</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sub-Header: Language, Timer & Exit -->
+  <div class="bg-slate-950 px-3 py-2 border-b border-slate-800 flex justify-between items-center text-xs">
+    <div class="flex items-center space-x-2">
+      <a href="index.html" class="text-rose-400 font-bold hover:underline">✕ Exit Exam</a>
+      <span class="text-slate-700">•</span>
+      <span class="text-slate-400 text-[11px]">Marking: <b class="text-emerald-400">+2.00</b> / <b class="text-rose-400">-0.50</b></span>
     </div>
     <div class="flex items-center space-x-3">
       <select id="lang" class="bg-slate-900 border border-slate-700 px-2 py-1 rounded text-xs text-emerald-400 font-bold focus:outline-none">
-        <option value="hi" selected>हिन्दी</option>
-        <option value="en">English</option>
+        <option value="hi" selected>View in: हिन्दी</option>
+        <option value="en">View in: English</option>
       </select>
-      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-2.5 py-1 rounded text-emerald-300 font-mono text-xs font-bold">⏱️ <span id="clock">60:00</span></div>
+      <div id="clock-box" class="bg-emerald-950 border border-emerald-500/50 px-3 py-1 rounded text-emerald-300 font-mono text-xs font-bold shadow">
+        ⏱️ Time Left: <span id="clock">60:00</span>
+      </div>
     </div>
-  </header>
+  </div>
+
+  <!-- 4 Section Switcher Tabs -->
+  <div class="bg-slate-900 border-b border-slate-800 px-3 py-1 flex space-x-1.5 overflow-x-auto" id="sec-tabs"></div>
   <div id="rev-banner" class="hidden bg-amber-500/20 text-amber-400 text-xs font-bold p-2 text-center my-2 rounded">📖 Review Mode Active: सही उत्तर (हरा) और विस्तृत हल नीचे दिया गया है।</div>
   <main class="max-w-6xl mx-auto py-3 w-full grid grid-cols-1 lg:grid-cols-4 gap-4 flex-1">
     <div class="lg:col-span-3 bg-slate-900 border border-slate-800 p-5 rounded-2xl flex flex-col justify-between shadow-xl min-h-[460px]">
@@ -96,6 +125,15 @@
     </div>
   </div>
   <script>
+    
+    window.toggleFullScreen = function() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(() => {});
+      } else {
+        document.exitFullscreen().catch(() => {});
+      }
+    };
+
     let qs = [], cur = 0, lang = "hi", rev = false, sel = [], time = 3600;
 
     fetch('./data/tier1_2024_shift1.json')
@@ -116,6 +154,23 @@
         }
       }, 1000);
     }
+
+    
+    function renderSectionTabs() {
+      const secs = ["General Awareness", "Quantitative Aptitude", "Reasoning", "English"];
+      const box = document.getElementById("sec-tabs");
+      if (!box) return;
+      box.innerHTML = secs.map(s => {
+        const isActive = qs[cur] && qs[cur].sec === s;
+        const cls = isActive ? "bg-emerald-500 text-slate-950 font-black" : "bg-slate-950 text-slate-300 hover:bg-slate-800 font-semibold";
+        return '<button onclick="jumpSection(\'' + s + '\')" class="px-3 py-1 rounded-lg text-[11px] whitespace-nowrap transition ' + cls + '">' + s + '</button>';
+      }).join("");
+    }
+
+    window.jumpSection = function(secName) {
+      const idx = qs.findIndex(q => q.sec === secName);
+      if (idx !== -1) { cur = idx; draw(); }
+    };
 
     function draw() {
       if (!qs.length) return;
@@ -148,6 +203,7 @@
         nbtn.className = "px-4 py-1.5 bg-emerald-500 text-slate-950 font-bold rounded-lg text-xs";
       }
       drawGrid();
+      renderSectionTabs();
     }
 
     function drawGrid() {
