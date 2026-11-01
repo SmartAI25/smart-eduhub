@@ -59,7 +59,7 @@
   <script>
     let qs = [], cur = 0, userAns = {}, timeLeft = 7200, curLang = "hi";
 
-    fetch("./data/paper1.json")
+    fetch("./data/paper1.json?v=" + Date.now(), { cache: "no-store" })
       .then(r => r.json())
       .then(d => { qs = d; init(); });
 
