@@ -7,29 +7,27 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-950 text-white min-h-screen p-3 sm:p-5 flex flex-col justify-between select-none font-sans">
-  <!-- Header -->
   <header class="flex justify-between items-center border-b border-slate-800 pb-2 text-xs">
     <div class="flex items-center space-x-3">
-      <a href="index.html" class="text-rose-400 hover:text-rose-300 font-bold">✕ <span id="lblExit">Exit Exam</span></a>
+      <a href="index.html" class="text-rose-400 hover:text-rose-300 font-bold">✕ <span id="lblExit">परीक्षा से बाहर निकलें</span></a>
       <span>|</span>
       <span class="font-bold text-amber-400">IBPS PO / Clerk & SBI</span>
       <span>|</span>
-      <span class="text-slate-400 font-mono" id="lblMark">Official Scheme</span>
+      <span class="text-slate-400 font-mono">+1.00 / -0.25</span>
     </div>
     <div class="flex items-center space-x-3">
       <select id="lang" onchange="chLang(this.value)" class="bg-slate-900 border border-slate-700 text-white rounded px-2.5 py-1 text-xs font-bold">
-        <option value="hi" selected>भाषा: हिन्दी (Default)</option><option value="en">Language: English</option><option value="mr">भाषा: मराठी</option>
+        <option value="hi" selected>भाषा: हिन्दी (Default)</option>
+        <option value="en">Language: English</option>
       </select>
       <div class="bg-slate-900 border border-amber-500/40 text-amber-300 px-3 py-1 rounded-xl font-mono font-bold">
-        ⏱️ <span id="tm">Loading...</span>
+        ⏱️ <span id="tm">60:00</span>
       </div>
     </div>
   </header>
 
-  <!-- Section Tabs -->
   <div class="flex space-x-2 py-2 overflow-x-auto text-xs" id="st"></div>
 
-  <!-- Question Screen -->
   <main class="grid grid-cols-1 lg:grid-cols-4 gap-4 flex-1 my-2">
     <div class="lg:col-span-3 bg-slate-900 p-5 rounded-2xl flex flex-col justify-between border border-slate-800 shadow-xl min-h-[460px]">
       <div>
@@ -41,40 +39,31 @@
         <div id="qo" class="space-y-2 pt-1"></div>
       </div>
       <div class="flex justify-between pt-4 border-t border-slate-800 text-xs">
-        <button onclick="clr()" class="px-3.5 py-1.5 border border-slate-700 text-slate-400 hover:bg-slate-800 rounded-lg" id="btnClr">Clear</button>
+        <button onclick="clr()" class="px-3.5 py-1.5 border border-slate-700 text-slate-400 hover:bg-slate-800 rounded-lg" id="btnClr">उत्तर हटाएं</button>
         <div class="space-x-2">
-          <button onclick="prev()" class="px-4 py-1.5 bg-slate-800 hover:bg-slate-700 text-white rounded-lg font-bold" id="btnPrev">← Prev</button>
-          <button onclick="next()" class="px-5 py-1.5 bg-amber-500 hover:bg-amber-400 text-slate-950 font-black rounded-lg transition" id="btnNext">Save & Next →</button>
+          <button onclick="prev()" class="px-4 py-1.5 bg-slate-800 hover:bg-slate-700 text-white rounded-lg font-bold" id="btnPrev">← पिछला</button>
+          <button onclick="next()" class="px-5 py-1.5 bg-amber-500 hover:bg-amber-400 text-slate-950 font-black rounded-lg transition" id="btnNext">सहेजें और अगला →</button>
         </div>
       </div>
     </div>
 
-    <!-- Palette -->
     <div class="bg-slate-900 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between shadow-xl">
-      <div class="text-xs font-bold border-b border-slate-800 pb-2 text-slate-300" id="lblPalette">Question Palette (100 Qs)</div>
+      <div class="text-xs font-bold border-b border-slate-800 pb-2 text-slate-300" id="lblPalette">प्रश्न तालिका (100 प्रश्न)</div>
       <div id="pg" class="grid grid-cols-5 gap-1.5 max-h-[300px] overflow-y-auto pr-1"></div>
       <button onclick="sub()" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs mt-3 shadow-lg" id="btnSubmit">
-        🎯 SUBMIT TEST
+        🎯 परीक्षा जमा करें
       </button>
     </div>
   </main>
 
   <script>
-    let qs = [], cur = 0, userAns = {}, timeLeft = 5400, curLang = "hi";
-    const pN = "paper1";
+    let qs = [], cur = 0, userAns = {}, timeLeft = 3600, curLang = "hi";
 
-    const UI_LANG = {
-      hi: { exit: "परीक्षा से बाहर निकलें", clear: "उत्तर हटाएं", prev: "← पिछला", next: "सहेजें और अगला →", submit: "🎯 परीक्षा जमा करें", qPal: "प्रश्न तालिका (100 प्रश्न)", sec: "विषय" },
-      en: { exit: "Exit Exam", clear: "Clear", prev: "← Prev", next: "Save & Next →", submit: "🎯 SUBMIT TEST", qPal: "Question Palette (100 Qs)", sec: "Section" },
-      mr: { exit: "बाहेर पडा", clear: "उत्तर खोडा", prev: "← मागे", next: "पुढील प्रश्न →", submit: "🎯 चाचणी सबमिट करा", qPal: "प्रश्न तक्ता (100 प्रश्न)", sec: "विभाग" }
-    };
-
-    fetch("./data/" + pN + ".json")
+    fetch("./data/paper1.json")
       .then(r => r.json())
       .then(d => { qs = d; init(); });
 
     function init() {
-      updateUiLabels();
       renderSections();
       loadQuestion(0);
       renderPalette();
@@ -87,49 +76,37 @@
       }, 1000);
     }
 
-    function updateUiLabels() {
-      const u = UI_LANG[curLang] || UI_LANG.hi;
-      document.getElementById("lblExit").innerText = u.exit;
-      document.getElementById("btnClr").innerText = u.clear;
-      document.getElementById("btnPrev").innerText = u.prev;
-      document.getElementById("btnNext").innerText = u.next;
-      document.getElementById("btnSubmit").innerText = u.submit;
-      document.getElementById("lblPalette").innerText = u.qPal;
-    }
-
     function renderSections() {
-      const firstQ = qs[0];
-      const secList = (firstQ.secMap && firstQ.secMap[curLang]) ? firstQ.secMap[curLang] : [firstQ.sec];
+      const secs = ["English Language (30 Qs)", "Quantitative Aptitude (35 Qs)", "Reasoning Ability (35 Qs)"];
+      const starts = [0, 30, 65];
       const container = document.getElementById("st");
-      container.innerHTML = secList.map((s, idx) =>
-        '<button onclick="jumpSec(' + idx + ')" class="px-3 py-1 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg font-bold text-xs shrink-0">' + s + '</button>'
+      container.innerHTML = secs.map((s, idx) =>
+        '<button onclick="loadQuestion(' + starts[idx] + ')" class="px-3 py-1 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg font-bold text-xs shrink-0">' + s + '</button>'
       ).join("");
     }
-
-    window.jumpSec = function(idx) {
-      const target = Math.min(idx * 25, qs.length - 1);
-      loadQuestion(target);
-    };
 
     function loadQuestion(idx) {
       cur = idx;
       const q = qs[idx];
-      const u = UI_LANG[curLang] || UI_LANG.hi;
 
-      const secName = (q.secMap && q.secMap[curLang]) ? q.secMap[curLang][Math.floor(idx / 25) % q.secMap[curLang].length] : q.sec;
-      document.getElementById("sb").innerText = u.sec + ": " + secName;
+      document.getElementById("sb").innerText = q.sec;
       document.getElementById("qn").innerText = "Q " + (idx + 1) + " / " + qs.length;
 
-      // Real-time Text Translation
-      let text = (typeof q.q === 'object') ? (q.q[curLang] || q.q.hi || q.q.en || q.q.mr) : q.q;
+      // STRICT RULE: If it is English Language section, NEVER translate it to Hindi!
+      let text = "";
+      if (q.isEnglishSubject) {
+        text = q.q.en || q.q;
+      } else {
+        text = (typeof q.q === 'object') ? (q.q[curLang] || q.q.hi || q.q.en) : q.q;
+      }
       document.getElementById("qt").innerText = text;
 
-      // Real-time Options Translation
+      // Options rendering with same English immunity
       let opts = [];
-      if (q.o && typeof q.o === 'object' && !Array.isArray(q.o)) {
-        opts = q.o[curLang] || q.o.hi || q.o.en || q.o.mr || [];
-      } else if (Array.isArray(q.o)) {
-        opts = q.o;
+      if (q.isEnglishSubject) {
+        opts = q.o.en || q.o;
+      } else {
+        opts = (q.o && typeof q.o === 'object' && !Array.isArray(q.o)) ? (q.o[curLang] || q.o.hi || q.o.en) : q.o;
       }
 
       const optsBox = document.getElementById("qo");
@@ -185,8 +162,6 @@
     window.next = function() { if (cur < qs.length - 1) loadQuestion(cur + 1); };
     window.chLang = function(l) {
       curLang = l;
-      updateUiLabels();
-      renderSections();
       loadQuestion(cur);
     };
 
@@ -201,8 +176,8 @@
       document.body.innerHTML = '<div class="min-h-screen bg-slate-950 text-white p-6 flex items-center justify-center">' +
         '<div class="max-w-md w-full bg-slate-900 border border-slate-800 p-6 rounded-3xl text-center space-y-4 shadow-2xl">' +
           '<div class="text-3xl">🎉</div>' +
-          '<h2 class="text-base font-bold">IBPS PO / Clerk & SBI Scorecard</h2>' +
-          '<div class="text-3xl font-mono font-black text-amber-400">' + score + '</div>' +
+          '<h2 class="text-base font-bold">IBPS Banking Scorecard</h2>' +
+          '<div class="text-3xl font-mono font-black text-amber-400">' + score + ' / 100</div>' +
           '<div class="grid grid-cols-2 gap-2 text-xs font-mono">' +
             '<div class="p-2 bg-emerald-950 text-emerald-300 rounded">✓ ' + c + ' Correct</div>' +
             '<div class="p-2 bg-rose-950 text-rose-300 rounded">✕ ' + w + ' Wrong</div>' +
