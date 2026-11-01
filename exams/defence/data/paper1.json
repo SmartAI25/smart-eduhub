@@ -1,1602 +1,1102 @@
 [
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q1] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 1] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q1] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q2] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 2] What is the highest wartime gallantry award in India?",
-      "en": "[Q2] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q3] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 3] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q3] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q4] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 4] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q4] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q5] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 5] What is the highest wartime gallantry award in India?",
-      "en": "[Q5] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q6] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 6] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q6] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q7] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 7] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q7] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q8] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 8] What is the highest wartime gallantry award in India?",
-      "en": "[Q8] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q9] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 9] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q9] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q10] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 10] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q10] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q11] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 11] What is the highest wartime gallantry award in India?",
-      "en": "[Q11] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q12] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 12] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q12] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q13] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 13] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q13] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q14] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 14] What is the highest wartime gallantry award in India?",
-      "en": "[Q14] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q15] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 15] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q15] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q16] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 16] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q16] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q17] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 17] What is the highest wartime gallantry award in India?",
-      "en": "[Q17] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q18] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 18] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q18] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q19] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 19] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q19] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q20] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 20] What is the highest wartime gallantry award in India?",
-      "en": "[Q20] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q21] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 21] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q21] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q22] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 22] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q22] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q23] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 23] What is the highest wartime gallantry award in India?",
-      "en": "[Q23] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q24] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 24] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q24] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q25] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 25] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q25] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q26] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 26] What is the highest wartime gallantry award in India?",
-      "en": "[Q26] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q27] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 27] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q27] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q28] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 28] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q28] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q29] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 29] What is the highest wartime gallantry award in India?",
-      "en": "[Q29] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q30] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 30] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q30] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q31] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 31] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q31] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q32] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 32] What is the highest wartime gallantry award in India?",
-      "en": "[Q32] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q33] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 33] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q33] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q34] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 34] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q34] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q35] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 35] What is the highest wartime gallantry award in India?",
-      "en": "[Q35] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q36] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 36] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q36] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q37] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 37] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q37] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q38] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 38] What is the highest wartime gallantry award in India?",
-      "en": "[Q38] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q39] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 39] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q39] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q40] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 40] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q40] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q41] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 41] What is the highest wartime gallantry award in India?",
-      "en": "[Q41] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q42] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 42] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q42] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q43] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 43] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q43] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q44] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 44] What is the highest wartime gallantry award in India?",
-      "en": "[Q44] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q45] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 45] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q45] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q46] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 46] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q46] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q47] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 47] What is the highest wartime gallantry award in India?",
-      "en": "[Q47] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q48] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 48] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q48] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q49] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 49] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q49] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q50] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 50] What is the highest wartime gallantry award in India?",
-      "en": "[Q50] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q51] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 51] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q51] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q52] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 52] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q52] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q53] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 53] What is the highest wartime gallantry award in India?",
-      "en": "[Q53] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q54] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 54] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q54] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q55] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 55] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q55] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q56] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 56] What is the highest wartime gallantry award in India?",
-      "en": "[Q56] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q57] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 57] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q57] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q58] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 58] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q58] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q59] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 59] What is the highest wartime gallantry award in India?",
-      "en": "[Q59] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q60] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 60] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q60] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q61] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 61] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q61] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q62] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 62] What is the highest wartime gallantry award in India?",
-      "en": "[Q62] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q63] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 63] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q63] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q64] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 64] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q64] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q65] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 65] What is the highest wartime gallantry award in India?",
-      "en": "[Q65] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q66] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 66] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q66] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q67] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 67] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q67] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q68] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 68] What is the highest wartime gallantry award in India?",
-      "en": "[Q68] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q69] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 69] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q69] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q70] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 70] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q70] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q71] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 71] What is the highest wartime gallantry award in India?",
-      "en": "[Q71] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q72] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 72] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q72] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q73] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 73] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q73] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q74] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 74] What is the highest wartime gallantry award in India?",
-      "en": "[Q74] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q75] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 75] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q75] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q76] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 76] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q76] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q77] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 77] What is the highest wartime gallantry award in India?",
-      "en": "[Q77] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q78] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 78] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q78] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q79] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 79] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q79] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q80] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 80] What is the highest wartime gallantry award in India?",
-      "en": "[Q80] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q81] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 81] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q81] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q82] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 82] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q82] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q83] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 83] What is the highest wartime gallantry award in India?",
-      "en": "[Q83] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q84] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 84] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q84] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q85] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 85] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q85] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q86] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 86] What is the highest wartime gallantry award in India?",
-      "en": "[Q86] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q87] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 87] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q87] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q88] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 88] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q88] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q89] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 89] What is the highest wartime gallantry award in India?",
-      "en": "[Q89] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q90] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 90] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q90] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q91] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 91] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q91] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q92] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 92] What is the highest wartime gallantry award in India?",
-      "en": "[Q92] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q93] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 93] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q93] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q94] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 94] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q94] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q95] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 95] What is the highest wartime gallantry award in India?",
-      "en": "[Q95] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q96] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 96] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q96] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q97] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 97] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q97] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q98] What is the highest wartime gallantry award in India?",
-      "mr": "[प्रश्न 98] What is the highest wartime gallantry award in India?",
-      "en": "[Q98] What is the highest wartime gallantry award in India?"
-    },
+    "q": "What is the highest wartime gallantry award in India?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0,
-    "e": "Param Vir Chakra is India's highest military decoration for wartime valour."
+    "a": 0
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[Q99] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "mr": "[प्रश्न 99] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-      "en": "[Q99] Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):"
-    },
+    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
     "o": [
       "980 meters",
       "490 meters",
       "1960 meters",
       "245 meters"
     ],
-    "a": 0,
-    "e": "R = (u^2 * sin 2θ) / g = (98 * 98 * 1) / 9.8 = 980 meters."
+    "a": 0
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[Q100] Where is the Indian Naval Academy (INA) situated?",
-      "mr": "[प्रश्न 100] Where is the Indian Naval Academy (INA) situated?",
-      "en": "[Q100] Where is the Indian Naval Academy (INA) situated?"
-    },
+    "q": "Where is the Indian Naval Academy (INA) situated?",
     "o": [
       "Ezhimala (Kerala)",
       "Khadakwasla",
       "Dehradun",
       "Goa"
     ],
-    "a": 0,
-    "e": "Indian Naval Academy is located in Ezhimala, Kannur district of Kerala."
+    "a": 0
   }
 ]
