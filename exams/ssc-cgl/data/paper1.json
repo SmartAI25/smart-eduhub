@@ -1,30 +1,10 @@
 [
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 1] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
+      "en": "[GA Q.1] Who founded the Maurya Empire with the assistance of Chanakya?"
     },
     "o": {
       "hi": [
@@ -34,197 +14,20 @@
         "बृहद्रथ"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
         "चंद्रगुप्त मौर्य",
         "बिंदुसार",
         "सम्राट अशोक",
         "बृहद्रथ"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_1"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_2"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_3"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_4"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "hi": "[GA प्रश्न 2] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
+      "en": "[GA Q.2] Under which Article can the President declare a National Emergency?"
     },
     "o": {
       "hi": [
@@ -234,47 +37,89 @@
         "अनुच्छेद 370"
       ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_5"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 3] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
+      "en": "[GA Q.3] Which enzyme present in human saliva digests starch?"
+    },
+    "o": {
       "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ],
       "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ]
     },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 4] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
+      "en": "[GA Q.4] The Tropic of Cancer does not pass through which Indian state?"
+    },
+    "o": {
+      "hi": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "en": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 5] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
+      "en": "[GA Q.5] Who was the Viceroy of India during Partition of Bengal in 1905?"
+    },
+    "o": {
+      "hi": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "en": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 6] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
+      "en": "[GA Q.6] Who founded the Maurya Empire with the assistance of Chanakya?"
     },
     "o": {
       "hi": [
@@ -284,197 +129,20 @@
         "बृहद्रथ"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
         "चंद्रगुप्त मौर्य",
         "बिंदुसार",
         "सम्राट अशोक",
         "बृहद्रथ"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_6"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_7"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_8"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_9"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "hi": "[GA प्रश्न 7] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
+      "en": "[GA Q.7] Under which Article can the President declare a National Emergency?"
     },
     "o": {
       "hi": [
@@ -484,47 +152,89 @@
         "अनुच्छेद 370"
       ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_10"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 8] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
+      "en": "[GA Q.8] Which enzyme present in human saliva digests starch?"
+    },
+    "o": {
       "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ],
       "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ]
     },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 9] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
+      "en": "[GA Q.9] The Tropic of Cancer does not pass through which Indian state?"
+    },
+    "o": {
+      "hi": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "en": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 10] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
+      "en": "[GA Q.10] Who was the Viceroy of India during Partition of Bengal in 1905?"
+    },
+    "o": {
+      "hi": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "en": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 11] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
+      "en": "[GA Q.11] Who founded the Maurya Empire with the assistance of Chanakya?"
     },
     "o": {
       "hi": [
@@ -534,197 +244,20 @@
         "बृहद्रथ"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
         "चंद्रगुप्त मौर्य",
         "बिंदुसार",
         "सम्राट अशोक",
         "बृहद्रथ"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_11"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_12"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_13"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_14"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "hi": "[GA प्रश्न 12] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
+      "en": "[GA Q.12] Under which Article can the President declare a National Emergency?"
     },
     "o": {
       "hi": [
@@ -734,47 +267,89 @@
         "अनुच्छेद 370"
       ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_15"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 13] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
+      "en": "[GA Q.13] Which enzyme present in human saliva digests starch?"
+    },
+    "o": {
       "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ],
       "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ]
     },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 14] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
+      "en": "[GA Q.14] The Tropic of Cancer does not pass through which Indian state?"
+    },
+    "o": {
+      "hi": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "en": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 15] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
+      "en": "[GA Q.15] Who was the Viceroy of India during Partition of Bengal in 1905?"
+    },
+    "o": {
+      "hi": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "en": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 16] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
+      "en": "[GA Q.16] Who founded the Maurya Empire with the assistance of Chanakya?"
     },
     "o": {
       "hi": [
@@ -784,197 +359,20 @@
         "बृहद्रथ"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
         "चंद्रगुप्त मौर्य",
         "बिंदुसार",
         "सम्राट अशोक",
         "बृहद्रथ"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_16"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_17"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_18"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_19"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "hi": "[GA प्रश्न 17] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
+      "en": "[GA Q.17] Under which Article can the President declare a National Emergency?"
     },
     "o": {
       "hi": [
@@ -984,47 +382,89 @@
         "अनुच्छेद 370"
       ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_20"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 18] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
+      "en": "[GA Q.18] Which enzyme present in human saliva digests starch?"
+    },
+    "o": {
       "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ],
       "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ]
     },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 19] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
+      "en": "[GA Q.19] The Tropic of Cancer does not pass through which Indian state?"
+    },
+    "o": {
+      "hi": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "en": [
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 20] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
+      "en": "[GA Q.20] Who was the Viceroy of India during Partition of Bengal in 1905?"
+    },
+    "o": {
+      "hi": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ],
+      "en": [
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[GA प्रश्न 21] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
+      "en": "[GA Q.21] Who founded the Maurya Empire with the assistance of Chanakya?"
     },
     "o": {
       "hi": [
@@ -1034,197 +474,20 @@
         "बृहद्रथ"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
         "चंद्रगुप्त मौर्य",
         "बिंदुसार",
         "सम्राट अशोक",
         "बृहद्रथ"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_21"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_22"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_23"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_24"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "hi": "[GA प्रश्न 22] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
+      "en": "[GA Q.22] Under which Article can the President declare a National Emergency?"
     },
     "o": {
       "hi": [
@@ -1234,3769 +497,1806 @@
         "अनुच्छेद 370"
       ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_25"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_26"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_27"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_28"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_29"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
         "अनुच्छेद 352",
         "अनुच्छेद 356",
         "अनुच्छेद 360",
         "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_30"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "hi": "[GA प्रश्न 23] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
+      "en": "[GA Q.23] Which enzyme present in human saliva digests starch?"
     },
     "o": {
       "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+        "लार एमाइलेज (टायलिन)",
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "लाइपेस"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_31"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "hi": "[GA प्रश्न 24] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
+      "en": "[GA Q.24] The Tropic of Cancer does not pass through which Indian state?"
     },
     "o": {
       "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
       ],
       "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "ओडिशा",
+        "गुजरात",
+        "राजस्थान",
+        "मध्य प्रदेश"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_32"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "General Awareness",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
+      "hi": "[GA प्रश्न 25] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
+      "en": "[GA Q.25] Who was the Viceroy of India during Partition of Bengal in 1905?"
     },
     "o": {
       "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
       ],
       "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
+        "लॉर्ड कर्जन",
+        "लॉर्ड रिपन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_33"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
     "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
+      "hi": "[मात्रात्मक रुझान प्रश्न 1] यदि किसी वस्तु का क्रय मूल्य ₹240 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.1] If cost price of an article is ₹240 and sold at 20% profit, find selling price:"
     },
     "o": {
       "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
+        "₹288",
+        "₹264",
+        "₹312",
+        "₹252"
       ],
       "en": [
-        "Frank / Honest",
+        "₹288",
+        "₹264",
+        "₹312",
+        "₹252"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 2] यदि किसी वस्तु का क्रय मूल्य ₹280 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.2] If cost price of an article is ₹280 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹336",
+        "₹308",
+        "₹364",
+        "₹294"
+      ],
+      "en": [
+        "₹336",
+        "₹308",
+        "₹364",
+        "₹294"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 3] यदि किसी वस्तु का क्रय मूल्य ₹320 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.3] If cost price of an article is ₹320 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹384",
+        "₹352",
+        "₹416",
+        "₹336"
+      ],
+      "en": [
+        "₹384",
+        "₹352",
+        "₹416",
+        "₹336"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 4] यदि किसी वस्तु का क्रय मूल्य ₹360 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.4] If cost price of an article is ₹360 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹432",
+        "₹396",
+        "₹468",
+        "₹378"
+      ],
+      "en": [
+        "₹432",
+        "₹396",
+        "₹468",
+        "₹378"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 5] यदि किसी वस्तु का क्रय मूल्य ₹400 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.5] If cost price of an article is ₹400 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹480",
+        "₹440",
+        "₹520",
+        "₹420"
+      ],
+      "en": [
+        "₹480",
+        "₹440",
+        "₹520",
+        "₹420"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 6] यदि किसी वस्तु का क्रय मूल्य ₹440 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.6] If cost price of an article is ₹440 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹528",
+        "₹484",
+        "₹572",
+        "₹462"
+      ],
+      "en": [
+        "₹528",
+        "₹484",
+        "₹572",
+        "₹462"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 7] यदि किसी वस्तु का क्रय मूल्य ₹480 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.7] If cost price of an article is ₹480 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹576",
+        "₹528",
+        "₹624",
+        "₹504"
+      ],
+      "en": [
+        "₹576",
+        "₹528",
+        "₹624",
+        "₹504"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 8] यदि किसी वस्तु का क्रय मूल्य ₹520 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.8] If cost price of an article is ₹520 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹624",
+        "₹572",
+        "₹676",
+        "₹546"
+      ],
+      "en": [
+        "₹624",
+        "₹572",
+        "₹676",
+        "₹546"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 9] यदि किसी वस्तु का क्रय मूल्य ₹560 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.9] If cost price of an article is ₹560 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹672",
+        "₹616",
+        "₹728",
+        "₹588"
+      ],
+      "en": [
+        "₹672",
+        "₹616",
+        "₹728",
+        "₹588"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 10] यदि किसी वस्तु का क्रय मूल्य ₹600 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.10] If cost price of an article is ₹600 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹720",
+        "₹660",
+        "₹780",
+        "₹630"
+      ],
+      "en": [
+        "₹720",
+        "₹660",
+        "₹780",
+        "₹630"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 11] यदि किसी वस्तु का क्रय मूल्य ₹640 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.11] If cost price of an article is ₹640 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹768",
+        "₹704",
+        "₹832",
+        "₹672"
+      ],
+      "en": [
+        "₹768",
+        "₹704",
+        "₹832",
+        "₹672"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 12] यदि किसी वस्तु का क्रय मूल्य ₹680 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.12] If cost price of an article is ₹680 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹816",
+        "₹748",
+        "₹884",
+        "₹714"
+      ],
+      "en": [
+        "₹816",
+        "₹748",
+        "₹884",
+        "₹714"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 13] यदि किसी वस्तु का क्रय मूल्य ₹720 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.13] If cost price of an article is ₹720 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹864",
+        "₹792",
+        "₹936",
+        "₹756"
+      ],
+      "en": [
+        "₹864",
+        "₹792",
+        "₹936",
+        "₹756"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 14] यदि किसी वस्तु का क्रय मूल्य ₹760 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.14] If cost price of an article is ₹760 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹912",
+        "₹836",
+        "₹988",
+        "₹798"
+      ],
+      "en": [
+        "₹912",
+        "₹836",
+        "₹988",
+        "₹798"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 15] यदि किसी वस्तु का क्रय मूल्य ₹800 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.15] If cost price of an article is ₹800 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹960",
+        "₹880",
+        "₹1040",
+        "₹840"
+      ],
+      "en": [
+        "₹960",
+        "₹880",
+        "₹1040",
+        "₹840"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 16] यदि किसी वस्तु का क्रय मूल्य ₹840 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.16] If cost price of an article is ₹840 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1008",
+        "₹924",
+        "₹1092",
+        "₹882"
+      ],
+      "en": [
+        "₹1008",
+        "₹924",
+        "₹1092",
+        "₹882"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 17] यदि किसी वस्तु का क्रय मूल्य ₹880 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.17] If cost price of an article is ₹880 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1056",
+        "₹968",
+        "₹1144",
+        "₹924"
+      ],
+      "en": [
+        "₹1056",
+        "₹968",
+        "₹1144",
+        "₹924"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 18] यदि किसी वस्तु का क्रय मूल्य ₹920 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.18] If cost price of an article is ₹920 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1104",
+        "₹1012",
+        "₹1196",
+        "₹966"
+      ],
+      "en": [
+        "₹1104",
+        "₹1012",
+        "₹1196",
+        "₹966"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 19] यदि किसी वस्तु का क्रय मूल्य ₹960 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.19] If cost price of an article is ₹960 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1152",
+        "₹1056",
+        "₹1248",
+        "₹1008"
+      ],
+      "en": [
+        "₹1152",
+        "₹1056",
+        "₹1248",
+        "₹1008"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 20] यदि किसी वस्तु का क्रय मूल्य ₹1000 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.20] If cost price of an article is ₹1000 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1200",
+        "₹1100",
+        "₹1300",
+        "₹1050"
+      ],
+      "en": [
+        "₹1200",
+        "₹1100",
+        "₹1300",
+        "₹1050"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 21] यदि किसी वस्तु का क्रय मूल्य ₹1040 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.21] If cost price of an article is ₹1040 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1248",
+        "₹1144",
+        "₹1352",
+        "₹1092"
+      ],
+      "en": [
+        "₹1248",
+        "₹1144",
+        "₹1352",
+        "₹1092"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 22] यदि किसी वस्तु का क्रय मूल्य ₹1080 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.22] If cost price of an article is ₹1080 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1296",
+        "₹1188",
+        "₹1404",
+        "₹1134"
+      ],
+      "en": [
+        "₹1296",
+        "₹1188",
+        "₹1404",
+        "₹1134"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 23] यदि किसी वस्तु का क्रय मूल्य ₹1120 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.23] If cost price of an article is ₹1120 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1344",
+        "₹1232",
+        "₹1456",
+        "₹1176"
+      ],
+      "en": [
+        "₹1344",
+        "₹1232",
+        "₹1456",
+        "₹1176"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 24] यदि किसी वस्तु का क्रय मूल्य ₹1160 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.24] If cost price of an article is ₹1160 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1392",
+        "₹1276",
+        "₹1508",
+        "₹1218"
+      ],
+      "en": [
+        "₹1392",
+        "₹1276",
+        "₹1508",
+        "₹1218"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[मात्रात्मक रुझान प्रश्न 25] यदि किसी वस्तु का क्रय मूल्य ₹1200 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
+      "en": "[Quant Aptitude Q.25] If cost price of an article is ₹1200 and sold at 20% profit, find selling price:"
+    },
+    "o": {
+      "hi": [
+        "₹1440",
+        "₹1320",
+        "₹1560",
+        "₹1260"
+      ],
+      "en": [
+        "₹1440",
+        "₹1320",
+        "₹1560",
+        "₹1260"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 1] संख्या श्रृंखला में अगला पद ज्ञात करें: 3, 6, 12, 24, ?",
+      "en": "[Reasoning Q.1] Find next term in the series: 3, 6, 12, 24, ?"
+    },
+    "o": {
+      "hi": [
+        "48",
+        "36",
+        "42",
+        "54"
+      ],
+      "en": [
+        "48",
+        "36",
+        "42",
+        "54"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 2] संख्या श्रृंखला में अगला पद ज्ञात करें: 6, 12, 24, 48, ?",
+      "en": "[Reasoning Q.2] Find next term in the series: 6, 12, 24, 48, ?"
+    },
+    "o": {
+      "hi": [
+        "96",
+        "72",
+        "84",
+        "108"
+      ],
+      "en": [
+        "96",
+        "72",
+        "84",
+        "108"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 3] संख्या श्रृंखला में अगला पद ज्ञात करें: 9, 18, 36, 72, ?",
+      "en": "[Reasoning Q.3] Find next term in the series: 9, 18, 36, 72, ?"
+    },
+    "o": {
+      "hi": [
+        "144",
+        "108",
+        "126",
+        "162"
+      ],
+      "en": [
+        "144",
+        "108",
+        "126",
+        "162"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 4] संख्या श्रृंखला में अगला पद ज्ञात करें: 12, 24, 48, 96, ?",
+      "en": "[Reasoning Q.4] Find next term in the series: 12, 24, 48, 96, ?"
+    },
+    "o": {
+      "hi": [
+        "192",
+        "144",
+        "168",
+        "216"
+      ],
+      "en": [
+        "192",
+        "144",
+        "168",
+        "216"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 5] संख्या श्रृंखला में अगला पद ज्ञात करें: 15, 30, 60, 120, ?",
+      "en": "[Reasoning Q.5] Find next term in the series: 15, 30, 60, 120, ?"
+    },
+    "o": {
+      "hi": [
+        "240",
+        "180",
+        "210",
+        "270"
+      ],
+      "en": [
+        "240",
+        "180",
+        "210",
+        "270"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 6] संख्या श्रृंखला में अगला पद ज्ञात करें: 18, 36, 72, 144, ?",
+      "en": "[Reasoning Q.6] Find next term in the series: 18, 36, 72, 144, ?"
+    },
+    "o": {
+      "hi": [
+        "288",
+        "216",
+        "252",
+        "324"
+      ],
+      "en": [
+        "288",
+        "216",
+        "252",
+        "324"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 7] संख्या श्रृंखला में अगला पद ज्ञात करें: 21, 42, 84, 168, ?",
+      "en": "[Reasoning Q.7] Find next term in the series: 21, 42, 84, 168, ?"
+    },
+    "o": {
+      "hi": [
+        "336",
+        "252",
+        "294",
+        "378"
+      ],
+      "en": [
+        "336",
+        "252",
+        "294",
+        "378"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 8] संख्या श्रृंखला में अगला पद ज्ञात करें: 24, 48, 96, 192, ?",
+      "en": "[Reasoning Q.8] Find next term in the series: 24, 48, 96, 192, ?"
+    },
+    "o": {
+      "hi": [
+        "384",
+        "288",
+        "336",
+        "432"
+      ],
+      "en": [
+        "384",
+        "288",
+        "336",
+        "432"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 9] संख्या श्रृंखला में अगला पद ज्ञात करें: 27, 54, 108, 216, ?",
+      "en": "[Reasoning Q.9] Find next term in the series: 27, 54, 108, 216, ?"
+    },
+    "o": {
+      "hi": [
+        "432",
+        "324",
+        "378",
+        "486"
+      ],
+      "en": [
+        "432",
+        "324",
+        "378",
+        "486"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 10] संख्या श्रृंखला में अगला पद ज्ञात करें: 30, 60, 120, 240, ?",
+      "en": "[Reasoning Q.10] Find next term in the series: 30, 60, 120, 240, ?"
+    },
+    "o": {
+      "hi": [
+        "480",
+        "360",
+        "420",
+        "540"
+      ],
+      "en": [
+        "480",
+        "360",
+        "420",
+        "540"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 11] संख्या श्रृंखला में अगला पद ज्ञात करें: 33, 66, 132, 264, ?",
+      "en": "[Reasoning Q.11] Find next term in the series: 33, 66, 132, 264, ?"
+    },
+    "o": {
+      "hi": [
+        "528",
+        "396",
+        "462",
+        "594"
+      ],
+      "en": [
+        "528",
+        "396",
+        "462",
+        "594"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 12] संख्या श्रृंखला में अगला पद ज्ञात करें: 36, 72, 144, 288, ?",
+      "en": "[Reasoning Q.12] Find next term in the series: 36, 72, 144, 288, ?"
+    },
+    "o": {
+      "hi": [
+        "576",
+        "432",
+        "504",
+        "648"
+      ],
+      "en": [
+        "576",
+        "432",
+        "504",
+        "648"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 13] संख्या श्रृंखला में अगला पद ज्ञात करें: 39, 78, 156, 312, ?",
+      "en": "[Reasoning Q.13] Find next term in the series: 39, 78, 156, 312, ?"
+    },
+    "o": {
+      "hi": [
+        "624",
+        "468",
+        "546",
+        "702"
+      ],
+      "en": [
+        "624",
+        "468",
+        "546",
+        "702"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 14] संख्या श्रृंखला में अगला पद ज्ञात करें: 42, 84, 168, 336, ?",
+      "en": "[Reasoning Q.14] Find next term in the series: 42, 84, 168, 336, ?"
+    },
+    "o": {
+      "hi": [
+        "672",
+        "504",
+        "588",
+        "756"
+      ],
+      "en": [
+        "672",
+        "504",
+        "588",
+        "756"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 15] संख्या श्रृंखला में अगला पद ज्ञात करें: 45, 90, 180, 360, ?",
+      "en": "[Reasoning Q.15] Find next term in the series: 45, 90, 180, 360, ?"
+    },
+    "o": {
+      "hi": [
+        "720",
+        "540",
+        "630",
+        "810"
+      ],
+      "en": [
+        "720",
+        "540",
+        "630",
+        "810"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 16] संख्या श्रृंखला में अगला पद ज्ञात करें: 48, 96, 192, 384, ?",
+      "en": "[Reasoning Q.16] Find next term in the series: 48, 96, 192, 384, ?"
+    },
+    "o": {
+      "hi": [
+        "768",
+        "576",
+        "672",
+        "864"
+      ],
+      "en": [
+        "768",
+        "576",
+        "672",
+        "864"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 17] संख्या श्रृंखला में अगला पद ज्ञात करें: 51, 102, 204, 408, ?",
+      "en": "[Reasoning Q.17] Find next term in the series: 51, 102, 204, 408, ?"
+    },
+    "o": {
+      "hi": [
+        "816",
+        "612",
+        "714",
+        "918"
+      ],
+      "en": [
+        "816",
+        "612",
+        "714",
+        "918"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 18] संख्या श्रृंखला में अगला पद ज्ञात करें: 54, 108, 216, 432, ?",
+      "en": "[Reasoning Q.18] Find next term in the series: 54, 108, 216, 432, ?"
+    },
+    "o": {
+      "hi": [
+        "864",
+        "648",
+        "756",
+        "972"
+      ],
+      "en": [
+        "864",
+        "648",
+        "756",
+        "972"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 19] संख्या श्रृंखला में अगला पद ज्ञात करें: 57, 114, 228, 456, ?",
+      "en": "[Reasoning Q.19] Find next term in the series: 57, 114, 228, 456, ?"
+    },
+    "o": {
+      "hi": [
+        "912",
+        "684",
+        "798",
+        "1026"
+      ],
+      "en": [
+        "912",
+        "684",
+        "798",
+        "1026"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 20] संख्या श्रृंखला में अगला पद ज्ञात करें: 60, 120, 240, 480, ?",
+      "en": "[Reasoning Q.20] Find next term in the series: 60, 120, 240, 480, ?"
+    },
+    "o": {
+      "hi": [
+        "960",
+        "720",
+        "840",
+        "1080"
+      ],
+      "en": [
+        "960",
+        "720",
+        "840",
+        "1080"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 21] संख्या श्रृंखला में अगला पद ज्ञात करें: 63, 126, 252, 504, ?",
+      "en": "[Reasoning Q.21] Find next term in the series: 63, 126, 252, 504, ?"
+    },
+    "o": {
+      "hi": [
+        "1008",
+        "756",
+        "882",
+        "1134"
+      ],
+      "en": [
+        "1008",
+        "756",
+        "882",
+        "1134"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 22] संख्या श्रृंखला में अगला पद ज्ञात करें: 66, 132, 264, 528, ?",
+      "en": "[Reasoning Q.22] Find next term in the series: 66, 132, 264, 528, ?"
+    },
+    "o": {
+      "hi": [
+        "1056",
+        "792",
+        "924",
+        "1188"
+      ],
+      "en": [
+        "1056",
+        "792",
+        "924",
+        "1188"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 23] संख्या श्रृंखला में अगला पद ज्ञात करें: 69, 138, 276, 552, ?",
+      "en": "[Reasoning Q.23] Find next term in the series: 69, 138, 276, 552, ?"
+    },
+    "o": {
+      "hi": [
+        "1104",
+        "828",
+        "966",
+        "1242"
+      ],
+      "en": [
+        "1104",
+        "828",
+        "966",
+        "1242"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 24] संख्या श्रृंखला में अगला पद ज्ञात करें: 72, 144, 288, 576, ?",
+      "en": "[Reasoning Q.24] Find next term in the series: 72, 144, 288, 576, ?"
+    },
+    "o": {
+      "hi": [
+        "1152",
+        "864",
+        "1008",
+        "1296"
+      ],
+      "en": [
+        "1152",
+        "864",
+        "1008",
+        "1296"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[तर्कशक्ति प्रश्न 25] संख्या श्रृंखला में अगला पद ज्ञात करें: 75, 150, 300, 600, ?",
+      "en": "[Reasoning Q.25] Find next term in the series: 75, 150, 300, 600, ?"
+    },
+    "o": {
+      "hi": [
+        "1200",
+        "900",
+        "1050",
+        "1350"
+      ],
+      "en": [
+        "1200",
+        "900",
+        "1050",
+        "1350"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
+    "q": {
+      "en": "[English Q.1] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
+      "hi": "[English Q.1] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+    },
+    "o": {
+      "en": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
+      ],
+      "hi": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
+      ]
+    },
+    "a": 0
+  },
+  {
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
+    "q": {
+      "en": "[English Q.2] Select the most appropriate synonym of the given word: 'CANDID'",
+      "hi": "[English Q.2] Select the most appropriate synonym of the given word: 'CANDID'"
+    },
+    "o": {
+      "en": [
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
       ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
+      "hi": [
+        "Frank and straightforward",
+        "Deceptive",
+        "Secretive",
+        "Shy"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_34"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "en": "[English Q.3] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
+      "hi": "[English Q.3] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
     },
     "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+      "hi": [
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_35"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "en": "[English Q.4] Select the correctly spelt word from the given options:",
+      "hi": "[English Q.4] Select the correctly spelt word from the given options:"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_36"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "en": "[English Q.5] Select the meaning of the given idiom: 'To spill the beans'",
+      "hi": "[English Q.5] Select the meaning of the given idiom: 'To spill the beans'"
     },
     "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
       "en": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
+      "hi": [
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_37"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
+      "en": "[English Q.6] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
+      "hi": "[English Q.6] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
     },
     "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
       "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
+      "hi": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_38"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
+      "en": "[English Q.7] Select the most appropriate synonym of the given word: 'CANDID'",
+      "hi": "[English Q.7] Select the most appropriate synonym of the given word: 'CANDID'"
     },
     "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
       "en": [
-        "Frank / Honest",
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
       ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
+      "hi": [
+        "Frank and straightforward",
+        "Deceptive",
+        "Secretive",
+        "Shy"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_39"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "en": "[English Q.8] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
+      "hi": "[English Q.8] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
     },
     "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+      "hi": [
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_40"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "en": "[English Q.9] Select the correctly spelt word from the given options:",
+      "hi": "[English Q.9] Select the correctly spelt word from the given options:"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_41"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "en": "[English Q.10] Select the meaning of the given idiom: 'To spill the beans'",
+      "hi": "[English Q.10] Select the meaning of the given idiom: 'To spill the beans'"
     },
     "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
       "en": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
+      "hi": [
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_42"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
+      "en": "[English Q.11] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
+      "hi": "[English Q.11] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
     },
     "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
       "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
+      "hi": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_43"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
+      "en": "[English Q.12] Select the most appropriate synonym of the given word: 'CANDID'",
+      "hi": "[English Q.12] Select the most appropriate synonym of the given word: 'CANDID'"
     },
     "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
       "en": [
-        "Frank / Honest",
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
       ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
+      "hi": [
+        "Frank and straightforward",
+        "Deceptive",
+        "Secretive",
+        "Shy"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_44"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "en": "[English Q.13] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
+      "hi": "[English Q.13] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
     },
     "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+      "hi": [
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_45"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "en": "[English Q.14] Select the correctly spelt word from the given options:",
+      "hi": "[English Q.14] Select the correctly spelt word from the given options:"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_46"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "en": "[English Q.15] Select the meaning of the given idiom: 'To spill the beans'",
+      "hi": "[English Q.15] Select the meaning of the given idiom: 'To spill the beans'"
     },
     "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
       "en": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
+      "hi": [
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_47"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
+      "en": "[English Q.16] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
+      "hi": "[English Q.16] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
     },
     "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
       "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
+      "hi": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_48"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
+      "en": "[English Q.17] Select the most appropriate synonym of the given word: 'CANDID'",
+      "hi": "[English Q.17] Select the most appropriate synonym of the given word: 'CANDID'"
     },
     "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
       "en": [
-        "Frank / Honest",
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
       ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
+      "hi": [
+        "Frank and straightforward",
+        "Deceptive",
+        "Secretive",
+        "Shy"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_49"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "en": "[English Q.18] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
+      "hi": "[English Q.18] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
     },
     "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+      "hi": [
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_50"
+    "a": 0
   },
   {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "en": "[English Q.19] Select the correctly spelt word from the given options:",
+      "hi": "[English Q.19] Select the correctly spelt word from the given options:"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_51"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "en": "[English Q.20] Select the meaning of the given idiom: 'To spill the beans'",
+      "hi": "[English Q.20] Select the meaning of the given idiom: 'To spill the beans'"
     },
     "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
       "en": [
-        "14",
-        "16",
-        "18",
-        "12"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
+      "hi": [
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_52"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
+      "en": "[English Q.21] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
+      "hi": "[English Q.21] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
     },
     "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
       "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
+      "hi": [
+        "Part B (replace 'than' with 'when')",
+        "Part A",
+        "Part C",
+        "No Error"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_53"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
+      "en": "[English Q.22] Select the most appropriate synonym of the given word: 'CANDID'",
+      "hi": "[English Q.22] Select the most appropriate synonym of the given word: 'CANDID'"
     },
     "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
       "en": [
-        "Frank / Honest",
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
       ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_54"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
       "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_55"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_56"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_57"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_58"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
+        "Frank and straightforward",
         "Deceptive",
         "Secretive",
         "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_59"
+    "a": 0
   },
   {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
+      "en": "[English Q.23] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
+      "hi": "[English Q.23] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
     },
     "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
       "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+      "hi": [
+        "Permanent and eternal",
+        "Transient",
+        "Short-lived",
+        "Fragile"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_60"
+    "a": 0
   },
   {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
+      "en": "[English Q.24] Select the correctly spelt word from the given options:",
+      "hi": "[English Q.24] Select the correctly spelt word from the given options:"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_61"
+    "a": 0
   },
   {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
+    "sec": "English Comprehension",
+    "isEnglishSubject": true,
     "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
+      "en": "[English Q.25] Select the meaning of the given idiom: 'To spill the beans'",
+      "hi": "[English Q.25] Select the meaning of the given idiom: 'To spill the beans'"
     },
     "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_62"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_63"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_64"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_65"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_66"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_67"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_68"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_69"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_70"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_71"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_72"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_73"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_74"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_75"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_76"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_77"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_78"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_79"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_80"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_81"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_82"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_83"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_84"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_85"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_86"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_87"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_88"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_89"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_90"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_91"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_92"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_93"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_94"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_95"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "चाणक्य की सहायता से प्राचीन भारत में मौर्य साम्राज्य की स्थापना किसने की थी?",
-      "en": "Who founded the Maurya Empire in ancient India with the assistance of Chanakya?",
-      "mr": "चाणक्यांच्या मदतीने प्राचीन भारतात मौर्य साम्राज्याची स्थापना कोणी केली होती?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Ashoka",
-        "Brihadratha"
-      ],
-      "mr": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_96"
-  },
-  {
-    "sec": "सामान्य जागरूकता (GA)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "यदि x + 1/x = 4 है, तो x² + 1/x² का मान क्या होगा?",
-      "en": "If x + 1/x = 4, then what is the value of x² + 1/x²?",
-      "mr": "जर x + 1/x = 4 असेल, तर x² + 1/x² चे मूल्य काय असेल?"
-    },
-    "o": {
-      "hi": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "en": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ],
-      "mr": [
-        "14",
-        "16",
-        "18",
-        "12"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_97"
-  },
-  {
-    "sec": "मात्रात्मक रुझान (Maths)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "संबंधित जोड़ी का चयन करें: डॉक्टर : अस्पताल :: शिक्षक : ?",
-      "en": "Select the related pair: Doctor : Hospital :: Teacher : ?",
-      "mr": "संबंधित जोडी निवडा: डॉक्टर : रुग्णालय :: शिक्षक : ?"
-    },
-    "o": {
-      "hi": [
-        "विद्यालय (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "कक्षा"
-      ],
-      "en": [
-        "School",
-        "College",
-        "Book",
-        "Classroom"
-      ],
-      "mr": [
-        "शाळा (School)",
-        "महाविद्यालय",
-        "पुस्तक",
-        "वर्ग"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_98"
-  },
-  {
-    "sec": "तर्कशक्ति (Reasoning)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
-      "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
-      ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "शब्द 'CANDID' का सही समानार्थी (Synonym) क्या है?",
-      "en": "Select the correct synonym for the word 'CANDID':",
-      "mr": "'CANDID' या शब्दाचा अचूक समानार्थी शब्द कोणता आहे?"
-    },
-    "o": {
-      "hi": [
-        "निष्कपट / स्पष्टवादी (Frank / Honest)",
-        "धोखेबाज (Deceptive)",
-        "रहस्यमयी (Secretive)",
-        "शर्मीला (Shy)"
-      ],
-      "en": [
-        "Frank / Honest",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "mr": [
-        "स्पष्टवक्ता / प्रामाणिक (Frank)",
-        "कपटी",
-        "गुप्त",
-        "लाजाळू"
-      ]
-    },
-    "a": 0,
-    "id": "ssc-cgl_99"
-  },
-  {
-    "sec": "अंग्रेजी समझ (English)",
-    "secMap": {
-      "hi": [
-        "सामान्य जागरूकता (GA)",
-        "मात्रात्मक रुझान (Maths)",
-        "तर्कशक्ति (Reasoning)",
-        "अंग्रेजी समझ (English)"
-      ],
       "en": [
-        "General Awareness",
-        "Quantitative Aptitude",
-        "General Intelligence & Reasoning",
-        "English Comprehension"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ],
-      "mr": [
-        "सामान्य ज्ञान",
-        "अंकगणित",
-        "बुद्धिमत्ता चाचणी",
-        "इंग्रजी व्याकरण"
-      ]
-    },
-    "q": {
-      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "Under which Article can the President of India declare a National Emergency?",
-      "mr": "भारतीय राज्यघटनेच्या कोणत्या कलमान्वये राष्ट्रपती राष्ट्रीय आणीबाणी घोषित करू शकतात?"
-    },
-    "o": {
       "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "Article 352",
-        "Article 356",
-        "Article 360",
-        "Article 370"
-      ],
-      "mr": [
-        "कलम 352",
-        "कलम 356",
-        "कलम 360",
-        "कलम 370"
+        "To reveal a secret prematurely",
+        "To drop food items",
+        "To create a mess",
+        "To speak harshly"
       ]
     },
-    "a": 0,
-    "id": "ssc-cgl_100"
+    "a": 0
   }
 ]
