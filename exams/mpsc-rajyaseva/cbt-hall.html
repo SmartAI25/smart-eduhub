@@ -123,7 +123,12 @@
       document.getElementById("sb").innerText = q.sec;
       document.getElementById("qn").innerText = "Q " + (idx + 1) + " / " + qs.length;
 
-      let text = typeof q.q === "object" ? (q.q[curLang] || q.q.mr || q.q.hi || q.q.en) : q.q;
+      let text = "";
+      if (typeof q.q === "object") {
+        text = q.q[curLang] || q.q.hi || q.q.en || q.q.mr;
+      } else {
+        text = q.q;
+      }
       document.getElementById("qt").innerText = text;
 
       const optsBox = document.getElementById("qo");
@@ -139,10 +144,7 @@
         radio.name = "opt";
         radio.checked = isSelected;
         radio.className = "accent-amber-500 w-4 h-4";
-        radio.onchange = function() {
-          userAns[idx] = i;
-          loadQuestion(idx);
-        };
+        radio.onchange = function() { userAns[idx] = i; loadQuestion(idx); };
 
         const badge = document.createElement("span");
         badge.className = "font-bold text-slate-400";
@@ -157,7 +159,6 @@
         label.appendChild(textSpan);
         optsBox.appendChild(label);
       });
-
       renderPalette();
     }
 

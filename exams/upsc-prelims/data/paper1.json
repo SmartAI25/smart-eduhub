@@ -1,1202 +1,1502 @@
 [
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 1] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.1] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 1] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_1"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 2] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.2] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 2] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_2"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 3] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.3] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 3] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_3"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 4] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.4] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 4] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_4"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 5] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.5] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 5] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_5"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 6] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.6] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 6] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_6"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 7] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.7] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 7] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_7"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 8] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.8] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 8] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_8"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 9] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.9] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 9] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_9"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 10] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.10] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 10] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_10"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 11] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.11] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 11] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_11"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 12] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.12] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 12] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_12"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 13] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.13] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 13] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_13"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 14] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.14] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 14] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_14"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 15] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.15] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 15] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_15"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 16] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.16] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 16] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_16"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 17] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.17] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 17] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_17"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 18] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.18] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 18] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_18"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 19] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.19] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 19] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_19"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 20] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.20] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 20] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_20"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 21] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.21] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 21] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_21"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 22] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.22] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 22] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_22"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 23] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.23] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 23] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_23"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 24] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.24] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 24] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_24"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 25] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.25] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 25] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_25"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 26] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.26] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 26] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_26"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 27] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.27] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 27] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_27"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 28] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.28] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 28] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_28"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 29] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.29] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 29] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_29"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 30] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.30] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 30] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_30"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 31] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.31] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 31] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_31"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 32] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.32] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 32] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_32"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 33] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.33] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 33] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_33"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 34] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.34] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 34] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_34"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 35] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.35] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 35] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_35"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 36] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.36] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 36] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_36"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 37] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.37] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 37] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_37"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 38] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.38] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 38] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_38"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 39] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.39] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 39] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_39"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 40] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.40] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 40] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_40"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 41] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.41] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 41] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_41"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 42] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.42] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 42] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_42"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 43] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.43] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 43] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_43"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 44] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.44] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 44] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_44"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 45] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.45] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 45] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_45"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 46] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.46] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 46] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_46"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 47] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.47] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 47] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_47"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 48] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.48] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 48] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_48"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 49] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.49] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 49] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_49"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 50] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.50] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 50] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_50"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 51] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.51] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 51] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_51"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 52] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.52] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 52] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_52"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 53] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.53] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 53] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_53"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 54] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.54] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 54] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_54"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 55] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.55] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 55] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_55"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 56] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.56] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 56] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_56"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 57] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.57] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 57] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_57"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 58] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.58] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 58] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_58"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 59] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.59] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 59] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_59"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 60] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.60] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 60] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_60"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 61] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.61] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 61] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_61"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 62] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.62] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 62] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_62"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 63] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.63] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 63] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_63"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 64] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.64] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 64] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_64"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 65] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.65] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 65] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_65"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 66] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.66] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 66] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_66"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 67] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.67] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 67] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_67"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 68] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.68] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 68] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_68"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 69] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.69] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 69] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_69"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 70] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.70] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 70] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_70"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 71] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.71] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 71] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_71"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 72] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.72] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 72] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_72"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 73] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.73] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 73] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_73"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 74] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.74] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 74] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_74"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 75] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.75] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 75] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_75"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 76] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.76] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 76] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_76"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 77] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.77] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 77] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_77"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 78] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.78] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 78] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_78"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 79] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.79] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 79] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_79"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 80] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.80] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 80] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_80"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 81] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.81] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 81] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_81"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 82] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.82] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 82] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_82"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 83] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.83] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 83] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_83"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 84] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.84] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 84] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_84"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 85] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.85] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 85] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_85"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 86] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.86] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 86] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_86"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 87] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.87] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 87] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_87"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 88] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.88] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 88] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_88"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 89] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.89] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 89] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_89"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 90] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.90] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 90] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_90"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "q": {
+      "hi": "[प्रश्न 91] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "en": "[Q.91] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+      "mr": "[प्रश्न 91] Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?"
+    },
     "o": [
       "Article 32",
       "Article 21",
       "Article 14",
       "Article 19"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_91"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "q": {
+      "hi": "[प्रश्न 92] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "en": "[Q.92] The historic Lucknow Pact of 1916 was signed between which two entities?",
+      "mr": "[प्रश्न 92] The historic Lucknow Pact of 1916 was signed between which two entities?"
+    },
     "o": [
       "Indian National Congress & Muslim League",
       "Moderates & Extremists only",
       "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_92"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": {
+      "hi": "[प्रश्न 93] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "en": "[Q.93] Which among the following Ramsar Wetland sites is located in Kerala?",
+      "mr": "[प्रश्न 93] Which among the following Ramsar Wetland sites is located in Kerala?"
+    },
     "o": [
       "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_93"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "q": {
+      "hi": "[प्रश्न 94] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "en": "[Q.94] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+      "mr": "[प्रश्न 94] What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?"
+    },
     "o": [
       "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
       "Foreign debt control",
       "Stock exchange surveillance"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_94"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "q": {
+      "hi": "[प्रश्न 95] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "en": "[Q.95] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+      "mr": "[प्रश्न 95] Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?"
+    },
     "o": [
       "Sixth Schedule",
       "Fifth Schedule",
       "Seventh Schedule",
       "Tenth Schedule"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_95"
+    "a": 0
   },
   {
     "sec": "Polity & Governance",
-    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "q": {
+      "hi": "[प्रश्न 96] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "en": "[Q.96] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+      "mr": "[प्रश्न 96] The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?"
+    },
     "o": [
       "Kesavananda Bharati case (1973)",
       "Golaknath case (1967)",
       "Minerva Mills case (1980)",
       "Maneka Gandhi case (1978)"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_96"
+    "a": 0
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "q": {
+      "hi": "[प्रश्न 97] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "en": "[Q.97] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+      "mr": "[प्रश्न 97] Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?"
+    },
     "o": [
       "Sulfur Hexafluoride (SF6)",
       "Methane",
       "Nitrous Oxide",
       "Carbon Dioxide"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_97"
+    "a": 0
   },
   {
     "sec": "Economy & Development",
-    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "q": {
+      "hi": "[प्रश्न 98] What does the term 'Fiscal Deficit' precisely indicate?",
+      "en": "[Q.98] What does the term 'Fiscal Deficit' precisely indicate?",
+      "mr": "[प्रश्न 98] What does the term 'Fiscal Deficit' precisely indicate?"
+    },
     "o": [
       "Total expenditure minus total receipts excluding borrowings",
       "Revenue deficit minus grants",
       "Total debt of the government",
       "Current account deficit"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_98"
+    "a": 0
   },
   {
     "sec": "History & Culture",
-    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "q": {
+      "hi": "[प्रश्न 99] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "en": "[Q.99] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+      "mr": "[प्रश्न 99] The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:"
+    },
     "o": [
       "Gujarat (Kutch district)",
       "Rajasthan",
       "Haryana",
       "Punjab"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_99"
+    "a": 0
   },
   {
     "sec": "Science & Tech",
-    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "q": {
+      "hi": "[प्रश्न 100] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "en": "[Q.100] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+      "mr": "[प्रश्न 100] CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:"
+    },
     "o": [
       "Targeted Gene Editing",
       "Quantum Computing",
       "Deep Space Exploration",
       "Carbon Sequestration"
     ],
-    "a": 0,
-    "id": "upsc-prelims_q_100"
+    "a": 0
   }
 ]
