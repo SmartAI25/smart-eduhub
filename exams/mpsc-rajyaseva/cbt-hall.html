@@ -1,53 +1,217 @@
-<!DOCTYPE html><html><head><meta charset="UTF-8"><title>MPSC राज्यसेवा CBT Simulator</title><script src="https://cdn.tailwindcss.com"></script></head>
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MPSC राज्यसेवा CBT Simulator - SmartEduHub</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
 <body class="bg-slate-950 text-white min-h-screen p-3 sm:p-5 flex flex-col justify-between select-none">
+
+  <!-- Header -->
   <header class="flex justify-between items-center border-b border-slate-800 pb-2 text-xs">
-    <div class="flex items-center space-x-3"><a href="index.html" class="text-rose-400 font-bold">✕ Exit</a><span>|</span><span class="font-bold">🚩 MPSC राज्यसेवा (GS-1)</span><span>|</span><span class="text-amber-400 font-mono">+2.00 / -0.50</span></div>
+    <div class="flex items-center space-x-3">
+      <a href="index.html" class="text-rose-400 hover:text-rose-300 font-bold">✕ Exit Exam</a>
+      <span>|</span>
+      <span class="font-bold text-amber-400">🚩 MPSC राज्यसेवा (GS-1)</span>
+      <span>|</span>
+      <span class="text-slate-400 font-mono">+2.00 / -0.50</span>
+    </div>
     <div class="flex items-center space-x-3">
       <select id="lang" onchange="chLang(this.value)" class="bg-slate-900 border border-slate-700 text-white rounded px-2 py-1 text-xs">
-        <option value="mr" selected>भाषा: मराठी (Default)</option><option value="hi">भाषा: हिन्दी</option><option value="en">Language: English</option>
+        <option value="mr" selected>भाषा: मराठी</option>
+        <option value="hi">भाषा: हिन्दी</option>
+        <option value="en">Language: English</option>
       </select>
-      <div class="bg-slate-900 border border-amber-500/40 text-amber-300 px-3 py-1 rounded-xl font-mono font-bold">⏱️ <span id="tm">120:00</span></div>
+      <div class="bg-slate-900 border border-amber-500/40 text-amber-300 px-3 py-1 rounded-xl font-mono font-bold">
+        ⏱️ <span id="tm">120:00</span>
+      </div>
     </div>
   </header>
+
+  <!-- Sections Bar -->
   <div class="flex space-x-2 py-2 overflow-x-auto text-xs" id="st"></div>
+
+  <!-- Main Question Screen -->
   <main class="grid grid-cols-1 lg:grid-cols-4 gap-4 flex-1 my-2">
-    <div class="lg:col-span-3 bg-slate-900 p-5 rounded-2xl flex flex-col justify-between border border-slate-800 shadow-xl">
+    <div class="lg:col-span-3 bg-slate-900 p-5 rounded-2xl flex flex-col justify-between border border-slate-800 shadow-xl min-h-[460px]">
       <div>
-        <div class="flex justify-between text-xs text-slate-400 border-b border-slate-800 pb-2"><span id="sb" class="text-amber-400 font-bold">Section</span><span id="qn">Q 1/100</span></div>
-        <div id="qt" class="text-sm sm:text-base font-semibold py-4 text-white leading-relaxed">Paper loading...</div>
-        <div id="qo" class="space-y-2"></div>
+        <div class="flex justify-between text-xs text-slate-400 border-b border-slate-800 pb-2">
+          <span id="sb" class="text-amber-400 font-bold">विभाग</span>
+          <span id="qn" class="font-mono">Q 1/100</span>
+        </div>
+        <div id="qt" class="text-sm sm:text-base font-semibold py-4 text-white leading-relaxed">
+          प्रश्न लोड होत आहेत...
+        </div>
+        <div id="qo" class="space-y-2 pt-2"></div>
       </div>
       <div class="flex justify-between pt-4 border-t border-slate-800 text-xs">
-        <button onclick="clr()" class="px-3 py-1.5 border border-slate-700 text-slate-400 rounded-lg">Clear</button>
-        <div class="space-x-2"><button onclick="prev()" class="px-4 py-1.5 bg-slate-800 text-white rounded-lg">← Prev</button><button onclick="next()" class="px-5 py-1.5 bg-amber-500 text-slate-950 font-black rounded-lg">Save & Next →</button></div>
+        <button onclick="clr()" class="px-3 py-1.5 border border-slate-700 text-slate-400 hover:bg-slate-800 rounded-lg">Clear</button>
+        <div class="space-x-2">
+          <button onclick="prev()" class="px-4 py-1.5 bg-slate-800 hover:bg-slate-700 text-white rounded-lg">← मागे</button>
+          <button onclick="next()" class="px-5 py-1.5 bg-amber-500 hover:bg-amber-400 text-slate-950 font-black rounded-lg">पुढील प्रश्न →</button>
+        </div>
       </div>
     </div>
+
+    <!-- Palette -->
     <div class="bg-slate-900 p-4 rounded-2xl border border-slate-800 flex flex-col justify-between shadow-xl">
       <div class="text-xs font-bold border-b border-slate-800 pb-2 text-slate-300">Question Palette (100 Qs)</div>
       <div id="pg" class="grid grid-cols-5 gap-1.5 max-h-[300px] overflow-y-auto pr-1"></div>
-      <button onclick="sub()" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs mt-3">SUBMIT TEST</button>
+      <button onclick="sub()" class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl text-xs mt-3">
+        🎯 SUBMIT TEST
+      </button>
     </div>
   </main>
+
   <script>
-    let qs=[],cur=0,ans={},tl=7200,lng="mr";
+    let qs = [], cur = 0, userAns = {}, timeLeft = 7200, curLang = "mr";
     const pN = new URLSearchParams(location.search).get("paper") || "paper1";
+
+    // Clean Fetch
     fetch("./data/" + pN + ".json")
-      .then(r => { if(!r.ok) throw new Error("HTTP " + r.status + " on " + r.url); return r.json(); })
-      .then(d => { qs=d; init(); })
-      .catch(err => {
-        document.getElementById("qt").innerHTML = "<div class='p-4 bg-rose-950/80 border border-rose-500 rounded-xl text-rose-200 text-xs font-mono font-bold'>" +
-          "⚠️ Server Error: " + err.message + "<br><br><a href='cbt-hall.html?paper=paper1' class='inline-block px-3 py-1.5 bg-amber-500 text-slate-950 rounded'>Try Paper 1</a></div>";
+      .then(function(r) {
+        if (!r.ok) throw new Error("HTTP " + r.status + " on " + r.url);
+        return r.json();
+      })
+      .then(function(data) {
+        qs = data;
+        init();
+      })
+      .catch(function(err) {
+        document.getElementById("qt").innerHTML = "<div class='p-4 bg-rose-950 border border-rose-500 rounded-xl text-rose-200 text-xs font-mono font-bold'>" +
+          "⚠️ Server Error: " + err.message + "<br><br><a href='cbt-hall.html?paper=paper1' class='inline-block px-3 py-1.5 bg-amber-500 text-slate-950 rounded'>Paper 1 लोड करा</a></div>";
       });
-    function init(){renderSec();loadQ(0);renderPal();setInterval(()=>{if(tl>0){tl--;document.getElementById("tm").innerText=String(Math.floor(tl/60)).padStart(2,"0")+":"+String(tl%60).padStart(2,"0");}},1000);}
-    function renderSec(){const s=[...new Set(qs.map(q=>q.sec))];document.getElementById("st").innerHTML=s.map(x=>'<button onclick="jump(''+x+'')" class="px-3 py-1 bg-slate-800 text-slate-300 rounded-lg font-bold text-xs">'+x+'</button>').join("");}
-    window.jump=function(s){const i=qs.findIndex(q=>q.sec===s);if(i!==-1)loadQ(i);};
-    function loadQ(i){cur=i;const q=qs[i];document.getElementById("sb").innerText=q.sec;document.getElementById("qn").innerText="Q "+(i+1)+"/"+qs.length;
-    let t=typeof q.q==="object"?(q.q[lng]||q.q.mr||q.q.hi||q.q.en):q.q;document.getElementById("qt").innerText=t;
-    document.getElementById("qo").innerHTML=(q.o||[]).map((o,idx)=>'<label class="flex items-center space-x-3 p-3 rounded-xl border '+(ans[i]===idx?"border-amber-500 bg-amber-950/40":"border-slate-800 bg-slate-950")+' cursor-pointer text-xs"><input type="radio" name="opt" '+(ans[i]===idx?"checked":"")+' onchange="sel('+i+','+idx+')" class="accent-amber-500"><span class="font-bold text-slate-400">'+String.fromCharCode(65+idx)+'.</span><span class="text-slate-200">'+o+'</span></label>').join("");renderPal();}
-    window.sel=function(i,idx){ans[i]=idx;loadQ(i);};window.clr=function(){delete ans[cur];loadQ(cur);};window.prev=function(){if(cur>0)loadQ(cur-1);};window.next=function(){if(cur<qs.length-1)loadQ(cur+1);};window.chLang=function(l){lng=l;loadQ(cur);};
-    function renderPal(){document.getElementById("pg").innerHTML=qs.map((q,i)=>'<button onclick="loadQ('+i+')" class="h-7 rounded text-[11px] font-mono '+(ans.hasOwnProperty(i)?"bg-emerald-500 text-slate-950 font-bold":(i===cur?"ring-2 ring-amber-400 bg-slate-700 text-white":"bg-slate-800 text-slate-400"))+'">'+(i+1)+'</button>').join("");}
-    window.sub=function(){let c=0,w=0;qs.forEach((q,i)=>{if(ans.hasOwnProperty(i)){if(ans[i]===q.a)c++;else w++;}});
-    const sc=((c*2)-(w*0.5)).toFixed(2);
-    document.body.innerHTML='<div class="min-h-screen bg-slate-950 text-white p-6 flex items-center justify-center"><div class="max-w-md w-full bg-slate-900 border border-slate-800 p-6 rounded-3xl text-center space-y-4 shadow-2xl"><h2 class="text-base font-bold">MPSC राज्यसेवा निकाल</h2><div class="text-3xl font-mono font-black text-amber-400">'+sc+' / 200</div><div class="grid grid-cols-3 gap-2 text-xs font-mono"><div class="p-2 bg-emerald-950 text-emerald-300 rounded">✓ '+c+' अचूक</div><div class="p-2 bg-rose-950 text-rose-300 rounded">✕ '+w+' चुकीचे</div><div class="p-2 bg-slate-800 text-slate-400">- '+(qs.length-c-w)+' सोडले</div></div><a href="index.html" class="inline-block mt-4 px-6 py-2 bg-amber-500 text-slate-950 font-bold rounded-xl text-xs">← तिजोरीत परत जा</a></div></div>';};
+
+    function init() {
+      renderSections();
+      loadQuestion(0);
+      renderPalette();
+      setInterval(function() {
+        if (timeLeft > 0) {
+          timeLeft--;
+          const m = Math.floor(timeLeft / 60);
+          const s = timeLeft % 60;
+          document.getElementById("tm").innerText = String(m).padStart(2, "0") + ":" + String(s).padStart(2, "0");
+        }
+      }, 1000);
+    }
+
+    function renderSections() {
+      const sections = [];
+      for (let i = 0; i < qs.length; i++) {
+        if (sections.indexOf(qs[i].sec) === -1) sections.push(qs[i].sec);
+      }
+      const container = document.getElementById("st");
+      container.innerHTML = "";
+      sections.forEach(function(s) {
+        const btn = document.createElement("button");
+        btn.className = "px-3 py-1 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded-lg font-bold text-xs shrink-0";
+        btn.innerText = s;
+        btn.onclick = function() {
+          for (let j = 0; j < qs.length; j++) {
+            if (qs[j].sec === s) { loadQuestion(j); break; }
+          }
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function loadQuestion(idx) {
+      cur = idx;
+      const q = qs[idx];
+      document.getElementById("sb").innerText = q.sec;
+      document.getElementById("qn").innerText = "Q " + (idx + 1) + " / " + qs.length;
+
+      let text = typeof q.q === "object" ? (q.q[curLang] || q.q.mr || q.q.hi || q.q.en) : q.q;
+      document.getElementById("qt").innerText = text;
+
+      const optsBox = document.getElementById("qo");
+      optsBox.innerHTML = "";
+      q.o.forEach(function(optText, i) {
+        const isSelected = userAns[idx] === i;
+        const label = document.createElement("label");
+        label.className = "flex items-center space-x-3 p-3 rounded-xl border text-xs cursor-pointer " +
+          (isSelected ? "border-amber-500 bg-amber-950/40" : "border-slate-800 bg-slate-950/60 hover:border-slate-700");
+        
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "opt";
+        radio.checked = isSelected;
+        radio.className = "accent-amber-500 w-4 h-4";
+        radio.onchange = function() {
+          userAns[idx] = i;
+          loadQuestion(idx);
+        };
+
+        const badge = document.createElement("span");
+        badge.className = "font-bold text-slate-400";
+        badge.innerText = String.fromCharCode(65 + i) + ".";
+
+        const textSpan = document.createElement("span");
+        textSpan.className = "text-slate-200";
+        textSpan.innerText = optText;
+
+        label.appendChild(radio);
+        label.appendChild(badge);
+        label.appendChild(textSpan);
+        optsBox.appendChild(label);
+      });
+
+      renderPalette();
+    }
+
+    function renderPalette() {
+      const grid = document.getElementById("pg");
+      grid.innerHTML = "";
+      for (let i = 0; i < qs.length; i++) {
+        const btn = document.createElement("button");
+        let cls = "h-7 rounded text-[11px] font-mono ";
+        if (userAns.hasOwnProperty(i)) {
+          cls += "bg-emerald-500 text-slate-950 font-bold";
+        } else if (i === cur) {
+          cls += "ring-2 ring-amber-400 bg-slate-700 text-white font-bold";
+        } else {
+          cls += "bg-slate-800 text-slate-400";
+        }
+        btn.className = cls;
+        btn.innerText = i + 1;
+        btn.onclick = (function(qIdx) {
+          return function() { loadQuestion(qIdx); };
+        })(i);
+        grid.appendChild(btn);
+      }
+    }
+
+    window.clr = function() { delete userAns[cur]; loadQuestion(cur); };
+    window.prev = function() { if (cur > 0) loadQuestion(cur - 1); };
+    window.next = function() { if (cur < qs.length - 1) loadQuestion(cur + 1); };
+    window.chLang = function(l) { curLang = l; loadQuestion(cur); };
+
+    window.sub = function() {
+      let c = 0, w = 0;
+      for (let i = 0; i < qs.length; i++) {
+        if (userAns.hasOwnProperty(i)) {
+          if (userAns[i] === qs[i].a) c++; else w++;
+        }
+      }
+      const skipped = qs.length - (c + w);
+      const score = ((c * 2) - (w * 0.5)).toFixed(2);
+
+      document.body.innerHTML = '<div class="min-h-screen bg-slate-950 text-white p-6 flex items-center justify-center">' +
+        '<div class="max-w-md w-full bg-slate-900 border border-slate-800 p-6 rounded-3xl text-center space-y-4 shadow-2xl">' +
+          '<div class="text-3xl">🎉</div>' +
+          '<h2 class="text-base font-bold">MPSC राज्यसेवा निकाल</h2>' +
+          '<div class="text-3xl font-mono font-black text-amber-400">' + score + ' / 200</div>' +
+          '<div class="grid grid-cols-3 gap-2 text-xs font-mono">' +
+            '<div class="p-2 bg-emerald-950 text-emerald-300 rounded">✓ ' + c + ' अचूक</div>' +
+            '<div class="p-2 bg-rose-950 text-rose-300 rounded">✕ ' + w + ' चुकीचे</div>' +
+            '<div class="p-2 bg-slate-800 text-slate-400">- ' + skipped + ' सोडले</div>' +
+          '</div>' +
+          '<a href="index.html" class="inline-block mt-4 px-6 py-2.5 bg-amber-500 text-slate-950 font-bold rounded-xl text-xs">← तिजोरीत परत जा</a>' +
+        '</div>' +
+      '</div>';
+    };
   </script>
-</body></html>
+</body>
+</html>
