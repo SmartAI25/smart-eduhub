@@ -1,1502 +1,4702 @@
 [
   {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 1] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.1] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 1] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 2] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.2] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 2] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 3] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.3] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 3] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 4] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.4] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 4] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 5] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.5] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 5] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 6] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.6] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 6] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 7] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.7] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 7] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 8] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.8] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 8] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 9] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.9] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 9] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 10] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.10] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 10] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 11] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.11] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 11] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 12] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.12] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 12] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 13] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.13] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 13] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 14] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.14] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 14] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 15] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.15] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 15] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 16] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.16] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 16] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 17] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.17] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 17] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 18] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.18] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 18] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 19] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.19] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 19] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 20] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.20] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 20] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 21] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.21] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 21] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 22] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.22] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 22] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 23] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.23] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 23] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 24] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.24] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 24] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 25] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.25] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 25] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 26] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.26] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 26] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 27] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.27] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 27] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 28] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.28] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 28] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 29] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.29] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 29] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 30] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.30] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 30] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 31] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.31] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 31] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 32] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.32] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 32] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 33] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.33] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 33] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 34] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.34] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 34] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 35] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.35] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 35] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 36] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.36] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 36] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 37] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.37] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 37] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 38] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.38] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 38] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 39] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.39] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 39] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 40] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.40] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 40] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 41] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.41] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 41] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 42] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.42] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 42] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 43] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.43] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 43] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 44] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.44] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 44] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 45] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.45] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 45] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 46] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.46] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 46] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 47] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.47] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 47] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 48] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.48] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 48] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 49] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.49] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 49] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 50] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.50] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 50] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 51] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.51] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 51] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 52] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.52] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 52] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 53] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.53] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 53] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 54] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.54] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 54] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 55] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.55] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 55] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 56] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.56] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 56] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 57] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.57] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 57] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 58] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.58] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 58] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 59] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.59] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 59] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 60] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.60] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 60] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 61] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.61] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 61] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 62] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.62] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 62] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 63] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.63] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 63] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 64] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.64] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 64] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 65] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.65] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 65] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 66] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.66] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 66] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 67] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.67] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 67] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 68] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.68] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 68] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 69] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.69] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 69] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 70] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.70] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 70] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 71] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.71] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 71] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 72] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.72] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 72] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 73] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.73] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 73] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 74] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.74] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 74] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 75] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.75] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 75] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 76] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.76] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 76] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 77] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.77] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 77] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 78] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.78] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 78] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 79] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.79] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 79] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 80] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.80] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 80] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 81] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.81] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 81] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 82] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.82] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 82] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 83] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.83] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 83] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 84] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.84] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 84] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 85] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.85] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 85] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 86] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.86] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 86] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 87] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.87] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 87] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 88] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.88] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 88] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 89] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.89] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 89] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 90] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.90] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 90] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 91] Where is the Indian Naval Academy (INA) located?",
-      "en": "[Q.91] Where is the Indian Naval Academy (INA) located?",
-      "mr": "[प्रश्न 91] Where is the Indian Naval Academy (INA) located?"
-    },
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla (Pune)",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 92] What is India's highest wartime gallantry decoration award?",
-      "en": "[Q.92] What is India's highest wartime gallantry decoration award?",
-      "mr": "[प्रश्न 92] What is India's highest wartime gallantry decoration award?"
-    },
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 93] Where is the National Defence Academy (NDA) situated?",
-      "en": "[Q.93] Where is the National Defence Academy (NDA) situated?",
-      "mr": "[प्रश्न 93] Where is the National Defence Academy (NDA) situated?"
-    },
-    "o": [
-      "Khadakwasla (Pune)",
-      "Deolali (Nashik)",
-      "Ahmednagar",
-      "Kamptee"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 94] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "en": "[Q.94] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
-      "mr": "[प्रश्न 94] Which rank in the Indian Navy is equivalent to Captain in the Indian Army?"
-    },
-    "o": [
-      "Lieutenant",
-      "Commander",
-      "Captain",
-      "Commodore"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 95] The Supreme Command of the Indian Armed Forces is vested in:",
-      "en": "[Q.95] The Supreme Command of the Indian Armed Forces is vested in:",
-      "mr": "[प्रश्न 95] The Supreme Command of the Indian Armed Forces is vested in:"
-    },
-    "o": [
-      "The President of India",
-      "Prime Minister",
-      "Chief of Defence Staff",
-      "Defence Minister"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 96] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "en": "[Q.96] A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
-      "mr": "[प्रश्न 96] A fighter aircraft flies at Mach 2. What does Mach 2 denote?"
-    },
-    "o": [
-      "Twice the speed of sound",
-      "Twice the speed of light",
-      "2000 km/h speed",
-      "Subsonic speed"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 97] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "en": "[Q.97] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
-      "mr": "[प्रश्न 97] Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':"
-    },
-    "o": [
-      "Adverb",
-      "Adjective",
-      "Noun",
-      "Conjunction"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": {
-      "hi": "[प्रश्न 98] Evaluate: tan 45° + cos 60° =",
-      "en": "[Q.98] Evaluate: tan 45° + cos 60° =",
-      "mr": "[प्रश्न 98] Evaluate: tan 45° + cos 60° ="
-    },
-    "o": [
-      "1.5",
-      "1",
-      "2",
-      "0.5"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 99] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "en": "[Q.99] Which indigenous missile is India's beyond-visual-range air-to-air missile?",
-      "mr": "[प्रश्न 99] Which indigenous missile is India's beyond-visual-range air-to-air missile?"
-    },
-    "o": [
-      "Astra",
-      "Nag",
-      "Akash",
-      "Prithvi"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": {
-      "hi": "[प्रश्न 100] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "en": "[Q.100] In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
-      "mr": "[प्रश्न 100] In which mountain range is the Siachen Glacier, world's highest battlefield, located?"
-    },
-    "o": [
-      "Karakoram Range",
-      "Pir Panjal",
-      "Zanskar",
-      "Shiwalik"
-    ],
-    "a": 0
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_1"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_2"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_3"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_4"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_5"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_6"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_7"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_8"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_9"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_10"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_11"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_12"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_13"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_14"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_15"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_16"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_17"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_18"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_19"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_20"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_21"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_22"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_23"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_24"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_25"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_26"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_27"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_28"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_29"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_30"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_31"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_32"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_33"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_34"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_35"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_36"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_37"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_38"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_39"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_40"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_41"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_42"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_43"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_44"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_45"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_46"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_47"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_48"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_49"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_50"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_51"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_52"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_53"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_54"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_55"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_56"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_57"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_58"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_59"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_60"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_61"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_62"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_63"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_64"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_65"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_66"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_67"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_68"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_69"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_70"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_71"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_72"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_73"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_74"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_75"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_76"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_77"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_78"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_79"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_80"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_81"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_82"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_83"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_84"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_85"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_86"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_87"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_88"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_89"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_90"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_91"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_92"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_93"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_94"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_95"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_96"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_97"
+  },
+  {
+    "sec": "अंग्रेजी भाषा",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_98"
+  },
+  {
+    "sec": "प्रारंभिक गणित व रुझान",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारतीय नौसेना अकादमी (INA) किस राज्य में स्थित है?",
+      "en": "In which state is the Indian Naval Academy (INA) situated?",
+      "mr": "भारतीय नौदल अकादमी (INA) कोणत्या राज्यात आहे?"
+    },
+    "o": {
+      "hi": [
+        "एझिमाला (केरल)",
+        "खड़गवासला (पुणे)",
+        "देहरादून",
+        "गोवा"
+      ],
+      "en": [
+        "Ezhimala (Kerala)",
+        "Khadakwasla (Pune)",
+        "Dehradun",
+        "Goa"
+      ],
+      "mr": [
+        "एझिमला (केरळ)",
+        "खडकवासला (पुणे)",
+        "डेहराडून",
+        "गोवा"
+      ]
+    },
+    "a": 0,
+    "id": "defence_99"
+  },
+  {
+    "sec": "सामान्य ज्ञान व रक्षा अध्ययन",
+    "secMap": {
+      "hi": [
+        "सामान्य ज्ञान व रक्षा अध्ययन",
+        "अंग्रेजी भाषा",
+        "प्रारंभिक गणित व रुझान"
+      ],
+      "en": [
+        "General Knowledge & Defence",
+        "English Language",
+        "Elementary Maths & Aptitude"
+      ],
+      "mr": [
+        "संरक्षण ज्ञान व सामान्य ज्ञान",
+        "इंग्रजी भाषा",
+        "अंकगणित"
+      ]
+    },
+    "q": {
+      "hi": "भारत का सर्वोच्च युद्धकालीन वीरता पदक कौन सा है?",
+      "en": "What is India's highest wartime gallantry decoration award?",
+      "mr": "भारतातील सर्वोच्च युद्धकालीन शौर्य पदक कोणते आहे?"
+    },
+    "o": {
+      "hi": [
+        "परमवीर चक्र (Param Vir Chakra)",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "en": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Vir Chakra",
+        "Ashoka Chakra"
+      ],
+      "mr": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ]
+    },
+    "a": 0,
+    "id": "defence_100"
   }
 ]

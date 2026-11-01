@@ -1,1502 +1,4702 @@
 [
   {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 4] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.4] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 4] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 5] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.5] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 5] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 6] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.6] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 6] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 7] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.7] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 7] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 8] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.8] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 8] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 9] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.9] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 9] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 10] Repo Rate is the interest rate at which:",
-      "en": "[Q.10] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 10] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 11] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.11] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 11] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 12] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.12] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 12] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 13] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.13] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 13] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 14] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.14] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 14] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 15] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.15] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 15] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 16] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.16] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 16] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 17] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.17] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 17] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 18] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.18] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 18] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 19] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.19] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 19] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 20] Repo Rate is the interest rate at which:",
-      "en": "[Q.20] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 20] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 21] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.21] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 21] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 22] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.22] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 22] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 23] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.23] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 23] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 24] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.24] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 24] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 25] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.25] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 25] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 26] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.26] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 26] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 27] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.27] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 27] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 28] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.28] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 28] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 29] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.29] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 29] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 30] Repo Rate is the interest rate at which:",
-      "en": "[Q.30] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 30] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 34] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.34] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 34] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 35] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.35] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 35] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 36] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.36] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 36] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 37] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.37] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 37] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 38] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.38] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 38] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 39] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.39] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 39] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 40] Repo Rate is the interest rate at which:",
-      "en": "[Q.40] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 40] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 41] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.41] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 41] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 42] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.42] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 42] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 43] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.43] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 43] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 44] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.44] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 44] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 45] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.45] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 45] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 46] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.46] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 46] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 47] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.47] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 47] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 48] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.48] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 48] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 49] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.49] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 49] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 50] Repo Rate is the interest rate at which:",
-      "en": "[Q.50] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 50] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 51] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.51] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 51] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 52] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.52] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 52] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 53] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.53] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 53] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 54] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.54] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 54] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 55] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.55] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 55] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 56] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.56] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 56] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 57] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.57] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 57] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 58] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.58] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 58] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 59] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.59] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 59] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 60] Repo Rate is the interest rate at which:",
-      "en": "[Q.60] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 60] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 64] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.64] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 64] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 65] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.65] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 65] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 66] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.66] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 66] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 67] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.67] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 67] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 68] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.68] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 68] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 69] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.69] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 69] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 70] Repo Rate is the interest rate at which:",
-      "en": "[Q.70] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 70] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 71] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.71] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 71] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 72] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.72] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 72] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 73] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.73] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 73] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 74] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.74] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 74] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 75] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.75] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 75] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 76] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.76] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 76] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 77] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.77] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 77] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 78] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.78] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 78] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 79] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.79] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 79] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 80] Repo Rate is the interest rate at which:",
-      "en": "[Q.80] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 80] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 81] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.81] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 81] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 82] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.82] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 82] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 83] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.83] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 83] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 84] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.84] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 84] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 85] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.85] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 85] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 86] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.86] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 86] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 87] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.87] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 87] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 88] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.88] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 88] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 89] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.89] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 89] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 90] Repo Rate is the interest rate at which:",
-      "en": "[Q.90] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 90] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "en": "[Q.91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
-      "mr": "[प्रश्न 91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
-    },
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "en": "[Q.92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-      "mr": "[प्रश्न 92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
-    },
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "en": "[Q.93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-      "mr": "[प्रश्न 93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
-    },
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 94] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "en": "[Q.94] What does the abbreviation 'UPI' stand for in modern digital banking?",
-      "mr": "[प्रश्न 94] What does the abbreviation 'UPI' stand for in modern digital banking?"
-    },
-    "o": [
-      "Unified Payments Interface",
-      "Universal Payment Institution",
-      "United Private Investment",
-      "Unique Payment Identifier"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 95] Which institution is the supreme regulator of India's banking and monetary system?",
-      "en": "[Q.95] Which institution is the supreme regulator of India's banking and monetary system?",
-      "mr": "[प्रश्न 95] Which institution is the supreme regulator of India's banking and monetary system?"
-    },
-    "o": [
-      "Reserve Bank of India (RBI)",
-      "State Bank of India",
-      "SEBI",
-      "NABARD"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[प्रश्न 96] Calculate: 45% of 800 + 35% of 600 =",
-      "en": "[Q.96] Calculate: 45% of 800 + 35% of 600 =",
-      "mr": "[प्रश्न 96] Calculate: 45% of 800 + 35% of 600 ="
-    },
-    "o": [
-      "570",
-      "550",
-      "590",
-      "560"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[प्रश्न 97] Choose the exact antonym for the word 'PRUDENT':",
-      "en": "[Q.97] Choose the exact antonym for the word 'PRUDENT':",
-      "mr": "[प्रश्न 97] Choose the exact antonym for the word 'PRUDENT':"
-    },
-    "o": [
-      "Reckless / Careless",
-      "Cautious",
-      "Wise",
-      "Judicious"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[प्रश्न 98] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "en": "[Q.98] Eight persons sitting around a circular table facing center represents which puzzle type?",
-      "mr": "[प्रश्न 98] Eight persons sitting around a circular table facing center represents which puzzle type?"
-    },
-    "o": [
-      "Circular Seating Arrangement",
-      "Linear Puzzle",
-      "Floor Puzzle",
-      "Box Puzzle"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 99] In Indian banking, what does the term 'NPA' signify?",
-      "en": "[Q.99] In Indian banking, what does the term 'NPA' signify?",
-      "mr": "[प्रश्न 99] In Indian banking, what does the term 'NPA' signify?"
-    },
-    "o": [
-      "Non-Performing Asset",
-      "Net Portfolio Account",
-      "New Private Account",
-      "National Pension Asset"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "q": {
-      "hi": "[प्रश्न 100] Repo Rate is the interest rate at which:",
-      "en": "[Q.100] Repo Rate is the interest rate at which:",
-      "mr": "[प्रश्न 100] Repo Rate is the interest rate at which:"
-    },
-    "o": [
-      "RBI lends short term funds to commercial banks",
-      "Banks lend to customers",
-      "Public deposits in banks",
-      "Govt borrows from IMF"
-    ],
-    "a": 0
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_1"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_2"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_3"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_4"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_5"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_6"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_7"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_8"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_9"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_10"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_11"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_12"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_13"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_14"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_15"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_16"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_17"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_18"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_19"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_20"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_21"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_22"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_23"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_24"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_25"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_26"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_27"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_28"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_29"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_30"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_31"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_32"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_33"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_34"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_35"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_36"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_37"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_38"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_39"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_40"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_41"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_42"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_43"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_44"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_45"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_46"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_47"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_48"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_49"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_50"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_51"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_52"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_53"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_54"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_55"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_56"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_57"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_58"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_59"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_60"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_61"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_62"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_63"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_64"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_65"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_66"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_67"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_68"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_69"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_70"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_71"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_72"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_73"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_74"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_75"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_76"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_77"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_78"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_79"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_80"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_81"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_82"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_83"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_84"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_85"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_86"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_87"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_88"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_89"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_90"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_91"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_92"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_93"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_94"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_95"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_96"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_97"
+  },
+  {
+    "sec": "मात्रात्मक योग्यता (Quant)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "एक धनराशि साधारण ब्याज पर 5 वर्षों में दोगुनी हो जाती है। यह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "en": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "एक रक्कम सरळव्याजाने 5 वर्षांत दुप्पट होते. ती किती वर्षांत 4 पट होईल?"
+    },
+    "o": {
+      "hi": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "10 वर्ष",
+        "25 वर्ष"
+      ],
+      "en": [
+        "15 Years",
+        "20 Years",
+        "10 Years",
+        "25 Years"
+      ],
+      "mr": [
+        "15 वर्षे",
+        "20 वर्षे",
+        "10 वर्षे",
+        "25 वर्षे"
+      ]
+    },
+    "a": 0,
+    "id": "banking_98"
+  },
+  {
+    "sec": "तर्कशक्ति क्षमता (Reasoning)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "डिजिटल बैंकिंग में प्रयुक्त 'UPI' का आधिकारिक पूर्ण रूप क्या है?",
+      "en": "What does the abbreviation 'UPI' stand for in banking terms?",
+      "mr": "डिजिटल बँकिंगमधील 'UPI' चे अधिकृत पूर्ण रूप काय आहे?"
+    },
+    "o": {
+      "hi": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "en": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ],
+      "mr": [
+        "Unified Payments Interface",
+        "Universal Payment Institution",
+        "United Private Investment",
+        "Unique Payment Identifier"
+      ]
+    },
+    "a": 0,
+    "id": "banking_99"
+  },
+  {
+    "sec": "अंग्रेजी भाषा (English)",
+    "secMap": {
+      "hi": [
+        "अंग्रेजी भाषा (English)",
+        "मात्रात्मक योग्यता (Quant)",
+        "तर्कशक्ति क्षमता (Reasoning)"
+      ],
+      "en": [
+        "English Language",
+        "Quantitative Aptitude",
+        "Reasoning Ability"
+      ],
+      "mr": [
+        "इंग्रजी भाषा",
+        "अंकगणित योग्यता",
+        "तर्कक्षमता"
+      ]
+    },
+    "q": {
+      "hi": "त्रुटि पहचानें: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "en": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
+      "mr": "त्रुटी ओळखा: Neither the manager (A) nor the clerks (B) was present in the branch (C)."
+    },
+    "o": {
+      "hi": [
+        "भाग C (was के स्थान पर were होगा)",
+        "भाग A",
+        "भाग B",
+        "कोई त्रुटि नहीं"
+      ],
+      "en": [
+        "Part C (replace 'was' with 'were')",
+        "Part A",
+        "Part B",
+        "No Error"
+      ],
+      "mr": [
+        "भाग C ('was' ऐवजी 'were' असावे)",
+        "भाग A",
+        "भाग B",
+        "त्रुटी नाही"
+      ]
+    },
+    "a": 0,
+    "id": "banking_100"
   }
 ]
