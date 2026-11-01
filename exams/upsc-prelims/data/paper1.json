@@ -1,1102 +1,1202 @@
 [
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_1"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_2"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_3"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_4"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_5"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_6"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_7"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_8"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_9"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_10"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_11"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_12"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_13"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_14"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_15"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_16"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_17"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_18"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_19"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_20"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_21"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_22"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_23"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_24"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_25"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_26"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_27"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_28"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_29"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_30"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_31"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_32"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_33"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_34"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_35"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_36"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_37"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_38"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_39"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_40"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_41"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_42"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_43"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_44"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_45"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_46"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_47"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_48"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_49"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_50"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_51"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_52"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_53"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_54"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_55"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_56"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_57"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_58"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_59"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_60"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_61"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_62"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_63"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_64"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_65"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_66"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_67"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_68"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_69"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_70"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_71"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_72"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_73"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_74"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
-    "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
-    "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_75"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
     ],
-    "a": 0
-  },
-  {
-    "sec": "History & Culture",
-    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
-    "o": [
-      "Indian National Congress & Muslim League",
-      "Congress & British Crown",
-      "Moderates & Extremists only",
-      "Swaraj Party & Congress"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_76"
   },
   {
     "sec": "Geography & Environment",
-    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
     "o": [
-      "Vembanad Lake",
-      "Chilika Lake",
-      "Loktak Lake",
-      "Wular Lake"
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_77"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
     "o": [
-      "Maintain Price Stability with Growth target",
-      "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_78"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_79"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_80"
   },
   {
     "sec": "Polity & Governance",
-    "q": "Which Article of the Indian Constitution is called the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
     "o": [
-      "Article 32 (Constitutional Remedies)",
-      "Article 21 (Right to Life)",
-      "Article 14 (Equality)",
-      "Article 19 (Freedoms)"
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_81"
   },
   {
     "sec": "History & Culture",
     "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
     "o": [
       "Indian National Congress & Muslim League",
-      "Congress & British Crown",
       "Moderates & Extremists only",
+      "British Crown & Congress",
       "Swaraj Party & Congress"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_82"
   },
   {
     "sec": "Geography & Environment",
     "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
     "o": [
-      "Vembanad Lake",
+      "Vembanad-Kol Wetland",
       "Chilika Lake",
       "Loktak Lake",
       "Wular Lake"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_83"
   },
   {
     "sec": "Economy & Development",
-    "q": "What is the primary objective of Monetary Policy Committee (MPC) in India?",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
     "o": [
-      "Maintain Price Stability with Growth target",
+      "Price stability while keeping in mind the objective of growth",
       "Direct tax collection",
-      "Foreign debt management",
-      "Stock exchange regulation"
+      "Foreign debt control",
+      "Stock exchange surveillance"
     ],
-    "a": 0
+    "a": 0,
+    "id": "upsc-prelims_q_84"
+  },
+  {
+    "sec": "Polity & Governance",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "o": [
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_85"
+  },
+  {
+    "sec": "Polity & Governance",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "o": [
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_86"
+  },
+  {
+    "sec": "Geography & Environment",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "o": [
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_87"
+  },
+  {
+    "sec": "Economy & Development",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "o": [
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_88"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_89"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_90"
+  },
+  {
+    "sec": "Polity & Governance",
+    "q": "Which Article of the Constitution was referred to as the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar?",
+    "o": [
+      "Article 32",
+      "Article 21",
+      "Article 14",
+      "Article 19"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_91"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The historic Lucknow Pact of 1916 was signed between which two entities?",
+    "o": [
+      "Indian National Congress & Muslim League",
+      "Moderates & Extremists only",
+      "British Crown & Congress",
+      "Swaraj Party & Congress"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_92"
+  },
+  {
+    "sec": "Geography & Environment",
+    "q": "Which among the following Ramsar Wetland sites is located in Kerala?",
+    "o": [
+      "Vembanad-Kol Wetland",
+      "Chilika Lake",
+      "Loktak Lake",
+      "Wular Lake"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_93"
+  },
+  {
+    "sec": "Economy & Development",
+    "q": "What is the primary statutory objective of the Monetary Policy Committee (MPC) in India?",
+    "o": [
+      "Price stability while keeping in mind the objective of growth",
+      "Direct tax collection",
+      "Foreign debt control",
+      "Stock exchange surveillance"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_94"
+  },
+  {
+    "sec": "Polity & Governance",
+    "q": "Under which Schedule of the Indian Constitution are provisions for administration of Tribal Areas in Assam, Meghalaya, Tripura, and Mizoram provided?",
+    "o": [
+      "Sixth Schedule",
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_95"
+  },
+  {
+    "sec": "Polity & Governance",
+    "q": "The concept of 'Basic Structure' of the Indian Constitution was propounded in which landmark judgement?",
+    "o": [
+      "Kesavananda Bharati case (1973)",
+      "Golaknath case (1967)",
+      "Minerva Mills case (1980)",
+      "Maneka Gandhi case (1978)"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_96"
+  },
+  {
+    "sec": "Geography & Environment",
+    "q": "Which greenhouse gas has the highest global warming potential (GWP) among fluorinated gases?",
+    "o": [
+      "Sulfur Hexafluoride (SF6)",
+      "Methane",
+      "Nitrous Oxide",
+      "Carbon Dioxide"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_97"
+  },
+  {
+    "sec": "Economy & Development",
+    "q": "What does the term 'Fiscal Deficit' precisely indicate?",
+    "o": [
+      "Total expenditure minus total receipts excluding borrowings",
+      "Revenue deficit minus grants",
+      "Total debt of the government",
+      "Current account deficit"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_98"
+  },
+  {
+    "sec": "History & Culture",
+    "q": "The Indus Valley Civilization site 'Dholavira', famous for its water management system, is located in:",
+    "o": [
+      "Gujarat (Kutch district)",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_99"
+  },
+  {
+    "sec": "Science & Tech",
+    "q": "CRISPR-Cas9 technology, frequently seen in the news, is primarily used for:",
+    "o": [
+      "Targeted Gene Editing",
+      "Quantum Computing",
+      "Deep Space Exploration",
+      "Carbon Sequestration"
+    ],
+    "a": 0,
+    "id": "upsc-prelims_q_100"
   }
 ]

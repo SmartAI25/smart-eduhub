@@ -1,1102 +1,1202 @@
 [
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_1"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_2"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_3"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_4"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_5"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_6"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_7"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_8"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_9"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_10"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_11"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_12"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_13"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_14"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_15"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_16"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_17"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_18"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_19"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_20"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_21"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_22"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_23"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_24"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_25"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_26"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_27"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_28"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_29"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_30"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_31"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_32"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_33"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_34"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_35"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_36"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_37"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_38"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_39"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_40"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_41"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_42"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_43"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_44"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_45"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_46"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_47"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_48"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_49"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_50"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_51"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_52"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_53"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_54"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Under which Article can the President of India declare a National Emergency?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_55"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
     "o": [
-      "14",
-      "16",
-      "18",
-      "12"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_56"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
     "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_57"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
     "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_58"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_59"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
     "o": [
-      "Chandragupta Maurya",
-      "Bindusara",
-      "Ashoka",
-      "Brihadratha"
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
-    "o": [
-      "14",
-      "16",
-      "18",
-      "12"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
-    "o": [
-      "School",
-      "College",
-      "Book",
-      "Class"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
-    "o": [
-      "Frank / Honest",
-      "Deceptive",
-      "Secretive",
-      "Shy"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_60"
   },
   {
     "sec": "General Awareness",
-    "q": "Who was the founder of the Maurya Empire in Ancient India?",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
     "o": [
       "Chandragupta Maurya",
       "Bindusara",
       "Ashoka",
       "Brihadratha"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_61"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "If x + 1/x = 4, then find the value of x^2 + 1/x^2:",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
     "o": [
       "14",
       "16",
       "18",
       "12"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_62"
   },
   {
-    "sec": "Reasoning",
-    "q": "Select the related word: Doctor : Hospital :: Teacher : ?",
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
     "o": [
       "School",
       "College",
       "Book",
       "Class"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_63"
   },
   {
-    "sec": "English",
-    "q": "Select the synonym of 'CANDID':",
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
     "o": [
       "Frank / Honest",
-      "Deceptive",
       "Secretive",
+      "Deceptive",
       "Shy"
     ],
-    "a": 0
+    "a": 0,
+    "id": "ssc-cgl_q_64"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Under which Article can the President of India declare a National Emergency?",
+    "o": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_65"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_66"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
+    "o": [
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_67"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
+    "o": [
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_68"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
+    "o": [
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_69"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "o": [
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_70"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
+    "o": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_71"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
+    "o": [
+      "14",
+      "16",
+      "18",
+      "12"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_72"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
+    "o": [
+      "School",
+      "College",
+      "Book",
+      "Class"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_73"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
+    "o": [
+      "Frank / Honest",
+      "Secretive",
+      "Deceptive",
+      "Shy"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_74"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Under which Article can the President of India declare a National Emergency?",
+    "o": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_75"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_76"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
+    "o": [
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_77"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
+    "o": [
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_78"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
+    "o": [
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_79"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "o": [
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_80"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
+    "o": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_81"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
+    "o": [
+      "14",
+      "16",
+      "18",
+      "12"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_82"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
+    "o": [
+      "School",
+      "College",
+      "Book",
+      "Class"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_83"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
+    "o": [
+      "Frank / Honest",
+      "Secretive",
+      "Deceptive",
+      "Shy"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_84"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Under which Article can the President of India declare a National Emergency?",
+    "o": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_85"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_86"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
+    "o": [
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_87"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
+    "o": [
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_88"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
+    "o": [
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_89"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "o": [
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_90"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Who was the founder of the Maurya Empire with the assistance of Chanakya?",
+    "o": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Brihadratha"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_91"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
+    "o": [
+      "14",
+      "16",
+      "18",
+      "12"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_92"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "Select the related pair: Doctor : Hospital :: Teacher : ?",
+    "o": [
+      "School",
+      "College",
+      "Book",
+      "Class"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_93"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correct synonym for the word 'CANDID':",
+    "o": [
+      "Frank / Honest",
+      "Secretive",
+      "Deceptive",
+      "Shy"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_94"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Under which Article can the President of India declare a National Emergency?",
+    "o": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 370"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_95"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "A sum doubles itself in 5 years at simple interest. In how many years will it become 4 times?",
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_96"
+  },
+  {
+    "sec": "General Intelligence & Reasoning",
+    "q": "In a code language, 'ROAD' is written as 'URDG'. How is 'SWAN' written in that code?",
+    "o": [
+      "VZDG",
+      "UXDQ",
+      "VZDQ",
+      "UZDQ"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_97"
+  },
+  {
+    "sec": "English Comprehension",
+    "q": "Select the correctly spelt word:",
+    "o": [
+      "Accommodate",
+      "Acommodate",
+      "Accomodate",
+      "Acomodate"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_98"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which enzyme present in human saliva breaks down complex starch into sugar?",
+    "o": [
+      "Salivary Amylase (Ptyalin)",
+      "Pepsin",
+      "Trypsin",
+      "Lipase"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_99"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "o": [
+      "Odisha",
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "a": 0,
+    "id": "ssc-cgl_q_100"
   }
 ]

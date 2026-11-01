@@ -1,14 +1,15 @@
 [
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_1"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -19,7 +20,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_2"
   },
   {
     "sec": "Reasoning Ability",
@@ -30,18 +32,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_3"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_4"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_5"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_6"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_7"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_8"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_9"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_10"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_11"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -52,7 +140,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_12"
   },
   {
     "sec": "Reasoning Ability",
@@ -63,18 +152,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_13"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_14"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_15"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_16"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_17"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_18"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_19"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_20"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_21"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -85,7 +260,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_22"
   },
   {
     "sec": "Reasoning Ability",
@@ -96,18 +272,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_23"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_24"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_25"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_26"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_27"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_28"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_29"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_30"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_31"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -118,7 +380,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_32"
   },
   {
     "sec": "Reasoning Ability",
@@ -129,18 +392,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_33"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_34"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_35"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_36"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_37"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_38"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_39"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_40"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_41"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -151,7 +500,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_42"
   },
   {
     "sec": "Reasoning Ability",
@@ -162,18 +512,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_43"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_44"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_45"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_46"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_47"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_48"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_49"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_50"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_51"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -184,7 +620,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_52"
   },
   {
     "sec": "Reasoning Ability",
@@ -195,18 +632,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_53"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_54"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_55"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_56"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_57"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_58"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_59"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_60"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_61"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -217,7 +740,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_62"
   },
   {
     "sec": "Reasoning Ability",
@@ -228,18 +752,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_63"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_64"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_65"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_66"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_67"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_68"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_69"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_70"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_71"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -250,7 +860,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_72"
   },
   {
     "sec": "Reasoning Ability",
@@ -261,18 +872,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_73"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_74"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_75"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_76"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_77"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_78"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_79"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_80"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_81"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -283,7 +980,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_82"
   },
   {
     "sec": "Reasoning Ability",
@@ -294,18 +992,104 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_83"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
+    "o": [
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
+    ],
+    "a": 0,
+    "id": "banking_q_84"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_85"
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
+    "o": [
+      "570",
+      "550",
+      "590",
+      "560"
+    ],
+    "a": 0,
+    "id": "banking_q_86"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
+    "o": [
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
+    ],
+    "a": 0,
+    "id": "banking_q_87"
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
+    "o": [
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
+    ],
+    "a": 0,
+    "id": "banking_q_88"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
+    "o": [
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
+    ],
+    "a": 0,
+    "id": "banking_q_89"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
+    "o": [
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
+    ],
+    "a": 0,
+    "id": "banking_q_90"
+  },
+  {
+    "sec": "English Language",
+    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the branch (C).",
     "o": [
       "Part C (was -> were)",
       "Part A",
       "Part B",
       "No Error"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_91"
   },
   {
     "sec": "Quantitative Aptitude",
@@ -316,7 +1100,8 @@
       "10 Years",
       "25 Years"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_92"
   },
   {
     "sec": "Reasoning Ability",
@@ -327,776 +1112,91 @@
       "Either or",
       "Neither follows"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_93"
   },
   {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "sec": "General Awareness",
+    "q": "What does the abbreviation 'UPI' stand for in modern digital banking?",
     "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
+      "Unified Payments Interface",
+      "Universal Payment Institution",
+      "United Private Investment",
+      "Unique Payment Identifier"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_94"
+  },
+  {
+    "sec": "General Awareness",
+    "q": "Which institution is the supreme regulator of India's banking and monetary system?",
+    "o": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India",
+      "SEBI",
+      "NABARD"
+    ],
+    "a": 0,
+    "id": "banking_q_95"
   },
   {
     "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+    "q": "Calculate: 45% of 800 + 35% of 600 =",
     "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
+      "570",
+      "550",
+      "590",
+      "560"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_96"
   },
   {
     "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "q": "Choose the exact antonym for the word 'PRUDENT':",
     "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
+      "Reckless / Careless",
+      "Cautious",
+      "Wise",
+      "Judicious"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_97"
   },
   {
     "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+    "q": "Eight persons sitting around a circular table facing center represents which puzzle type?",
     "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
+      "Circular Seating Arrangement",
+      "Linear Puzzle",
+      "Floor Puzzle",
+      "Box Puzzle"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_98"
   },
   {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+    "sec": "General Awareness",
+    "q": "In Indian banking, what does the term 'NPA' signify?",
     "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
+      "Non-Performing Asset",
+      "Net Portfolio Account",
+      "New Private Account",
+      "National Pension Asset"
     ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_99"
   },
   {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+    "sec": "General Awareness",
+    "q": "Repo Rate is the interest rate at which:",
     "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
+      "RBI lends short term funds to commercial banks",
+      "Banks lend to customers",
+      "Public deposits in banks",
+      "Govt borrows from IMF"
     ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": "A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
-    "o": [
-      "15 Years",
-      "20 Years",
-      "10 Years",
-      "25 Years"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": "Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
-    "o": [
-      "Conclusion follows",
-      "Does not follow",
-      "Either or",
-      "Neither follows"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "English Language",
-    "q": "Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
-    "o": [
-      "Part C (was -> were)",
-      "Part A",
-      "Part B",
-      "No Error"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "banking_q_100"
   }
 ]

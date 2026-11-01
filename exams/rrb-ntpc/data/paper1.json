@@ -1,1102 +1,1202 @@
 [
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_1"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_2"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_3"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_4"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_5"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_6"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_7"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_8"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_9"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_10"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_11"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_12"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_13"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_14"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_15"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_16"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_17"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_18"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_19"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_20"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_21"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_22"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_23"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_24"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_25"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_26"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_27"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_28"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_29"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_30"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_31"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_32"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_33"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_34"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_35"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_36"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_37"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_38"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_39"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_40"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_41"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_42"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_43"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_44"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_45"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_46"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_47"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_48"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_49"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_50"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_51"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_52"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_53"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_54"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_55"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_56"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_57"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_58"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_59"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_60"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_61"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_62"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_63"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_64"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_65"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_66"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_67"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_68"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_69"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_70"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_71"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_72"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_73"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_74"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_75"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_76"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_77"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_78"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_79"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_80"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_81"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_82"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
+    "o": [
+      "मूत्रपिंड (Kidney)",
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_83"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_84"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_85"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
+    "o": [
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_86"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
+    "o": [
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_87"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
+    "o": [
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_88"
+  },
+  {
+    "sec": "Mathematics",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
+    "o": [
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_89"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
+    "o": [
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
+    ],
+    "a": 0,
+    "id": "rrb-ntpc_q_90"
+  },
+  {
+    "sec": "General Awareness & Science",
+    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी करण्यात आले?",
     "o": [
       "1951",
       "1947",
       "1950",
       "1955"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_91"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "A train 150m long crosses an electric pole in 9 seconds. What is its speed in km/h?",
     "o": [
       "60 km/h",
       "54 km/h",
       "72 km/h",
       "45 km/h"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_92"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "मानवी शरीरातील रक्ताचे शुद्धीकरण प्रामुख्याने कोणत्या अवयवात होते?",
     "o": [
       "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "हृदय",
+      "यकृत",
+      "फुफ्फुसे"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_93"
   },
   {
     "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
+    "q": "Find the odd one out: 64, 125, 216, 343, 512, 1001",
     "o": [
       "1001",
       "343",
       "512",
       "729"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_94"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "ध्वनीची तीव्रता मोजण्याचे आंतरराष्ट्रीय प्रमाणित एकक कोणते आहे?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "डेसिबल (Decibel)",
+      "हर्ट्झ",
+      "वॅट",
+      "ज्युल"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_95"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "If A:B = 2:3 and B:C = 4:5, then what is the ratio A:B:C?",
     "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
+      "8:12:15",
+      "6:9:15",
+      "8:10:15",
+      "4:6:10"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_96"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "सूर्याच्या कोवळ्या प्रकाशापासून मानवी शरीराला कोणते जीवनसत्त्व मुबलक मिळते?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "जीवनसत्त्व ड (Vitamin D)",
+      "जीवनसत्त्व अ",
+      "जीवनसत्त्व क",
+      "जीवनसत्त्व ब"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_97"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
+    "q": "भारतातील पहिली प्रवासी रेल्वे 1853 मध्ये कोणत्या दोन स्थानकांदरम्यान धावली?",
     "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
+      "मुंबई ते ठाणे (34 किमी)",
+      "मुंबई ते पुणे",
+      "कोलकाता ते हावडा",
+      "चेन्नई ते अरक्कोणम"
     ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_98"
   },
   {
     "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
+    "q": "₹5000 रकमेवर दरसाल दरशेकडा 10% दराने 3 वर्षांचे सरळव्याज किती होईल?",
     "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
+      "₹1500",
+      "₹1200",
+      "₹1800",
+      "₹1000"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_99"
   },
   {
     "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
+    "q": "विद्युत दिव्यामध्ये उच्च वितळण बिंदू असलेल्या कोणत्या धातूची तार वापरली जाते?",
     "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
+      "टंगस्टन (Tungsten)",
+      "तांबे",
+      "अ‍ॅल्युमिनियम",
+      "नायक्रोम"
     ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "मानव शरीरातील रक्ताचे शुद्धीकरण कोणत्या अवयवात होते?",
-    "o": [
-      "मूत्रपिंड (Kidney)",
-      "हृदय (Heart)",
-      "यकृत (Liver)",
-      "फुफ्फुसे (Lungs)"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Awareness & Science",
-    "q": "भारतीय रेल्वेचे राष्ट्रीयकरण (Nationalization) कोणत्या वर्षी झाले?",
-    "o": [
-      "1951",
-      "1947",
-      "1950",
-      "1955"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Mathematics",
-    "q": "A train 150m long crosses a pole in 9 seconds. What is its speed in km/h?",
-    "o": [
-      "60 km/h",
-      "54 km/h",
-      "72 km/h",
-      "45 km/h"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "q": "Find the odd one out: 64, 125, 216, 343, 512, 729, 1001",
-    "o": [
-      "1001",
-      "343",
-      "512",
-      "729"
-    ],
-    "a": 0
+    "a": 0,
+    "id": "rrb-ntpc_q_100"
   }
 ]

@@ -1,1102 +1,1202 @@
 [
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_1"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_2"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_3"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_4"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_5"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_6"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_7"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_8"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_9"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_10"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_11"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_12"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_13"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_14"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_15"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_16"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_17"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_18"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_19"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_20"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_21"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_22"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_23"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_24"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_25"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_26"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_27"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_28"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_29"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_30"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_31"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_32"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_33"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_34"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_35"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_36"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_37"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_38"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_39"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_40"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_41"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_42"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_43"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_44"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_45"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_46"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_47"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_48"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_49"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_50"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_51"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_52"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_53"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_54"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_55"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_56"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_57"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_58"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_59"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_60"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_61"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_62"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_63"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_64"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_65"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_66"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_67"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_68"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_69"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_70"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_71"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_72"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_73"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_74"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_75"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_76"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_77"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_78"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_79"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_80"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_81"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_82"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_83"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_84"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_85"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_86"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_87"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_88"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
+    "o": [
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
+    ],
+    "a": 0,
+    "id": "defence_q_89"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_90"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the Indian Naval Academy (INA) located?",
     "o": [
       "Ezhimala (Kerala)",
-      "Khadakwasla",
+      "Khadakwasla (Pune)",
       "Dehradun",
       "Goa"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_91"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
+    "q": "What is India's highest wartime gallantry decoration award?",
     "o": [
       "Param Vir Chakra",
       "Maha Vir Chakra",
       "Vir Chakra",
       "Ashoka Chakra"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_92"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Where is the National Defence Academy (NDA) situated?",
+    "o": [
+      "Khadakwasla (Pune)",
+      "Deolali (Nashik)",
+      "Ahmednagar",
+      "Kamptee"
+    ],
+    "a": 0,
+    "id": "defence_q_93"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "Which rank in the Indian Navy is equivalent to Captain in the Indian Army?",
+    "o": [
+      "Lieutenant",
+      "Commander",
+      "Captain",
+      "Commodore"
+    ],
+    "a": 0,
+    "id": "defence_q_94"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "The Supreme Command of the Indian Armed Forces is vested in:",
+    "o": [
+      "The President of India",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Minister"
+    ],
+    "a": 0,
+    "id": "defence_q_95"
+  },
+  {
+    "sec": "General Knowledge & Defence",
+    "q": "A fighter aircraft flies at Mach 2. What does Mach 2 denote?",
+    "o": [
+      "Twice the speed of sound",
+      "Twice the speed of light",
+      "2000 km/h speed",
+      "Subsonic speed"
+    ],
+    "a": 0,
+    "id": "defence_q_96"
+  },
+  {
+    "sec": "English Language",
+    "q": "Identify the part of speech of 'Bravely' in 'The soldiers fought bravely':",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
+    ],
+    "a": 0,
+    "id": "defence_q_97"
   },
   {
     "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
+    "q": "Evaluate: tan 45° + cos 60° =",
     "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
+      "1.5",
+      "1",
+      "2",
+      "0.5"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_98"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
+    "q": "Which indigenous missile is India's beyond-visual-range air-to-air missile?",
     "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
+      "Astra",
+      "Nag",
+      "Akash",
+      "Prithvi"
     ],
-    "a": 0
+    "a": 0,
+    "id": "defence_q_99"
   },
   {
     "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "What is the highest wartime gallantry award in India?",
-    "o": [
-      "Param Vir Chakra",
-      "Maha Vir Chakra",
-      "Vir Chakra",
-      "Ashoka Chakra"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "Elementary Maths & Aptitude",
-    "q": "Range of a projectile fired at angle 45 degrees with velocity 98 m/s (g=9.8):",
-    "o": [
-      "980 meters",
-      "490 meters",
-      "1960 meters",
-      "245 meters"
-    ],
-    "a": 0
-  },
-  {
-    "sec": "General Knowledge & Defence",
-    "q": "Where is the Indian Naval Academy (INA) situated?",
-    "o": [
-      "Ezhimala (Kerala)",
-      "Khadakwasla",
-      "Dehradun",
-      "Goa"
-    ],
-    "a": 0
+    "q": "In which mountain range is the Siachen Glacier, world's highest battlefield, located?",
+    "o": [
+      "Karakoram Range",
+      "Pir Panjal",
+      "Zanskar",
+      "Shiwalik"
+    ],
+    "a": 0,
+    "id": "defence_q_100"
   }
 ]

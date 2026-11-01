@@ -66,7 +66,7 @@
 
   <script>
     let qs = [], cur = 0, userAns = {}, timeLeft = 7200, curLang = "mr";
-    const pN = new URLSearchParams(location.search).get("paper") || "paper1";
+    const pN = "paper1";
 
     // Clean Fetch
     fetch("./data/" + pN + ".json")

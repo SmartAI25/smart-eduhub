@@ -30,7 +30,7 @@
   </main>
   <script>
     let qs=[],cur=0,ans={},tl=7200,lng="hi";
-    const pN = new URLSearchParams(location.search).get("paper") || new URLSearchParams(location.search).get("shift") || "paper1";
+    const pN = "paper1";
     const pN = new URLSearchParams(location.search).get("paper") || new URLSearchParams(location.search).get("shift") || "paper1";
     fetch("./data/" + pN + ".json")
       .then(r => { if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
