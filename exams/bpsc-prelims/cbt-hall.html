@@ -31,7 +31,20 @@
   <script>
     let qs=[],cur=0,ans={},tl=7200,lng="hi";
     const pN = new URLSearchParams(location.search).get("paper") || new URLSearchParams(location.search).get("shift") || "paper1";
-    fetch("./data/" + pN + ".json").then(r=>{if(!r.ok)throw new Error();return r.json();}).then(d=>{qs=d;init();}).catch(()=>{fetch("./data/paper1.json").then(r=>r.json()).then(d=>{qs=d;init();});});
+    const pN = new URLSearchParams(location.search).get("paper") || new URLSearchParams(location.search).get("shift") || "paper1";
+    fetch("./data/" + pN + ".json")
+      .then(r => { if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(d => { qs = d; init(); })
+      .catch(err => {
+        fetch("./data/shift1.json")
+          .then(r => { if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+          .then(d => { qs = d; init(); })
+          .catch(e => {
+            document.getElementById("qt").innerHTML = "<div class='p-4 bg-rose-950/80 border border-rose-500 rounded-xl text-rose-200 text-xs font-mono font-bold'>" +
+              "⚠️ Server Error: " + e.message + " on ./data/" + pN + ".json.<br>Kripya 1 minute baad refresh karein (GitHub CDN Syncing)." +
+            "</div>";
+          });
+      });});
     function init(){renderSec();loadQ(0);renderPal();setInterval(()=>{if(tl>0){tl--;document.getElementById("tm").innerText=String(Math.floor(tl/60)).padStart(2,"0")+":"+String(tl%60).padStart(2,"0");}},1000);}
     function renderSec(){const s=[...new Set(qs.map(q=>q.sec))];document.getElementById("st").innerHTML=s.map(x=>'<button onclick="jump(''+x+'')" class="px-3 py-1 bg-slate-800 text-slate-300 rounded-lg font-bold">'+x+'</button>').join("");}
     window.jump=function(s){const i=qs.findIndex(q=>q.sec===s);if(i!==-1)loadQ(i);};

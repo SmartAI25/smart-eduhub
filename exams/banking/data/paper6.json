@@ -2,1585 +2,1601 @@
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 1: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q1: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 1: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q1] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 2: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q2: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 2: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 3: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q3: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 3: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 4: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q4: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 4: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 5: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q5: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 5: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q2] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 6: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q6: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 6: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 7: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q7: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 7: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 8: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q8: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 8: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
   },
   {
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 9: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q9: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 9: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q3] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 10: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q10: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 10: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 11: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q11: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 11: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "English Language",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 12: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q12: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 12: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 13: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q13: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 13: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q4] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 4] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q4] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q5] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 5] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q5] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q6] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 6] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q6] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 14: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q14: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 14: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q7] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 7] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q7] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q8] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 8] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q8] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q9] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 9] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q9] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 15: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q15: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 15: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q10] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 10] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q10] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q11] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 11] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q11] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q12] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 12] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q12] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 16: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q16: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 16: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q13] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 13] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q13] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q14] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 14] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q14] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q15] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 15] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q15] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 17: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q17: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 17: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q16] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 16] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q16] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q17] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 17] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q17] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q18] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 18] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q18] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 18: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q18: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 18: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q19] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 19] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q19] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q20] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 20] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q20] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q21] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 21] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q21] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 19: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q19: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 19: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q22] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 22] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q22] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q23] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 23] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q23] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q24] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 24] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q24] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 20: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q20: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 20: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q25] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 25] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q25] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q26] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 26] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q26] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q27] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 27] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q27] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 21: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q21: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 21: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q28] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 28] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q28] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q29] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 29] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q29] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q30] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 30] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q30] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 22: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q22: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 22: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q31] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q32] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q33] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 23: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q23: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 23: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q34] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 34] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q34] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q35] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 35] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q35] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q36] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 36] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q36] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 24: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q24: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 24: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q37] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 37] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q37] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q38] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 38] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q38] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q39] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 39] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q39] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 25: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q25: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 25: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q40] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 40] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q40] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q41] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 41] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q41] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q42] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 42] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q42] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 26: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q26: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 26: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q43] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 43] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q43] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q44] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 44] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q44] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q45] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 45] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q45] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 27: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q27: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 27: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q46] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 46] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q46] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q47] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 47] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q47] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q48] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 48] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q48] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 28: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q28: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 28: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q49] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 49] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q49] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q50] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 50] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q50] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q51] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 51] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q51] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 29: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q29: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 29: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q52] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 52] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q52] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q53] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 53] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q53] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q54] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 54] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q54] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 30: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q30: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 30: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q55] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 55] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q55] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 2,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q56] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 56] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q56] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q57] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 57] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q57] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 31: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q31: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 31: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q58] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 58] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q58] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
-    "a": 3,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q59] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 59] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q59] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q60] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 60] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q60] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 32: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q32: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 32: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q61] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
+  },
+  {
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "hi": "[Q62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q62] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
+    },
+    "o": [
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
+    ],
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q63] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
     "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 33: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] English Language Q33: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] English Language प्रश्न 33: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q64] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 64] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q64] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "English Language आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 1: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q1: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 1: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 2: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q2: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 2: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 3: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q3: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 3: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 4: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q4: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 4: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 5: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q5: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 5: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q65] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 65] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q65] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 6: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q6: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 6: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 7: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q7: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 7: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 8: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q8: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 8: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "Reasoning Ability",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 9: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q9: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 9: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q66] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 66] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q66] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 10: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q10: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 10: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 11: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q11: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 11: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 12: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q12: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 12: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 13: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q13: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 13: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q67] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 67] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q67] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 14: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q14: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 14: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 15: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q15: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 15: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 16: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q16: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 16: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 17: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q17: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 17: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q68] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 68] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q68] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 18: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q18: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 18: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 19: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q19: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 19: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 20: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q20: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 20: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
   },
   {
-    "sec": "Quantitative Aptitude",
+    "sec": "Reasoning Ability",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 21: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q21: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 21: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q69] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 69] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q69] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 22: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q22: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 22: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 23: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q23: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 23: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 24: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q24: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 24: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q70] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 70] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q70] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 25: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q25: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 25: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q71] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 71] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q71] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q72] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 72] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q72] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q73] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 73] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q73] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 26: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q26: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 26: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q74] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 74] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q74] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q75] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 75] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q75] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q76] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 76] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q76] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 27: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q27: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 27: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q77] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 77] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q77] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q78] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 78] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q78] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q79] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 79] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q79] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 28: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q28: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 28: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q80] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 80] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q80] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q81] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 81] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q81] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q82] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 82] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q82] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 29: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q29: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 29: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q83] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 83] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q83] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q84] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 84] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q84] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q85] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 85] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q85] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 30: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q30: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 30: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q86] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 86] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q86] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 2,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q87] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 87] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q87] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q88] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 88] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q88] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 31: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q31: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 31: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q89] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 89] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q89] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
-    "a": 3,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "a": 0,
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q90] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 90] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q90] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q91] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 32: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q32: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 32: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q92] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
+  },
+  {
+    "sec": "Reasoning Ability",
+    "q": {
+      "hi": "[Q93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q93] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
+    },
+    "o": [
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
+    ],
+    "a": 0,
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
+  },
+  {
+    "sec": "English Language",
+    "q": {
+      "hi": "[Q94] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 94] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q94] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
+    },
+    "o": [
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
+    ],
+    "a": 0,
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
     "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 33: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude Q33: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Quantitative Aptitude प्रश्न 33: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q95] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 95] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q95] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Quantitative Aptitude आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 1: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q1: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 1: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 2: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q2: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 2: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 3: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q3: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 3: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 4: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q4: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 4: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
   },
   {
     "sec": "Reasoning Ability",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 5: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q5: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 5: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q96] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 96] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q96] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 6: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q6: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 6: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 7: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q7: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 7: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 8: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q8: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 8: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 9: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q9: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 9: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q97] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 97] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q97] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 10: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q10: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 10: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 11: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q11: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 11: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 12: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q12: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 12: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   },
   {
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 13: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q13: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 13: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q98] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "mr": "[प्रश्न 98] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?",
+      "en": "[Q98] A sum doubles in 5 years at simple interest. In how many years will it become 4 times?"
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 14: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q14: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 14: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 15: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q15: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 15: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 16: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q16: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 16: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "15 Years",
+      "20 Years",
+      "10 Years",
+      "25 Years"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Interest = P in 5 yrs. For 4 times, interest = 3P. Time = 3 * 5 = 15 years."
   },
   {
     "sec": "Reasoning Ability",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 17: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q17: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 17: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q99] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "mr": "[प्रश्न 99] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser.",
+      "en": "[Q99] Statement: All pens are pencils. No pencil is eraser. Conclusion: No pen is eraser."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 18: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q18: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 18: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 19: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q19: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 19: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 20: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q20: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 20: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Conclusion follows",
+      "Does not follow",
+      "Either or",
+      "Neither follows"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Since pen is completely inside pencil and pencil excludes eraser, pen excludes eraser."
   },
   {
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 21: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q21: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 21: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
+      "hi": "[Q100] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "mr": "[प्रश्न 100] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C).",
+      "en": "[Q100] Spot the error: Neither the manager (A) nor the clerks (B) was present in the meeting (C)."
     },
     "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 22: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q22: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 22: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 23: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q23: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 23: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 24: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q24: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 24: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
+      "Part C (was -> were)",
+      "Part A",
+      "Part B",
+      "No Error"
     ],
     "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 25: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q25: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 25: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 26: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q26: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 26: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 27: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q27: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 27: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 28: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q28: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 28: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 29: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q29: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 29: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 30: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q30: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 30: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 2,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 31: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q31: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 31: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 3,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 32: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q32: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 32: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 0,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
-  },
-  {
-    "sec": "Reasoning Ability",
-    "q": {
-      "hi": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 33: आधिकारिक परीक्षा पाठ्यक्रम अनुसार प्रामाणिक प्रश्न।",
-      "en": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability Q33: Official examination standard problem for practice.",
-      "mr": "[IBPS PO / Clerk & SBI PAPER6] Reasoning Ability प्रश्न 33: आयोगाच्या अभ्यासक्रमानुसार सराव प्रश्न."
-    },
-    "o": [
-      "विकल्प (A)",
-      "विकल्प (B)",
-      "विकल्प (C)",
-      "विकल्प (D)"
-    ],
-    "a": 1,
-    "e": "Reasoning Ability आधिकारिक व्याख्या एवं स्थापित सिद्धांतों के अनुसार यह विकल्प सही है।"
+    "e": "Subject closer to verb ('clerks') is plural, so verb must be 'were'."
   }
 ]
