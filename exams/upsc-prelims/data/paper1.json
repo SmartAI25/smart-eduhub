@@ -3,80 +3,8 @@
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 1] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals.",
-      "en": "[Q.1] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals."
-    },
-    "o": {
-      "hi": [
-        "Statement is correct",
-        "Statement is incorrect",
-        "Only applicable to High Courts",
-        "Only applicable during Emergency"
-      ],
-      "en": [
-        "Statement is correct",
-        "Statement is incorrect",
-        "Only applicable to High Courts",
-        "Only applicable during Emergency"
-      ]
-    },
-    "a": 0,
-    "id": "upsc_d1_s1_q1"
-  },
-  {
-    "sec": "Polity & Governance",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[प्रश्न 2] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution.",
-      "en": "[Q.2] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution."
-    },
-    "o": {
-      "hi": [
-        "Statement is correct",
-        "Supreme Court has discretionary power",
-        "Jurisdiction lies solely with High Courts",
-        "Requires approval of Parliament"
-      ],
-      "en": [
-        "Statement is correct",
-        "Supreme Court has discretionary power",
-        "Jurisdiction lies solely with High Courts",
-        "Requires approval of Parliament"
-      ]
-    },
-    "a": 0,
-    "id": "upsc_d1_s1_q2"
-  },
-  {
-    "sec": "Polity & Governance",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[प्रश्न 3] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?",
-      "en": "[Q.3] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?"
-    },
-    "o": {
-      "hi": [
-        "44th Constitutional Amendment Act, 1978",
-        "42nd Amendment Act, 1976",
-        "86th Amendment Act, 2002",
-        "91st Amendment Act, 2003"
-      ],
-      "en": [
-        "44th Constitutional Amendment Act, 1978",
-        "42nd Amendment Act, 1976",
-        "86th Amendment Act, 2002",
-        "91st Amendment Act, 2003"
-      ]
-    },
-    "a": 0,
-    "id": "upsc_d1_s1_q3"
-  },
-  {
-    "sec": "Polity & Governance",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[प्रश्न 4] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
-      "en": "[Q.4] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
+      "hi": "[प्रश्न 1] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
+      "en": "[Q.1] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
     },
     "o": {
       "hi": [
@@ -93,14 +21,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q4"
+    "id": "upsc_d1_s2_q1"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 5] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
-      "en": "[Q.5] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
+      "hi": "[प्रश्न 2] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
+      "en": "[Q.2] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
     },
     "o": {
       "hi": [
@@ -117,14 +45,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q5"
+    "id": "upsc_d1_s2_q2"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 6] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:",
-      "en": "[Q.6] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:"
+      "hi": "[प्रश्न 3] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:",
+      "en": "[Q.3] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:"
     },
     "o": {
       "hi": [
@@ -141,14 +69,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q6"
+    "id": "upsc_d1_s2_q3"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 7] Which of the following bodies is NOT established by the Constitution of India?",
-      "en": "[Q.7] Which of the following bodies is NOT established by the Constitution of India?"
+      "hi": "[प्रश्न 4] Which of the following bodies is NOT established by the Constitution of India?",
+      "en": "[Q.4] Which of the following bodies is NOT established by the Constitution of India?"
     },
     "o": {
       "hi": [
@@ -165,14 +93,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q7"
+    "id": "upsc_d1_s2_q4"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 8] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?",
-      "en": "[Q.8] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?"
+      "hi": "[प्रश्न 5] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?",
+      "en": "[Q.5] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?"
     },
     "o": {
       "hi": [
@@ -189,14 +117,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q8"
+    "id": "upsc_d1_s2_q5"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 9] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?",
-      "en": "[Q.9] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?"
+      "hi": "[प्रश्न 6] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?",
+      "en": "[Q.6] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?"
     },
     "o": {
       "hi": [
@@ -213,14 +141,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q9"
+    "id": "upsc_d1_s2_q6"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 10] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?",
-      "en": "[Q.10] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?"
+      "hi": "[प्रश्न 7] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?",
+      "en": "[Q.7] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?"
     },
     "o": {
       "hi": [
@@ -237,14 +165,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q10"
+    "id": "upsc_d1_s2_q7"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 11] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals.",
-      "en": "[Q.11] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals."
+      "hi": "[प्रश्न 8] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals.",
+      "en": "[Q.8] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals."
     },
     "o": {
       "hi": [
@@ -261,14 +189,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q11"
+    "id": "upsc_d1_s2_q8"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 12] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution.",
-      "en": "[Q.12] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution."
+      "hi": "[प्रश्न 9] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution.",
+      "en": "[Q.9] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution."
     },
     "o": {
       "hi": [
@@ -285,14 +213,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q12"
+    "id": "upsc_d1_s2_q9"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 13] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?",
-      "en": "[Q.13] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?"
+      "hi": "[प्रश्न 10] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?",
+      "en": "[Q.10] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?"
     },
     "o": {
       "hi": [
@@ -309,14 +237,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q13"
+    "id": "upsc_d1_s2_q10"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 14] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
-      "en": "[Q.14] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
+      "hi": "[प्रश्न 11] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
+      "en": "[Q.11] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
     },
     "o": {
       "hi": [
@@ -333,14 +261,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q14"
+    "id": "upsc_d1_s2_q11"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 15] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
-      "en": "[Q.15] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
+      "hi": "[प्रश्न 12] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
+      "en": "[Q.12] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
     },
     "o": {
       "hi": [
@@ -357,14 +285,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q15"
+    "id": "upsc_d1_s2_q12"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 16] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:",
-      "en": "[Q.16] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:"
+      "hi": "[प्रश्न 13] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:",
+      "en": "[Q.13] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:"
     },
     "o": {
       "hi": [
@@ -381,14 +309,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q16"
+    "id": "upsc_d1_s2_q13"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 17] Which of the following bodies is NOT established by the Constitution of India?",
-      "en": "[Q.17] Which of the following bodies is NOT established by the Constitution of India?"
+      "hi": "[प्रश्न 14] Which of the following bodies is NOT established by the Constitution of India?",
+      "en": "[Q.14] Which of the following bodies is NOT established by the Constitution of India?"
     },
     "o": {
       "hi": [
@@ -405,14 +333,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q17"
+    "id": "upsc_d1_s2_q14"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 18] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?",
-      "en": "[Q.18] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?"
+      "hi": "[प्रश्न 15] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?",
+      "en": "[Q.15] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?"
     },
     "o": {
       "hi": [
@@ -429,14 +357,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q18"
+    "id": "upsc_d1_s2_q15"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 19] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?",
-      "en": "[Q.19] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?"
+      "hi": "[प्रश्न 16] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?",
+      "en": "[Q.16] Fundamental Duties were incorporated into Part IV-A of the Constitution upon the recommendation of which committee?"
     },
     "o": {
       "hi": [
@@ -453,14 +381,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q19"
+    "id": "upsc_d1_s2_q16"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 20] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?",
-      "en": "[Q.20] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?"
+      "hi": "[प्रश्न 17] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?",
+      "en": "[Q.17] The quorum required to constitute a sitting of either House of Parliament is what fraction of the total membership?"
     },
     "o": {
       "hi": [
@@ -477,14 +405,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q20"
+    "id": "upsc_d1_s2_q17"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 21] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals.",
-      "en": "[Q.21] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals."
+      "hi": "[प्रश्न 18] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals.",
+      "en": "[Q.18] With reference to the Writ of 'Habeas Corpus', consider the following: It can be issued against both public authorities and private individuals."
     },
     "o": {
       "hi": [
@@ -501,14 +429,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q21"
+    "id": "upsc_d1_s2_q18"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 22] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution.",
-      "en": "[Q.22] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution."
+      "hi": "[प्रश्न 19] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution.",
+      "en": "[Q.19] Under Article 32 of the Indian Constitution, the Supreme Court cannot refuse to exercise its writ jurisdiction because Fundamental Rights are guaranteed by the Constitution."
     },
     "o": {
       "hi": [
@@ -525,14 +453,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q22"
+    "id": "upsc_d1_s2_q19"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 23] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?",
-      "en": "[Q.23] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?"
+      "hi": "[प्रश्न 20] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?",
+      "en": "[Q.20] Which Constitutional Amendment Act substituted the words 'armed rebellion' for 'internal disturbance' in Article 352?"
     },
     "o": {
       "hi": [
@@ -549,14 +477,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q23"
+    "id": "upsc_d1_s2_q20"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 24] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
-      "en": "[Q.24] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
+      "hi": "[प्रश्न 21] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?",
+      "en": "[Q.21] In the context of the Indian Constitution, the 'Doctrine of Basic Structure' was propounded in which landmark judgment?"
     },
     "o": {
       "hi": [
@@ -573,14 +501,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q24"
+    "id": "upsc_d1_s2_q21"
   },
   {
     "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 25] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
-      "en": "[Q.25] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
+      "hi": "[प्रश्न 22] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?",
+      "en": "[Q.22] Under the Tenth Schedule (Anti-Defection Law), who is the final deciding authority regarding disqualification of a Member of Parliament?"
     },
     "o": {
       "hi": [
@@ -597,86 +525,86 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q25"
+    "id": "upsc_d1_s2_q22"
   },
   {
-    "sec": "History & Culture",
+    "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 26] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:",
-      "en": "[Q.26] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:"
+      "hi": "[प्रश्न 23] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:",
+      "en": "[Q.23] The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) primarily aims to:"
     },
     "o": {
       "hi": [
-        "It brought joint political cooperation between Indian National Congress and Muslim League",
-        "It marked the unconditional surrender of the Moderate leadership",
-        "It led to immediate announcement of dominion status by Britain",
-        "It formally launched the Non-Cooperation Movement"
+        "Extend Panchayati Raj to Fifth Schedule Areas ensuring tribal self-rule",
+        "Establish municipal corporations in Sixth Schedule areas",
+        "Merge tribal autonomous councils with state legislatures",
+        "Abolish the role of Gram Sabha in forest areas"
       ],
       "en": [
-        "It brought joint political cooperation between Indian National Congress and Muslim League",
-        "It marked the unconditional surrender of the Moderate leadership",
-        "It led to immediate announcement of dominion status by Britain",
-        "It formally launched the Non-Cooperation Movement"
+        "Extend Panchayati Raj to Fifth Schedule Areas ensuring tribal self-rule",
+        "Establish municipal corporations in Sixth Schedule areas",
+        "Merge tribal autonomous councils with state legislatures",
+        "Abolish the role of Gram Sabha in forest areas"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q26"
+    "id": "upsc_d1_s2_q23"
   },
   {
-    "sec": "History & Culture",
+    "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 27] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:",
-      "en": "[Q.27] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:"
+      "hi": "[प्रश्न 24] Which of the following bodies is NOT established by the Constitution of India?",
+      "en": "[Q.24] Which of the following bodies is NOT established by the Constitution of India?"
     },
     "o": {
       "hi": [
-        "Authorized the government to imprison any person without trial and conviction",
-        "Imposed heavy custom duties on Indian textiles",
-        "Abolished provincial autonomy in British India",
-        "Prohibited Indian participation in civil administration"
+        "NITI Aayog",
+        "Finance Commission",
+        "Election Commission of India",
+        "Union Public Service Commission"
       ],
       "en": [
-        "Authorized the government to imprison any person without trial and conviction",
-        "Imposed heavy custom duties on Indian textiles",
-        "Abolished provincial autonomy in British India",
-        "Prohibited Indian participation in civil administration"
+        "NITI Aayog",
+        "Finance Commission",
+        "Election Commission of India",
+        "Union Public Service Commission"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q27"
+    "id": "upsc_d1_s2_q24"
   },
   {
-    "sec": "History & Culture",
+    "sec": "Polity & Governance",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 28] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?",
-      "en": "[Q.28] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?"
+      "hi": "[प्रश्न 25] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?",
+      "en": "[Q.25] Under Article 110 of the Indian Constitution, whose decision is final on whether a bill is a Money Bill or not?"
     },
     "o": {
       "hi": [
-        "Lahore Session, 1929 (Presided by Jawaharlal Nehru)",
-        "Karachi Session, 1931",
-        "Calcutta Session, 1928",
-        "Belgaum Session, 1924"
+        "Speaker of the Lok Sabha",
+        "President of India",
+        "Finance Minister",
+        "Chairman of Rajya Sabha"
       ],
       "en": [
-        "Lahore Session, 1929 (Presided by Jawaharlal Nehru)",
-        "Karachi Session, 1931",
-        "Calcutta Session, 1928",
-        "Belgaum Session, 1924"
+        "Speaker of the Lok Sabha",
+        "President of India",
+        "Finance Minister",
+        "Chairman of Rajya Sabha"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q28"
+    "id": "upsc_d1_s2_q25"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 29] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
-      "en": "[Q.29] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
+      "hi": "[प्रश्न 26] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
+      "en": "[Q.26] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
     },
     "o": {
       "hi": [
@@ -693,14 +621,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q29"
+    "id": "upsc_d1_s2_q26"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 30] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
-      "en": "[Q.30] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
+      "hi": "[प्रश्न 27] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
+      "en": "[Q.27] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
     },
     "o": {
       "hi": [
@@ -717,14 +645,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q30"
+    "id": "upsc_d1_s2_q27"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 31] The Gandhi-Irwin Pact was signed in March 1931 primarily to:",
-      "en": "[Q.31] The Gandhi-Irwin Pact was signed in March 1931 primarily to:"
+      "hi": "[प्रश्न 28] The Gandhi-Irwin Pact was signed in March 1931 primarily to:",
+      "en": "[Q.28] The Gandhi-Irwin Pact was signed in March 1931 primarily to:"
     },
     "o": {
       "hi": [
@@ -741,14 +669,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q31"
+    "id": "upsc_d1_s2_q28"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 32] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:",
-      "en": "[Q.32] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:"
+      "hi": "[प्रश्न 29] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:",
+      "en": "[Q.29] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:"
     },
     "o": {
       "hi": [
@@ -765,14 +693,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q32"
+    "id": "upsc_d1_s2_q29"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 33] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?",
-      "en": "[Q.33] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?"
+      "hi": "[प्रश्न 30] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?",
+      "en": "[Q.30] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?"
     },
     "o": {
       "hi": [
@@ -789,14 +717,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q33"
+    "id": "upsc_d1_s2_q30"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 34] The Cabinet Mission arrived in India in 1946 primarily to:",
-      "en": "[Q.34] The Cabinet Mission arrived in India in 1946 primarily to:"
+      "hi": "[प्रश्न 31] The Cabinet Mission arrived in India in 1946 primarily to:",
+      "en": "[Q.31] The Cabinet Mission arrived in India in 1946 primarily to:"
     },
     "o": {
       "hi": [
@@ -813,14 +741,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q34"
+    "id": "upsc_d1_s2_q31"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 35] Who established the 'Servants of India Society' in Pune in 1905?",
-      "en": "[Q.35] Who established the 'Servants of India Society' in Pune in 1905?"
+      "hi": "[प्रश्न 32] Who established the 'Servants of India Society' in Pune in 1905?",
+      "en": "[Q.32] Who established the 'Servants of India Society' in Pune in 1905?"
     },
     "o": {
       "hi": [
@@ -837,14 +765,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q35"
+    "id": "upsc_d1_s2_q32"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 36] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:",
-      "en": "[Q.36] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:"
+      "hi": "[प्रश्न 33] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:",
+      "en": "[Q.33] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:"
     },
     "o": {
       "hi": [
@@ -861,14 +789,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q36"
+    "id": "upsc_d1_s2_q33"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 37] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:",
-      "en": "[Q.37] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:"
+      "hi": "[प्रश्न 34] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:",
+      "en": "[Q.34] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:"
     },
     "o": {
       "hi": [
@@ -885,14 +813,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q37"
+    "id": "upsc_d1_s2_q34"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 38] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?",
-      "en": "[Q.38] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?"
+      "hi": "[प्रश्न 35] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?",
+      "en": "[Q.35] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?"
     },
     "o": {
       "hi": [
@@ -909,14 +837,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q38"
+    "id": "upsc_d1_s2_q35"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 39] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
-      "en": "[Q.39] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
+      "hi": "[प्रश्न 36] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
+      "en": "[Q.36] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
     },
     "o": {
       "hi": [
@@ -933,14 +861,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q39"
+    "id": "upsc_d1_s2_q36"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 40] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
-      "en": "[Q.40] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
+      "hi": "[प्रश्न 37] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
+      "en": "[Q.37] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
     },
     "o": {
       "hi": [
@@ -957,14 +885,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q40"
+    "id": "upsc_d1_s2_q37"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 41] The Gandhi-Irwin Pact was signed in March 1931 primarily to:",
-      "en": "[Q.41] The Gandhi-Irwin Pact was signed in March 1931 primarily to:"
+      "hi": "[प्रश्न 38] The Gandhi-Irwin Pact was signed in March 1931 primarily to:",
+      "en": "[Q.38] The Gandhi-Irwin Pact was signed in March 1931 primarily to:"
     },
     "o": {
       "hi": [
@@ -981,14 +909,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q41"
+    "id": "upsc_d1_s2_q38"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 42] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:",
-      "en": "[Q.42] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:"
+      "hi": "[प्रश्न 39] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:",
+      "en": "[Q.39] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:"
     },
     "o": {
       "hi": [
@@ -1005,14 +933,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q42"
+    "id": "upsc_d1_s2_q39"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 43] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?",
-      "en": "[Q.43] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?"
+      "hi": "[प्रश्न 40] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?",
+      "en": "[Q.40] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?"
     },
     "o": {
       "hi": [
@@ -1029,14 +957,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q43"
+    "id": "upsc_d1_s2_q40"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 44] The Cabinet Mission arrived in India in 1946 primarily to:",
-      "en": "[Q.44] The Cabinet Mission arrived in India in 1946 primarily to:"
+      "hi": "[प्रश्न 41] The Cabinet Mission arrived in India in 1946 primarily to:",
+      "en": "[Q.41] The Cabinet Mission arrived in India in 1946 primarily to:"
     },
     "o": {
       "hi": [
@@ -1053,14 +981,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q44"
+    "id": "upsc_d1_s2_q41"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 45] Who established the 'Servants of India Society' in Pune in 1905?",
-      "en": "[Q.45] Who established the 'Servants of India Society' in Pune in 1905?"
+      "hi": "[प्रश्न 42] Who established the 'Servants of India Society' in Pune in 1905?",
+      "en": "[Q.42] Who established the 'Servants of India Society' in Pune in 1905?"
     },
     "o": {
       "hi": [
@@ -1077,14 +1005,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q45"
+    "id": "upsc_d1_s2_q42"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 46] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:",
-      "en": "[Q.46] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:"
+      "hi": "[प्रश्न 43] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:",
+      "en": "[Q.43] The historic Lucknow Pact of 1916 was significant in the Indian National Movement because:"
     },
     "o": {
       "hi": [
@@ -1101,14 +1029,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q46"
+    "id": "upsc_d1_s2_q43"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 47] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:",
-      "en": "[Q.47] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:"
+      "hi": "[प्रश्न 44] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:",
+      "en": "[Q.44] During the Indian Freedom Struggle, the 'Rowlatt Act' (1919) provoked widespread indignation because it:"
     },
     "o": {
       "hi": [
@@ -1125,14 +1053,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q47"
+    "id": "upsc_d1_s2_q44"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 48] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?",
-      "en": "[Q.48] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?"
+      "hi": "[प्रश्न 45] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?",
+      "en": "[Q.45] The resolution of 'Poorna Swaraj' (Complete Independence) was adopted at which session of the Indian National Congress?"
     },
     "o": {
       "hi": [
@@ -1149,14 +1077,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q48"
+    "id": "upsc_d1_s2_q45"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 49] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
-      "en": "[Q.49] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
+      "hi": "[प्रश्न 46] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?",
+      "en": "[Q.46] With reference to ancient India, 'Lothal', an important Harappan port town, is situated near the Gulf of Khambhat in which modern state?"
     },
     "o": {
       "hi": [
@@ -1173,14 +1101,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q49"
+    "id": "upsc_d1_s2_q46"
   },
   {
     "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 50] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
-      "en": "[Q.50] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
+      "hi": "[प्रश्न 47] Who among the following founded the 'All India Depressed Classes Association' in 1930?",
+      "en": "[Q.47] Who among the following founded the 'All India Depressed Classes Association' in 1930?"
     },
     "o": {
       "hi": [
@@ -1197,86 +1125,86 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q50"
+    "id": "upsc_d1_s2_q47"
   },
   {
-    "sec": "Geography & Environment",
+    "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 51] Which of the following Ramsar Wetland sites is located in the state of Kerala?",
-      "en": "[Q.51] Which of the following Ramsar Wetland sites is located in the state of Kerala?"
+      "hi": "[प्रश्न 48] The Gandhi-Irwin Pact was signed in March 1931 primarily to:",
+      "en": "[Q.48] The Gandhi-Irwin Pact was signed in March 1931 primarily to:"
     },
     "o": {
       "hi": [
-        "Vembanad-Kol Wetland",
-        "Loktak Lake",
-        "Chilika Lake",
-        "Deepor Beel"
+        "Pave the way for Congress participation in the Second Round Table Conference",
+        "Immediately release all prisoners convicted of violent crimes",
+        "Grant dominion status to India within one year",
+        "Cancel the Simon Commission recommendations"
       ],
       "en": [
-        "Vembanad-Kol Wetland",
-        "Loktak Lake",
-        "Chilika Lake",
-        "Deepor Beel"
+        "Pave the way for Congress participation in the Second Round Table Conference",
+        "Immediately release all prisoners convicted of violent crimes",
+        "Grant dominion status to India within one year",
+        "Cancel the Simon Commission recommendations"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q51"
+    "id": "upsc_d1_s2_q48"
   },
   {
-    "sec": "Geography & Environment",
+    "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 52] The term 'Indian Ocean Dipole' (IOD) refers to:",
-      "en": "[Q.52] The term 'Indian Ocean Dipole' (IOD) refers to:"
+      "hi": "[प्रश्न 49] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:",
+      "en": "[Q.49] Under the Ryotwari settlement introduced in Madras and Bombay Presidencies, revenue was collected directly from:"
     },
     "o": {
       "hi": [
-        "The difference in sea surface temperature between western and eastern tropical Indian Ocean",
-        "Equatorial counter-currents along the African coast",
-        "Sub-surface salinity gradients near Bay of Bengal",
-        "Monsoon depression tracks across central India"
+        "The individual peasant (Ryot) who was recognized as the land proprietor",
+        "Village communities acting as corporate units",
+        "Hereditary Zamindars",
+        "Local British revenue agents"
       ],
       "en": [
-        "The difference in sea surface temperature between western and eastern tropical Indian Ocean",
-        "Equatorial counter-currents along the African coast",
-        "Sub-surface salinity gradients near Bay of Bengal",
-        "Monsoon depression tracks across central India"
+        "The individual peasant (Ryot) who was recognized as the land proprietor",
+        "Village communities acting as corporate units",
+        "Hereditary Zamindars",
+        "Local British revenue agents"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q52"
+    "id": "upsc_d1_s2_q49"
   },
   {
-    "sec": "Geography & Environment",
+    "sec": "History & Culture",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 53] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?",
-      "en": "[Q.53] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?"
+      "hi": "[प्रश्न 50] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?",
+      "en": "[Q.50] Which British Governor-General introduced the controversial 'Doctrine of Lapse'?"
     },
     "o": {
       "hi": [
-        "Anaimalai Hills (Western Ghats)",
-        "Nilgiri Hills",
-        "Cardamom Hills",
-        "Palani Hills"
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord William Bentinck",
+        "Lord Canning"
       ],
       "en": [
-        "Anaimalai Hills (Western Ghats)",
-        "Nilgiri Hills",
-        "Cardamom Hills",
-        "Palani Hills"
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord William Bentinck",
+        "Lord Canning"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q53"
+    "id": "upsc_d1_s2_q50"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 54] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
-      "en": "[Q.54] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
+      "hi": "[प्रश्न 51] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
+      "en": "[Q.51] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
     },
     "o": {
       "hi": [
@@ -1293,14 +1221,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q54"
+    "id": "upsc_d1_s2_q51"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 55] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
-      "en": "[Q.55] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
+      "hi": "[प्रश्न 52] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
+      "en": "[Q.52] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
     },
     "o": {
       "hi": [
@@ -1317,14 +1245,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q55"
+    "id": "upsc_d1_s2_q52"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 56] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?",
-      "en": "[Q.56] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?"
+      "hi": "[प्रश्न 53] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?",
+      "en": "[Q.53] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?"
     },
     "o": {
       "hi": [
@@ -1341,14 +1269,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q56"
+    "id": "upsc_d1_s2_q53"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 57] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?",
-      "en": "[Q.57] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?"
+      "hi": "[प्रश्न 54] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?",
+      "en": "[Q.54] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?"
     },
     "o": {
       "hi": [
@@ -1365,14 +1293,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q57"
+    "id": "upsc_d1_s2_q54"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 58] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:",
-      "en": "[Q.58] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:"
+      "hi": "[प्रश्न 55] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:",
+      "en": "[Q.55] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:"
     },
     "o": {
       "hi": [
@@ -1389,14 +1317,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q58"
+    "id": "upsc_d1_s2_q55"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 59] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:",
-      "en": "[Q.59] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:"
+      "hi": "[प्रश्न 56] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:",
+      "en": "[Q.56] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:"
     },
     "o": {
       "hi": [
@@ -1413,14 +1341,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q59"
+    "id": "upsc_d1_s2_q56"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 60] The term 'Ecological Niche' of an organism refers to:",
-      "en": "[Q.60] The term 'Ecological Niche' of an organism refers to:"
+      "hi": "[प्रश्न 57] The term 'Ecological Niche' of an organism refers to:",
+      "en": "[Q.57] The term 'Ecological Niche' of an organism refers to:"
     },
     "o": {
       "hi": [
@@ -1437,14 +1365,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q60"
+    "id": "upsc_d1_s2_q57"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 61] Which of the following Ramsar Wetland sites is located in the state of Kerala?",
-      "en": "[Q.61] Which of the following Ramsar Wetland sites is located in the state of Kerala?"
+      "hi": "[प्रश्न 58] Which of the following Ramsar Wetland sites is located in the state of Kerala?",
+      "en": "[Q.58] Which of the following Ramsar Wetland sites is located in the state of Kerala?"
     },
     "o": {
       "hi": [
@@ -1461,14 +1389,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q61"
+    "id": "upsc_d1_s2_q58"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 62] The term 'Indian Ocean Dipole' (IOD) refers to:",
-      "en": "[Q.62] The term 'Indian Ocean Dipole' (IOD) refers to:"
+      "hi": "[प्रश्न 59] The term 'Indian Ocean Dipole' (IOD) refers to:",
+      "en": "[Q.59] The term 'Indian Ocean Dipole' (IOD) refers to:"
     },
     "o": {
       "hi": [
@@ -1485,14 +1413,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q62"
+    "id": "upsc_d1_s2_q59"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 63] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?",
-      "en": "[Q.63] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?"
+      "hi": "[प्रश्न 60] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?",
+      "en": "[Q.60] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?"
     },
     "o": {
       "hi": [
@@ -1509,14 +1437,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q63"
+    "id": "upsc_d1_s2_q60"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 64] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
-      "en": "[Q.64] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
+      "hi": "[प्रश्न 61] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
+      "en": "[Q.61] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
     },
     "o": {
       "hi": [
@@ -1533,14 +1461,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q64"
+    "id": "upsc_d1_s2_q61"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 65] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
-      "en": "[Q.65] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
+      "hi": "[प्रश्न 62] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
+      "en": "[Q.62] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
     },
     "o": {
       "hi": [
@@ -1557,14 +1485,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q65"
+    "id": "upsc_d1_s2_q62"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 66] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?",
-      "en": "[Q.66] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?"
+      "hi": "[प्रश्न 63] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?",
+      "en": "[Q.63] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?"
     },
     "o": {
       "hi": [
@@ -1581,14 +1509,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q66"
+    "id": "upsc_d1_s2_q63"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 67] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?",
-      "en": "[Q.67] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?"
+      "hi": "[प्रश्न 64] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?",
+      "en": "[Q.64] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?"
     },
     "o": {
       "hi": [
@@ -1605,14 +1533,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q67"
+    "id": "upsc_d1_s2_q64"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 68] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:",
-      "en": "[Q.68] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:"
+      "hi": "[प्रश्न 65] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:",
+      "en": "[Q.65] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:"
     },
     "o": {
       "hi": [
@@ -1629,14 +1557,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q68"
+    "id": "upsc_d1_s2_q65"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 69] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:",
-      "en": "[Q.69] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:"
+      "hi": "[प्रश्न 66] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:",
+      "en": "[Q.66] The 'Great Barrier Reef', the world's largest coral reef system, is situated off the north-east coast of:"
     },
     "o": {
       "hi": [
@@ -1653,14 +1581,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q69"
+    "id": "upsc_d1_s2_q66"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 70] The term 'Ecological Niche' of an organism refers to:",
-      "en": "[Q.70] The term 'Ecological Niche' of an organism refers to:"
+      "hi": "[प्रश्न 67] The term 'Ecological Niche' of an organism refers to:",
+      "en": "[Q.67] The term 'Ecological Niche' of an organism refers to:"
     },
     "o": {
       "hi": [
@@ -1677,14 +1605,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q70"
+    "id": "upsc_d1_s2_q67"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 71] Which of the following Ramsar Wetland sites is located in the state of Kerala?",
-      "en": "[Q.71] Which of the following Ramsar Wetland sites is located in the state of Kerala?"
+      "hi": "[प्रश्न 68] Which of the following Ramsar Wetland sites is located in the state of Kerala?",
+      "en": "[Q.68] Which of the following Ramsar Wetland sites is located in the state of Kerala?"
     },
     "o": {
       "hi": [
@@ -1701,14 +1629,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q71"
+    "id": "upsc_d1_s2_q68"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 72] The term 'Indian Ocean Dipole' (IOD) refers to:",
-      "en": "[Q.72] The term 'Indian Ocean Dipole' (IOD) refers to:"
+      "hi": "[प्रश्न 69] The term 'Indian Ocean Dipole' (IOD) refers to:",
+      "en": "[Q.69] The term 'Indian Ocean Dipole' (IOD) refers to:"
     },
     "o": {
       "hi": [
@@ -1725,14 +1653,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q72"
+    "id": "upsc_d1_s2_q69"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 73] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?",
-      "en": "[Q.73] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?"
+      "hi": "[प्रश्न 70] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?",
+      "en": "[Q.70] In which of the following mountain ranges is the highest peak of peninsular India, 'Anamudi' (2,695m), located?"
     },
     "o": {
       "hi": [
@@ -1749,14 +1677,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q73"
+    "id": "upsc_d1_s2_q70"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 74] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
-      "en": "[Q.74] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
+      "hi": "[प्रश्न 71] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?",
+      "en": "[Q.71] Which layer of the atmosphere contains the majority of atmospheric ozone that shields the Earth from harmful ultraviolet radiation?"
     },
     "o": {
       "hi": [
@@ -1773,14 +1701,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q74"
+    "id": "upsc_d1_s2_q71"
   },
   {
     "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 75] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
-      "en": "[Q.75] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
+      "hi": "[प्रश्न 72] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?",
+      "en": "[Q.72] The 'Western Disturbances' that cause winter precipitation in North-Western India originate from which region?"
     },
     "o": {
       "hi": [
@@ -1797,86 +1725,86 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q75"
+    "id": "upsc_d1_s2_q72"
   },
   {
-    "sec": "Economy & Development",
+    "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 76] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?",
-      "en": "[Q.76] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?"
+      "hi": "[प्रश्न 73] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?",
+      "en": "[Q.73] Which among the following National Parks is famous for being the natural habitat of the endangered Great Indian One-Horned Rhinoceros?"
     },
     "o": {
       "hi": [
-        "4% Consumer Price Index (CPI) within a tolerance band of +/- 2%",
-        "5% Wholesale Price Index (WPI) with +/- 1% band",
-        "Zero percent core inflation",
-        "8% nominal GDP deflator target"
+        "Kaziranga National Park (Assam)",
+        "Jim Corbett National Park",
+        "Ranthambore National Park",
+        "Dachigam National Park"
       ],
       "en": [
-        "4% Consumer Price Index (CPI) within a tolerance band of +/- 2%",
-        "5% Wholesale Price Index (WPI) with +/- 1% band",
-        "Zero percent core inflation",
-        "8% nominal GDP deflator target"
+        "Kaziranga National Park (Assam)",
+        "Jim Corbett National Park",
+        "Ranthambore National Park",
+        "Dachigam National Park"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q76"
+    "id": "upsc_d1_s2_q73"
   },
   {
-    "sec": "Economy & Development",
+    "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 77] What does the term 'Fiscal Deficit' precisely measure in government accounts?",
-      "en": "[Q.77] What does the term 'Fiscal Deficit' precisely measure in government accounts?"
+      "hi": "[प्रश्न 74] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?",
+      "en": "[Q.74] What is the primary ecological purpose of declaring a region as a 'Biosphere Reserve' under UNESCO's MAB Programme?"
     },
     "o": {
       "hi": [
-        "Total government expenditure minus total receipts (excluding borrowings)",
-        "Total revenue expenditure minus revenue receipts",
-        "Interest payments minus primary borrowings",
-        "Trade deficit plus net invisible deficit"
+        "Conserve biodiversity while fostering sustainable economic and human development",
+        "Ban all forms of human entry permanently",
+        "Promote commercial timber harvesting exclusively",
+        "Establish captive animal breeding sanctuaries only"
       ],
       "en": [
-        "Total government expenditure minus total receipts (excluding borrowings)",
-        "Total revenue expenditure minus revenue receipts",
-        "Interest payments minus primary borrowings",
-        "Trade deficit plus net invisible deficit"
+        "Conserve biodiversity while fostering sustainable economic and human development",
+        "Ban all forms of human entry permanently",
+        "Promote commercial timber harvesting exclusively",
+        "Establish captive animal breeding sanctuaries only"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q77"
+    "id": "upsc_d1_s2_q74"
   },
   {
-    "sec": "Economy & Development",
+    "sec": "Geography & Environment",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 78] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:",
-      "en": "[Q.78] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:"
+      "hi": "[प्रश्न 75] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:",
+      "en": "[Q.75] Black soil (Regur) of the Deccan Plateau is ideal for cotton cultivation primarily due to its:"
     },
     "o": {
       "hi": [
-        "Volatile items like food and energy commodities",
-        "Manufacturing goods and capital goods",
-        "Imported electronic goods",
-        "Public sector utility expenditures"
+        "High clay content and high moisture retention capacity",
+        "Richness in organic nitrogen and phosphorus",
+        "High sand content and rapid drainage",
+        "Extreme acidity and iron leaching"
       ],
       "en": [
-        "Volatile items like food and energy commodities",
-        "Manufacturing goods and capital goods",
-        "Imported electronic goods",
-        "Public sector utility expenditures"
+        "High clay content and high moisture retention capacity",
+        "Richness in organic nitrogen and phosphorus",
+        "High sand content and rapid drainage",
+        "Extreme acidity and iron leaching"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q78"
+    "id": "upsc_d1_s2_q75"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 79] Which institution publishes the 'Global Financial Stability Report' (GFSR)?",
-      "en": "[Q.79] Which institution publishes the 'Global Financial Stability Report' (GFSR)?"
+      "hi": "[प्रश्न 76] Which institution publishes the 'Global Financial Stability Report' (GFSR)?",
+      "en": "[Q.76] Which institution publishes the 'Global Financial Stability Report' (GFSR)?"
     },
     "o": {
       "hi": [
@@ -1893,14 +1821,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q79"
+    "id": "upsc_d1_s2_q76"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 80] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?",
-      "en": "[Q.80] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?"
+      "hi": "[प्रश्न 77] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?",
+      "en": "[Q.77] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?"
     },
     "o": {
       "hi": [
@@ -1917,14 +1845,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q80"
+    "id": "upsc_d1_s2_q77"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 81] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:",
-      "en": "[Q.81] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:"
+      "hi": "[प्रश्न 78] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:",
+      "en": "[Q.78] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:"
     },
     "o": {
       "hi": [
@@ -1941,14 +1869,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q81"
+    "id": "upsc_d1_s2_q78"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 82] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?",
-      "en": "[Q.82] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?"
+      "hi": "[प्रश्न 79] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?",
+      "en": "[Q.79] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?"
     },
     "o": {
       "hi": [
@@ -1965,14 +1893,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q82"
+    "id": "upsc_d1_s2_q79"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 83] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?",
-      "en": "[Q.83] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?"
+      "hi": "[प्रश्न 80] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?",
+      "en": "[Q.80] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?"
     },
     "o": {
       "hi": [
@@ -1989,14 +1917,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q83"
+    "id": "upsc_d1_s2_q80"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 84] The concept of 'Universal Basic Income' (UBI) advocates for:",
-      "en": "[Q.84] The concept of 'Universal Basic Income' (UBI) advocates for:"
+      "hi": "[प्रश्न 81] The concept of 'Universal Basic Income' (UBI) advocates for:",
+      "en": "[Q.81] The concept of 'Universal Basic Income' (UBI) advocates for:"
     },
     "o": {
       "hi": [
@@ -2013,14 +1941,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q84"
+    "id": "upsc_d1_s2_q81"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 85] What is the primary indicator used to calculate the 'Gross Value Added' (GVA) at basic prices?",
-      "en": "[Q.85] What is the primary indicator used to calculate the 'Gross Value Added' (GVA) at basic prices?"
+      "hi": "[प्रश्न 82] What is the primary indicator used to calculate the 'Gross Value Added' (GVA) at basic prices?",
+      "en": "[Q.82] What is the primary indicator used to calculate the 'Gross Value Added' (GVA) at basic prices?"
     },
     "o": {
       "hi": [
@@ -2037,14 +1965,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q85"
+    "id": "upsc_d1_s2_q82"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 86] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?",
-      "en": "[Q.86] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?"
+      "hi": "[प्रश्न 83] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?",
+      "en": "[Q.83] Under the Reserve Bank of India Act, 1934, what is the primary inflation target mandated for the Monetary Policy Committee (MPC)?"
     },
     "o": {
       "hi": [
@@ -2061,14 +1989,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q86"
+    "id": "upsc_d1_s2_q83"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 87] What does the term 'Fiscal Deficit' precisely measure in government accounts?",
-      "en": "[Q.87] What does the term 'Fiscal Deficit' precisely measure in government accounts?"
+      "hi": "[प्रश्न 84] What does the term 'Fiscal Deficit' precisely measure in government accounts?",
+      "en": "[Q.84] What does the term 'Fiscal Deficit' precisely measure in government accounts?"
     },
     "o": {
       "hi": [
@@ -2085,14 +2013,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q87"
+    "id": "upsc_d1_s2_q84"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 88] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:",
-      "en": "[Q.88] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:"
+      "hi": "[प्रश्न 85] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:",
+      "en": "[Q.85] In the context of Indian economy, 'Core Inflation' differs from 'Headline Inflation' because it excludes:"
     },
     "o": {
       "hi": [
@@ -2109,14 +2037,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q88"
+    "id": "upsc_d1_s2_q85"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 89] Which institution publishes the 'Global Financial Stability Report' (GFSR)?",
-      "en": "[Q.89] Which institution publishes the 'Global Financial Stability Report' (GFSR)?"
+      "hi": "[प्रश्न 86] Which institution publishes the 'Global Financial Stability Report' (GFSR)?",
+      "en": "[Q.86] Which institution publishes the 'Global Financial Stability Report' (GFSR)?"
     },
     "o": {
       "hi": [
@@ -2133,14 +2061,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q89"
+    "id": "upsc_d1_s2_q86"
   },
   {
     "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 90] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?",
-      "en": "[Q.90] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?"
+      "hi": "[प्रश्न 87] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?",
+      "en": "[Q.87] When the Reserve Bank of India raises the 'Cash Reserve Ratio' (CRR), what is the immediate effect on commercial banks?"
     },
     "o": {
       "hi": [
@@ -2157,86 +2085,86 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q90"
+    "id": "upsc_d1_s2_q87"
   },
   {
-    "sec": "Science & Tech",
+    "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 91] The 'CRISPR-Cas9' system, widely discussed in biotechnology, functions as a:",
-      "en": "[Q.91] The 'CRISPR-Cas9' system, widely discussed in biotechnology, functions as a:"
+      "hi": "[प्रश्न 88] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:",
+      "en": "[Q.88] In India, 'Insolvency and Bankruptcy Code' (IBC, 2016) was enacted primarily to:"
     },
     "o": {
       "hi": [
-        "Molecular scissor for targeted genome editing in living organisms",
-        "Protein sequencer for artificial meat development",
-        "Synthetic quantum computing algorithm",
-        "Microscopic drug delivery nanobot"
+        "Consolidate and resolve insolvencies of corporate debtors in a time-bound manner",
+        "Enforce criminal penalties on willful tax defaulters",
+        "Liquidate non-profitable public sector banks",
+        "Regulate credit rating agencies in the stock exchange"
       ],
       "en": [
-        "Molecular scissor for targeted genome editing in living organisms",
-        "Protein sequencer for artificial meat development",
-        "Synthetic quantum computing algorithm",
-        "Microscopic drug delivery nanobot"
+        "Consolidate and resolve insolvencies of corporate debtors in a time-bound manner",
+        "Enforce criminal penalties on willful tax defaulters",
+        "Liquidate non-profitable public sector banks",
+        "Regulate credit rating agencies in the stock exchange"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q91"
+    "id": "upsc_d1_s2_q88"
   },
   {
-    "sec": "Science & Tech",
+    "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 92] The 'James Webb Space Telescope' (JWST) is positioned in space at which gravitationally stable location?",
-      "en": "[Q.92] The 'James Webb Space Telescope' (JWST) is positioned in space at which gravitationally stable location?"
+      "hi": "[प्रश्न 89] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?",
+      "en": "[Q.89] Which of the following forms a component of the 'Capital Account' of India's Balance of Payments?"
     },
     "o": {
       "hi": [
-        "Sun-Earth Lagrange Point 2 (L2)",
-        "Earth-Moon Lagrange Point 1 (L1)",
-        "Low Earth Orbit (LEO) at 400 km altitude",
-        "Geostationary Transfer Orbit"
+        "Foreign Direct Investment (FDI) and External Commercial Borrowings (ECB)",
+        "Merchandise exports and imports",
+        "Remittances from Indian workers abroad",
+        "Tourism earnings and transport charges"
       ],
       "en": [
-        "Sun-Earth Lagrange Point 2 (L2)",
-        "Earth-Moon Lagrange Point 1 (L1)",
-        "Low Earth Orbit (LEO) at 400 km altitude",
-        "Geostationary Transfer Orbit"
+        "Foreign Direct Investment (FDI) and External Commercial Borrowings (ECB)",
+        "Merchandise exports and imports",
+        "Remittances from Indian workers abroad",
+        "Tourism earnings and transport charges"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q92"
+    "id": "upsc_d1_s2_q89"
   },
   {
-    "sec": "Science & Tech",
+    "sec": "Economy & Development",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 93] mRNA vaccines (such as those developed for COVID-19) instruct human cells to produce:",
-      "en": "[Q.93] mRNA vaccines (such as those developed for COVID-19) instruct human cells to produce:"
+      "hi": "[प्रश्न 90] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?",
+      "en": "[Q.90] The 'Priority Sector Lending' (PSL) norms mandated by RBI require domestic commercial banks to allocate what percentage of Adjusted Net Bank Credit (ANBC)?"
     },
     "o": {
       "hi": [
-        "A harmless viral spike protein that triggers an adaptive immune response",
-        "Live attenuated viral particles that multiply inside host cells",
-        "Synthetic antibodies directly into the blood stream",
-        "Bacterial antigens that target respiratory membranes"
+        "40% of ANBC or credit equivalent of off-balance sheet exposure",
+        "25% of total deposits",
+        "50% of annual gross credit",
+        "15% of total retail loans"
       ],
       "en": [
-        "A harmless viral spike protein that triggers an adaptive immune response",
-        "Live attenuated viral particles that multiply inside host cells",
-        "Synthetic antibodies directly into the blood stream",
-        "Bacterial antigens that target respiratory membranes"
+        "40% of ANBC or credit equivalent of off-balance sheet exposure",
+        "25% of total deposits",
+        "50% of annual gross credit",
+        "15% of total retail loans"
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q93"
+    "id": "upsc_d1_s2_q90"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 94] What distinguishes 'Green Hydrogen' from 'Grey Hydrogen' and 'Blue Hydrogen'?",
-      "en": "[Q.94] What distinguishes 'Green Hydrogen' from 'Grey Hydrogen' and 'Blue Hydrogen'?"
+      "hi": "[प्रश्न 91] What distinguishes 'Green Hydrogen' from 'Grey Hydrogen' and 'Blue Hydrogen'?",
+      "en": "[Q.91] What distinguishes 'Green Hydrogen' from 'Grey Hydrogen' and 'Blue Hydrogen'?"
     },
     "o": {
       "hi": [
@@ -2253,14 +2181,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q94"
+    "id": "upsc_d1_s2_q91"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 95] In the context of modern computing, a 'Qubit' (Quantum Bit) differs from a classical bit because it can exist in:",
-      "en": "[Q.95] In the context of modern computing, a 'Qubit' (Quantum Bit) differs from a classical bit because it can exist in:"
+      "hi": "[प्रश्न 92] In the context of modern computing, a 'Qubit' (Quantum Bit) differs from a classical bit because it can exist in:",
+      "en": "[Q.92] In the context of modern computing, a 'Qubit' (Quantum Bit) differs from a classical bit because it can exist in:"
     },
     "o": {
       "hi": [
@@ -2277,14 +2205,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q95"
+    "id": "upsc_d1_s2_q92"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 96] The indigenous Indian satellite navigation system developed by ISRO is officially known as:",
-      "en": "[Q.96] The indigenous Indian satellite navigation system developed by ISRO is officially known as:"
+      "hi": "[प्रश्न 93] The indigenous Indian satellite navigation system developed by ISRO is officially known as:",
+      "en": "[Q.93] The indigenous Indian satellite navigation system developed by ISRO is officially known as:"
     },
     "o": {
       "hi": [
@@ -2301,14 +2229,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q96"
+    "id": "upsc_d1_s2_q93"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 97] What is the primary objective of the global 'ITER' (International Thermonuclear Experimental Reactor) project?",
-      "en": "[Q.97] What is the primary objective of the global 'ITER' (International Thermonuclear Experimental Reactor) project?"
+      "hi": "[प्रश्न 94] What is the primary objective of the global 'ITER' (International Thermonuclear Experimental Reactor) project?",
+      "en": "[Q.94] What is the primary objective of the global 'ITER' (International Thermonuclear Experimental Reactor) project?"
     },
     "o": {
       "hi": [
@@ -2325,14 +2253,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q97"
+    "id": "upsc_d1_s2_q94"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 98] In telecommunications, the term 'Li-Fi' (Light Fidelity) refers to high-speed data transmission using:",
-      "en": "[Q.98] In telecommunications, the term 'Li-Fi' (Light Fidelity) refers to high-speed data transmission using:"
+      "hi": "[प्रश्न 95] In telecommunications, the term 'Li-Fi' (Light Fidelity) refers to high-speed data transmission using:",
+      "en": "[Q.95] In telecommunications, the term 'Li-Fi' (Light Fidelity) refers to high-speed data transmission using:"
     },
     "o": {
       "hi": [
@@ -2349,14 +2277,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q98"
+    "id": "upsc_d1_s2_q95"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 99] Which among the following metals is predominantly used in the cathodes of modern high-capacity Electric Vehicle (EV) batteries?",
-      "en": "[Q.99] Which among the following metals is predominantly used in the cathodes of modern high-capacity Electric Vehicle (EV) batteries?"
+      "hi": "[प्रश्न 96] Which among the following metals is predominantly used in the cathodes of modern high-capacity Electric Vehicle (EV) batteries?",
+      "en": "[Q.96] Which among the following metals is predominantly used in the cathodes of modern high-capacity Electric Vehicle (EV) batteries?"
     },
     "o": {
       "hi": [
@@ -2373,14 +2301,14 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q99"
+    "id": "upsc_d1_s2_q96"
   },
   {
     "sec": "Science & Tech",
     "isEnglishSubject": false,
     "q": {
-      "hi": "[प्रश्न 100] The term 'Dark Matter' in astrophysics refers to matter that:",
-      "en": "[Q.100] The term 'Dark Matter' in astrophysics refers to matter that:"
+      "hi": "[प्रश्न 97] The term 'Dark Matter' in astrophysics refers to matter that:",
+      "en": "[Q.97] The term 'Dark Matter' in astrophysics refers to matter that:"
     },
     "o": {
       "hi": [
@@ -2397,6 +2325,78 @@
       ]
     },
     "a": 0,
-    "id": "upsc_d1_s1_q100"
+    "id": "upsc_d1_s2_q97"
+  },
+  {
+    "sec": "Science & Tech",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[प्रश्न 98] The 'CRISPR-Cas9' system, widely discussed in biotechnology, functions as a:",
+      "en": "[Q.98] The 'CRISPR-Cas9' system, widely discussed in biotechnology, functions as a:"
+    },
+    "o": {
+      "hi": [
+        "Molecular scissor for targeted genome editing in living organisms",
+        "Protein sequencer for artificial meat development",
+        "Synthetic quantum computing algorithm",
+        "Microscopic drug delivery nanobot"
+      ],
+      "en": [
+        "Molecular scissor for targeted genome editing in living organisms",
+        "Protein sequencer for artificial meat development",
+        "Synthetic quantum computing algorithm",
+        "Microscopic drug delivery nanobot"
+      ]
+    },
+    "a": 0,
+    "id": "upsc_d1_s2_q98"
+  },
+  {
+    "sec": "Science & Tech",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[प्रश्न 99] The 'James Webb Space Telescope' (JWST) is positioned in space at which gravitationally stable location?",
+      "en": "[Q.99] The 'James Webb Space Telescope' (JWST) is positioned in space at which gravitationally stable location?"
+    },
+    "o": {
+      "hi": [
+        "Sun-Earth Lagrange Point 2 (L2)",
+        "Earth-Moon Lagrange Point 1 (L1)",
+        "Low Earth Orbit (LEO) at 400 km altitude",
+        "Geostationary Transfer Orbit"
+      ],
+      "en": [
+        "Sun-Earth Lagrange Point 2 (L2)",
+        "Earth-Moon Lagrange Point 1 (L1)",
+        "Low Earth Orbit (LEO) at 400 km altitude",
+        "Geostationary Transfer Orbit"
+      ]
+    },
+    "a": 0,
+    "id": "upsc_d1_s2_q99"
+  },
+  {
+    "sec": "Science & Tech",
+    "isEnglishSubject": false,
+    "q": {
+      "hi": "[प्रश्न 100] mRNA vaccines (such as those developed for COVID-19) instruct human cells to produce:",
+      "en": "[Q.100] mRNA vaccines (such as those developed for COVID-19) instruct human cells to produce:"
+    },
+    "o": {
+      "hi": [
+        "A harmless viral spike protein that triggers an adaptive immune response",
+        "Live attenuated viral particles that multiply inside host cells",
+        "Synthetic antibodies directly into the blood stream",
+        "Bacterial antigens that target respiratory membranes"
+      ],
+      "en": [
+        "A harmless viral spike protein that triggers an adaptive immune response",
+        "Live attenuated viral particles that multiply inside host cells",
+        "Synthetic antibodies directly into the blood stream",
+        "Bacterial antigens that target respiratory membranes"
+      ]
+    },
+    "a": 0,
+    "id": "upsc_d1_s2_q100"
   }
 ]
