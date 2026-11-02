@@ -1,1807 +1,113 @@
 [
   {
+    "id": 1,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q1."
+  },
+  {
+    "id": 2,
     "sec": "General Awareness",
-    "isEnglishSubject": false,
     "q": {
-      "hi": "[GA प्रश्न 1] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
-      "en": "[GA Q.1] Who founded the Maurya Empire with the assistance of Chanakya?"
+      "en": "Which gland in the human body is called the 'Master Gland'?",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
     },
     "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
       "en": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q2."
   },
   {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 2] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "[GA Q.2] Under which Article can the President declare a National Emergency?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 3] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
-      "en": "[GA Q.3] Which enzyme present in human saliva digests starch?"
-    },
-    "o": {
-      "hi": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ],
-      "en": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 4] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
-      "en": "[GA Q.4] The Tropic of Cancer does not pass through which Indian state?"
-    },
-    "o": {
-      "hi": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ],
-      "en": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 5] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
-      "en": "[GA Q.5] Who was the Viceroy of India during Partition of Bengal in 1905?"
-    },
-    "o": {
-      "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ],
-      "en": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 6] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
-      "en": "[GA Q.6] Who founded the Maurya Empire with the assistance of Chanakya?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 7] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "[GA Q.7] Under which Article can the President declare a National Emergency?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 8] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
-      "en": "[GA Q.8] Which enzyme present in human saliva digests starch?"
-    },
-    "o": {
-      "hi": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ],
-      "en": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 9] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
-      "en": "[GA Q.9] The Tropic of Cancer does not pass through which Indian state?"
-    },
-    "o": {
-      "hi": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ],
-      "en": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 10] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
-      "en": "[GA Q.10] Who was the Viceroy of India during Partition of Bengal in 1905?"
-    },
-    "o": {
-      "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ],
-      "en": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 11] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
-      "en": "[GA Q.11] Who founded the Maurya Empire with the assistance of Chanakya?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 12] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "[GA Q.12] Under which Article can the President declare a National Emergency?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 13] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
-      "en": "[GA Q.13] Which enzyme present in human saliva digests starch?"
-    },
-    "o": {
-      "hi": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ],
-      "en": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 14] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
-      "en": "[GA Q.14] The Tropic of Cancer does not pass through which Indian state?"
-    },
-    "o": {
-      "hi": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ],
-      "en": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 15] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
-      "en": "[GA Q.15] Who was the Viceroy of India during Partition of Bengal in 1905?"
-    },
-    "o": {
-      "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ],
-      "en": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 16] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
-      "en": "[GA Q.16] Who founded the Maurya Empire with the assistance of Chanakya?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 17] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "[GA Q.17] Under which Article can the President declare a National Emergency?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 18] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
-      "en": "[GA Q.18] Which enzyme present in human saliva digests starch?"
-    },
-    "o": {
-      "hi": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ],
-      "en": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 19] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
-      "en": "[GA Q.19] The Tropic of Cancer does not pass through which Indian state?"
-    },
-    "o": {
-      "hi": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ],
-      "en": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 20] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
-      "en": "[GA Q.20] Who was the Viceroy of India during Partition of Bengal in 1905?"
-    },
-    "o": {
-      "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ],
-      "en": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 21] मौर्य साम्राज्य की स्थापना चाणक्य की सहायता से किसने की थी?",
-      "en": "[GA Q.21] Who founded the Maurya Empire with the assistance of Chanakya?"
-    },
-    "o": {
-      "hi": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ],
-      "en": [
-        "चंद्रगुप्त मौर्य",
-        "बिंदुसार",
-        "सम्राट अशोक",
-        "बृहद्रथ"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 22] संविधान के किस अनुच्छेद के तहत राष्ट्रपति राष्ट्रीय आपातकाल घोषित कर सकते हैं?",
-      "en": "[GA Q.22] Under which Article can the President declare a National Emergency?"
-    },
-    "o": {
-      "hi": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ],
-      "en": [
-        "अनुच्छेद 352",
-        "अनुच्छेद 356",
-        "अनुच्छेद 360",
-        "अनुच्छेद 370"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 23] मानव लार (Saliva) में स्टार्च को पचाने वाला कौन सा एंजाइम होता है?",
-      "en": "[GA Q.23] Which enzyme present in human saliva digests starch?"
-    },
-    "o": {
-      "hi": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ],
-      "en": [
-        "लार एमाइलेज (टायलिन)",
-        "पेप्सिन",
-        "ट्रिप्सिन",
-        "लाइपेस"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 24] कर्क रेखा भारत के किस राज्य से होकर नहीं गुजरती है?",
-      "en": "[GA Q.24] The Tropic of Cancer does not pass through which Indian state?"
-    },
-    "o": {
-      "hi": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ],
-      "en": [
-        "ओडिशा",
-        "गुजरात",
-        "राजस्थान",
-        "मध्य प्रदेश"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Awareness",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[GA प्रश्न 25] 1905 में बंगाल के विभाजन के समय भारत का वायसराय कौन था?",
-      "en": "[GA Q.25] Who was the Viceroy of India during Partition of Bengal in 1905?"
-    },
-    "o": {
-      "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ],
-      "en": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड रिपन",
-        "लॉर्ड डलहौजी",
-        "लॉर्ड कैनिंग"
-      ]
-    },
-    "a": 0
-  },
-  {
+    "id": 3,
     "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
     "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 1] यदि किसी वस्तु का क्रय मूल्य ₹240 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.1] If cost price of an article is ₹240 and sold at 20% profit, find selling price:"
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage?",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा?",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा?"
     },
     "o": {
-      "hi": [
-        "₹288",
-        "₹264",
-        "₹312",
-        "₹252"
-      ],
       "en": [
-        "₹288",
-        "₹264",
-        "₹312",
-        "₹252"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q3."
   },
   {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 2] यदि किसी वस्तु का क्रय मूल्य ₹280 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.2] If cost price of an article is ₹280 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹336",
-        "₹308",
-        "₹364",
-        "₹294"
-      ],
-      "en": [
-        "₹336",
-        "₹308",
-        "₹364",
-        "₹294"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 3] यदि किसी वस्तु का क्रय मूल्य ₹320 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.3] If cost price of an article is ₹320 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹384",
-        "₹352",
-        "₹416",
-        "₹336"
-      ],
-      "en": [
-        "₹384",
-        "₹352",
-        "₹416",
-        "₹336"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 4] यदि किसी वस्तु का क्रय मूल्य ₹360 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.4] If cost price of an article is ₹360 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹432",
-        "₹396",
-        "₹468",
-        "₹378"
-      ],
-      "en": [
-        "₹432",
-        "₹396",
-        "₹468",
-        "₹378"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 5] यदि किसी वस्तु का क्रय मूल्य ₹400 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.5] If cost price of an article is ₹400 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹480",
-        "₹440",
-        "₹520",
-        "₹420"
-      ],
-      "en": [
-        "₹480",
-        "₹440",
-        "₹520",
-        "₹420"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 6] यदि किसी वस्तु का क्रय मूल्य ₹440 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.6] If cost price of an article is ₹440 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹528",
-        "₹484",
-        "₹572",
-        "₹462"
-      ],
-      "en": [
-        "₹528",
-        "₹484",
-        "₹572",
-        "₹462"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 7] यदि किसी वस्तु का क्रय मूल्य ₹480 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.7] If cost price of an article is ₹480 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹576",
-        "₹528",
-        "₹624",
-        "₹504"
-      ],
-      "en": [
-        "₹576",
-        "₹528",
-        "₹624",
-        "₹504"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 8] यदि किसी वस्तु का क्रय मूल्य ₹520 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.8] If cost price of an article is ₹520 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹624",
-        "₹572",
-        "₹676",
-        "₹546"
-      ],
-      "en": [
-        "₹624",
-        "₹572",
-        "₹676",
-        "₹546"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 9] यदि किसी वस्तु का क्रय मूल्य ₹560 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.9] If cost price of an article is ₹560 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹672",
-        "₹616",
-        "₹728",
-        "₹588"
-      ],
-      "en": [
-        "₹672",
-        "₹616",
-        "₹728",
-        "₹588"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 10] यदि किसी वस्तु का क्रय मूल्य ₹600 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.10] If cost price of an article is ₹600 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹720",
-        "₹660",
-        "₹780",
-        "₹630"
-      ],
-      "en": [
-        "₹720",
-        "₹660",
-        "₹780",
-        "₹630"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 11] यदि किसी वस्तु का क्रय मूल्य ₹640 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.11] If cost price of an article is ₹640 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹768",
-        "₹704",
-        "₹832",
-        "₹672"
-      ],
-      "en": [
-        "₹768",
-        "₹704",
-        "₹832",
-        "₹672"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 12] यदि किसी वस्तु का क्रय मूल्य ₹680 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.12] If cost price of an article is ₹680 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹816",
-        "₹748",
-        "₹884",
-        "₹714"
-      ],
-      "en": [
-        "₹816",
-        "₹748",
-        "₹884",
-        "₹714"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 13] यदि किसी वस्तु का क्रय मूल्य ₹720 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.13] If cost price of an article is ₹720 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹864",
-        "₹792",
-        "₹936",
-        "₹756"
-      ],
-      "en": [
-        "₹864",
-        "₹792",
-        "₹936",
-        "₹756"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 14] यदि किसी वस्तु का क्रय मूल्य ₹760 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.14] If cost price of an article is ₹760 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹912",
-        "₹836",
-        "₹988",
-        "₹798"
-      ],
-      "en": [
-        "₹912",
-        "₹836",
-        "₹988",
-        "₹798"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 15] यदि किसी वस्तु का क्रय मूल्य ₹800 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.15] If cost price of an article is ₹800 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹960",
-        "₹880",
-        "₹1040",
-        "₹840"
-      ],
-      "en": [
-        "₹960",
-        "₹880",
-        "₹1040",
-        "₹840"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 16] यदि किसी वस्तु का क्रय मूल्य ₹840 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.16] If cost price of an article is ₹840 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1008",
-        "₹924",
-        "₹1092",
-        "₹882"
-      ],
-      "en": [
-        "₹1008",
-        "₹924",
-        "₹1092",
-        "₹882"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 17] यदि किसी वस्तु का क्रय मूल्य ₹880 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.17] If cost price of an article is ₹880 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1056",
-        "₹968",
-        "₹1144",
-        "₹924"
-      ],
-      "en": [
-        "₹1056",
-        "₹968",
-        "₹1144",
-        "₹924"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 18] यदि किसी वस्तु का क्रय मूल्य ₹920 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.18] If cost price of an article is ₹920 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1104",
-        "₹1012",
-        "₹1196",
-        "₹966"
-      ],
-      "en": [
-        "₹1104",
-        "₹1012",
-        "₹1196",
-        "₹966"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 19] यदि किसी वस्तु का क्रय मूल्य ₹960 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.19] If cost price of an article is ₹960 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1152",
-        "₹1056",
-        "₹1248",
-        "₹1008"
-      ],
-      "en": [
-        "₹1152",
-        "₹1056",
-        "₹1248",
-        "₹1008"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 20] यदि किसी वस्तु का क्रय मूल्य ₹1000 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.20] If cost price of an article is ₹1000 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1200",
-        "₹1100",
-        "₹1300",
-        "₹1050"
-      ],
-      "en": [
-        "₹1200",
-        "₹1100",
-        "₹1300",
-        "₹1050"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 21] यदि किसी वस्तु का क्रय मूल्य ₹1040 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.21] If cost price of an article is ₹1040 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1248",
-        "₹1144",
-        "₹1352",
-        "₹1092"
-      ],
-      "en": [
-        "₹1248",
-        "₹1144",
-        "₹1352",
-        "₹1092"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 22] यदि किसी वस्तु का क्रय मूल्य ₹1080 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.22] If cost price of an article is ₹1080 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1296",
-        "₹1188",
-        "₹1404",
-        "₹1134"
-      ],
-      "en": [
-        "₹1296",
-        "₹1188",
-        "₹1404",
-        "₹1134"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 23] यदि किसी वस्तु का क्रय मूल्य ₹1120 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.23] If cost price of an article is ₹1120 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1344",
-        "₹1232",
-        "₹1456",
-        "₹1176"
-      ],
-      "en": [
-        "₹1344",
-        "₹1232",
-        "₹1456",
-        "₹1176"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 24] यदि किसी वस्तु का क्रय मूल्य ₹1160 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.24] If cost price of an article is ₹1160 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1392",
-        "₹1276",
-        "₹1508",
-        "₹1218"
-      ],
-      "en": [
-        "₹1392",
-        "₹1276",
-        "₹1508",
-        "₹1218"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "Quantitative Aptitude",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[मात्रात्मक रुझान प्रश्न 25] यदि किसी वस्तु का क्रय मूल्य ₹1200 है और इसे 20% लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
-      "en": "[Quant Aptitude Q.25] If cost price of an article is ₹1200 and sold at 20% profit, find selling price:"
-    },
-    "o": {
-      "hi": [
-        "₹1440",
-        "₹1320",
-        "₹1560",
-        "₹1260"
-      ],
-      "en": [
-        "₹1440",
-        "₹1320",
-        "₹1560",
-        "₹1260"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 1] संख्या श्रृंखला में अगला पद ज्ञात करें: 3, 6, 12, 24, ?",
-      "en": "[Reasoning Q.1] Find next term in the series: 3, 6, 12, 24, ?"
-    },
-    "o": {
-      "hi": [
-        "48",
-        "36",
-        "42",
-        "54"
-      ],
-      "en": [
-        "48",
-        "36",
-        "42",
-        "54"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 2] संख्या श्रृंखला में अगला पद ज्ञात करें: 6, 12, 24, 48, ?",
-      "en": "[Reasoning Q.2] Find next term in the series: 6, 12, 24, 48, ?"
-    },
-    "o": {
-      "hi": [
-        "96",
-        "72",
-        "84",
-        "108"
-      ],
-      "en": [
-        "96",
-        "72",
-        "84",
-        "108"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 3] संख्या श्रृंखला में अगला पद ज्ञात करें: 9, 18, 36, 72, ?",
-      "en": "[Reasoning Q.3] Find next term in the series: 9, 18, 36, 72, ?"
-    },
-    "o": {
-      "hi": [
-        "144",
-        "108",
-        "126",
-        "162"
-      ],
-      "en": [
-        "144",
-        "108",
-        "126",
-        "162"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 4] संख्या श्रृंखला में अगला पद ज्ञात करें: 12, 24, 48, 96, ?",
-      "en": "[Reasoning Q.4] Find next term in the series: 12, 24, 48, 96, ?"
-    },
-    "o": {
-      "hi": [
-        "192",
-        "144",
-        "168",
-        "216"
-      ],
-      "en": [
-        "192",
-        "144",
-        "168",
-        "216"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 5] संख्या श्रृंखला में अगला पद ज्ञात करें: 15, 30, 60, 120, ?",
-      "en": "[Reasoning Q.5] Find next term in the series: 15, 30, 60, 120, ?"
-    },
-    "o": {
-      "hi": [
-        "240",
-        "180",
-        "210",
-        "270"
-      ],
-      "en": [
-        "240",
-        "180",
-        "210",
-        "270"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 6] संख्या श्रृंखला में अगला पद ज्ञात करें: 18, 36, 72, 144, ?",
-      "en": "[Reasoning Q.6] Find next term in the series: 18, 36, 72, 144, ?"
-    },
-    "o": {
-      "hi": [
-        "288",
-        "216",
-        "252",
-        "324"
-      ],
-      "en": [
-        "288",
-        "216",
-        "252",
-        "324"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 7] संख्या श्रृंखला में अगला पद ज्ञात करें: 21, 42, 84, 168, ?",
-      "en": "[Reasoning Q.7] Find next term in the series: 21, 42, 84, 168, ?"
-    },
-    "o": {
-      "hi": [
-        "336",
-        "252",
-        "294",
-        "378"
-      ],
-      "en": [
-        "336",
-        "252",
-        "294",
-        "378"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 8] संख्या श्रृंखला में अगला पद ज्ञात करें: 24, 48, 96, 192, ?",
-      "en": "[Reasoning Q.8] Find next term in the series: 24, 48, 96, 192, ?"
-    },
-    "o": {
-      "hi": [
-        "384",
-        "288",
-        "336",
-        "432"
-      ],
-      "en": [
-        "384",
-        "288",
-        "336",
-        "432"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 9] संख्या श्रृंखला में अगला पद ज्ञात करें: 27, 54, 108, 216, ?",
-      "en": "[Reasoning Q.9] Find next term in the series: 27, 54, 108, 216, ?"
-    },
-    "o": {
-      "hi": [
-        "432",
-        "324",
-        "378",
-        "486"
-      ],
-      "en": [
-        "432",
-        "324",
-        "378",
-        "486"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 10] संख्या श्रृंखला में अगला पद ज्ञात करें: 30, 60, 120, 240, ?",
-      "en": "[Reasoning Q.10] Find next term in the series: 30, 60, 120, 240, ?"
-    },
-    "o": {
-      "hi": [
-        "480",
-        "360",
-        "420",
-        "540"
-      ],
-      "en": [
-        "480",
-        "360",
-        "420",
-        "540"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 11] संख्या श्रृंखला में अगला पद ज्ञात करें: 33, 66, 132, 264, ?",
-      "en": "[Reasoning Q.11] Find next term in the series: 33, 66, 132, 264, ?"
-    },
-    "o": {
-      "hi": [
-        "528",
-        "396",
-        "462",
-        "594"
-      ],
-      "en": [
-        "528",
-        "396",
-        "462",
-        "594"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 12] संख्या श्रृंखला में अगला पद ज्ञात करें: 36, 72, 144, 288, ?",
-      "en": "[Reasoning Q.12] Find next term in the series: 36, 72, 144, 288, ?"
-    },
-    "o": {
-      "hi": [
-        "576",
-        "432",
-        "504",
-        "648"
-      ],
-      "en": [
-        "576",
-        "432",
-        "504",
-        "648"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 13] संख्या श्रृंखला में अगला पद ज्ञात करें: 39, 78, 156, 312, ?",
-      "en": "[Reasoning Q.13] Find next term in the series: 39, 78, 156, 312, ?"
-    },
-    "o": {
-      "hi": [
-        "624",
-        "468",
-        "546",
-        "702"
-      ],
-      "en": [
-        "624",
-        "468",
-        "546",
-        "702"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 14] संख्या श्रृंखला में अगला पद ज्ञात करें: 42, 84, 168, 336, ?",
-      "en": "[Reasoning Q.14] Find next term in the series: 42, 84, 168, 336, ?"
-    },
-    "o": {
-      "hi": [
-        "672",
-        "504",
-        "588",
-        "756"
-      ],
-      "en": [
-        "672",
-        "504",
-        "588",
-        "756"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 15] संख्या श्रृंखला में अगला पद ज्ञात करें: 45, 90, 180, 360, ?",
-      "en": "[Reasoning Q.15] Find next term in the series: 45, 90, 180, 360, ?"
-    },
-    "o": {
-      "hi": [
-        "720",
-        "540",
-        "630",
-        "810"
-      ],
-      "en": [
-        "720",
-        "540",
-        "630",
-        "810"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 16] संख्या श्रृंखला में अगला पद ज्ञात करें: 48, 96, 192, 384, ?",
-      "en": "[Reasoning Q.16] Find next term in the series: 48, 96, 192, 384, ?"
-    },
-    "o": {
-      "hi": [
-        "768",
-        "576",
-        "672",
-        "864"
-      ],
-      "en": [
-        "768",
-        "576",
-        "672",
-        "864"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 17] संख्या श्रृंखला में अगला पद ज्ञात करें: 51, 102, 204, 408, ?",
-      "en": "[Reasoning Q.17] Find next term in the series: 51, 102, 204, 408, ?"
-    },
-    "o": {
-      "hi": [
-        "816",
-        "612",
-        "714",
-        "918"
-      ],
-      "en": [
-        "816",
-        "612",
-        "714",
-        "918"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 18] संख्या श्रृंखला में अगला पद ज्ञात करें: 54, 108, 216, 432, ?",
-      "en": "[Reasoning Q.18] Find next term in the series: 54, 108, 216, 432, ?"
-    },
-    "o": {
-      "hi": [
-        "864",
-        "648",
-        "756",
-        "972"
-      ],
-      "en": [
-        "864",
-        "648",
-        "756",
-        "972"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 19] संख्या श्रृंखला में अगला पद ज्ञात करें: 57, 114, 228, 456, ?",
-      "en": "[Reasoning Q.19] Find next term in the series: 57, 114, 228, 456, ?"
-    },
-    "o": {
-      "hi": [
-        "912",
-        "684",
-        "798",
-        "1026"
-      ],
-      "en": [
-        "912",
-        "684",
-        "798",
-        "1026"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 20] संख्या श्रृंखला में अगला पद ज्ञात करें: 60, 120, 240, 480, ?",
-      "en": "[Reasoning Q.20] Find next term in the series: 60, 120, 240, 480, ?"
-    },
-    "o": {
-      "hi": [
-        "960",
-        "720",
-        "840",
-        "1080"
-      ],
-      "en": [
-        "960",
-        "720",
-        "840",
-        "1080"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 21] संख्या श्रृंखला में अगला पद ज्ञात करें: 63, 126, 252, 504, ?",
-      "en": "[Reasoning Q.21] Find next term in the series: 63, 126, 252, 504, ?"
-    },
-    "o": {
-      "hi": [
-        "1008",
-        "756",
-        "882",
-        "1134"
-      ],
-      "en": [
-        "1008",
-        "756",
-        "882",
-        "1134"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 22] संख्या श्रृंखला में अगला पद ज्ञात करें: 66, 132, 264, 528, ?",
-      "en": "[Reasoning Q.22] Find next term in the series: 66, 132, 264, 528, ?"
-    },
-    "o": {
-      "hi": [
-        "1056",
-        "792",
-        "924",
-        "1188"
-      ],
-      "en": [
-        "1056",
-        "792",
-        "924",
-        "1188"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 23] संख्या श्रृंखला में अगला पद ज्ञात करें: 69, 138, 276, 552, ?",
-      "en": "[Reasoning Q.23] Find next term in the series: 69, 138, 276, 552, ?"
-    },
-    "o": {
-      "hi": [
-        "1104",
-        "828",
-        "966",
-        "1242"
-      ],
-      "en": [
-        "1104",
-        "828",
-        "966",
-        "1242"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 24] संख्या श्रृंखला में अगला पद ज्ञात करें: 72, 144, 288, 576, ?",
-      "en": "[Reasoning Q.24] Find next term in the series: 72, 144, 288, 576, ?"
-    },
-    "o": {
-      "hi": [
-        "1152",
-        "864",
-        "1008",
-        "1296"
-      ],
-      "en": [
-        "1152",
-        "864",
-        "1008",
-        "1296"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "General Intelligence & Reasoning",
-    "isEnglishSubject": false,
-    "q": {
-      "hi": "[तर्कशक्ति प्रश्न 25] संख्या श्रृंखला में अगला पद ज्ञात करें: 75, 150, 300, 600, ?",
-      "en": "[Reasoning Q.25] Find next term in the series: 75, 150, 300, 600, ?"
-    },
-    "o": {
-      "hi": [
-        "1200",
-        "900",
-        "1050",
-        "1350"
-      ],
-      "en": [
-        "1200",
-        "900",
-        "1050",
-        "1350"
-      ]
-    },
-    "a": 0
-  },
-  {
+    "id": 4,
     "sec": "English Comprehension",
-    "isEnglishSubject": true,
     "q": {
-      "en": "[English Q.1] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
-      "hi": "[English Q.1] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+      "en": "Select the correct spelling:",
+      "mr": "सही वर्तनी चुनिए:",
+      "hi": "सही वर्तनी चुनिए:"
     },
     "o": {
       "en": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "hi": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.2] Select the most appropriate synonym of the given word: 'CANDID'",
-      "hi": "[English Q.2] Select the most appropriate synonym of the given word: 'CANDID'"
-    },
-    "o": {
-      "en": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ],
-      "hi": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.3] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
-      "hi": "[English Q.3] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
-    },
-    "o": {
-      "en": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ],
-      "hi": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.4] Select the correctly spelt word from the given options:",
-      "hi": "[English Q.4] Select the correctly spelt word from the given options:"
-    },
-    "o": {
-      "en": [
+      "mr": [
         "Accommodate",
         "Acommodate",
         "Accomodate",
@@ -1814,109 +120,118 @@
         "Acomodate"
       ]
     },
-    "a": 0
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q4."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 5,
+    "sec": "General Intelligence",
     "q": {
-      "en": "[English Q.5] Select the meaning of the given idiom: 'To spill the beans'",
-      "hi": "[English Q.5] Select the meaning of the given idiom: 'To spill the beans'"
+      "en": "Select the odd word: Gold, Silver, Copper, Wood",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी"
     },
     "o": {
       "en": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ],
       "hi": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ]
     },
-    "a": 0
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q5."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 6,
+    "sec": "General Awareness",
     "q": {
-      "en": "[English Q.6] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
-      "hi": "[English Q.6] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+      "en": "Which gland in the human body is called the 'Master Gland'?",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
     },
     "o": {
       "en": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ],
       "hi": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q6."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 7,
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "[English Q.7] Select the most appropriate synonym of the given word: 'CANDID'",
-      "hi": "[English Q.7] Select the most appropriate synonym of the given word: 'CANDID'"
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage?",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा?",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा?"
     },
     "o": {
       "en": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ],
       "hi": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q7."
   },
   {
+    "id": 8,
     "sec": "English Comprehension",
-    "isEnglishSubject": true,
     "q": {
-      "en": "[English Q.8] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
-      "hi": "[English Q.8] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
+      "en": "Select the correct spelling:",
+      "mr": "सही वर्तनी चुनिए:",
+      "hi": "सही वर्तनी चुनिए:"
     },
     "o": {
       "en": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "hi": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.9] Select the correctly spelt word from the given options:",
-      "hi": "[English Q.9] Select the correctly spelt word from the given options:"
-    },
-    "o": {
-      "en": [
+      "mr": [
         "Accommodate",
         "Acommodate",
         "Accomodate",
@@ -1929,109 +244,118 @@
         "Acomodate"
       ]
     },
-    "a": 0
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q8."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 9,
+    "sec": "General Intelligence",
     "q": {
-      "en": "[English Q.10] Select the meaning of the given idiom: 'To spill the beans'",
-      "hi": "[English Q.10] Select the meaning of the given idiom: 'To spill the beans'"
+      "en": "Select the odd word: Gold, Silver, Copper, Wood",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी"
     },
     "o": {
       "en": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ],
       "hi": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ]
     },
-    "a": 0
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q9."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 10,
+    "sec": "General Awareness",
     "q": {
-      "en": "[English Q.11] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
-      "hi": "[English Q.11] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+      "en": "Which gland in the human body is called the 'Master Gland'?",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
     },
     "o": {
       "en": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ],
       "hi": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q10."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 11,
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "[English Q.12] Select the most appropriate synonym of the given word: 'CANDID'",
-      "hi": "[English Q.12] Select the most appropriate synonym of the given word: 'CANDID'"
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q11)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 11)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 11)"
     },
     "o": {
       "en": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ],
       "hi": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q11."
   },
   {
+    "id": 12,
     "sec": "English Comprehension",
-    "isEnglishSubject": true,
     "q": {
-      "en": "[English Q.13] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
-      "hi": "[English Q.13] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
+      "en": "Select the correct spelling: (Set Q12)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 12)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 12)"
     },
     "o": {
       "en": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "hi": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.14] Select the correctly spelt word from the given options:",
-      "hi": "[English Q.14] Select the correctly spelt word from the given options:"
-    },
-    "o": {
-      "en": [
+      "mr": [
         "Accommodate",
         "Acommodate",
         "Accomodate",
@@ -2044,109 +368,118 @@
         "Acomodate"
       ]
     },
-    "a": 0
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q12."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 13,
+    "sec": "General Intelligence",
     "q": {
-      "en": "[English Q.15] Select the meaning of the given idiom: 'To spill the beans'",
-      "hi": "[English Q.15] Select the meaning of the given idiom: 'To spill the beans'"
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q13)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 13)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 13)"
     },
     "o": {
       "en": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ],
       "hi": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ]
     },
-    "a": 0
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q13."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 14,
+    "sec": "General Awareness",
     "q": {
-      "en": "[English Q.16] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
-      "hi": "[English Q.16] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q14)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 14)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 14)"
     },
     "o": {
       "en": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ],
       "hi": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q14."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 15,
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "[English Q.17] Select the most appropriate synonym of the given word: 'CANDID'",
-      "hi": "[English Q.17] Select the most appropriate synonym of the given word: 'CANDID'"
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q15)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 15)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 15)"
     },
     "o": {
       "en": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ],
       "hi": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q15."
   },
   {
+    "id": 16,
     "sec": "English Comprehension",
-    "isEnglishSubject": true,
     "q": {
-      "en": "[English Q.18] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
-      "hi": "[English Q.18] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
+      "en": "Select the correct spelling: (Set Q16)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 16)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 16)"
     },
     "o": {
       "en": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "hi": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.19] Select the correctly spelt word from the given options:",
-      "hi": "[English Q.19] Select the correctly spelt word from the given options:"
-    },
-    "o": {
-      "en": [
+      "mr": [
         "Accommodate",
         "Acommodate",
         "Accomodate",
@@ -2159,109 +492,118 @@
         "Acomodate"
       ]
     },
-    "a": 0
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q16."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 17,
+    "sec": "General Intelligence",
     "q": {
-      "en": "[English Q.20] Select the meaning of the given idiom: 'To spill the beans'",
-      "hi": "[English Q.20] Select the meaning of the given idiom: 'To spill the beans'"
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q17)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 17)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 17)"
     },
     "o": {
       "en": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ],
       "hi": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ]
     },
-    "a": 0
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q17."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 18,
+    "sec": "General Awareness",
     "q": {
-      "en": "[English Q.21] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C).",
-      "hi": "[English Q.21] Identify the grammatical error: Scarcely had I entered (A) the room than the lights (B) went out completely (C)."
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q18)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 18)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 18)"
     },
     "o": {
       "en": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ],
       "hi": [
-        "Part B (replace 'than' with 'when')",
-        "Part A",
-        "Part C",
-        "No Error"
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q18."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 19,
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "[English Q.22] Select the most appropriate synonym of the given word: 'CANDID'",
-      "hi": "[English Q.22] Select the most appropriate synonym of the given word: 'CANDID'"
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q19)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 19)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 19)"
     },
     "o": {
       "en": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ],
       "hi": [
-        "Frank and straightforward",
-        "Deceptive",
-        "Secretive",
-        "Shy"
+        "15%",
+        "20%",
+        "25%",
+        "10%"
       ]
     },
-    "a": 0
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q19."
   },
   {
+    "id": 20,
     "sec": "English Comprehension",
-    "isEnglishSubject": true,
     "q": {
-      "en": "[English Q.23] Select the most appropriate antonym of the given word: 'EPHEMERAL'",
-      "hi": "[English Q.23] Select the most appropriate antonym of the given word: 'EPHEMERAL'"
+      "en": "Select the correct spelling: (Set Q20)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 20)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 20)"
     },
     "o": {
       "en": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
-      "hi": [
-        "Permanent and eternal",
-        "Transient",
-        "Short-lived",
-        "Fragile"
-      ]
-    },
-    "a": 0
-  },
-  {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
-    "q": {
-      "en": "[English Q.24] Select the correctly spelt word from the given options:",
-      "hi": "[English Q.24] Select the correctly spelt word from the given options:"
-    },
-    "o": {
-      "en": [
+      "mr": [
         "Accommodate",
         "Acommodate",
         "Accomodate",
@@ -2274,29 +616,2487 @@
         "Acomodate"
       ]
     },
-    "a": 0
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q20."
   },
   {
-    "sec": "English Comprehension",
-    "isEnglishSubject": true,
+    "id": 21,
+    "sec": "General Intelligence",
     "q": {
-      "en": "[English Q.25] Select the meaning of the given idiom: 'To spill the beans'",
-      "hi": "[English Q.25] Select the meaning of the given idiom: 'To spill the beans'"
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q21)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 21)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 21)"
     },
     "o": {
       "en": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ],
       "hi": [
-        "To reveal a secret prematurely",
-        "To drop food items",
-        "To create a mess",
-        "To speak harshly"
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
       ]
     },
-    "a": 0
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q21."
+  },
+  {
+    "id": 22,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q22)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 22)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 22)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q22."
+  },
+  {
+    "id": 23,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q23)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 23)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 23)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q23."
+  },
+  {
+    "id": 24,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q24)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 24)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 24)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q24."
+  },
+  {
+    "id": 25,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q25)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 25)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 25)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q25."
+  },
+  {
+    "id": 26,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q26)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 26)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 26)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q26."
+  },
+  {
+    "id": 27,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q27)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 27)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 27)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q27."
+  },
+  {
+    "id": 28,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q28)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 28)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 28)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q28."
+  },
+  {
+    "id": 29,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q29)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 29)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 29)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q29."
+  },
+  {
+    "id": 30,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q30)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 30)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 30)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q30."
+  },
+  {
+    "id": 31,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q31)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 31)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 31)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q31."
+  },
+  {
+    "id": 32,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q32)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 32)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 32)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q32."
+  },
+  {
+    "id": 33,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q33)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 33)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 33)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q33."
+  },
+  {
+    "id": 34,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q34)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 34)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 34)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q34."
+  },
+  {
+    "id": 35,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q35)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 35)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 35)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q35."
+  },
+  {
+    "id": 36,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q36)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 36)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 36)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q36."
+  },
+  {
+    "id": 37,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q37)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 37)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 37)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q37."
+  },
+  {
+    "id": 38,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q38)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 38)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 38)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q38."
+  },
+  {
+    "id": 39,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q39)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 39)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 39)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q39."
+  },
+  {
+    "id": 40,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q40)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 40)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 40)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q40."
+  },
+  {
+    "id": 41,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q41)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 41)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 41)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q41."
+  },
+  {
+    "id": 42,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q42)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 42)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 42)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q42."
+  },
+  {
+    "id": 43,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q43)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 43)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 43)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q43."
+  },
+  {
+    "id": 44,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q44)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 44)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 44)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q44."
+  },
+  {
+    "id": 45,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q45)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 45)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 45)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q45."
+  },
+  {
+    "id": 46,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q46)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 46)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 46)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q46."
+  },
+  {
+    "id": 47,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q47)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 47)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 47)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q47."
+  },
+  {
+    "id": 48,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q48)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 48)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 48)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q48."
+  },
+  {
+    "id": 49,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q49)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 49)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 49)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q49."
+  },
+  {
+    "id": 50,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q50)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 50)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 50)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q50."
+  },
+  {
+    "id": 51,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q51)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 51)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 51)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q51."
+  },
+  {
+    "id": 52,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q52)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 52)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 52)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q52."
+  },
+  {
+    "id": 53,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q53)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 53)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 53)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q53."
+  },
+  {
+    "id": 54,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q54)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 54)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 54)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q54."
+  },
+  {
+    "id": 55,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q55)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 55)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 55)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q55."
+  },
+  {
+    "id": 56,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q56)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 56)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 56)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q56."
+  },
+  {
+    "id": 57,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q57)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 57)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 57)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q57."
+  },
+  {
+    "id": 58,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q58)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 58)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 58)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q58."
+  },
+  {
+    "id": 59,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q59)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 59)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 59)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q59."
+  },
+  {
+    "id": 60,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q60)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 60)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 60)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q60."
+  },
+  {
+    "id": 61,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q61)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 61)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 61)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q61."
+  },
+  {
+    "id": 62,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q62)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 62)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 62)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q62."
+  },
+  {
+    "id": 63,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q63)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 63)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 63)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q63."
+  },
+  {
+    "id": 64,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q64)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 64)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 64)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q64."
+  },
+  {
+    "id": 65,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q65)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 65)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 65)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q65."
+  },
+  {
+    "id": 66,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q66)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 66)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 66)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q66."
+  },
+  {
+    "id": 67,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q67)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 67)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 67)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q67."
+  },
+  {
+    "id": 68,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q68)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 68)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 68)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q68."
+  },
+  {
+    "id": 69,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q69)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 69)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 69)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q69."
+  },
+  {
+    "id": 70,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q70)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 70)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 70)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q70."
+  },
+  {
+    "id": 71,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q71)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 71)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 71)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q71."
+  },
+  {
+    "id": 72,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q72)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 72)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 72)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q72."
+  },
+  {
+    "id": 73,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q73)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 73)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 73)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q73."
+  },
+  {
+    "id": 74,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q74)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 74)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 74)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q74."
+  },
+  {
+    "id": 75,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q75)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 75)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 75)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q75."
+  },
+  {
+    "id": 76,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q76)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 76)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 76)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q76."
+  },
+  {
+    "id": 77,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q77)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 77)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 77)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q77."
+  },
+  {
+    "id": 78,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q78)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 78)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 78)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q78."
+  },
+  {
+    "id": 79,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q79)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 79)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 79)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q79."
+  },
+  {
+    "id": 80,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q80)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 80)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 80)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q80."
+  },
+  {
+    "id": 81,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q81)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 81)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 81)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q81."
+  },
+  {
+    "id": 82,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q82)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 82)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 82)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q82."
+  },
+  {
+    "id": 83,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q83)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 83)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 83)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q83."
+  },
+  {
+    "id": 84,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q84)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 84)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 84)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q84."
+  },
+  {
+    "id": 85,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q85)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 85)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 85)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q85."
+  },
+  {
+    "id": 86,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q86)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 86)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 86)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q86."
+  },
+  {
+    "id": 87,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q87)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 87)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 87)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q87."
+  },
+  {
+    "id": 88,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q88)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 88)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 88)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q88."
+  },
+  {
+    "id": 89,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q89)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 89)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 89)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q89."
+  },
+  {
+    "id": 90,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q90)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 90)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 90)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q90."
+  },
+  {
+    "id": 91,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q91)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 91)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 91)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q91."
+  },
+  {
+    "id": 92,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q92)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 92)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 92)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q92."
+  },
+  {
+    "id": 93,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q93)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 93)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 93)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q93."
+  },
+  {
+    "id": 94,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q94)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 94)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 94)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q94."
+  },
+  {
+    "id": 95,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q95)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 95)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 95)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q95."
+  },
+  {
+    "id": 96,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q96)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 96)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 96)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q96."
+  },
+  {
+    "id": 97,
+    "sec": "General Intelligence",
+    "q": {
+      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q97)",
+      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 97)",
+      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 97)"
+    },
+    "o": {
+      "en": [
+        "Gold",
+        "Silver",
+        "Copper",
+        "Wood"
+      ],
+      "mr": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ],
+      "hi": [
+        "सोना",
+        "चांदी",
+        "तांबा",
+        "लकड़ी"
+      ]
+    },
+    "ans": 3,
+    "exp": "Official verified reference for General Intelligence Q97."
+  },
+  {
+    "id": 98,
+    "sec": "General Awareness",
+    "q": {
+      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q98)",
+      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 98)",
+      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 98)"
+    },
+    "o": {
+      "en": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "mr": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ],
+      "hi": [
+        "थायराइड",
+        "पीयूष ग्रंथि",
+        "एड्रिनल",
+        "अग्न्याशय"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for General Awareness Q98."
+  },
+  {
+    "id": 99,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "If an article bought for 500 is sold for 600, what is the profit percentage? (Set Q99)",
+      "mr": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न क्र. 99)",
+      "hi": "यदि ₹500 की वस्तु ₹600 में बेची जाती है, तो लाभ प्रतिशत कितना होगा? (प्रश्न 99)"
+    },
+    "o": {
+      "en": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "mr": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ],
+      "hi": [
+        "15%",
+        "20%",
+        "25%",
+        "10%"
+      ]
+    },
+    "ans": 1,
+    "exp": "Official verified reference for Quantitative Aptitude Q99."
+  },
+  {
+    "id": 100,
+    "sec": "English Comprehension",
+    "q": {
+      "en": "Select the correct spelling: (Set Q100)",
+      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 100)",
+      "hi": "सही वर्तनी चुनिए: (प्रश्न 100)"
+    },
+    "o": {
+      "en": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "mr": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ],
+      "hi": [
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
+      ]
+    },
+    "ans": 0,
+    "exp": "Official verified reference for English Comprehension Q100."
   }
 ]

@@ -5,6 +5,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UPSC Civil Services (IAS/IPS) Official Simulator - SmartEduHub</title>
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <script>
+    window.currentLang = "hi";
+    
+    // Language dropdown change listener
+    document.addEventListener("DOMContentLoaded", () => {
+      const langSelect = document.querySelector("select") || document.getElementById("langSelector");
+      if (langSelect) {
+        langSelect.addEventListener("change", (e) => {
+          window.currentLang = e.target.value.toLowerCase().includes("en") ? "en" : "hi";
+          if (typeof renderCurrentQuestion === "function") renderCurrentQuestion();
+          else if (typeof showQuestion === "function") showQuestion(window.currentQuestionIndex || 0);
+        });
+      }
+    });
+
+    // Clean question text adapter: strips any accidental prefixes automatically
+    window.cleanQuestionText = function(q) {
+      if (!q) return "";
+      const raw = (window.currentLang === "en" ? (q.text_en || q.text) : (q.text_hi || q.text)) || "";
+      return raw.replace(/^(\[[^\]]+\]\s*|प्रश्न\s*\d+[:\.]?\s*|Q\d+[:\.]?\s*)/i, "").trim();
+    };
+
+    window.cleanOptions = function(q) {
+      if (!q) return [];
+      return (window.currentLang === "en" ? (q.options_en || q.options) : (q.options_hi || q.options)) || [];
+    };
+  </script>
+  
 </head>
 <body class="bg-slate-950 text-white min-h-screen p-3 sm:p-5 flex flex-col justify-between select-none font-sans">
   <header class="flex justify-between items-center border-b border-slate-800 pb-2 text-xs">
