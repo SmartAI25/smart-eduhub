@@ -3,3100 +3,2400 @@
     "id": 1,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which country is known as the 'Land of the Free'?",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q1."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 2,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "What is the value of 2^5 + 3^4?",
+      "hi": "2^5 + 3^4 का मान क्या है?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q2."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 3,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is:",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए:",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए:"
+      "en": "Which of the following is a synonym for 'happy'?",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है?"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q3."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 4,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Who wrote 'Pride and Prejudice'?",
+      "hi": "किसने 'प्रेम और पहचान' लिखा?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q4."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 5,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units?",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q5."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 6,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling:",
-      "mr": "सही वर्तनी चुनिए:",
-      "hi": "सही वर्तनी चुनिए:"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 6)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 6)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q6."
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 7,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 7)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 7)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q7."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 8,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 8)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 8)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q8."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 9,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is:",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए:",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए:"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 9)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 9)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q9."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 10,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 10)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 10)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q10."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 11,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q11)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 11)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 11)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 11)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 11)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q11."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 12,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q12)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 12)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 12)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 12)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 12)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q12."
+    "ans": 1,
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 13,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q13)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 13)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 13)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 13)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 13)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q13."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 14,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q14)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 14)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 14)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 14)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 14)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q14."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 15,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q15)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 15)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 15)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 15)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 15)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q15."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 16,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q16)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 16)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 16)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 16)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 16)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q16."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 17,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q17)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 17)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 17)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 17)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 17)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q17."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 18,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q18)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 18)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 18)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 18)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 18)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q18."
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 19,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q19)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 19)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 19)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 19)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 19)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q19."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 20,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q20)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 20)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 20)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 20)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 20)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q20."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 21,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q21)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 21)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 21)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 21)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 21)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q21."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 22,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q22)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 22)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 22)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 22)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 22)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q22."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 23,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q23)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 23)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 23)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 23)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 23)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q23."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 24,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q24)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 24)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 24)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 24)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 24)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q24."
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 25,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q25)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 25)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 25)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 25)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 25)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q25."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 26,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q26)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 26)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 26)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 26)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 26)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q26."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 27,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q27)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 27)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 27)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 27)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 27)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q27."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 28,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q28)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 28)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 28)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 28)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 28)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q28."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 29,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q29)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 29)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 29)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 29)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 29)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q29."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 30,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q30)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 30)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 30)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 30)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 30)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q30."
+    "ans": 1,
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 31,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q31)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 31)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 31)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 31)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 31)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q31."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 32,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q32)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 32)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 32)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 32)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 32)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q32."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 33,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q33)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 33)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 33)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 33)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 33)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q33."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 34,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q34)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 34)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 34)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 34)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 34)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q34."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 35,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q35)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 35)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 35)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 35)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 35)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q35."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 36,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q36)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 36)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 36)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 36)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 36)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q36."
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 37,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q37)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 37)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 37)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 37)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 37)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q37."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 38,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q38)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 38)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 38)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 38)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 38)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q38."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 39,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q39)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 39)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 39)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 39)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 39)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q39."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 40,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q40)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 40)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 40)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 40)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 40)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q40."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 41,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q41)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 41)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 41)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 41)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 41)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q41."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 42,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q42)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 42)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 42)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 42)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 42)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q42."
+    "ans": 1,
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 43,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q43)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 43)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 43)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 43)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 43)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q43."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 44,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q44)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 44)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 44)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 44)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 44)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q44."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 45,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q45)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 45)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 45)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 45)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 45)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q45."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 46,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q46)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 46)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 46)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 46)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 46)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q46."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 47,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q47)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 47)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 47)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 47)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 47)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q47."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 48,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q48)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 48)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 48)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 48)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 48)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q48."
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 49,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q49)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 49)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 49)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 49)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 49)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q49."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 50,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q50)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 50)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 50)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 50)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 50)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q50."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 51,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q51)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 51)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 51)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 51)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 51)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q51."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 52,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q52)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 52)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 52)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 52)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 52)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q52."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 53,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q53)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 53)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 53)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 53)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 53)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q53."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 54,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q54)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 54)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 54)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 54)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 54)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q54."
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 55,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q55)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 55)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 55)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 55)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 55)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q55."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 56,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q56)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 56)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 56)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 56)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 56)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q56."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 57,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q57)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 57)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 57)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 57)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 57)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q57."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 58,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q58)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 58)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 58)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 58)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 58)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q58."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 59,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q59)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 59)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 59)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 59)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 59)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q59."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 60,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q60)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 60)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 60)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 60)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 60)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q60."
+    "ans": 1,
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 61,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q61)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 61)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 61)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 61)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 61)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q61."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 62,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q62)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 62)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 62)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 62)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 62)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q62."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 63,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q63)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 63)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 63)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 63)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 63)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q63."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 64,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q64)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 64)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 64)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 64)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 64)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q64."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 65,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q65)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 65)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 65)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 65)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 65)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q65."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 66,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q66)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 66)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 66)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 66)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 66)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q66."
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 67,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q67)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 67)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 67)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 67)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 67)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q67."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 68,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q68)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 68)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 68)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 68)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 68)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q68."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 69,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q69)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 69)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 69)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 69)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 69)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q69."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 70,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q70)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 70)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 70)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 70)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 70)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q70."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 71,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q71)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 71)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 71)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 71)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 71)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q71."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 72,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q72)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 72)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 72)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 72)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 72)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q72."
+    "ans": 1,
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 73,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q73)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 73)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 73)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 73)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 73)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q73."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 74,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q74)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 74)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 74)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 74)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 74)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q74."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 75,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q75)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 75)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 75)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 75)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 75)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q75."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 76,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q76)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 76)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 76)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 76)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 76)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q76."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 77,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q77)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 77)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 77)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 77)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 77)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q77."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 78,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q78)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 78)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 78)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 78)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 78)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q78."
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 79,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q79)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 79)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 79)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 79)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 79)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q79."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 80,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q80)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 80)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 80)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 80)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 80)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q80."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 81,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q81)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 81)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 81)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 81)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 81)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q81."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 82,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q82)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 82)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 82)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 82)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 82)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q82."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 83,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q83)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 83)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 83)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 83)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 83)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q83."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 84,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q84)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 84)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 84)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 84)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 84)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q84."
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 85,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q85)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 85)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 85)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 85)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 85)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q85."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 86,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q86)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 86)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 86)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 86)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 86)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q86."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 87,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q87)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 87)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 87)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 87)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 87)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for English Q87."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 88,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q88)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 88)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 88)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 88)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 88)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q88."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 89,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q89)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 89)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 89)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 89)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 89)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q89."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 90,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q90)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 90)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 90)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 90)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 90)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
-    "ans": 0,
-    "exp": "Official verified reference for English Q90."
+    "ans": 1,
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 91,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q91)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 91)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 91)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 91)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 91)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q91."
+    "ans": 0,
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 92,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q92)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 92)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 92)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 92)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 92)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q92."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 93,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q93)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 93)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 93)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 93)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 93)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q93."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 94,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q94)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 94)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 94)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 94)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 94)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q94."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 95,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q95)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 95)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 95)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 95)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 95)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q95."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   },
   {
     "id": 96,
     "sec": "English",
     "q": {
-      "en": "Select the correct spelling: (Set Q96)",
-      "mr": "सही वर्तनी चुनिए: (प्रश्न क्र. 96)",
-      "hi": "सही वर्तनी चुनिए: (प्रश्न 96)"
+      "en": "Which country is known as the 'Land of the Free'? (Core Concept 96)",
+      "hi": "किस देश को 'मुक्त देश' कहा जाता है? (मानक प्रश्न 96)"
     },
     "o": {
       "en": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
-      ],
-      "mr": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "Canada",
+        "Australia",
+        "Germany"
       ],
       "hi": [
-        "Accommodate",
-        "Acommodate",
-        "Accomodate",
-        "Acomodate"
+        "USA",
+        "कनाडा",
+        "ऑस्ट्रेलिया",
+        "जर्मनी"
       ]
     },
     "ans": 0,
-    "exp": "Official verified reference for English Q96."
+    "exp": "The United States of America is often referred to as the 'Land of the Free' due to its history of political freedom and democratic ideals."
   },
   {
     "id": 97,
     "sec": "General Knowledge",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q97)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 97)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 97)"
+      "en": "What is the value of 2^5 + 3^4? (Core Concept 97)",
+      "hi": "2^5 + 3^4 का मान क्या है? (मानक प्रश्न 97)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "37",
+        "41",
+        "45",
+        "53"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q97."
+    "exp": "2^5 = 32 and 3^4 = 81. Therefore, 2^5 + 3^4 = 32 + 81 = 113."
   },
   {
     "id": 98,
     "sec": "Elementary Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q98)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 98)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 98)"
+      "en": "Which of the following is a synonym for 'happy'? (Core Concept 98)",
+      "hi": "निम्नलिखित में से कौन सा 'खुशी' का अर्थ है? (मानक प्रश्न 98)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "खुशीपूर्ण",
+        "दुखी",
+        "राहत नहीं",
+        "मार्जित"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Elementary Mathematics Q98."
+    "ans": 0,
+    "exp": "Joyful is a synonym for happy as both words describe a positive emotional state."
   },
   {
     "id": 99,
     "sec": "English",
     "q": {
-      "en": "Synonym of DILIGENT is: (Set Q99)",
-      "mr": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न क्र. 99)",
-      "hi": "DILIGENT शब्द का पर्यायवाची चुनिए: (प्रश्न 99)"
+      "en": "Who wrote 'Pride and Prejudice'? (Core Concept 99)",
+      "hi": "किसने 'प्रेम और पहचान' लिखा? (मानक प्रश्न 99)"
     },
     "o": {
       "en": [
-        "Lazy",
-        "Hardworking",
-        "Proud",
-        "Careless"
-      ],
-      "mr": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "Jane Austen",
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain"
       ],
       "hi": [
-        "आलसी",
-        "परिश्रमी (Hardworking)",
-        "अभिमानी",
-        "लापरवाह"
+        "जेन अस्टन",
+        "चार्ल्स डिक्सन",
+        "विलियम शेखर",
+        "मैक ट्वैन"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Q99."
+    "ans": 0,
+    "exp": "Jane Austen wrote 'Pride and Prejudice', a classic novel that explores themes of love, marriage, and social status in 19th-century England."
   },
   {
     "id": 100,
     "sec": "General Knowledge",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q100)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 100)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 100)"
+      "en": "What is the area of a rectangle with length 10 units and width 5 units? (Core Concept 100)",
+      "hi": "आयाम 10 इकाई और चौड़ाई 5 इकाई के एक आयत का क्षेत्रफल क्या है? (मानक प्रश्न 100)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "25",
+        "50",
+        "75",
+        "100"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for General Knowledge Q100."
+    "exp": "The area of a rectangle is calculated by multiplying its length by its width. Therefore, 10 * 5 = 50 square units."
   }
 ]

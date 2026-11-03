@@ -3,3100 +3,2400 @@
     "id": 1,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "What is the sum of the first 100 natural numbers?",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q1."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 2,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is an example of a syllogism?",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q2."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 3,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is a correct sentence?",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q3."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 4,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "What is the value of pi (π) to two decimal places?",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q4."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 5,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C?",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q5."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 6,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 6)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 6)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q6."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 7,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 7)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 7)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q7."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 8,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is a correct sentence? (Core Concept 8)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 8)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q8."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 9,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 9)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 9)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q9."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 10,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 10)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 10)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q10."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 11,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q11)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 11)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 11)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 11)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 11)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q11."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 12,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q12)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 12)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 12)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 12)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 12)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q12."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 13,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q13)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 13)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 13)"
+      "en": "Which of the following is a correct sentence? (Core Concept 13)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 13)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q13."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 14,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q14)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 14)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 14)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 14)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 14)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q14."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 15,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q15)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 15)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 15)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 15)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 15)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q15."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 16,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q16)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 16)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 16)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 16)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 16)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q16."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 17,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q17)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 17)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 17)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 17)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 17)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q17."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 18,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q18)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 18)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 18)"
+      "en": "Which of the following is a correct sentence? (Core Concept 18)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 18)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q18."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 19,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q19)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 19)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 19)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 19)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 19)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q19."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 20,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q20)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 20)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 20)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 20)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 20)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q20."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 21,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q21)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 21)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 21)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 21)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 21)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q21."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 22,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q22)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 22)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 22)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 22)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 22)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q22."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 23,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q23)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 23)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 23)"
+      "en": "Which of the following is a correct sentence? (Core Concept 23)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 23)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q23."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 24,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q24)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 24)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 24)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 24)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 24)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q24."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 25,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q25)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 25)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 25)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 25)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 25)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q25."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 26,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q26)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 26)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 26)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 26)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 26)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q26."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 27,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q27)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 27)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 27)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 27)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 27)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q27."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 28,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q28)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 28)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 28)"
+      "en": "Which of the following is a correct sentence? (Core Concept 28)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 28)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q28."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 29,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q29)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 29)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 29)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 29)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 29)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q29."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 30,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q30)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 30)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 30)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 30)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 30)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q30."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 31,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q31)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 31)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 31)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 31)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 31)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q31."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 32,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q32)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 32)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 32)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 32)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 32)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q32."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 33,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q33)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 33)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 33)"
+      "en": "Which of the following is a correct sentence? (Core Concept 33)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 33)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q33."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 34,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q34)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 34)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 34)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 34)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 34)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q34."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 35,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q35)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 35)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 35)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 35)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 35)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q35."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 36,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q36)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 36)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 36)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 36)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 36)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q36."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 37,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q37)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 37)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 37)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 37)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 37)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q37."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 38,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q38)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 38)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 38)"
+      "en": "Which of the following is a correct sentence? (Core Concept 38)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 38)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q38."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 39,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q39)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 39)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 39)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 39)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 39)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q39."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 40,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q40)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 40)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 40)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 40)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 40)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q40."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 41,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q41)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 41)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 41)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 41)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 41)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q41."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 42,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q42)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 42)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 42)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 42)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 42)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q42."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 43,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q43)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 43)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 43)"
+      "en": "Which of the following is a correct sentence? (Core Concept 43)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 43)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q43."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 44,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q44)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 44)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 44)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 44)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 44)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q44."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 45,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q45)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 45)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 45)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 45)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 45)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q45."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 46,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q46)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 46)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 46)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 46)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 46)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q46."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 47,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q47)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 47)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 47)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 47)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 47)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q47."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 48,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q48)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 48)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 48)"
+      "en": "Which of the following is a correct sentence? (Core Concept 48)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 48)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q48."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 49,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q49)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 49)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 49)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 49)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 49)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q49."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 50,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q50)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 50)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 50)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 50)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 50)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q50."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 51,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q51)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 51)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 51)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 51)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 51)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q51."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 52,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q52)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 52)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 52)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 52)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 52)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q52."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 53,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q53)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 53)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 53)"
+      "en": "Which of the following is a correct sentence? (Core Concept 53)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 53)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q53."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 54,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q54)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 54)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 54)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 54)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 54)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q54."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 55,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q55)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 55)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 55)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 55)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 55)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q55."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 56,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q56)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 56)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 56)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 56)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 56)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q56."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 57,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q57)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 57)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 57)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 57)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 57)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q57."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 58,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q58)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 58)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 58)"
+      "en": "Which of the following is a correct sentence? (Core Concept 58)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 58)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q58."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 59,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q59)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 59)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 59)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 59)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 59)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q59."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 60,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q60)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 60)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 60)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 60)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 60)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q60."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 61,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q61)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 61)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 61)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 61)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 61)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q61."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 62,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q62)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 62)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 62)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 62)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 62)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q62."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 63,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q63)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 63)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 63)"
+      "en": "Which of the following is a correct sentence? (Core Concept 63)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 63)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q63."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 64,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q64)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 64)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 64)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 64)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 64)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q64."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 65,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q65)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 65)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 65)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 65)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 65)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q65."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 66,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q66)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 66)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 66)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 66)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 66)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q66."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 67,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q67)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 67)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 67)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 67)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 67)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q67."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 68,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q68)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 68)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 68)"
+      "en": "Which of the following is a correct sentence? (Core Concept 68)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 68)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q68."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 69,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q69)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 69)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 69)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 69)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 69)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q69."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 70,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q70)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 70)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 70)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 70)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 70)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q70."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 71,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q71)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 71)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 71)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 71)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 71)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q71."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 72,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q72)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 72)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 72)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 72)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 72)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q72."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 73,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q73)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 73)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 73)"
+      "en": "Which of the following is a correct sentence? (Core Concept 73)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 73)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q73."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 74,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q74)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 74)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 74)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 74)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 74)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q74."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 75,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q75)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 75)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 75)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 75)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 75)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q75."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 76,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q76)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 76)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 76)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 76)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 76)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q76."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 77,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q77)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 77)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 77)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 77)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 77)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q77."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 78,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q78)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 78)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 78)"
+      "en": "Which of the following is a correct sentence? (Core Concept 78)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 78)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q78."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 79,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q79)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 79)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 79)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 79)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 79)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q79."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 80,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q80)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 80)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 80)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 80)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 80)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q80."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 81,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q81)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 81)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 81)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 81)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 81)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q81."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 82,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q82)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 82)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 82)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 82)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 82)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q82."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 83,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q83)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 83)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 83)"
+      "en": "Which of the following is a correct sentence? (Core Concept 83)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 83)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q83."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 84,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q84)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 84)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 84)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 84)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 84)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q84."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 85,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q85)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 85)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 85)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 85)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 85)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q85."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 86,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q86)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 86)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 86)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 86)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 86)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q86."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 87,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q87)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 87)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 87)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 87)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 87)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q87."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 88,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q88)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 88)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 88)"
+      "en": "Which of the following is a correct sentence? (Core Concept 88)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 88)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q88."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 89,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q89)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 89)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 89)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 89)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 89)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q89."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 90,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q90)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 90)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 90)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 90)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 90)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q90."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 91,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q91)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 91)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 91)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 91)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 91)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q91."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 92,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q92)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 92)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 92)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 92)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 92)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q92."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 93,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q93)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 93)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 93)"
+      "en": "Which of the following is a correct sentence? (Core Concept 93)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 93)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q93."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 94,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q94)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 94)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 94)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 94)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 94)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q94."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 95,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q95)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 95)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 95)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 95)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 95)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q95."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   },
   {
     "id": 96,
     "sec": "English Language",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q96)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 96)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 96)"
+      "en": "What is the sum of the first 100 natural numbers? (Core Concept 96)",
+      "hi": "पहले 100 प्राकृतिक संख्याओं का योग क्या है? (मानक प्रश्न 96)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "5050",
+        "5000",
+        "4950",
+        "4900"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q96."
+    "ans": 0,
+    "exp": "The sum of the first n natural numbers is given by the formula n*(n+1)/2. For n=100, the sum is 100*(100+1)/2 = 5050."
   },
   {
     "id": 97,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q97)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 97)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 97)"
+      "en": "Which of the following is an example of a syllogism? (Core Concept 97)",
+      "hi": "निम्नलिखित में से कौन सा एक सिलोगिस्म है? (मानक प्रश्न 97)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
+        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
+        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
+        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सभी आदमी मौती हैं। सोक्रेट एक आदमी है। इसलिए, सोक्रेट मौती है।",
+        "सभी पक्षी उड़ सकते हैं। सपरू हैं पक्षी। इसलिए, सपरू उड़ सकते हैं।",
+        "सभी कुत्ते मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी कुत्ते जानवर हैं।",
+        "सभी बिल्ली मानव हैं। सभी मानव जानवर हैं। इसलिए, सभी बिल्ली जानवर हैं।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q97."
+    "ans": 0,
+    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
   },
   {
     "id": 98,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q98)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 98)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 98)"
+      "en": "Which of the following is a correct sentence? (Core Concept 98)",
+      "hi": "निम्नलिखित में से कौन सा एक सही वाक्य है? (मानक प्रश्न 98)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "The cat is sleeping on the mat.",
+        "The cat sleeping on the mat.",
+        "The cat is sleeping on a mat.",
+        "The cat is sleeping on the a mat."
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।",
+        "कुत्ता माट पर रहा है।"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Reasoning Ability Q98."
+    "ans": 0,
+    "exp": "The correct sentence is 'The cat is sleeping on the mat.' It follows proper subject-verb agreement and uses the correct preposition."
   },
   {
     "id": 99,
     "sec": "English Language",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q99)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 99)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 99)"
+      "en": "What is the value of pi (π) to two decimal places? (Core Concept 99)",
+      "hi": "पिए (π) का मान दो अंशों तक क्या है? (मानक प्रश्न 99)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for English Language Q99."
+    "ans": 0,
+    "exp": "The value of pi (π) to two decimal places is 3.14."
   },
   {
     "id": 100,
     "sec": "Numerical Ability",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q100)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 100)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 100)"
+      "en": "If A is a subset of B and B is a subset of C, then what is the relationship between A and C? (Core Concept 100)",
+      "hi": "यदि A बी का एक उपसमुखीय सेट है और बी ची का एक उपसमुखीय सेट है, तो A और C के बीच क्या संबंध है? (मानक प्रश्न 100)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A is a subset of C",
+        "A is equal to C",
+        "A is a superset of C",
+        "A is not related to C"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "A ची का एक उपसमुखीय सेट है",
+        "A ची बराबर है",
+        "A ची एक उपसमुखीय सेट है",
+        "A ची से जोड़ा नहीं है"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Numerical Ability Q100."
+    "ans": 0,
+    "exp": "If A is a subset of B and B is a subset of C, then A is a subset of C. This is because every element of A is also an element of B, and every element of B is also an element of C."
   }
 ]

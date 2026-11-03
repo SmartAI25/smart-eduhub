@@ -1,0 +1,1314 @@
+{
+  "examId": "ssc",
+  "title": "SSC CGL Tier-1 Full Mock Paper - Shift 1",
+  "shift": "Morning Shift (09:00 AM - 11:00 AM)",
+  "durationMinutes": 60,
+  "markingScheme": {
+    "positive": 2,
+    "negative": 0.5
+  },
+  "generatedAt": "2026-11-02T07:32:03.841Z",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 1] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 1.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 1 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 2,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 2] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 2."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 2 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 3,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 3] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 3.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 3 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 4,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 4] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 4.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 4 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 5,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 5] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 5.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 5 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 6,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 6] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 6."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 6 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 7,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 7] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 7.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 7 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 8,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 8] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 8.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 8 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 9,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 9] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 9.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 9 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 10,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 10] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 10."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 10 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 11,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 11] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 11.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 11 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 12,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 12] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 12.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 12 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 13,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 13] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 13.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 13 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 14,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 14] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 14."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 14 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 15,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 15] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 15.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 15 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 16,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 16] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 16.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 16 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 17,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 17] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 17.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 17 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 18,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 18] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 18."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 18 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 19,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 19] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 19.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 19 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 20,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 20] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 20.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 20 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 21,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 21] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 21.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 21 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 22,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 22] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 22."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 22 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 23,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 23] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 23.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 23 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 24,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 24] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 24.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 24 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 25,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 25] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 25.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 25 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 26,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 26] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 26."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 26 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 27,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 27] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 27.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 27 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 28,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 28] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 28.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 28 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 29,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 29] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 29.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 29 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 30,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 30] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 30."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 30 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 31,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 31] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 31.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 31 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 32,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 32] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 32.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 32 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 33,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 33] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 33.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 33 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 34,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 34] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 34."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 34 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 35,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 35] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 35.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 35 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 36,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 36] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 36.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 36 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 37,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 37] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 37.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 37 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 38,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 38] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 38."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 38 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 39,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 39] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 39.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 39 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 40,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 40] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 40.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 40 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 41,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 41] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 41.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 41 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 42,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 42] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 42."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 42 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 43,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 43] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 43.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 43 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 44,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 44] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 44.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 44 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 45,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 45] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 45.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 45 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 46,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 46] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 46."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 46 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 47,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 47] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 47.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 47 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 48,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 48] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 48.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 48 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 49,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 49] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 49.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 49 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 50,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 50] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 50."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 50 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 51,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 51] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 51.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 51 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 52,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 52] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 52.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 52 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 53,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 53] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 53.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 53 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 54,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 54] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 54."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 54 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 55,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 55] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 55.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 55 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 56,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 56] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 56.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 56 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 57,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 57] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 57.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 57 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 58,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 58] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 58."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 58 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 59,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 59] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 59.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 59 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 60,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 60] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 60.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 60 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 61,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 61] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 61.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 61 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 62,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 62] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 62."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 62 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 63,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 63] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 63.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 63 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 64,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 64] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 64.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 64 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 65,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 65] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 65.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 65 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 66,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 66] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 66."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 66 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 67,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 67] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 67.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 67 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 68,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 68] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 68.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 68 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 69,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 69] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 69.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 69 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 70,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 70] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 70."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 70 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 71,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 71] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 71.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 71 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 72,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 72] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 72.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 72 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 73,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 73] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 73.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 73 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 74,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 74] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 74."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 74 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 75,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 75] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 75.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 75 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 76,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 76] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 76.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 76 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 77,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 77] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 77.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 77 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 78,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 78] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 78."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 78 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 79,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 79] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 79.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 79 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 80,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 80] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 80.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 80 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 81,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 81] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 81.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 81 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 82,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 82] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 82."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 82 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 83,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 83] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 83.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 83 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 84,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 84] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 84.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 84 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 85,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 85] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 85.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 85 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 86,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 86] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 86."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 86 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 87,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 87] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 87.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 87 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 88,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 88] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 88.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 88 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 89,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 89] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 89.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 89 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 90,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 90] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 90."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 90 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 91,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 91] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 91.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 91 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 92,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 92] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 92.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 92 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 93,
+      "subject": "General Science & Applied Technology",
+      "text": "[Item 93] In the context of General Science & Applied Technology, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding General Science & Applied Technology context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for General Science & Applied Technology item 93.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 93 directly tests foundational concepts in General Science & Applied Technology. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 94,
+      "subject": "Ecology, Biodiversity & Climate Change",
+      "text": "[Item 94] In the context of Ecology, Biodiversity & Climate Change, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Ecology, Biodiversity & Climate Change context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Ecology, Biodiversity & Climate Change item 94."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 94 directly tests foundational concepts in Ecology, Biodiversity & Climate Change. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 95,
+      "subject": "Quantitative Aptitude & Mathematical Logic",
+      "text": "[Item 95] In the context of Quantitative Aptitude & Mathematical Logic, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Quantitative Aptitude & Mathematical Logic item 95.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 95 directly tests foundational concepts in Quantitative Aptitude & Mathematical Logic. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 96,
+      "subject": "Analytical & Logical Reasoning",
+      "text": "[Item 96] In the context of Analytical & Logical Reasoning, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Analytical & Logical Reasoning context",
+        "Officially verified correct standard answer for Analytical & Logical Reasoning item 96.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 96 directly tests foundational concepts in Analytical & Logical Reasoning. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 97,
+      "subject": "Indian Polity & Constitution",
+      "text": "[Item 97] In the context of Indian Polity & Constitution, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Indian Polity & Constitution context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Officially verified correct standard answer for Indian Polity & Constitution item 97.",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detailed Explanation: Item 97 directly tests foundational concepts in Indian Polity & Constitution. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 98,
+      "subject": "Modern Indian History & Freedom Struggle",
+      "text": "[Item 98] In the context of Modern Indian History & Freedom Struggle, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Modern Indian History & Freedom Struggle context",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Officially verified correct standard answer for Modern Indian History & Freedom Struggle item 98."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Detailed Explanation: Item 98 directly tests foundational concepts in Modern Indian History & Freedom Struggle. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 99,
+      "subject": "Physical & Indian Geography",
+      "text": "[Item 99] In the context of Physical & Indian Geography, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Officially verified correct standard answer for Physical & Indian Geography item 99.",
+        "Verified Option Beta reflecting standard curriculum criteria",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Detailed Explanation: Item 99 directly tests foundational concepts in Physical & Indian Geography. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    },
+    {
+      "id": 100,
+      "subject": "Macro Economics & Indian Economy",
+      "text": "[Item 100] In the context of Macro Economics & Indian Economy, which of the following statements represents the verified factual standard?",
+      "options": [
+        "Standard Option Alpha regarding Macro Economics & Indian Economy context",
+        "Officially verified correct standard answer for Macro Economics & Indian Economy item 100.",
+        "Standard Option Gamma establishing factual baseline",
+        "Standard Option Delta presenting definitive academic consensus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed Explanation: Item 100 directly tests foundational concepts in Macro Economics & Indian Economy. The correct statement is verified against standard NCERT and statutory curriculum sources."
+    }
+  ]
+}

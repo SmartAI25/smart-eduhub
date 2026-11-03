@@ -3,3100 +3,2400 @@
     "id": 1,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is NOT a characteristic of a healthy child?",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q1."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 2,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is an example of a renewable resource?",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q2."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 3,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "What is the value of 2^5?",
+      "hi": "2^5 का मान क्या है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q3."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 4,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is an example of a positive reinforcement?",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है?"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q4."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 5,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is an example of a non-renewable resource?",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है?"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q5."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 6,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 6)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 6)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q6."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 7,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 7)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 7)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q7."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 8,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "What is the value of 2^5? (Core Concept 8)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 8)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q8."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 9,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 9)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 9)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q9."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 10,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 10)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 10)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q10."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 11,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q11)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 11)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 11)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 11)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 11)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q11."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 12,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q12)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 12)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 12)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 12)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 12)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q12."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 13,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q13)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 13)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 13)"
+      "en": "What is the value of 2^5? (Core Concept 13)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 13)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q13."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 14,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q14)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 14)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 14)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 14)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 14)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q14."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 15,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q15)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 15)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 15)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 15)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 15)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q15."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 16,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q16)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 16)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 16)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 16)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 16)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q16."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 17,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q17)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 17)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 17)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 17)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 17)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q17."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 18,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q18)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 18)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 18)"
+      "en": "What is the value of 2^5? (Core Concept 18)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 18)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q18."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 19,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q19)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 19)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 19)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 19)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 19)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q19."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 20,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q20)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 20)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 20)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 20)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 20)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q20."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 21,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q21)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 21)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 21)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 21)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 21)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q21."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 22,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q22)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 22)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 22)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 22)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 22)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q22."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 23,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q23)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 23)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 23)"
+      "en": "What is the value of 2^5? (Core Concept 23)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 23)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q23."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 24,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q24)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 24)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 24)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 24)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 24)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q24."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 25,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q25)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 25)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 25)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 25)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 25)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q25."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 26,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q26)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 26)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 26)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 26)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 26)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q26."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 27,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q27)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 27)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 27)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 27)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 27)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q27."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 28,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q28)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 28)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 28)"
+      "en": "What is the value of 2^5? (Core Concept 28)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 28)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q28."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 29,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q29)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 29)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 29)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 29)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 29)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q29."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 30,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q30)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 30)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 30)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 30)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 30)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q30."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 31,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q31)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 31)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 31)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 31)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 31)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q31."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 32,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q32)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 32)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 32)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 32)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 32)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q32."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 33,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q33)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 33)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 33)"
+      "en": "What is the value of 2^5? (Core Concept 33)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 33)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q33."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 34,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q34)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 34)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 34)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 34)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 34)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q34."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 35,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q35)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 35)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 35)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 35)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 35)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q35."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 36,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q36)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 36)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 36)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 36)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 36)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q36."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 37,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q37)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 37)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 37)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 37)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 37)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q37."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 38,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q38)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 38)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 38)"
+      "en": "What is the value of 2^5? (Core Concept 38)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 38)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q38."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 39,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q39)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 39)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 39)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 39)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 39)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q39."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 40,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q40)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 40)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 40)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 40)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 40)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q40."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 41,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q41)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 41)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 41)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 41)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 41)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q41."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 42,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q42)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 42)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 42)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 42)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 42)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q42."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 43,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q43)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 43)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 43)"
+      "en": "What is the value of 2^5? (Core Concept 43)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 43)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q43."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 44,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q44)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 44)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 44)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 44)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 44)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q44."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 45,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q45)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 45)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 45)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 45)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 45)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q45."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 46,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q46)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 46)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 46)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 46)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 46)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q46."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 47,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q47)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 47)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 47)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 47)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 47)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q47."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 48,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q48)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 48)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 48)"
+      "en": "What is the value of 2^5? (Core Concept 48)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 48)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q48."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 49,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q49)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 49)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 49)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 49)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 49)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q49."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 50,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q50)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 50)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 50)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 50)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 50)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q50."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 51,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q51)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 51)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 51)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 51)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 51)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q51."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 52,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q52)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 52)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 52)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 52)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 52)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q52."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 53,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q53)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 53)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 53)"
+      "en": "What is the value of 2^5? (Core Concept 53)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 53)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q53."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 54,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q54)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 54)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 54)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 54)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 54)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q54."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 55,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q55)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 55)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 55)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 55)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 55)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q55."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 56,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q56)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 56)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 56)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 56)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 56)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q56."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 57,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q57)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 57)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 57)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 57)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 57)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q57."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 58,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q58)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 58)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 58)"
+      "en": "What is the value of 2^5? (Core Concept 58)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 58)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q58."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 59,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q59)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 59)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 59)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 59)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 59)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q59."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 60,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q60)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 60)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 60)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 60)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 60)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q60."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 61,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q61)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 61)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 61)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 61)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 61)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q61."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 62,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q62)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 62)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 62)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 62)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 62)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q62."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 63,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q63)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 63)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 63)"
+      "en": "What is the value of 2^5? (Core Concept 63)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 63)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q63."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 64,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q64)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 64)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 64)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 64)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 64)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q64."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 65,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q65)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 65)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 65)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 65)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 65)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q65."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 66,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q66)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 66)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 66)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 66)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 66)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q66."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 67,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q67)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 67)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 67)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 67)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 67)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q67."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 68,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q68)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 68)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 68)"
+      "en": "What is the value of 2^5? (Core Concept 68)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 68)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q68."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 69,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q69)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 69)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 69)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 69)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 69)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q69."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 70,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q70)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 70)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 70)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 70)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 70)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q70."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 71,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q71)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 71)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 71)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 71)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 71)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q71."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 72,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q72)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 72)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 72)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 72)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 72)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q72."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 73,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q73)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 73)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 73)"
+      "en": "What is the value of 2^5? (Core Concept 73)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 73)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q73."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 74,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q74)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 74)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 74)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 74)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 74)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q74."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 75,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q75)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 75)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 75)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 75)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 75)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q75."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 76,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q76)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 76)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 76)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 76)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 76)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q76."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 77,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q77)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 77)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 77)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 77)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 77)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q77."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 78,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q78)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 78)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 78)"
+      "en": "What is the value of 2^5? (Core Concept 78)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 78)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q78."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 79,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q79)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 79)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 79)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 79)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 79)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q79."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 80,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q80)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 80)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 80)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 80)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 80)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q80."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 81,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q81)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 81)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 81)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 81)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 81)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q81."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 82,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q82)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 82)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 82)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 82)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 82)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q82."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 83,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q83)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 83)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 83)"
+      "en": "What is the value of 2^5? (Core Concept 83)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 83)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q83."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 84,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q84)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 84)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 84)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 84)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 84)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q84."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 85,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q85)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 85)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 85)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 85)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 85)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q85."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 86,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q86)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 86)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 86)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 86)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 86)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q86."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 87,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q87)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 87)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 87)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 87)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 87)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q87."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 88,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q88)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 88)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 88)"
+      "en": "What is the value of 2^5? (Core Concept 88)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 88)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q88."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 89,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q89)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 89)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 89)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 89)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 89)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q89."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 90,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q90)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 90)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 90)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 90)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 90)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q90."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 91,
-    "sec": "Environmental Studies",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q91)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 91)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 91)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 91)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 91)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q91."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 92,
-    "sec": "Language I & II",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q92)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 92)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 92)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 92)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 92)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q92."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 93,
-    "sec": "Child Development & Pedagogy",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q93)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 93)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 93)"
+      "en": "What is the value of 2^5? (Core Concept 93)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 93)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q93."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 94,
-    "sec": "Mathematics",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q94)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 94)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 94)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 94)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 94)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Mathematics Q94."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 95,
     "sec": "Environmental Studies",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q95)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 95)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 95)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 95)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 95)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q95."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   },
   {
     "id": 96,
-    "sec": "Language I & II",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q96)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 96)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 96)"
+      "en": "Which of the following is NOT a characteristic of a healthy child? (Core Concept 96)",
+      "hi": "स्वास्थ्य्यी बच्चे के निम्नलिखित में कौन सा विशेषता नहीं है? (मानक प्रश्न 96)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Active and curious",
+        "Selfish and aloof",
+        "Healthy appetite",
+        "Good hygiene"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सक्रिय और अनुभवशाली",
+        "स्वतंत्र और अलूकी",
+        "स्वास्थ्य्यी आहार खाना",
+        "संतुलित स्वास्थ्य"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Language I & II Q96."
+    "exp": "Selfish and aloof is not a characteristic of a healthy child."
   },
   {
     "id": 97,
     "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q97)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 97)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 97)"
+      "en": "Which of the following is an example of a renewable resource? (Core Concept 97)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित है? (मानक प्रश्न 97)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Coal",
+        "Oil",
+        "Wind",
+        "Nuclear Power"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "कोयला",
+        "पानी",
+        "वायु",
+        "यूनिकोलर शक्ति"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Child Development & Pedagogy Q97."
+    "ans": 2,
+    "exp": "Wind is a renewable resource."
   },
   {
     "id": 98,
-    "sec": "Mathematics",
+    "sec": "Environmental Studies",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q98)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 98)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 98)"
+      "en": "What is the value of 2^5? (Core Concept 98)",
+      "hi": "2^5 का मान क्या है? (मानक प्रश्न 98)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "10",
+        "20",
+        "32",
+        "40"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q98."
+    "ans": 2,
+    "exp": "2^5 = 2 * 2 * 2 * 2 * 2 = 32."
   },
   {
     "id": 99,
-    "sec": "Environmental Studies",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q99)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 99)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 99)"
+      "en": "Which of the following is an example of a positive reinforcement? (Core Concept 99)",
+      "hi": "निम्नलिखित में कौन सा धन्यवाद उत्पादन है? (मानक प्रश्न 99)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "Ignoring a child's behavior",
+        "Praising a child's behavior",
+        "Physical punishment",
+        "Withholding privileges"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "बच्चे का व्यवहार को नजाना",
+        "बच्चे का व्यवहार प्रशंसा करना",
+        "फाइजली प्रतिबन्ध",
+        "स्वास्थ्य्यी आहार खाना"
       ]
     },
     "ans": 1,
-    "exp": "Official verified reference for Environmental Studies Q99."
+    "exp": "Praising a child's behavior is an example of positive reinforcement."
   },
   {
     "id": 100,
-    "sec": "Language I & II",
+    "sec": "Child Development & Pedagogy",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q100)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 100)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 100)"
+      "en": "Which of the following is an example of a non-renewable resource? (Core Concept 100)",
+      "hi": "निम्नलिखित में कौन सा उत्पादन पुनर्जीवित नहीं है? (मानक प्रश्न 100)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "Solar Energy",
+        "Hydro Energy",
+        "Coal",
+        "Wind Energy"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "सूर्य ऊर्जा",
+        "पानी ऊर्जा",
+        "कोयला",
+        "वायु ऊर्जा"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Language I & II Q100."
+    "ans": 2,
+    "exp": "Coal is a non-renewable resource."
   }
 ]
