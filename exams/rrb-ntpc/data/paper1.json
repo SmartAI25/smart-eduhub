@@ -1,3102 +1,2402 @@
 [
   {
     "id": 1,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 1)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 1)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q1."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 2,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 2)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 2)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q2."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 3,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 3)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 3)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q3."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 4,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 4)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 4)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q4."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 5,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 5)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 5)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q5."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 6,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ?",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 6)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 6)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q6."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 7,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885?",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 7)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 7)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q7."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 8,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 8)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 8)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q8."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 9,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 9)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 9)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q9."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 10,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'?",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 10)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 10)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q10."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 11,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q11)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 11)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 11)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 11)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 11)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q11."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 12,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q12)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 12)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 12)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 12)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 12)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q12."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 13,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q13)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 13)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 13)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 13)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 13)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q13."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 14,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q14)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 14)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 14)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 14)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 14)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q14."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 15,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q15)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 15)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 15)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 15)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 15)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q15."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 16,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q16)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 16)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 16)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 16)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 16)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q16."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 17,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q17)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 17)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 17)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 17)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 17)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q17."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 18,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q18)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 18)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 18)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 18)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 18)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q18."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 19,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q19)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 19)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 19)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 19)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 19)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q19."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 20,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q20)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 20)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 20)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 20)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 20)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q20."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 21,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q21)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 21)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 21)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 21)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 21)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q21."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 22,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q22)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 22)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 22)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 22)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 22)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q22."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 23,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q23)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 23)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 23)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 23)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 23)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q23."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 24,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q24)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 24)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 24)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 24)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 24)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q24."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 25,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q25)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 25)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 25)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 25)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 25)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q25."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 26,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q26)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 26)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 26)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 26)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 26)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q26."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 27,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q27)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 27)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 27)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 27)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 27)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q27."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 28,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q28)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 28)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 28)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 28)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 28)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q28."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 29,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q29)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 29)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 29)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 29)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 29)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q29."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 30,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q30)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 30)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 30)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 30)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 30)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q30."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 31,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q31)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 31)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 31)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 31)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 31)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q31."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 32,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q32)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 32)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 32)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 32)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 32)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q32."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 33,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q33)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 33)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 33)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 33)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 33)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q33."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 34,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q34)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 34)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 34)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 34)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 34)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q34."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 35,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q35)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 35)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 35)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 35)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 35)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q35."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 36,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q36)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 36)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 36)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 36)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 36)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q36."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 37,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q37)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 37)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 37)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 37)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 37)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q37."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 38,
-    "sec": "Mathematics",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q38)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 38)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 38)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 38)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 38)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q38."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 39,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Awareness",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q39)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 39)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 39)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 39)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 39)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q39."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 40,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Awareness",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q40)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 40)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 40)"
+      "en": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 40)",
+      "hi": "In which year was the first passenger train run in India between Bori Bunder and Thane? (Item 40)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "1853",
+        "1857",
+        "1860",
+        "1848"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q40."
+    "ans": 0,
+    "exp": "The first passenger train ran on 16 April 1853 over a distance of 34 km."
   },
   {
     "id": 41,
     "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q41)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 41)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 41)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 41)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 41)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q41."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 42,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q42)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 42)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 42)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 42)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 42)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q42."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 43,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q43)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 43)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 43)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 43)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 43)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q43."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 44,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q44)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 44)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 44)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 44)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 44)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q44."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 45,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q45)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 45)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 45)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 45)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 45)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q45."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 46,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q46)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 46)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 46)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 46)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 46)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q46."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 47,
     "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q47)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 47)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 47)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 47)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 47)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q47."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 48,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q48)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 48)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 48)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 48)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 48)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q48."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 49,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q49)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 49)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 49)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 49)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 49)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q49."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 50,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q50)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 50)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 50)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 50)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 50)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q50."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 51,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q51)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 51)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 51)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 51)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 51)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q51."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 52,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q52)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 52)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 52)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 52)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 52)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q52."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 53,
     "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q53)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 53)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 53)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 53)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 53)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q53."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 54,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q54)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 54)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 54)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 54)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 54)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q54."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 55,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q55)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 55)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 55)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 55)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 55)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q55."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 56,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q56)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 56)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 56)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 56)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 56)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q56."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 57,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q57)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 57)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 57)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 57)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 57)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q57."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 58,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q58)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 58)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 58)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 58)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 58)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q58."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 59,
     "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q59)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 59)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 59)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 59)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 59)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q59."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 60,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q60)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 60)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 60)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 60)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 60)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q60."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 61,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q61)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 61)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 61)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 61)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 61)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q61."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 62,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q62)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 62)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 62)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 62)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 62)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q62."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 63,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q63)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 63)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 63)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 63)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 63)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q63."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 64,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q64)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 64)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 64)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 64)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 64)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q64."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 65,
     "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q65)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 65)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 65)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 65)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 65)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q65."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 66,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q66)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 66)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 66)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 66)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 66)"
     },
     "o": {
       "en": [
-        "40",
-        "42",
-        "44",
-        "46"
-      ],
-      "mr": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "40",
-        "42",
-        "44",
-        "46"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q66."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 67,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q67)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 67)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 67)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 67)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 67)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q67."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 68,
     "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q68)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 68)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 68)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 68)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 68)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q68."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 69,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "Mathematics",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q69)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 69)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 69)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 69)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 69)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q69."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 70,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "Mathematics",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q70)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 70)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 70)"
+      "en": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 70)",
+      "hi": "A 150m long train crosses a platform of length 250m in 20 seconds. What is the speed of the train in km/h? (Item 70)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "72 km/h",
+        "54 km/h",
+        "90 km/h",
+        "60 km/h"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q70."
+    "ans": 0,
+    "exp": "Speed = (150 + 250) / 20 = 400 / 20 = 20 m/s = 20 * 18/5 = 72 km/h."
   },
   {
     "id": 71,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q71)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 71)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 71)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 71)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 71)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q71."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 72,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q72)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 72)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 72)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 72)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 72)"
     },
     "o": {
       "en": [
-        "40",
         "42",
-        "44",
-        "46"
-      ],
-      "mr": [
         "40",
-        "42",
         "44",
-        "46"
+        "48"
       ],
       "hi": [
-        "40",
         "42",
+        "40",
         "44",
-        "46"
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q72."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 73,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q73)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 73)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 73)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 73)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 73)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q73."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 74,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q74)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 74)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 74)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 74)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 74)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q74."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 75,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q75)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 75)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 75)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 75)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 75)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q75."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 76,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q76)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 76)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 76)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 76)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 76)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q76."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 77,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q77)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 77)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 77)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 77)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 77)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q77."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 78,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q78)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 78)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 78)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 78)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 78)"
     },
     "o": {
       "en": [
-        "40",
         "42",
-        "44",
-        "46"
-      ],
-      "mr": [
         "40",
-        "42",
         "44",
-        "46"
+        "48"
       ],
       "hi": [
-        "40",
         "42",
+        "40",
         "44",
-        "46"
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q78."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 79,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q79)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 79)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 79)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 79)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 79)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q79."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 80,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q80)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 80)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 80)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 80)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 80)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q80."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 81,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q81)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 81)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 81)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 81)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 81)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q81."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 82,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q82)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 82)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 82)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 82)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 82)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q82."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 83,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q83)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 83)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 83)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 83)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 83)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q83."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 84,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q84)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 84)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 84)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 84)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 84)"
     },
     "o": {
       "en": [
-        "40",
         "42",
-        "44",
-        "46"
-      ],
-      "mr": [
         "40",
-        "42",
         "44",
-        "46"
+        "48"
       ],
       "hi": [
-        "40",
         "42",
+        "40",
         "44",
-        "46"
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q84."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 85,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q85)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 85)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 85)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 85)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 85)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q85."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 86,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q86)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 86)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 86)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 86)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 86)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q86."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 87,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q87)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 87)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 87)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 87)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 87)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q87."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 88,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q88)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 88)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 88)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 88)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 88)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q88."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 89,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q89)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 89)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 89)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 89)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 89)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q89."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 90,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q90)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 90)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 90)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 90)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 90)"
     },
     "o": {
       "en": [
-        "40",
         "42",
-        "44",
-        "46"
-      ],
-      "mr": [
         "40",
-        "42",
         "44",
-        "46"
+        "48"
       ],
       "hi": [
-        "40",
         "42",
+        "40",
         "44",
-        "46"
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q90."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 91,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q91)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 91)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 91)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 91)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 91)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q91."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 92,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q92)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 92)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 92)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 92)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 92)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q92."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 93,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q93)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 93)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 93)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 93)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 93)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q93."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 94,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q94)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 94)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 94)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 94)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 94)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q94."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 95,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q95)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 95)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 95)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 95)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 95)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q95."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 96,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Next number in series: 2, 6, 12, 20, 30, ? (Set Q96)",
-      "mr": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न क्र. 96)",
-      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ? (प्रश्न 96)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 96)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 96)"
     },
     "o": {
       "en": [
-        "40",
         "42",
-        "44",
-        "46"
-      ],
-      "mr": [
         "40",
-        "42",
         "44",
-        "46"
+        "48"
       ],
       "hi": [
-        "40",
         "42",
+        "40",
         "44",
-        "46"
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q96."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 97,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Who was the Viceroy of India when Indian National Congress was founded in 1885? (Set Q97)",
-      "mr": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न क्र. 97)",
-      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का वायसराय कौन था? (प्रश्न 97)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 97)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 97)"
     },
     "o": {
       "en": [
-        "Lord Curzon",
-        "Lord Dufferin",
-        "Lord Ripon",
-        "Lord Lytton"
-      ],
-      "mr": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "लॉर्ड कर्जन",
-        "लॉर्ड डफरिन",
-        "लॉर्ड रिपन",
-        "लॉर्ड लिटन"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q97."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 98,
-    "sec": "Mathematics",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q98)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 98)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 98)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 98)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 98)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for Mathematics Q98."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 99,
-    "sec": "General Intelligence & Reasoning",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Select the odd word: Gold, Silver, Copper, Wood (Set Q99)",
-      "mr": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न क्र. 99)",
-      "hi": "विषम शब्द चुनिए: सोना, चांदी, तांबा, लकड़ी (प्रश्न 99)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 99)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 99)"
     },
     "o": {
       "en": [
-        "Gold",
-        "Silver",
-        "Copper",
-        "Wood"
-      ],
-      "mr": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "सोना",
-        "चांदी",
-        "तांबा",
-        "लकड़ी"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 3,
-    "exp": "Official verified reference for General Intelligence & Reasoning Q99."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   },
   {
     "id": 100,
-    "sec": "General Awareness & Railway Facts",
+    "sec": "General Intelligence and Reasoning",
     "q": {
-      "en": "Which gland in the human body is called the 'Master Gland'? (Set Q100)",
-      "mr": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न क्र. 100)",
-      "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है? (प्रश्न 100)"
+      "en": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 100)",
+      "hi": "Find the missing term in the sequence: 2, 6, 12, 20, 30, ? (Item 100)"
     },
     "o": {
       "en": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "mr": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ],
       "hi": [
-        "थायराइड",
-        "पीयूष ग्रंथि",
-        "एड्रिनल",
-        "अग्न्याशय"
+        "42",
+        "40",
+        "44",
+        "48"
       ]
     },
-    "ans": 1,
-    "exp": "Official verified reference for General Awareness & Railway Facts Q100."
+    "ans": 0,
+    "exp": "Pattern: n*(n+1) -> 1*2, 2*3, 3*4, 4*5, 5*6, 6*7 = 42."
   }
 ]
