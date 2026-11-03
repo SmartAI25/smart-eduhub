@@ -1,2402 +1,2402 @@
 [
   {
     "id": 1,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers?",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है?"
+      "en": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)",
+      "hi": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 2,
+    "exp": "Explanation: Rule: With 'neither... nor', verb agrees with closer subject ('teachers' -> were)."
   },
   {
     "id": 2,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a syllogism?",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है?"
+      "en": "What is the synonym of the word 'Obsolete'?",
+      "hi": "'Obsolete' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "Current",
+        "Outdated / No longer in use",
+        "Modern",
+        "Fresh"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "Current",
+        "Outdated / No longer in use",
+        "Modern",
+        "Fresh"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Explanation: Obsolete means Outdated / No longer in use."
   },
   {
     "id": 3,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is a correct sentence?",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है?"
+      "en": "Fill in the blank: Each of the candidates ______ required to bring their ID.",
+      "hi": "Fill in the blank: Each of the candidates ______ required to bring their ID."
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "are",
+        "is",
+        "were",
+        "have"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "are",
+        "is",
+        "were",
+        "have"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Rule: 'Each of' always takes a singular verb."
   },
   {
     "id": 4,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places?",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है?"
+      "en": "What is the synonym of the word 'Candid'?",
+      "hi": "'Candid' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Dishonest",
+        "Frank and outspoken",
+        "Shy",
+        "Secretive"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Dishonest",
+        "Frank and outspoken",
+        "Shy",
+        "Secretive"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Candid means Frank and outspoken."
   },
   {
     "id": 5,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy?",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है?"
+      "en": "Select the correctly spelled word:",
+      "hi": "Select the correctly spelled word:"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
     "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "exp": "Explanation: Spelling 'Accommodate' has double-c and double-m."
   },
   {
     "id": 6,
     "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 6)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 6)"
+      "en": "What is the synonym of the word 'Pragmatic'?",
+      "hi": "'Pragmatic' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "Idealistic",
+        "Practical and realistic",
+        "Theoretical",
+        "Irrational"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
-      ]
-    },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
-  },
-  {
-    "id": 7,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 7)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 7)"
-    },
-    "o": {
-      "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
-      ],
-      "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 8,
-    "sec": "Reasoning Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 8)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 8)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "Idealistic",
+        "Practical and realistic",
+        "Theoretical",
+        "Irrational"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Pragmatic means Practical and realistic."
+  },
+  {
+    "id": 7,
+    "sec": "English Language",
+    "q": {
+      "en": "Choose the correct passive form of: 'The manager approved the proposal.'",
+      "hi": "Choose the correct passive form of: 'The manager approved the proposal.'"
+    },
+    "o": {
+      "en": [
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
+      ],
+      "hi": [
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
+      ]
+    },
+    "ans": 1,
+    "exp": "Explanation: Past simple passive: was/were + V3."
+  },
+  {
+    "id": 8,
+    "sec": "English Language",
+    "q": {
+      "en": "What is the synonym of the word 'Tenacious'?",
+      "hi": "'Tenacious' शब्द का सही पर्यायवाची क्या है?"
+    },
+    "o": {
+      "en": [
+        "Weak",
+        "Persistent and determined",
+        "Yielding",
+        "Lazy"
+      ],
+      "hi": [
+        "Weak",
+        "Persistent and determined",
+        "Yielding",
+        "Lazy"
+      ]
+    },
+    "ans": 1,
+    "exp": "Explanation: Tenacious means Persistent and determined."
   },
   {
     "id": 9,
     "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 9)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 9)"
+      "en": "Identify the meaning of the idiom: 'Beat around the bush'",
+      "hi": "Identify the meaning of the idiom: 'Beat around the bush'"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Idiom means avoiding talking about what is important."
   },
   {
     "id": 10,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 10)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 10)"
+      "en": "What is the synonym of the word 'Benevolent'?",
+      "hi": "'Benevolent' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Cruel",
+        "Kind and charitable",
+        "Greedy",
+        "Selfish"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Cruel",
+        "Kind and charitable",
+        "Greedy",
+        "Selfish"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Explanation: Benevolent means Kind and charitable."
   },
   {
     "id": 11,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 11)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 11)"
+      "en": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)",
+      "hi": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 2,
+    "exp": "Explanation: Rule: With 'neither... nor', verb agrees with closer subject ('teachers' -> were)."
   },
   {
     "id": 12,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 12)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 12)"
+      "en": "What is the synonym of the word 'Ephemeral'?",
+      "hi": "'Ephemeral' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "Permanent",
+        "Short-lived / Fleeting",
+        "Eternal",
+        "Durable"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 13,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 13)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 13)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "Permanent",
+        "Short-lived / Fleeting",
+        "Eternal",
+        "Durable"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Ephemeral means Short-lived / Fleeting."
   },
   {
-    "id": 14,
-    "sec": "Reasoning Ability",
+    "id": 13,
+    "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 14)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 14)"
+      "en": "Fill in the blank: Each of the candidates ______ required to bring their ID.",
+      "hi": "Fill in the blank: Each of the candidates ______ required to bring their ID."
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "are",
+        "is",
+        "were",
+        "have"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "are",
+        "is",
+        "were",
+        "have"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Rule: 'Each of' always takes a singular verb."
+  },
+  {
+    "id": 14,
+    "sec": "English Language",
+    "q": {
+      "en": "What is the synonym of the word 'Audacious'?",
+      "hi": "'Audacious' शब्द का सही पर्यायवाची क्या है?"
+    },
+    "o": {
+      "en": [
+        "Timid",
+        "Bold and daring",
+        "Polite",
+        "Scared"
+      ],
+      "hi": [
+        "Timid",
+        "Bold and daring",
+        "Polite",
+        "Scared"
+      ]
+    },
+    "ans": 1,
+    "exp": "Explanation: Audacious means Bold and daring."
   },
   {
     "id": 15,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 15)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 15)"
+      "en": "Select the correctly spelled word:",
+      "hi": "Select the correctly spelled word:"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
     "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "exp": "Explanation: Spelling 'Accommodate' has double-c and double-m."
   },
   {
     "id": 16,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 16)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 16)"
+      "en": "What is the synonym of the word 'Lucid'?",
+      "hi": "'Lucid' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "Confusing",
+        "Clear and easy to understand",
+        "Vague",
+        "Murky"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "Confusing",
+        "Clear and easy to understand",
+        "Vague",
+        "Murky"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Explanation: Lucid means Clear and easy to understand."
   },
   {
     "id": 17,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 17)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 17)"
+      "en": "Choose the correct passive form of: 'The manager approved the proposal.'",
+      "hi": "Choose the correct passive form of: 'The manager approved the proposal.'"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Explanation: Past simple passive: was/were + V3."
   },
   {
     "id": 18,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 18)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 18)"
+      "en": "What is the synonym of the word 'Resilient'?",
+      "hi": "'Resilient' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "Fragile",
+        "Able to recover quickly",
+        "Vulnerable",
+        "Rigid"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "Fragile",
+        "Able to recover quickly",
+        "Vulnerable",
+        "Rigid"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Resilient means Able to recover quickly."
   },
   {
     "id": 19,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 19)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 19)"
+      "en": "Identify the meaning of the idiom: 'Beat around the bush'",
+      "hi": "Identify the meaning of the idiom: 'Beat around the bush'"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Idiom means avoiding talking about what is important."
   },
   {
     "id": 20,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 20)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 20)"
+      "en": "What is the synonym of the word 'Meticulous'?",
+      "hi": "'Meticulous' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Careless",
+        "Careful and precise",
+        "Hasty",
+        "Aggressive"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Careless",
+        "Careful and precise",
+        "Hasty",
+        "Aggressive"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Explanation: Meticulous means Careful and precise."
   },
   {
     "id": 21,
     "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 21)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 21)"
+      "en": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)",
+      "hi": "Identify the error part: Neither the principal (A) / nor the teachers (B) / was present in meeting (C) / No error (D)"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "A",
+        "B",
+        "C",
+        "D"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 2,
+    "exp": "Explanation: Rule: With 'neither... nor', verb agrees with closer subject ('teachers' -> were)."
   },
   {
     "id": 22,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 22)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 22)"
+      "en": "What is the synonym of the word 'Obsolete'?",
+      "hi": "'Obsolete' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "Current",
+        "Outdated / No longer in use",
+        "Modern",
+        "Fresh"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 23,
-    "sec": "Reasoning Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 23)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 23)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "Current",
+        "Outdated / No longer in use",
+        "Modern",
+        "Fresh"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Obsolete means Outdated / No longer in use."
+  },
+  {
+    "id": 23,
+    "sec": "English Language",
+    "q": {
+      "en": "Fill in the blank: Each of the candidates ______ required to bring their ID.",
+      "hi": "Fill in the blank: Each of the candidates ______ required to bring their ID."
+    },
+    "o": {
+      "en": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "hi": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ]
+    },
+    "ans": 1,
+    "exp": "Explanation: Rule: 'Each of' always takes a singular verb."
   },
   {
     "id": 24,
     "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 24)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 24)"
+      "en": "What is the synonym of the word 'Candid'?",
+      "hi": "'Candid' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Dishonest",
+        "Frank and outspoken",
+        "Shy",
+        "Secretive"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Dishonest",
+        "Frank and outspoken",
+        "Shy",
+        "Secretive"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Candid means Frank and outspoken."
   },
   {
     "id": 25,
-    "sec": "Numerical Ability",
+    "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 25)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 25)"
+      "en": "Select the correctly spelled word:",
+      "hi": "Select the correctly spelled word:"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Accommodate",
+        "Acommodate",
+        "Accomodate",
+        "Acomodate"
       ]
     },
     "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "exp": "Explanation: Spelling 'Accommodate' has double-c and double-m."
   },
   {
     "id": 26,
-    "sec": "Reasoning Ability",
+    "sec": "English Language",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 26)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 26)"
+      "en": "What is the synonym of the word 'Pragmatic'?",
+      "hi": "'Pragmatic' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "Idealistic",
+        "Practical and realistic",
+        "Theoretical",
+        "Irrational"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "Idealistic",
+        "Practical and realistic",
+        "Theoretical",
+        "Irrational"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Explanation: Pragmatic means Practical and realistic."
   },
   {
     "id": 27,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 27)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 27)"
+      "en": "Choose the correct passive form of: 'The manager approved the proposal.'",
+      "hi": "Choose the correct passive form of: 'The manager approved the proposal.'"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 28,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 28)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 28)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "The proposal is approved by the manager.",
+        "The proposal was approved by the manager.",
+        "The proposal had been approved.",
+        "The proposal has approved."
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Explanation: Past simple passive: was/were + V3."
   },
   {
-    "id": 29,
-    "sec": "Reasoning Ability",
+    "id": 28,
+    "sec": "English Language",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 29)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 29)"
+      "en": "What is the synonym of the word 'Tenacious'?",
+      "hi": "'Tenacious' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Weak",
+        "Persistent and determined",
+        "Yielding",
+        "Lazy"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "Weak",
+        "Persistent and determined",
+        "Yielding",
+        "Lazy"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Explanation: Tenacious means Persistent and determined."
+  },
+  {
+    "id": 29,
+    "sec": "English Language",
+    "q": {
+      "en": "Identify the meaning of the idiom: 'Beat around the bush'",
+      "hi": "Identify the meaning of the idiom: 'Beat around the bush'"
+    },
+    "o": {
+      "en": [
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
+      ],
+      "hi": [
+        "To hit bushes",
+        "To avoid the main topic",
+        "To win a race",
+        "To speak harshly"
+      ]
+    },
+    "ans": 1,
+    "exp": "Explanation: Idiom means avoiding talking about what is important."
   },
   {
     "id": 30,
     "sec": "English Language",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 30)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 30)"
+      "en": "What is the synonym of the word 'Benevolent'?",
+      "hi": "'Benevolent' शब्द का सही पर्यायवाची क्या है?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "Cruel",
+        "Kind and charitable",
+        "Greedy",
+        "Selfish"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "Cruel",
+        "Kind and charitable",
+        "Greedy",
+        "Selfish"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Explanation: Benevolent means Kind and charitable."
   },
   {
     "id": 31,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 31)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 31)"
+      "en": "Calculate the Simple Interest on Rs. 33000 at an annual rate of 6% for 3 years.",
+      "hi": "33000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "5890",
+        "5940",
+        "5990",
+        "6040"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "5890",
+        "5940",
+        "5990",
+        "6040"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (33000 * 6 * 3) / 100 = Rs. 5940."
   },
   {
     "id": 32,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 32)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 32)"
+      "en": "Calculate the Simple Interest on Rs. 34000 at an annual rate of 7% for 4 years.",
+      "hi": "34000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "9470",
+        "9520",
+        "9570",
+        "9620"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "9470",
+        "9520",
+        "9570",
+        "9620"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (34000 * 7 * 4) / 100 = Rs. 9520."
   },
   {
     "id": 33,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 33)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 33)"
+      "en": "Calculate the Simple Interest on Rs. 35000 at an annual rate of 8% for 2 years.",
+      "hi": "35000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "5550",
+        "5600",
+        "5650",
+        "5700"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "5550",
+        "5600",
+        "5650",
+        "5700"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (35000 * 8 * 2) / 100 = Rs. 5600."
   },
   {
     "id": 34,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 34)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 34)"
+      "en": "Calculate the Simple Interest on Rs. 36000 at an annual rate of 9% for 3 years.",
+      "hi": "36000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "9670",
+        "9720",
+        "9770",
+        "9820"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "9670",
+        "9720",
+        "9770",
+        "9820"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (36000 * 9 * 3) / 100 = Rs. 9720."
   },
   {
     "id": 35,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 35)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 35)"
+      "en": "Calculate the Simple Interest on Rs. 37000 at an annual rate of 10% for 4 years.",
+      "hi": "37000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "14750",
+        "14800",
+        "14850",
+        "14900"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "14750",
+        "14800",
+        "14850",
+        "14900"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (37000 * 10 * 4) / 100 = Rs. 14800."
   },
   {
     "id": 36,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 36)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 36)"
+      "en": "Calculate the Simple Interest on Rs. 38000 at an annual rate of 5% for 2 years.",
+      "hi": "38000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "3750",
+        "3800",
+        "3850",
+        "3900"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "3750",
+        "3800",
+        "3850",
+        "3900"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (38000 * 5 * 2) / 100 = Rs. 3800."
   },
   {
     "id": 37,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 37)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 37)"
+      "en": "Calculate the Simple Interest on Rs. 39000 at an annual rate of 6% for 3 years.",
+      "hi": "39000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "6970",
+        "7020",
+        "7070",
+        "7120"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "6970",
+        "7020",
+        "7070",
+        "7120"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (39000 * 6 * 3) / 100 = Rs. 7020."
   },
   {
     "id": 38,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 38)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 38)"
+      "en": "Calculate the Simple Interest on Rs. 40000 at an annual rate of 7% for 4 years.",
+      "hi": "40000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "11150",
+        "11200",
+        "11250",
+        "11300"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "11150",
+        "11200",
+        "11250",
+        "11300"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (40000 * 7 * 4) / 100 = Rs. 11200."
   },
   {
     "id": 39,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 39)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 39)"
+      "en": "Calculate the Simple Interest on Rs. 41000 at an annual rate of 8% for 2 years.",
+      "hi": "41000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "6510",
+        "6560",
+        "6610",
+        "6660"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "6510",
+        "6560",
+        "6610",
+        "6660"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (41000 * 8 * 2) / 100 = Rs. 6560."
   },
   {
     "id": 40,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 40)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 40)"
+      "en": "Calculate the Simple Interest on Rs. 42000 at an annual rate of 9% for 3 years.",
+      "hi": "42000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "11290",
+        "11340",
+        "11390",
+        "11440"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "11290",
+        "11340",
+        "11390",
+        "11440"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (42000 * 9 * 3) / 100 = Rs. 11340."
   },
   {
     "id": 41,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 41)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 41)"
+      "en": "Calculate the Simple Interest on Rs. 43000 at an annual rate of 10% for 4 years.",
+      "hi": "43000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "17150",
+        "17200",
+        "17250",
+        "17300"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "17150",
+        "17200",
+        "17250",
+        "17300"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (43000 * 10 * 4) / 100 = Rs. 17200."
   },
   {
     "id": 42,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 42)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 42)"
+      "en": "Calculate the Simple Interest on Rs. 44000 at an annual rate of 5% for 2 years.",
+      "hi": "44000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "4350",
+        "4400",
+        "4450",
+        "4500"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "4350",
+        "4400",
+        "4450",
+        "4500"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (44000 * 5 * 2) / 100 = Rs. 4400."
   },
   {
     "id": 43,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 43)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 43)"
+      "en": "Calculate the Simple Interest on Rs. 45000 at an annual rate of 6% for 3 years.",
+      "hi": "45000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "8050",
+        "8100",
+        "8150",
+        "8200"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "8050",
+        "8100",
+        "8150",
+        "8200"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (45000 * 6 * 3) / 100 = Rs. 8100."
   },
   {
     "id": 44,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 44)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 44)"
+      "en": "Calculate the Simple Interest on Rs. 46000 at an annual rate of 7% for 4 years.",
+      "hi": "46000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "12830",
+        "12880",
+        "12930",
+        "12980"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "12830",
+        "12880",
+        "12930",
+        "12980"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (46000 * 7 * 4) / 100 = Rs. 12880."
   },
   {
     "id": 45,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 45)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 45)"
+      "en": "Calculate the Simple Interest on Rs. 47000 at an annual rate of 8% for 2 years.",
+      "hi": "47000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "7470",
+        "7520",
+        "7570",
+        "7620"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "7470",
+        "7520",
+        "7570",
+        "7620"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (47000 * 8 * 2) / 100 = Rs. 7520."
   },
   {
     "id": 46,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 46)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 46)"
+      "en": "Calculate the Simple Interest on Rs. 48000 at an annual rate of 9% for 3 years.",
+      "hi": "48000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "12910",
+        "12960",
+        "13010",
+        "13060"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "12910",
+        "12960",
+        "13010",
+        "13060"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (48000 * 9 * 3) / 100 = Rs. 12960."
   },
   {
     "id": 47,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 47)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 47)"
+      "en": "Calculate the Simple Interest on Rs. 49000 at an annual rate of 10% for 4 years.",
+      "hi": "49000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "19550",
+        "19600",
+        "19650",
+        "19700"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "19550",
+        "19600",
+        "19650",
+        "19700"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (49000 * 10 * 4) / 100 = Rs. 19600."
   },
   {
     "id": 48,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 48)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 48)"
+      "en": "Calculate the Simple Interest on Rs. 50000 at an annual rate of 5% for 2 years.",
+      "hi": "50000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "4950",
+        "5000",
+        "5050",
+        "5100"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "4950",
+        "5000",
+        "5050",
+        "5100"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (50000 * 5 * 2) / 100 = Rs. 5000."
   },
   {
     "id": 49,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 49)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 49)"
+      "en": "Calculate the Simple Interest on Rs. 51000 at an annual rate of 6% for 3 years.",
+      "hi": "51000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "9130",
+        "9180",
+        "9230",
+        "9280"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "9130",
+        "9180",
+        "9230",
+        "9280"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (51000 * 6 * 3) / 100 = Rs. 9180."
   },
   {
     "id": 50,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 50)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 50)"
+      "en": "Calculate the Simple Interest on Rs. 52000 at an annual rate of 7% for 4 years.",
+      "hi": "52000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "14510",
+        "14560",
+        "14610",
+        "14660"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "14510",
+        "14560",
+        "14610",
+        "14660"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (52000 * 7 * 4) / 100 = Rs. 14560."
   },
   {
     "id": 51,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 51)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 51)"
+      "en": "Calculate the Simple Interest on Rs. 53000 at an annual rate of 8% for 2 years.",
+      "hi": "53000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "8430",
+        "8480",
+        "8530",
+        "8580"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "8430",
+        "8480",
+        "8530",
+        "8580"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (53000 * 8 * 2) / 100 = Rs. 8480."
   },
   {
     "id": 52,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 52)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 52)"
+      "en": "Calculate the Simple Interest on Rs. 54000 at an annual rate of 9% for 3 years.",
+      "hi": "54000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "14530",
+        "14580",
+        "14630",
+        "14680"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "14530",
+        "14580",
+        "14630",
+        "14680"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (54000 * 9 * 3) / 100 = Rs. 14580."
   },
   {
     "id": 53,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 53)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 53)"
+      "en": "Calculate the Simple Interest on Rs. 55000 at an annual rate of 10% for 4 years.",
+      "hi": "55000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "21950",
+        "22000",
+        "22050",
+        "22100"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "21950",
+        "22000",
+        "22050",
+        "22100"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (55000 * 10 * 4) / 100 = Rs. 22000."
   },
   {
     "id": 54,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 54)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 54)"
+      "en": "Calculate the Simple Interest on Rs. 56000 at an annual rate of 5% for 2 years.",
+      "hi": "56000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "5550",
+        "5600",
+        "5650",
+        "5700"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "5550",
+        "5600",
+        "5650",
+        "5700"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (56000 * 5 * 2) / 100 = Rs. 5600."
   },
   {
     "id": 55,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 55)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 55)"
+      "en": "Calculate the Simple Interest on Rs. 57000 at an annual rate of 6% for 3 years.",
+      "hi": "57000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "10210",
+        "10260",
+        "10310",
+        "10360"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "10210",
+        "10260",
+        "10310",
+        "10360"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (57000 * 6 * 3) / 100 = Rs. 10260."
   },
   {
     "id": 56,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 56)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 56)"
+      "en": "Calculate the Simple Interest on Rs. 58000 at an annual rate of 7% for 4 years.",
+      "hi": "58000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "16190",
+        "16240",
+        "16290",
+        "16340"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "16190",
+        "16240",
+        "16290",
+        "16340"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (58000 * 7 * 4) / 100 = Rs. 16240."
   },
   {
     "id": 57,
-    "sec": "English Language",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 57)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 57)"
+      "en": "Calculate the Simple Interest on Rs. 59000 at an annual rate of 8% for 2 years.",
+      "hi": "59000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "9390",
+        "9440",
+        "9490",
+        "9540"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "9390",
+        "9440",
+        "9490",
+        "9540"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (59000 * 8 * 2) / 100 = Rs. 9440."
   },
   {
     "id": 58,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 58)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 58)"
+      "en": "Calculate the Simple Interest on Rs. 60000 at an annual rate of 9% for 3 years.",
+      "hi": "60000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "16150",
+        "16200",
+        "16250",
+        "16300"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "16150",
+        "16200",
+        "16250",
+        "16300"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (60000 * 9 * 3) / 100 = Rs. 16200."
   },
   {
     "id": 59,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 59)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 59)"
+      "en": "Calculate the Simple Interest on Rs. 61000 at an annual rate of 10% for 4 years.",
+      "hi": "61000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "24350",
+        "24400",
+        "24450",
+        "24500"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
-      ]
-    },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
-  },
-  {
-    "id": 60,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 60)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 60)"
-    },
-    "o": {
-      "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
-      ],
-      "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
-      ]
-    },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
-  },
-  {
-    "id": 61,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 61)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 61)"
-    },
-    "o": {
-      "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
-      ],
-      "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
-      ]
-    },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
-  },
-  {
-    "id": 62,
-    "sec": "Reasoning Ability",
-    "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 62)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 62)"
-    },
-    "o": {
-      "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
-      ],
-      "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 63,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 63)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 63)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "24350",
+        "24400",
+        "24450",
+        "24500"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Formula: SI = (P * R * T) / 100 = (61000 * 10 * 4) / 100 = Rs. 24400."
+  },
+  {
+    "id": 60,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Calculate the Simple Interest on Rs. 62000 at an annual rate of 5% for 2 years.",
+      "hi": "62000 रुपये पर 5% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
+    },
+    "o": {
+      "en": [
+        "6150",
+        "6200",
+        "6250",
+        "6300"
+      ],
+      "hi": [
+        "6150",
+        "6200",
+        "6250",
+        "6300"
+      ]
+    },
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (62000 * 5 * 2) / 100 = Rs. 6200."
+  },
+  {
+    "id": 61,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Calculate the Simple Interest on Rs. 63000 at an annual rate of 6% for 3 years.",
+      "hi": "63000 रुपये पर 6% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
+    },
+    "o": {
+      "en": [
+        "11290",
+        "11340",
+        "11390",
+        "11440"
+      ],
+      "hi": [
+        "11290",
+        "11340",
+        "11390",
+        "11440"
+      ]
+    },
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (63000 * 6 * 3) / 100 = Rs. 11340."
+  },
+  {
+    "id": 62,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Calculate the Simple Interest on Rs. 64000 at an annual rate of 7% for 4 years.",
+      "hi": "64000 रुपये पर 7% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
+    },
+    "o": {
+      "en": [
+        "17870",
+        "17920",
+        "17970",
+        "18020"
+      ],
+      "hi": [
+        "17870",
+        "17920",
+        "17970",
+        "18020"
+      ]
+    },
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (64000 * 7 * 4) / 100 = Rs. 17920."
+  },
+  {
+    "id": 63,
+    "sec": "Quantitative Aptitude",
+    "q": {
+      "en": "Calculate the Simple Interest on Rs. 65000 at an annual rate of 8% for 2 years.",
+      "hi": "65000 रुपये पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?"
+    },
+    "o": {
+      "en": [
+        "10350",
+        "10400",
+        "10450",
+        "10500"
+      ],
+      "hi": [
+        "10350",
+        "10400",
+        "10450",
+        "10500"
+      ]
+    },
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (65000 * 8 * 2) / 100 = Rs. 10400."
   },
   {
     "id": 64,
-    "sec": "Numerical Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 64)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 64)"
+      "en": "Calculate the Simple Interest on Rs. 66000 at an annual rate of 9% for 3 years.",
+      "hi": "66000 रुपये पर 9% वार्षिक दर से 3 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "17770",
+        "17820",
+        "17870",
+        "17920"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "17770",
+        "17820",
+        "17870",
+        "17920"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (66000 * 9 * 3) / 100 = Rs. 17820."
   },
   {
     "id": 65,
-    "sec": "Reasoning Ability",
+    "sec": "Quantitative Aptitude",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 65)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 65)"
+      "en": "Calculate the Simple Interest on Rs. 67000 at an annual rate of 10% for 4 years.",
+      "hi": "67000 रुपये पर 10% वार्षिक दर से 4 वर्षों का साधारण ब्याज कितना होगा?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "26750",
+        "26800",
+        "26850",
+        "26900"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "26750",
+        "26800",
+        "26850",
+        "26900"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Formula: SI = (P * R * T) / 100 = (67000 * 10 * 4) / 100 = Rs. 26800."
   },
   {
     "id": 66,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 66)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 66)"
+      "en": "Complete the arithmetic series: 201, 204, 207, 210, ?",
+      "hi": "श्रृंखला को पूरा करें: 201, 204, 207, 210, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "212",
+        "213",
+        "215",
+        "218"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "212",
+        "213",
+        "215",
+        "218"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Common difference is +3. Next term is 210 + 3 = 213."
   },
   {
     "id": 67,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 67)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 67)"
+      "en": "Complete the arithmetic series: 204, 208, 212, 216, ?",
+      "hi": "श्रृंखला को पूरा करें: 204, 208, 212, 216, ?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "219",
+        "220",
+        "222",
+        "225"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "219",
+        "220",
+        "222",
+        "225"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Common difference is +4. Next term is 216 + 4 = 220."
   },
   {
     "id": 68,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 68)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 68)"
+      "en": "Complete the arithmetic series: 207, 212, 217, 222, ?",
+      "hi": "श्रृंखला को पूरा करें: 207, 212, 217, 222, ?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "226",
+        "227",
+        "229",
+        "232"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "226",
+        "227",
+        "229",
+        "232"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +5. Next term is 222 + 5 = 227."
   },
   {
     "id": 69,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 69)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 69)"
+      "en": "Complete the arithmetic series: 210, 216, 222, 228, ?",
+      "hi": "श्रृंखला को पूरा करें: 210, 216, 222, 228, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "233",
+        "234",
+        "236",
+        "239"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "233",
+        "234",
+        "236",
+        "239"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 228 + 6 = 234."
   },
   {
     "id": 70,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 70)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 70)"
+      "en": "Complete the arithmetic series: 213, 215, 217, 219, ?",
+      "hi": "श्रृंखला को पूरा करें: 213, 215, 217, 219, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "220",
+        "221",
+        "223",
+        "226"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "220",
+        "221",
+        "223",
+        "226"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 219 + 2 = 221."
   },
   {
     "id": 71,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 71)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 71)"
+      "en": "Complete the arithmetic series: 216, 219, 222, 225, ?",
+      "hi": "श्रृंखला को पूरा करें: 216, 219, 222, 225, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "227",
+        "228",
+        "230",
+        "233"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
-      ]
-    },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
-  },
-  {
-    "id": 72,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 72)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 72)"
-    },
-    "o": {
-      "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
-      ],
-      "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 73,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 73)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 73)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "227",
+        "228",
+        "230",
+        "233"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +3. Next term is 225 + 3 = 228."
+  },
+  {
+    "id": 72,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 219, 223, 227, 231, ?",
+      "hi": "श्रृंखला को पूरा करें: 219, 223, 227, 231, ?"
+    },
+    "o": {
+      "en": [
+        "234",
+        "235",
+        "237",
+        "240"
+      ],
+      "hi": [
+        "234",
+        "235",
+        "237",
+        "240"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +4. Next term is 231 + 4 = 235."
+  },
+  {
+    "id": 73,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 222, 227, 232, 237, ?",
+      "hi": "श्रृंखला को पूरा करें: 222, 227, 232, 237, ?"
+    },
+    "o": {
+      "en": [
+        "241",
+        "242",
+        "244",
+        "247"
+      ],
+      "hi": [
+        "241",
+        "242",
+        "244",
+        "247"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +5. Next term is 237 + 5 = 242."
   },
   {
     "id": 74,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 74)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 74)"
+      "en": "Complete the arithmetic series: 225, 231, 237, 243, ?",
+      "hi": "श्रृंखला को पूरा करें: 225, 231, 237, 243, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "248",
+        "249",
+        "251",
+        "254"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "248",
+        "249",
+        "251",
+        "254"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 243 + 6 = 249."
   },
   {
     "id": 75,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 75)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 75)"
+      "en": "Complete the arithmetic series: 228, 230, 232, 234, ?",
+      "hi": "श्रृंखला को पूरा करें: 228, 230, 232, 234, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "235",
+        "236",
+        "238",
+        "241"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "235",
+        "236",
+        "238",
+        "241"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 234 + 2 = 236."
   },
   {
     "id": 76,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 76)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 76)"
+      "en": "Complete the arithmetic series: 231, 234, 237, 240, ?",
+      "hi": "श्रृंखला को पूरा करें: 231, 234, 237, 240, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "242",
+        "243",
+        "245",
+        "248"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "242",
+        "243",
+        "245",
+        "248"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Common difference is +3. Next term is 240 + 3 = 243."
   },
   {
     "id": 77,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 77)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 77)"
+      "en": "Complete the arithmetic series: 234, 238, 242, 246, ?",
+      "hi": "श्रृंखला को पूरा करें: 234, 238, 242, 246, ?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "249",
+        "250",
+        "252",
+        "255"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 78,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 78)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 78)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "249",
+        "250",
+        "252",
+        "255"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +4. Next term is 246 + 4 = 250."
   },
   {
-    "id": 79,
-    "sec": "Numerical Ability",
+    "id": 78,
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 79)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 79)"
+      "en": "Complete the arithmetic series: 237, 242, 247, 252, ?",
+      "hi": "श्रृंखला को पूरा करें: 237, 242, 247, 252, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "256",
+        "257",
+        "259",
+        "262"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "256",
+        "257",
+        "259",
+        "262"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +5. Next term is 252 + 5 = 257."
+  },
+  {
+    "id": 79,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 240, 246, 252, 258, ?",
+      "hi": "श्रृंखला को पूरा करें: 240, 246, 252, 258, ?"
+    },
+    "o": {
+      "en": [
+        "263",
+        "264",
+        "266",
+        "269"
+      ],
+      "hi": [
+        "263",
+        "264",
+        "266",
+        "269"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 258 + 6 = 264."
   },
   {
     "id": 80,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 80)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 80)"
+      "en": "Complete the arithmetic series: 243, 245, 247, 249, ?",
+      "hi": "श्रृंखला को पूरा करें: 243, 245, 247, 249, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "250",
+        "251",
+        "253",
+        "256"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "250",
+        "251",
+        "253",
+        "256"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 249 + 2 = 251."
   },
   {
     "id": 81,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 81)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 81)"
+      "en": "Complete the arithmetic series: 246, 249, 252, 255, ?",
+      "hi": "श्रृंखला को पूरा करें: 246, 249, 252, 255, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "257",
+        "258",
+        "260",
+        "263"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "257",
+        "258",
+        "260",
+        "263"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Common difference is +3. Next term is 255 + 3 = 258."
   },
   {
     "id": 82,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 82)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 82)"
+      "en": "Complete the arithmetic series: 249, 253, 257, 261, ?",
+      "hi": "श्रृंखला को पूरा करें: 249, 253, 257, 261, ?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "264",
+        "265",
+        "267",
+        "270"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "264",
+        "265",
+        "267",
+        "270"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Common difference is +4. Next term is 261 + 4 = 265."
   },
   {
     "id": 83,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 83)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 83)"
+      "en": "Complete the arithmetic series: 252, 257, 262, 267, ?",
+      "hi": "श्रृंखला को पूरा करें: 252, 257, 262, 267, ?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "271",
+        "272",
+        "274",
+        "277"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "271",
+        "272",
+        "274",
+        "277"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +5. Next term is 267 + 5 = 272."
   },
   {
     "id": 84,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 84)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 84)"
+      "en": "Complete the arithmetic series: 255, 261, 267, 273, ?",
+      "hi": "श्रृंखला को पूरा करें: 255, 261, 267, 273, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "278",
+        "279",
+        "281",
+        "284"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "278",
+        "279",
+        "281",
+        "284"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 273 + 6 = 279."
   },
   {
     "id": 85,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 85)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 85)"
+      "en": "Complete the arithmetic series: 258, 260, 262, 264, ?",
+      "hi": "श्रृंखला को पूरा करें: 258, 260, 262, 264, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "265",
+        "266",
+        "268",
+        "271"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "265",
+        "266",
+        "268",
+        "271"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 264 + 2 = 266."
   },
   {
     "id": 86,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 86)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 86)"
+      "en": "Complete the arithmetic series: 261, 264, 267, 270, ?",
+      "hi": "श्रृंखला को पूरा करें: 261, 264, 267, 270, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "272",
+        "273",
+        "275",
+        "278"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
-      ]
-    },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
-  },
-  {
-    "id": 87,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 87)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 87)"
-    },
-    "o": {
-      "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
-      ],
-      "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 88,
-    "sec": "Numerical Ability",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 88)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 88)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "272",
+        "273",
+        "275",
+        "278"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +3. Next term is 270 + 3 = 273."
+  },
+  {
+    "id": 87,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 264, 268, 272, 276, ?",
+      "hi": "श्रृंखला को पूरा करें: 264, 268, 272, 276, ?"
+    },
+    "o": {
+      "en": [
+        "279",
+        "280",
+        "282",
+        "285"
+      ],
+      "hi": [
+        "279",
+        "280",
+        "282",
+        "285"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +4. Next term is 276 + 4 = 280."
+  },
+  {
+    "id": 88,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 267, 272, 277, 282, ?",
+      "hi": "श्रृंखला को पूरा करें: 267, 272, 277, 282, ?"
+    },
+    "o": {
+      "en": [
+        "286",
+        "287",
+        "289",
+        "292"
+      ],
+      "hi": [
+        "286",
+        "287",
+        "289",
+        "292"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +5. Next term is 282 + 5 = 287."
   },
   {
     "id": 89,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 89)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 89)"
+      "en": "Complete the arithmetic series: 270, 276, 282, 288, ?",
+      "hi": "श्रृंखला को पूरा करें: 270, 276, 282, 288, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "293",
+        "294",
+        "296",
+        "299"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "293",
+        "294",
+        "296",
+        "299"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 288 + 6 = 294."
   },
   {
     "id": 90,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 90)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 90)"
+      "en": "Complete the arithmetic series: 273, 275, 277, 279, ?",
+      "hi": "श्रृंखला को पूरा करें: 273, 275, 277, 279, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "280",
+        "281",
+        "283",
+        "286"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "280",
+        "281",
+        "283",
+        "286"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 279 + 2 = 281."
   },
   {
     "id": 91,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 91)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 91)"
+      "en": "Complete the arithmetic series: 276, 279, 282, 285, ?",
+      "hi": "श्रृंखला को पूरा करें: 276, 279, 282, 285, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "287",
+        "288",
+        "290",
+        "293"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "287",
+        "288",
+        "290",
+        "293"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Common difference is +3. Next term is 285 + 3 = 288."
   },
   {
     "id": 92,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 92)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 92)"
+      "en": "Complete the arithmetic series: 279, 283, 287, 291, ?",
+      "hi": "श्रृंखला को पूरा करें: 279, 283, 287, 291, ?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "294",
+        "295",
+        "297",
+        "300"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
-      ]
-    },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
-  },
-  {
-    "id": 93,
-    "sec": "English Language",
-    "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 93)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 93)"
-    },
-    "o": {
-      "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
-      ],
-      "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "294",
+        "295",
+        "297",
+        "300"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +4. Next term is 291 + 4 = 295."
   },
   {
-    "id": 94,
-    "sec": "Numerical Ability",
+    "id": 93,
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 94)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 94)"
+      "en": "Complete the arithmetic series: 282, 287, 292, 297, ?",
+      "hi": "श्रृंखला को पूरा करें: 282, 287, 292, 297, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "301",
+        "302",
+        "304",
+        "307"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "301",
+        "302",
+        "304",
+        "307"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +5. Next term is 297 + 5 = 302."
+  },
+  {
+    "id": 94,
+    "sec": "Reasoning Ability",
+    "q": {
+      "en": "Complete the arithmetic series: 285, 291, 297, 303, ?",
+      "hi": "श्रृंखला को पूरा करें: 285, 291, 297, 303, ?"
+    },
+    "o": {
+      "en": [
+        "308",
+        "309",
+        "311",
+        "314"
+      ],
+      "hi": [
+        "308",
+        "309",
+        "311",
+        "314"
+      ]
+    },
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 303 + 6 = 309."
   },
   {
     "id": 95,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 95)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 95)"
+      "en": "Complete the arithmetic series: 288, 290, 292, 294, ?",
+      "hi": "श्रृंखला को पूरा करें: 288, 290, 292, 294, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "295",
+        "296",
+        "298",
+        "301"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "295",
+        "296",
+        "298",
+        "301"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 294 + 2 = 296."
   },
   {
     "id": 96,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the sum of the first 100 natural numbers? (Core Concept 96)",
-      "hi": "पहले 100 प्राकृतिक संख्याओं का योग कितना है? (मानक प्रश्न 96)"
+      "en": "Complete the arithmetic series: 291, 294, 297, 300, ?",
+      "hi": "श्रृंखला को पूरा करें: 291, 294, 297, 300, ?"
     },
     "o": {
       "en": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "302",
+        "303",
+        "305",
+        "308"
       ],
       "hi": [
-        "5050",
-        "5500",
-        "5000",
-        "5550"
+        "302",
+        "303",
+        "305",
+        "308"
       ]
     },
-    "ans": 0,
-    "exp": "The sum of the first n natural numbers is given by the formula n(n+1)/2. For n=100, the sum is 100*101/2 = 5050."
+    "ans": 1,
+    "exp": "Common difference is +3. Next term is 300 + 3 = 303."
   },
   {
     "id": 97,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a syllogism? (Core Concept 97)",
-      "hi": "निम्नलिखित में से कौन एक सिलोगिस्म है? (मानक प्रश्न 97)"
+      "en": "Complete the arithmetic series: 294, 298, 302, 306, ?",
+      "hi": "श्रृंखला को पूरा करें: 294, 298, 302, 306, ?"
     },
     "o": {
       "en": [
-        "All men are mortal. Socrates is a man. Therefore, Socrates is mortal.",
-        "All dogs are mammals. All mammals are animals. Therefore, all dogs are animals.",
-        "All birds can fly. Sparrows are birds. Therefore, sparrows can fly.",
-        "All cats are mammals. All mammals are animals. Therefore, all cats are animals."
+        "309",
+        "310",
+        "312",
+        "315"
       ],
       "hi": [
-        "सभी व्यक्ति मौती हैं। सोक्रेट एक व्यक्ति है। इसलिए, सोक्रेट मौती है।",
-        "सभी कुत्ते मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कुत्ते जीव हैं।",
-        "सभी पक्षी उड़ सकते हैं। सपरू है एक पक्षी। इसलिए, सपरू उड़ सकता है।",
-        "सभी कौन्याएँ मछलियाँ हैं। सभी मछलियाँ जीव हैं। इसलिए, सभी कौन्याएँ जीव हैं।"
+        "309",
+        "310",
+        "312",
+        "315"
       ]
     },
-    "ans": 0,
-    "exp": "A syllogism is a form of logical argument that applies deductive reasoning to arrive at a conclusion based on two propositions that are asserted or assumed to be true."
+    "ans": 1,
+    "exp": "Common difference is +4. Next term is 306 + 4 = 310."
   },
   {
     "id": 98,
     "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is a correct sentence? (Core Concept 98)",
-      "hi": "निम्नलिखित में से कौन सी एक सही वाक्य है? (मानक प्रश्न 98)"
+      "en": "Complete the arithmetic series: 297, 302, 307, 312, ?",
+      "hi": "श्रृंखला को पूरा करें: 297, 302, 307, 312, ?"
     },
     "o": {
       "en": [
-        "I am going to the store.",
-        "I am going to the store now.",
-        "I am going to the store tomorrow.",
-        "I am going to the store yesterday."
+        "316",
+        "317",
+        "319",
+        "322"
       ],
       "hi": [
-        "मैं दुकान जा रहा हूँ।",
-        "मैं अब दुकान जा रहा हूँ।",
-        "मैं आज दुकान जा रहा हूँ।",
-        "मैं गते दिन दुकान जा रहा हूँ।"
+        "316",
+        "317",
+        "319",
+        "322"
       ]
     },
     "ans": 1,
-    "exp": "A correct sentence should be grammatically correct and convey a complete thought. Option 2 is grammatically correct and conveys a complete thought."
+    "exp": "Common difference is +5. Next term is 312 + 5 = 317."
   },
   {
     "id": 99,
-    "sec": "English Language",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "What is the value of pi (π) up to 5 decimal places? (Core Concept 99)",
-      "hi": "पिए (π) का मान 5 अंकों तक कितना है? (मानक प्रश्न 99)"
+      "en": "Complete the arithmetic series: 300, 306, 312, 318, ?",
+      "hi": "श्रृंखला को पूरा करें: 300, 306, 312, 318, ?"
     },
     "o": {
       "en": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "323",
+        "324",
+        "326",
+        "329"
       ],
       "hi": [
-        "3.14159",
-        "3.14158",
-        "3.14157",
-        "3.14156"
+        "323",
+        "324",
+        "326",
+        "329"
       ]
     },
-    "ans": 0,
-    "exp": "The value of pi (π) up to 5 decimal places is 3.14159."
+    "ans": 1,
+    "exp": "Common difference is +6. Next term is 318 + 6 = 324."
   },
   {
     "id": 100,
-    "sec": "Numerical Ability",
+    "sec": "Reasoning Ability",
     "q": {
-      "en": "Which of the following is an example of a logical fallacy? (Core Concept 100)",
-      "hi": "निम्नलिखित में से कौन एक लॉजिकल फैलैसी है? (मानक प्रश्न 100)"
+      "en": "Complete the arithmetic series: 303, 305, 307, 309, ?",
+      "hi": "श्रृंखला को पूरा करें: 303, 305, 307, 309, ?"
     },
     "o": {
       "en": [
-        "Ad Hominem",
-        "Appeal to Authority",
-        "False Dilemma",
-        "Straw Man"
+        "310",
+        "311",
+        "313",
+        "316"
       ],
       "hi": [
-        "अधिकारी के विरोध",
-        "प्रमुखता के लाभ",
-        "फैला दोनों",
-        "मानवीय दंड"
+        "310",
+        "311",
+        "313",
+        "316"
       ]
     },
-    "ans": 0,
-    "exp": "An ad hominem fallacy is a type of logical fallacy where an argument is weakened or discredited by attacking the person making the argument rather than addressing the argument itself."
+    "ans": 1,
+    "exp": "Common difference is +2. Next term is 309 + 2 = 311."
   }
 ]
