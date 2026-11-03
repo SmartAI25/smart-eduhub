@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "sec": "Notice",
+    "q": {
+      "en": "Official Question Bank is currently being updated with verified NCERT/PYQ papers.",
+      "hi": "आधिकारिक प्रश्न बैंक को सत्यापित NCERT/PYQ पेपर्स के साथ अपडेट किया जा रहा है।",
+      "mr": "अधिकृत प्रश्नसंच पडताळणी प्रक्रियेत असून लवकरच उपलब्ध केला जाईल."
+    },
+    "o": {
+      "en": [
+        "Paper Under Maintenance",
+        "System Ready",
+        "Syllabus Verified",
+        "Coming Soon"
+      ],
+      "hi": [
+        "प्रश्न संच प्रक्रियाधीन",
+        "सिस्टम तैयार",
+        "सिलेबस सत्यापित",
+        "शीघ्र उपलब्ध"
+      ],
+      "mr": [
+        "प्रश्नसंच प्रक्रियाधीन",
+        "सिस्टम सज्ज",
+        "अभ्यासक्रम पडताळणी",
+        "लवकरच उपलब्ध"
+      ]
+    },
+    "ans": 0,
+    "exp": "Content integration will be deployed after full autonomous verification."
+  }
+]
